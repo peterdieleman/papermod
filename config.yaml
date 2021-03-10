@@ -19,10 +19,8 @@ params:
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
-
     defaultTheme: auto # dark, light
     disableThemeToggle: false
-
     ShowReadingTime: false
     ShowShareButtons: true
     disableSpecial1stPost: false
@@ -42,9 +40,7 @@ params:
 
     label:
         text: "Home"
-        # icon: /apple-touch-icon.png
-        # iconHeight: 35
-
+        
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
@@ -72,10 +68,6 @@ params:
           url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/"
-
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
@@ -106,6 +98,11 @@ menu:
           name: thisistheway.wiki
           url: https://thisistheway.wiki.org
           weight: 30
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
