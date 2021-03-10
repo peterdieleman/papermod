@@ -90,7 +90,7 @@ menu:
     main:
         - identifier: archive
           name: archive
-          url: /archive/
+          url: /archives/
           weight: 10
         - identifier: tags
           name: tags
