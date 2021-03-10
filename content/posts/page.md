@@ -176,6 +176,8 @@ Values are estimates.
 
 Alright
 
+![test](/powertop_overview.png)
+
 ### other tips
 
 close apps that you don't nee
