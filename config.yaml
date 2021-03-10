@@ -1,5 +1,5 @@
 baseURL: "https://thisistheway.wiki"
-title: ExampleSite
+title: thisistheway
 paginate: 5
 theme: PaperMod
 
@@ -8,16 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
 minify:
     disableXML: true
     minifyOutput: true
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: thisistheway
+    description: "thisistheway"
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -25,13 +23,13 @@ params:
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: true
+    ShowReadingTime: false
     ShowShareButtons: true
     disableSpecial1stPost: false
-    comments: false
+    comments: true
     hidemeta: false
-    showtoc: false
-    tocopen: false
+    showtoc: true
+    tocopen: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
@@ -44,8 +42,8 @@ params:
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
+        # icon: /apple-touch-icon.png
+        # iconHeight: 35
 
     # profile-mode
     profileMode:
@@ -60,12 +58,12 @@ params:
             - name: Posts
               url: posts
             - name: Tags
-              url: tags
+              url: falsetags
 
     # home-info mode
-    homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+    # homeInfoParams:
+    #     Title: "Hi there \U0001F44B"
+    #     Content: Welcome to my blog
 
     socialIcons:
         - name: twitter
@@ -75,9 +73,9 @@ params:
         - name: github
           url: "https://github.com/"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
@@ -105,8 +103,8 @@ menu:
           url: /tags/
           weight: 20
         - identifier: example
-          name: example.org
-          url: https://example.org
+          name: thisistheway.wiki
+          url: https://thisistheway.wiki.org
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
