@@ -19,12 +19,14 @@ params:
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
+
     defaultTheme: auto # dark, light
     disableThemeToggle: false
+
     ShowReadingTime: false
     ShowShareButtons: true
     disableSpecial1stPost: false
-    comments: true
+    comments: false
     hidemeta: false
     showtoc: true
     tocopen: true
@@ -57,9 +59,9 @@ params:
               url: falsetags
 
     # home-info mode
-    # homeInfoParams:
-    #     Title: "Hi there \U0001F44B"
-    #     Content: Welcome to my blog
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
 
     socialIcons:
         - name: twitter
@@ -70,7 +72,7 @@ params:
           url: "https://github.com/"
 
     cover:
-        hidden: true # hide everywhere but not in structured data
+        hidden: false # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
@@ -86,9 +88,9 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: archive
+          name: archive
+          url: /archive/
           weight: 10
         - identifier: tags
           name: tags
@@ -98,10 +100,10 @@ menu:
           name: search
           url: /search/
           weight: 20
-        - identifier: example
-          name: thisistheway.wiki
-          url: https://thisistheway.wiki.org
-          weight: 30
+        # - identifier: example
+        #   name: thisistheway.wiki
+        #   url: https://thisistheway.wiki.org
+        #   weight: 30
 outputs:
     home:
         - HTML
