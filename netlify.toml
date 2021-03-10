@@ -1,3 +1,15 @@
 [build]
-command = "hugo"
-publish = "public"
+  publish = "public"
+  functions = "functions"
+
+[build.environment]
+  HUGO_VERSION = "0.80.0"
+
+[context.production]
+  command = "hugo -b $URL --gc --minify"
+
+[context.deploy-preview]
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+
+[context.branch-deploy]
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
