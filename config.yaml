@@ -94,6 +94,10 @@ menu:
           name: tags
           url: /tags/
           weight: 20
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 20
         - identifier: example
           name: thisistheway.wiki
           url: https://thisistheway.wiki.org
