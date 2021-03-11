@@ -70,6 +70,10 @@ params:
           url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/"
+        - name: twitter
+          url: "https://twitter.com/ptrdlmn/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/ptrdlmn/"
 
     cover:
         hidden: false # hide everywhere but not in structured data
