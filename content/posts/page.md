@@ -181,3 +181,11 @@ Alright
 ### other tips
 
 close apps that you don't nee
+
+### dropbox
+
+dropbox fairly slow to sync (especially when you have many files)
+this means it can run for quite a long time
+this is no problem on AC, but can drain quite some battery
+In KDE it is possible to disable syncing when on battery.
+This can be done by running the following script.
