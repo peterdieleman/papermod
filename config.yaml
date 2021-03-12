@@ -34,25 +34,25 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: /Boba-Fett.ico
+        favicon16x16: /Boba-Fett-16x16.png
+        favicon32x32: /Boba-Fett-32x32.png
+        apple_touch_icon: /apple-touch-icon.png
+        # safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /boba_fett.png
-        iconHeight: 35
-        
+        text: "thisistheway"
+        # icon: /boba_fett.png
+        # iconHeight: 35
+
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: ExampleSite
+        title: Peter Dieleman
         subtitle: "This is subtitle"
-        imageUrl: /boba_fett.png
-        imageWidth: 120
-        imageHeight: 160
+        imageUrl: /Boba-Fett-512x512.png
+        imageWidth: 80
+        imageHeight: 80
         imageTitle: my image
         buttons:
             - name: Posts
