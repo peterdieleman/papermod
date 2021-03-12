@@ -3,15 +3,15 @@ title: "Linux Laptops & Battery Life    "
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
-author: ["Me", "You"] # multiple authors
+tags: ["linux","tlp","guide"]
+# author: "Peter Dieleman"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "A guide on extending the battery life of your linux laptop"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -24,10 +24,11 @@ cover:
     hidden: false # only hide on current single page
 
 ---
-## Background
 
-Developers like to work on Linux, and often install it on their laptops. Either as a standalone system or alongside Windows in a dual boot setup.
-However, default Linux installations typically do a worse job than Windows
+Developers like to work on Linux, and often install it on their laptops.
+Either as a standalone system or alongside Windows in a dual boot setup.
+However,
+default Linux installations typically do a worse job than Windows
 when it comes to conserving battery power.
 This is despite us thinking of Linux as having less 'bloat' and
 having an overall smaller footprint.
@@ -55,14 +56,19 @@ system settings interface.
 However, some usage of the terminal is required when you want to
 run through the whole thing.
 
-Disclaimer: my own installation uses Kubuntu, and I'm not 100% up-to-date with all other Linux distros. When you find info for other distros is missing/incorrect, please contact me (twitter/github).
+Disclaimer:
+my own laptop is running a Kubuntu installation.
+I'm not 100% up-to-date with all other Linux distros.
+When you find info for other distros is missing/incorrect,
+please contact me (twitter/github).
 
 ## Easy Wins
   
 The following 
 ### Screen
 
-In a laptop, the screen is one often one of the biggest consumers of battery.
+On a laptop,
+the screen is one often one of the biggest consumers of battery.
 To prevent the backlight of your laptop screen to consume too much battery,
 lots of laptops come with a brightness sensor.
 Windows can use this sensor to tune the display brightness depending on lighting conditions.
@@ -72,14 +78,16 @@ running on the battery.
 
 On Linux, neither of these approaches are possible,
 or at least not without a lot of hassle.
-That said, simple manually bringing down the
+That said,
+simple manually bringing down the
 brightness of the screen when possible is often more than sufficient.
 
-To make this easier, it is possible to
+To make sure you don't forget to do this when disconnecting your laptop from AC,
+most Linux installations 
 
-Actions (5 mins):
+Actions (2 mins):
 
-- xyz
+- Navigate to the 'Energy Saving' panel in the 
 - xyz
 - xyz
 
@@ -97,7 +105,8 @@ Actions  (5 mins):
 
 #### tlp
 
-The bread and butter of linux laptop battery management, although not installed 
+The bread and butter of linux laptop battery management,
+although not installed 
 
 Actions:
 
