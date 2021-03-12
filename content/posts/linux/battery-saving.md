@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "Linux Laptops & Battery Life    "
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
@@ -176,9 +176,9 @@ Values are estimates.
 
 Alright
 
-![test](/powertop_overview.png)
+![test](/powertop_overview.png#center)
 
-![test](/powertop_tunables.png)
+![test](/powertop_tunables.png#center)
 
 ### other tips
 
