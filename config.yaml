@@ -42,15 +42,17 @@ params:
 
     label:
         text: "Home"
+        icon: /boba_fett.png
+        iconHeight: 35
         
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
+        enabled: true # needs to be explicitly set
         title: ExampleSite
         subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        imageUrl: /boba_fett.png
         imageWidth: 120
-        imageHeight: 120
+        imageHeight: 160
         imageTitle: my image
         buttons:
             - name: Posts

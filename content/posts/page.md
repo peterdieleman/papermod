@@ -178,6 +178,8 @@ Alright
 
 ![test](/powertop_overview.png)
 
+![test](/powertop_tunables.png)
+
 ### other tips
 
 close apps that you don't nee
