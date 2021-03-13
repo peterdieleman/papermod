@@ -48,8 +48,8 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Peter Dieleman
-        subtitle: "This is subtitle"
+        title: This is the way
+        subtitle: "subtitle"
         imageUrl: /Boba-Fett-512x512.png
         imageWidth: 80
         imageHeight: 80

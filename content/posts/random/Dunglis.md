@@ -17,7 +17,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: /thaiwraps_3.jpg # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -25,6 +25,66 @@ cover:
 
 ---
 
-# test
 
-test
+This is a list of words commonly used by Dutch people,
+that mean something entirely different to native speakers.
+
+Warning: contains sweeping generalisations.
+
+### Scooter
+
+##### Americans: 
+
+##### The British:
+
+##### The Dutch:
+
+### After dinner dip
+
+##### Native speaker: 
+
+Sure, I'd love to go swimming after dinner. 
+By the way, where is your pool?
+
+##### The Dutch:
+
+Food coma
+### Tie-wrap
+
+##### Native Speaker:
+
+Never heard of Thai wraps before, 
+but I love me some asian fusion! 
+
+![test](/thaiwraps_3.jpg#center)
+
+##### The Dutch:
+
+Zip-ties, cable-ties. 
+Tie-wrap comes from Ty-wrap, 
+the original brand name that stuck.
+
+### Beamer
+
+##### Americans: 
+
+I like German cars, 
+but why should I hook it up to my laptop?
+
+##### The British: 
+
+Star Wars laser beam thing? Pew pew.
+##### The Dutch: 
+
+A projector.
+###  Panty's 
+
+pronounce: panties
+##### Native Speaker: 
+
+Undergarments.
+##### The Dutch:
+
+Dutch panties go on the foot. 
+Panty's are shorthand for _pantyhose_.
+Like the garment itself, the shorthand was invented during a time when Dutch still spoke Dutch.
