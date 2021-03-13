@@ -16,12 +16,12 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: true
-cover:
-    image: /thaiwraps_3.jpg # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+# cover:
+#     image: /thaiwraps_3.jpg # image path/url
+#     alt: "test" # alt text
+#     caption: "test" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: false # only hide on current single page
 
 ---
 
