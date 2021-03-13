@@ -15,7 +15,7 @@ description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: true
+searchHidden: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

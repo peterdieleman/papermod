@@ -8,14 +8,14 @@ author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: true
+searchHidden: false
 # cover:
 #     image: /thaiwraps_3.jpg # image path/url
 #     alt: "test" # alt text
