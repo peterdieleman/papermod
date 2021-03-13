@@ -16,7 +16,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: thisistheway
     description: "thisistheway"
-    author: Me
+    author: Peter Dieleman
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
 
@@ -25,6 +25,7 @@ params:
 
     ShowReadingTime: false
     ShowShareButtons: true
+    ShowBreadCrumbs: false
     disableSpecial1stPost: false
     comments: false
     hidemeta: false
@@ -47,7 +48,7 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: true # needs to be explicitly set
+        enabled: false # needs to be explicitly set
         title: This is the way
         subtitle: "subtitle"
         imageUrl: /Boba-Fett-512x512.png
