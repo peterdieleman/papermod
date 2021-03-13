@@ -48,24 +48,31 @@ can be used to set up Linux on a laptop and
 get a battery runtime comparable to that of an equivalent Windows setup.
 Here, I will focus on settings that actually yield significant results
 and that can be configured without too much hassle.
-I will try to use settings are available through the interface when possible.
-In this I am assuming you are running a default installation of something like
-(K/X)Ubuntu, Manjaro/Arch, or other popular Linux distros for laptop use,
-which do have some energy saving settings available in the
-system settings interface.
-However, some usage of the terminal is required when you want to
-run through the whole thing.
+Most settings in this guide are configured through the command line or
+by editing config files.
+This guide should therefore work fairly universally across different linux distros.
+However, some settings are more easily configured through the GUI,
+and in this I will assume you are running Kubuntu.
+However, other popular Linux distros,
+such as or Manjaro/Arch,
+likely offer very similar settings.
 
-Disclaimer:
-my own laptop is running a Kubuntu installation.
-I'm not 100% up-to-date with all other Linux distros.
-When you find info for other distros is missing/incorrect,
+Note:
+When you find that info for your Linux installation is missing/incorrect,
 please contact me (twitter/github).
 
-## Easy Wins
+# Easy Wins (30 min)
   
-The following 
-### Screen
+The following are easy wins that can significantly extend the total battery life of your laptop and
+can be configured in approximately half an hour.
+In case you have even less time:
+- The guide is ordered following hardware items that consume most battery,
+  and likewise,
+  offer most room for improvement.
+- Each section provides a little bit of context.
+  If you want to speedrun this guide, skip ahead to the **Actions** subsections.
+
+## Screen
 
 On a laptop,
 the screen is one often one of the biggest consumers of battery.
@@ -81,56 +88,140 @@ or at least not without a lot of hassle.
 That said,
 simple manually bringing down the
 brightness of the screen when possible is often more than sufficient.
+In addition,
+most Linux distros offer some settings to make sure your laptop's screen does not
+inadvertently eat a lot of battery when running from your battery.
 
-To make sure you don't forget to do this when disconnecting your laptop from AC,
-most Linux installations 
+### Actions (3 min): 
 
-Actions (2 mins):
+This assumes you are running Kubuntu:
 
-- Navigate to the 'Energy Saving' panel in the 
-- xyz
-- xyz
+- Navigate to the `Energy Saving` panel in the `System Settings`
+- Select the `On Battery` tab 
+  - Enable the `Screen brightness` option and
+  bring the slider down to your desired level.
+  - Enable the `Keyboard backlight` option and
+  bring the slider down to your desired level.
+  - Enable the `Dim screen` option and
+  set a time after which this should take effect.
+  - Enable the `Screen Energy Saving` and
+  set a time after which the screen should turn off.
 
-### Bluetooth & Wifi
+## CPU 
 
-Having your 
+Together with your screen,
+the CPU (processor) of your laptop can be one of the big consumers of your laptop's battery. 
+This section describes two tools, 'tlp' and 'auto-cpufreq',
+that work in conjunction,
+and limit the power consumption of your cpu.
 
-Actions  (5 mins):
+### TLP
 
-- xyz
-- xyz
-- xyz
+TLP[^1] is a command line tool,
+and is considered the bread and butter of Linux laptop battery management.
+That said,
+very few Linux distros install it by default and the 
+[actions section below](#actions-tlp)
+will therefore also describe installation instructions.
+In addition to settings that control your CPU,
+TLP has a lot of configurable settings that control other pieces of hardware,
+such as your bluetooth and wifi.
+All these settings are configured by editing the config file,
+which lives under `/etc/tlp.conf`.
+It is easy to lose yourself in this sea of config
+and ~~spend~~ waste a lot of time.[^2]
+In this guide,
+I'll focus on 3 or 4 settings that actually yield significant results and
+that may benefit from a bit of tuning.
 
-### CPU frequency scaling
+TLP can limit CPU power consumption by limiting the maximum frequency of the CPU.
+CPUs can consume a lot of battery when running at 'full power'.
+In turn this generates a lot of heat, 
+which necessitates the use of fan(s).
+Together this can rapidly drain your battery.
+By tuning the maximum CPU frequency we can make sure that we limit power consumption
+while still having acceptable perfomance for most tasks.
 
-#### tlp
+[^1]: [TLP project on github](https://github.com/linrunner/TLP)
+[^2]: [Dedoimedo: Don't go chasing power management](https://www.dedoimedo.com/computers/linux-power-management-tlp.html)
 
-The bread and butter of linux laptop battery management,
-although not installed 
+### auto-cpufreq
 
-Actions:
+Simply limiting the maximum frequency of your CPU helps improving the battery life of your laptop.
+However, this is approach is still fairly static[^3]
+Additional benefits can be gained by 'throttling' your CPU.
+Basically, scaling up the maximum frequency of the CPU when necessary,
+but scaling
+This is where [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq) comes in. 
 
-Warning: `powersave` may have some issues, and was switched to `xyz` some time ago.
-
-#### auto-cpufreq
-
-The problem with configuring settings through tlp is that they are static.
+A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
+[here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq).
+is one approach to extend battery life.
+configuring settings through tlp is that they are static.
 This requires finding a sweetspot between battery life and perfomance,
-mainly by tuning `max cpu freq` or `pstat param`.
+mainly by tuning `max cpu freq` or `pstat param`
+(if suppored by your cpu).
 What you really want is a tool that can dynamically .
 This kind of CPU throttling is how a default Windows installation is (typically) able to
 achieve better battery life than a default linux installation,
 while still having decent performance.
 
-This is what [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq)
+Some guidelines:
 
-Actions (5 mins):
-- xyz 
-- xyz
+- tune 
+- Otherwise play around with p=0.25, p=0.5, p=0.8
+- 
 
-### Video / gpu
+This is what 
 
-#### hardware acceleration (videos)
+[^3]: This is an oversimplification.
+TLP also offers the ability to change the
+'CPU frequency scaling governor' from
+'performance' to
+'powersave.
+However, 
+
+
+### Actions (10 mins): {#actions-tlp}
+
+1. xyz.
+2. xyz.
+3. xyz.
+4. xyz.
+
+## Bluetooth & Wifi
+
+Although the amount of battery bluetooth/wifi chips consume when
+you are not connected to anything is typically relatively modest,
+it's still a waste to have these turned on when you do not
+intend to connect to any devices/networks.
+Most Linux distros offer options through the GUI that disable
+wifi and/or bluetooth when disconnecting from AC.
+This is a somewhat blunt instrument that can interfere with work,
+e.g. when you're in the middle of a Google Meet call using your 
+bluetooth headphones and running to a more quiet room. 
+TLP offers a slightly more refined option that only disables
+bluetooth/wifi when you are not connected to any devices/networks.
+The [actions](tlp-radio-actions) below result in the following behaviour:
+
+- Disconnecting from AC:
+  - disable bluetooth when you are not connected to any devices,
+  - disable wifi when you are not connected to any networks.
+- Connecting to AC:
+  - Enable bluetooth and wifi.
+
+### Actions (2 min) {#tlp-radio-actions}
+
+- Follow steps **TODO** in the [tlp & auto-cpufreq instructions above](#actions-tlp).
+- `sudo nano etc/tlp.conf`
+- Uncomment `DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE = "bluetooth wifi wwan"`.
+- Uncomment `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
+- Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
+
+
+## Video / gpu
+
+### hardware acceleration (videos)
 
 You don't install linux on a laptop to watch videos all day,
 but it's still nice save a little bit of battery when you do.
@@ -144,7 +235,8 @@ This has a variety of reasons:
 
 Late 2020, firefox finally gained the, see:
 
-[this post on omgubuntu](https://www.omgubuntu.co.uk/2020/08/firefox-80-release-linux-gpu-acceleration)
+[this post on omgubuntu]
+(https://www.omgubuntu.co.uk/2020/08/firefox-80-release-linux-gpu-acceleration)
 
 Actions (5 mins):
 - xyz
@@ -156,17 +248,19 @@ TODO: does it even help?
 do a few benchmarks on this.
 -->
 
-### sleep settings
+## sleep settings
 
 This is a topic with a long history.
 
-### battery conservation 
+# Diminishing Returns
+
+This is the 
+
+## battery conservation 
 
 limit battery charge to preserve battery life.
 
-## Down The Rabbit Hole
-
-### powertop
+## powertop
 
 Additionally, there is the `powertop` package.
 This package was originally developed by intel as
@@ -177,23 +271,25 @@ However, these settings are quite difficult to get-persistent-on-boot,
 and provide little gains over the defaults used by most linux distros.
 The most valuable feature is the overview that is provided in the default menu,
 which allows you to quickly see what applications are using a lot of battery.
-Values are estimates.
+Values are estimates.[^1]
+
+[^1]: To say down here.
 
 `PowerTOP --auto-tune`
 
-### hibernate (aka sleep settings part 2)
+## hibernate (aka sleep settings part 2)
 
 Alright
 
-![test](/powertop_overview.png#center)
+Logo: ![alt](/powertop_overview.png#center "Title")
 
-![test](/powertop_tunables.png#center)
+Test: ![alt](/powertop_tunables.png#center "Title")
 
-### other tips
+## other tips
 
 close apps that you don't nee
 
-### dropbox
+## dropbox
 
 dropbox fairly slow to sync (especially when you have many files)
 this means it can run for quite a long time
@@ -203,3 +299,12 @@ This can be done by running the following script.
 
 dropbox start
 dropbox stop
+
+
+### darkmode
+
+A lot of developers have darkmode enabled by default. A lot of people have darkmode enabled. 
+
+# Further info
+
+[An extensive guide to optimizing a linux battery for battery life and performance](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c)
