@@ -140,7 +140,7 @@ In turn this generates a lot of heat,
 which necessitates the use of fan(s).
 Together this can rapidly drain your battery.
 By tuning the maximum CPU frequency we can make sure that we limit power consumption
-while still having acceptable perfomance for most tasks.
+while still having acceptable performance for most tasks.
 
 [^1]: [TLP project on github](https://github.com/linrunner/TLP)
 [^2]: [Dedoimedo: Don't go chasing power management](https://www.dedoimedo.com/computers/linux-power-management-tlp.html)
@@ -158,9 +158,9 @@ A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
 [here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq).
 is one approach to extend battery life.
 configuring settings through tlp is that they are static.
-This requires finding a sweetspot between battery life and perfomance,
+This requires finding a sweetspot between battery life and performance,
 mainly by tuning `max cpu freq` or `pstat param`
-(if suppored by your cpu).
+(if supported by your cpu).
 What you really want is a tool that can dynamically .
 This kind of CPU throttling is how a default Windows installation is (typically) able to
 achieve better battery life than a default linux installation,
