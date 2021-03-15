@@ -26,6 +26,7 @@ Other topics
 [ ] some simple work breakdown guidelines for Epic/User story/tasks
 [ ] 3D printing
 [ ] link articles
+[ ] google analytics: https://blog.hootsuite.com/how-to-set-up-google-analytics/
 
 Recipes:
 
