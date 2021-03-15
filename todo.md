@@ -10,6 +10,8 @@
 [ ] consider posting into https://www.reddit.com/r/linux4noobs/
 [ ] consider pinning the battery post
 [ ] check if we can link 500px, strava?
+[ ] add recipes as a separate category at the top, hide recipes on front page
+[ ] make new archetype for recipes  
 
 Other topics
 
@@ -30,3 +32,5 @@ Other topics
 Recipes:
 
 [x] Sushi rice
+[ ] Citroen taart
+[ ] Top 10 most useless units used in cooking recipes
