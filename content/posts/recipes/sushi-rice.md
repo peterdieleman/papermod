@@ -1,17 +1,17 @@
 ---
 title: "Sushi Rice"
-date: 2021-03-15T23:02:50+01:00
+date: 2021-03-15T22:59:02+01:00
 # weight: 1
-# aliases: ["/first"]
-tags: [""]
+aliases: ["/sushirice"]
+tags: ["Recipe", "Japanese", "Asian"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false  
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -24,3 +24,18 @@ cover:
     hidden: true # only hide on current single page
 
 ---
+
+Rice:
+
+- 300g rice
+- 350-360g water
+
+For the dressing:
+
+- 50-55g 
+- 2 tablespoons of sugar
+- 1 teaspoons of salt
+
+Recipe from: 
+
+justonecookbook.com/how-to-make-sushi-rice/
