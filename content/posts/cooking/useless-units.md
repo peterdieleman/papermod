@@ -26,6 +26,22 @@ cover:
 ---
 
 heaped spoon
-cups
 pinch
 fluid oz.
+mespuntje
+afgestreken eetlepel
+snufje
+cup of flour
+stick of butter 
+tablespoon of butter
+cup of sliced apples
+knob of butter
+
+
+taking the cake
+
+
+handful actually ok
+
+https://tononretard.com/
+
