@@ -25,17 +25,15 @@ cover:
 
 ---
 
-Rice:
+Rice:[^1]
 
 - 300g rice
 - 350-360g water
 
-For the dressing:
+For the dressing:[^1]
 
-- 50-55g 
+- 50-55g rice vinegar
 - 2 tablespoons of sugar
 - 1 teaspoons of salt
 
-Recipe from: 
-
-justonecookbook.com/how-to-make-sushi-rice/
+[^1]: justonecookbook.com/how-to-make-sushi-rice/
