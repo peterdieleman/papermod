@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Useless Concepts"
+date: 2021-03-12T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
@@ -8,14 +8,14 @@ author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: false
+searchHidden: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -24,3 +24,9 @@ cover:
     hidden: true # only hide on current single page
 
 ---
+
+things that should not have been invented
+
+## White gold
+
+## Compostable thrash bags

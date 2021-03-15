@@ -16,7 +16,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: thisistheway
     description: "thisistheway"
-    author: Me
+    author: Peter Dieleman
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
 
@@ -25,6 +25,7 @@ params:
 
     ShowReadingTime: false
     ShowShareButtons: true
+    ShowBreadCrumbs: false
     disableSpecial1stPost: false
     comments: false
     hidemeta: false
@@ -34,23 +35,25 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: /Boba-Fett.ico
+        favicon16x16: /Boba-Fett-16x16.png
+        favicon32x32: /Boba-Fett-32x32.png
+        apple_touch_icon: /apple-touch-icon.png
+        # safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        
+        text: "thisistheway"
+        # icon: /boba_fett.png
+        # iconHeight: 35
+
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
+        title: This is the way
+        subtitle: "subtitle"
+        imageUrl: /Boba-Fett-512x512.png
+        imageWidth: 80
+        imageHeight: 80
         imageTitle: my image
         buttons:
             - name: Posts
@@ -60,8 +63,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: This is the way
+        Content: I have spoken.
 
     socialIcons:
         - name: stackoverflow
