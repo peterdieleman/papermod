@@ -9,7 +9,7 @@
 [ ] find a way to add captions to the figures https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ 
 [ ] consider posting into https://www.reddit.com/r/linux4noobs/
 [ ] consider pinning the battery post
-
+[ ] check if we can link 500px, strava?
 
 Other topics
 
@@ -29,4 +29,4 @@ Other topics
 
 Recipes:
 
-[ ] Sushi rice
+[x] Sushi rice
