@@ -64,7 +64,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: This is the way
-        Content: There are many ways to do things. A lot of them are wrong. I have spoken.
+        Content: I have spoken.
 
     socialIcons:
         - name: stackoverflow
