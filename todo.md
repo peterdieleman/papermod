@@ -26,3 +26,7 @@ Other topics
 [ ] some simple work breakdown guidelines for Epic/User story/tasks
 [ ] 3D printing
 [ ] link articles
+
+Recipes:
+
+[ ] Sushi rice
