@@ -25,8 +25,8 @@ cover:
 
 ---
 
-Developers like to work on Linux, and often install it on their laptops.
-Either as a standalone system or alongside Windows in a dual boot setup.
+Linux can easily be installed on many different types of hardware,
+including laptops.
 However,
 default Linux installations typically do a worse job than Windows
 when it comes to conserving battery power.
@@ -120,7 +120,8 @@ and limit the power consumption of your cpu.
 TLP[^1] is a command line tool,
 and is considered the bread and butter of Linux laptop battery management.
 That said,
-very few Linux distros install it by default and the 
+very few Linux distros install it by default.
+The
 [actions section below](#actions-tlp)
 will therefore also describe installation instructions.
 In addition to settings that control your CPU,
@@ -131,12 +132,12 @@ which lives under `/etc/tlp.conf`.
 It is easy to lose yourself in this sea of config
 and ~~spend~~ waste a lot of time.[^2]
 In this guide,
-I'll focus on 3 or 4 settings that actually yield significant results and
+I will focus on 3 or 4 settings that actually yield significant results and
 that may benefit from a bit of tuning.
 
 TLP can limit CPU power consumption by limiting the maximum frequency of the CPU.
 CPUs can consume a lot of battery when running at 'full power'.
-In turn this generates a lot of heat, 
+In turn this generates a lot of heat,
 which necessitates the use of fan(s).
 Together this can rapidly drain your battery.
 By tuning the maximum CPU frequency we can make sure that we limit power consumption
@@ -172,6 +173,8 @@ Some guidelines:
 - Otherwise play around with p=0.25, p=0.5, p=0.8
 - 
 
+In case you want to maximize performance 
+
 This is what 
 
 [^3]: This is an oversimplification.
@@ -181,6 +184,20 @@ TLP also offers the ability to change the
 'powersave.
 However, 
 
+If you find that your laptop is a little bit _too_ power hungry after,
+I recommend changing these parameters:
+
+- Set `CPU_HWP_ON_AC = balance_performance` 
+- If that doesn't work set `SCHED_POWERSAVE_ON_AC = 1`
+- If that doesn't work set `CPU_MAX_PERF_ON_AC = XX`, where XX is a number, for example, 80.
+- If that doesn't work, or your CPU does not support the p-state setting, set `CPU_SCALING_MAX_FREQ_ON_AC = XXXXXXXXX`.
+  This requires a little bit of investigating on the possible settings.
+  Default is maximum freq w/o turboboost.
+
+I recommend making a 'backing' of the original settings file, which can be done by 
+`cp lalalala`
+
+The `#` mean the line is commented out, and that TLP will use the default setting instead.
 
 ### Actions (10 mins): {#actions-tlp}
 
