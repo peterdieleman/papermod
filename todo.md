@@ -34,3 +34,7 @@ Recipes:
 [x] Sushi rice
 [ ] Citroen taart
 [ ] Top 10 most useless units used in cooking recipes
+
+Linux:
+
+[ ] guide on setting up gestures laptop libinput 
