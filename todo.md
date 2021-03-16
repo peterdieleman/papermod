@@ -38,3 +38,7 @@ Recipes:
 Linux:
 
 [ ] guide on setting up gestures laptop libinput 
+
+EU:
+
+[ ] Numbers for EU (minimum wage)
