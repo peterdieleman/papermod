@@ -16,12 +16,12 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
-cover:
-    # image: "<image path/url>" # image path/url
-    alt: "test" # alt text
-    caption: "test" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+# cover:
+#     # image: "<image path/url>" # image path/url
+#     alt: "test" # alt text
+#     caption: "test" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: false # only hide on current single page
 
 ---
 
@@ -151,38 +151,39 @@ while still having acceptable performance for most tasks.
 Simply limiting the maximum frequency of your CPU helps improving the battery life of your laptop.
 However, this is approach is still fairly static[^3]
 Additional benefits can be gained by 'throttling' your CPU.
-Basically, scaling up the maximum frequency of the CPU when necessary,
-but scaling
-This is where [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq) comes in. 
-
-A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
-[here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq).
-is one approach to extend battery life.
-configuring settings through tlp is that they are static.
-This requires finding a sweetspot between battery life and performance,
-mainly by tuning `max cpu freq` or `pstat param`
-(if supported by your cpu).
-What you really want is a tool that can dynamically .
-This kind of CPU throttling is how a default Windows installation is (typically) able to
-achieve better battery life than a default linux installation,
-while still having decent performance.
-
-Some guidelines:
-
-- tune 
-- Otherwise play around with p=0.25, p=0.5, p=0.8
-- 
-
-In case you want to maximize performance 
-
-This is what 
+Basically this means scaling up the maximum frequency of the CPU when processing power is required,
+but also scaling it down to preserve power whenever possible.
+This practice can significantly extend your battery life when running typical intermittent workloads,
+such as a combination of text editing and web browsing.
 
 [^3]: This is an oversimplification.
 TLP also offers the ability to change the
 'CPU frequency scaling governor' from
 'performance' to
 'powersave.
-However, 
+However, `auto-cpufreq` is more extensive in its approach.
+
+Of course you don't want to do constantly change your CPUs frequency by hand,
+which is where [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq) comes in.[^3]
+`TLP` and `auto-cpufreq` work together perfectly fine,
+and in the
+[actions section below](#actions-tlp)
+I will explain how to install both alongside each other.
+
+[^4]: A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
+[here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq)
+
+The `#` mean the line is commented out, and that TLP will use the default setting instead.
+
+### Actions (10 mins): {#actions-tlp}
+
+1. `cp /etc/tlp.conf ~/tlp.conf`. This will
+2. xyz.
+3. xyz.
+4. xyz.
+5. xyz.
+
+### Troubleshooting
 
 If you find that your laptop is a little bit _too_ power hungry after,
 I recommend changing these parameters:
@@ -194,17 +195,6 @@ I recommend changing these parameters:
   This requires a little bit of investigating on the possible settings.
   Default is maximum freq w/o turboboost.
 
-I recommend making a 'backing' of the original settings file, which can be done by 
-`cp lalalala`
-
-The `#` mean the line is commented out, and that TLP will use the default setting instead.
-
-### Actions (10 mins): {#actions-tlp}
-
-1. xyz.
-2. xyz.
-3. xyz.
-4. xyz.
 
 ## Bluetooth & Wifi
 
