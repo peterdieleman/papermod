@@ -88,7 +88,7 @@ or at least not without a lot of hassle.
 That said,
 simple manually bringing down the
 brightness of the screen when possible is often more than sufficient.
-In addition,
+In addition,`
 most Linux distros offer some settings to make sure your laptop's screen does not
 inadvertently eat a lot of battery when running from your battery.
 
@@ -96,15 +96,15 @@ inadvertently eat a lot of battery when running from your battery.
 
 This assumes you are running Kubuntu:
 
-- Navigate to the `Energy Saving` panel in the `System Settings`
-- Select the `On Battery` tab 
-  - Enable the `Screen brightness` option and
-  bring the slider down to your desired level.
-  - Enable the `Keyboard backlight` option and
-  bring the slider down to your desired level.
-  - Enable the `Dim screen` option and
-  set a time after which this should take effect.
-  - Enable the `Screen Energy Saving` and
+- Navigate to the 'Energy Saving' panel in the 'System Settings'
+- Select the 'On Battery' tab, and:
+  - enable the 'Screen brightness' option and
+  bring the slider down to your desired level,
+  - in case your laptop has a keyboard backlight:
+  enable the 'Keyboard backlight' option and bring the slider down to your desired level,
+  - enable the 'Dim screen' option and
+  set a time after which this should take effect,
+  - enable the 'Screen Energy Saving' and
   set a time after which the screen should turn off.
 
 ## CPU 
@@ -148,12 +148,15 @@ while still having acceptable performance for most tasks.
 
 ### auto-cpufreq
 
-Simply limiting the maximum frequency of your CPU helps improving the battery life of your laptop.
+Simply limiting the maximum frequency of your CPU helps improving
+the battery life of your laptop.
 However, this is approach is still fairly static[^3]
 Additional benefits can be gained by 'throttling' your CPU.
-Basically this means scaling up the maximum frequency of the CPU when processing power is required,
+Basically this means scaling up the maximum frequency of the CPU when
+processing power is required,
 but also scaling it down to preserve power whenever possible.
-This practice can significantly extend your battery life when running typical intermittent workloads,
+This practice can significantly extend your battery life when
+running typical intermittent workloads,
 such as a combination of text editing and web browsing.
 
 [^3]: This is an oversimplification.
@@ -161,33 +164,63 @@ TLP also offers the ability to change the
 'CPU frequency scaling governor' from
 'performance' to
 'powersave.
-However, `auto-cpufreq` is more extensive in its approach.
+However, auto-cpufreq is more extensive in its approach.
 
 Of course you don't want to do constantly change your CPUs frequency by hand,
-which is where [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq) comes in.[^3]
-`TLP` and `auto-cpufreq` work together perfectly fine,
-and in the
+which is where ['auto-cpufreq'](https://github.com/AdnanHodzic/auto-cpufreq) comes in.[^4]
+In the
 [actions section below](#actions-tlp)
-I will explain how to install both alongside each other.
+I will explain how to install & configure tlp and auto-cpufreq alongside each other.
 
-[^4]: A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
+[^4]: A more extensive explanation of what auto-cpufreq offers over TLP can be found
 [here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq)
-
-The `#` mean the line is commented out, and that TLP will use the default setting instead.
 
 ### Actions (10 mins): {#actions-tlp}
 
-1. `cp /etc/tlp.conf ~/tlp.conf`. This will.[^5]
-2. xyz.
-3. xyz.
-4. xyz.
-5. xyz.
+1. Open a terminal.
+2. Run `sudo apt install tlp`.
+3. To install auto-cpufreq, type in `sudo snap install auto-cpufreq`.
+   Alternatively,
+   follow the instructions
+   [here](https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq).
+4. Activate `auto-cpufreq` daemon **TODO**
+5. Run `sudo nano /etc/tlp.conf`
+6. Make sure the following lines are commented out (i.e. start with a `#` ):
+   - `#CPU_SCALING_GOVERNOR_ON_BAT`
+   - `#CPU_SCALING_MIN_FREQ_ON_BAT`
+   - `#CPU_SCALING_MAX_FREQ_ON_BAT`
+   - `#CPU_HWP_ON_BAT`
+   - `#CPU_MIN_PERF_ON_BAT`
+7. Restart your laptop. Open a terminal.
+   1. Check that TLP is running by  `TLP STUFF`
+   2. Check that auto-cpufreq is activated by typing `auto-cpufreq stuff`
 
 
-[^5]: To restore the file run `sudo ~/tlp.conf /etc/tlp.conf`.
-The `sudo` is necessary to write into the `etc` directory.
+So far so good. This should.
+However we still need to tell tlp to limit the frequency.
+I found this was necessary on my laptop as without it, 
+This part requires a bit of tuning.
+Now comes the part that might require a tiny bit of tuning.
 
-### Troubleshooting
+8. If your CPU supports p-state **TODO**, go to step 1, otherwise, go to step 2:
+   1. et `CPU_MIN_PERF_ON_BAT = XX`, where `XX` is a basically a percentage. 
+   To get a quick idea of the effect of this parameter, try '50', or '25'.
+   1.  `#CPU_SCALING_MAX_FREQ_ON_BAT` if the laptops CPU d
+
+**Note**: Don't be afraid to play around with the tlp config file.
+A default version of the TLP config file should be stored under `etc/default/tlp.conf`.
+Run:
+
+```bash
+ sudo cp /etc/default/tlp.conf /etc/tlp.conf
+```
+  
+ to restore it.
+
+<!-- **TODO** The `#` mean the line is commented out, and that TLP will use the default setting instead. -->
+<!-- **TODO** too powerhungry -> tune down from p=100% -->
+
+<!-- ### Troubleshooting
 
 If you find that your laptop is a little bit _too_ power hungry after,
 I recommend changing these parameters:
@@ -197,7 +230,7 @@ I recommend changing these parameters:
 - If that doesn't work set `CPU_MAX_PERF_ON_AC = XX`, where XX is a number, for example, 80.
 - If that doesn't work, or your CPU does not support the p-state setting, set `CPU_SCALING_MAX_FREQ_ON_AC = XXXXXXXXX`.
   This requires a little bit of investigating on the possible settings.
-  Default is maximum freq w/o turboboost.
+  Default is maximum freq w/o turboboost. -->
 
 
 ## Bluetooth & Wifi

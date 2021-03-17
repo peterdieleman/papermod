@@ -28,6 +28,12 @@ Other topics
 [ ] some simple work breakdown guidelines for Epic/User story/tasks
 [ ] 3D printing
 [ ] link articles
+[ ] symmetry breaking (clasping hands)
+
+English
+
+[ ] Dunglish
+[ ] words that Americans pronounce inconsistently (presentation, divisive)
 
 Recipes:
 
@@ -42,3 +48,8 @@ Linux:
 EU:
 
 [ ] Numbers for EU (minimum wage)
+
+Cloud:
+
+[ ] OSI model, 7 layered cake
+

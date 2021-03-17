@@ -63,7 +63,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: Linux, Cooking Recipes, and more # Linux, Cooking Recipes, Bikes, and more.
+        Title: Linux, Cloud stuff, Cooking Recipes, and more # Linux, Cooking Recipes, Bikes, and more.
         Content: "Press  Alt + / for search."
 
     socialIcons:
