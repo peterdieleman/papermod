@@ -177,11 +177,15 @@ The `#` mean the line is commented out, and that TLP will use the default settin
 
 ### Actions (10 mins): {#actions-tlp}
 
-1. `cp /etc/tlp.conf ~/tlp.conf`. This will
+1. `cp /etc/tlp.conf ~/tlp.conf`. This will.[^5]
 2. xyz.
 3. xyz.
 4. xyz.
 5. xyz.
+
+
+[^5]: To restore the file run `sudo ~/tlp.conf /etc/tlp.conf`.
+The `sudo` is necessary to write into the `etc` directory.
 
 ### Troubleshooting
 
