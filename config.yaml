@@ -18,7 +18,7 @@ params:
     description: "thisistheway"
     author: Peter Dieleman
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
 
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -63,8 +63,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: This is the way
-        Content: I have spoken.
+        Title: Linux, Cooking Recipes, and more # Linux, Cooking Recipes, Bikes, and more.
+        Content: "Press  Alt + / for search."
 
     socialIcons:
         - name: stackoverflow
