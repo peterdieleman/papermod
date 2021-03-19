@@ -63,8 +63,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: Linux, Cloud stuff, Cooking Recipes, and more # Linux, Cooking Recipes, Bikes, and more.
-        Content: "Press  Alt + / for search."
+        Title: Linux & Cloud stuff # Linux, Cooking Recipes, Bikes, and more.
+        Content: "As well as other random observations. Press  Alt + / for search."
 
     socialIcons:
         - name: stackoverflow
