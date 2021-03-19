@@ -232,6 +232,12 @@ I recommend changing these parameters:
   This requires a little bit of investigating on the possible settings.
   Default is maximum freq w/o turboboost. -->
 
+<!-- https://github.com/AdnanHodzic/auto-cpufreq/discussions/176#discussioncomment-505766 -->
+
+**TODO/investigate** is commenting out equivalent to turning off?
+Or do we simply revert back to the default settings?  
+What if you don't have a default? 
+
 
 ## Bluetooth & Wifi
 
@@ -286,6 +292,9 @@ Actions (5 mins):
 - xyz
 - xyz
 
+## Bonus:
+
+an easy tool to measure time on battery!
 
 <!---
 TODO: does it even help?
@@ -347,6 +356,16 @@ dropbox stop
 
 ### Undervolting
 
+`s-tui`
+
+`sudo apt-get install stress`
+
+`sudo undervolt --core -80 --cache -80`
+
+`sudo pip3 install undervolt`
+
+`sudo apt install python3-pip`
+
 ### darkmode
 
 A lot of developers have darkmode enabled by default. A lot of people have darkmode enabled. 
@@ -354,3 +373,11 @@ A lot of developers have darkmode enabled by default. A lot of people have darkm
 # Further info
 
 [An extensive guide to optimizing a linux battery for battery life and performance](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c)
+
+
+https://github.com/erpalma/throttled
+
+
+https://github.com/amanusk/s-tui
+
+https://github.com/georgewhewell/undervolt
