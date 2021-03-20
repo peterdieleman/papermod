@@ -211,6 +211,8 @@ Now comes the part that might require a tiny bit of tuning.
 A default version of the TLP config file should be stored under `etc/default/tlp.conf`.
 Run:
 
+**TODO  or in my case: /usr/share/tlp/defaults.conf**
+
 ```bash
  sudo cp /etc/default/tlp.conf /etc/tlp.conf
 ```
@@ -236,7 +238,7 @@ I recommend changing these parameters:
 
 **TODO/investigate** is commenting out equivalent to turning off?
 Or do we simply revert back to the default settings?  
-What if you don't have a default? 
+What if you don't have a default? Check settings through `tlp-stat` ?
 
 
 ## Bluetooth & Wifi
