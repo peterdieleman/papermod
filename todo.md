@@ -44,6 +44,8 @@ Recipes:
 Linux:
 
 [ ] guide on setting up gestures laptop libinput 
+[ ] guide on undervolting
+[ ] guide on cleaning linux (applications you don't use anymore)
 
 EU:
 
