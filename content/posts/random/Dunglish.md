@@ -3,7 +3,7 @@ title: "Dunglish"
 date: 2021-03-12T08:57:41+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: [""]
+tags: ["Random"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,9 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 searchHidden: false
 # cover:
 #     image: /thaiwraps_3.jpg # image path/url

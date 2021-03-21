@@ -12,9 +12,8 @@ draft: false
 hidemeta: false
 comments: false
 description: "A guide on extending the battery life of your linux laptop"
-disableHLJS: true # to disable highlightjs
+# disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 searchHidden: false
 # cover:
 #     # image: "<image path/url>" # image path/url
