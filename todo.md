@@ -1,6 +1,6 @@
 [x] have archive / search / tags setup
 [ ] write linux laptop post
-[ ] pin above post
+[X] pin above post
 [ ] https://favicon.io/ create 
   - https://www.iconfinder.com/search/?q=boba%20fett
   - https://iconarchive.com/show/starwars-icons-by-sensibleworld/Boba-Fett-icon.html
@@ -11,7 +11,8 @@
 [ ] consider posting into https://www.reddit.com/r/linux4noobs/
 [ ] check if we can link 500px, strava?
 [ ] add recipes as a separate category at the top, hide recipes on front page
-[ ] make new archetype for recipes  
+[ ] make new archetype for recipes 
+[ ] Highlighting code?
 
 Other topics
 
