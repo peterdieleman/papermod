@@ -3,7 +3,7 @@ title: "Linux Laptops & Battery Life    "
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
-tags: ["linux","tlp","guide"]
+tags: ["Linux","tlp","guide","auto-cpufreq","laptop"]
 # author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,21 +12,20 @@ draft: false
 hidemeta: false
 comments: false
 description: "A guide on extending the battery life of your linux laptop"
-disableHLJS: true # to disable highlightjs
+# disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 searchHidden: false
-cover:
-    # image: "<image path/url>" # image path/url
-    alt: "test" # alt text
-    caption: "test" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+# cover:
+#     # image: "<image path/url>" # image path/url
+#     alt: "test" # alt text
+#     caption: "test" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: false # only hide on current single page
 
 ---
 
-Developers like to work on Linux, and often install it on their laptops.
-Either as a standalone system or alongside Windows in a dual boot setup.
+Linux can easily be installed on many different types of hardware,
+including laptops.
 However,
 default Linux installations typically do a worse job than Windows
 when it comes to conserving battery power.
@@ -88,7 +87,7 @@ or at least not without a lot of hassle.
 That said,
 simple manually bringing down the
 brightness of the screen when possible is often more than sufficient.
-In addition,
+In addition,`
 most Linux distros offer some settings to make sure your laptop's screen does not
 inadvertently eat a lot of battery when running from your battery.
 
@@ -96,15 +95,15 @@ inadvertently eat a lot of battery when running from your battery.
 
 This assumes you are running Kubuntu:
 
-- Navigate to the `Energy Saving` panel in the `System Settings`
-- Select the `On Battery` tab 
-  - Enable the `Screen brightness` option and
-  bring the slider down to your desired level.
-  - Enable the `Keyboard backlight` option and
-  bring the slider down to your desired level.
-  - Enable the `Dim screen` option and
-  set a time after which this should take effect.
-  - Enable the `Screen Energy Saving` and
+- Navigate to the 'Energy Saving' panel in the 'System Settings'
+- Select the 'On Battery' tab, and:
+  - enable the 'Screen brightness' option and
+  bring the slider down to your desired level,
+  - in case your laptop has a keyboard backlight:
+  enable the 'Keyboard backlight' option and bring the slider down to your desired level,
+  - enable the 'Dim screen' option and
+  set a time after which this should take effect,
+  - enable the 'Screen Energy Saving' and
   set a time after which the screen should turn off.
 
 ## CPU 
@@ -120,7 +119,8 @@ and limit the power consumption of your cpu.
 TLP[^1] is a command line tool,
 and is considered the bread and butter of Linux laptop battery management.
 That said,
-very few Linux distros install it by default and the 
+very few Linux distros install it by default.
+The
 [actions section below](#actions-tlp)
 will therefore also describe installation instructions.
 In addition to settings that control your CPU,
@@ -131,14 +131,14 @@ which lives under `/etc/tlp.conf`.
 It is easy to lose yourself in this sea of config
 and ~~spend~~ waste a lot of time.[^2]
 In this guide,
-I'll focus on 3 or 4 settings that actually yield significant results and
+I will focus on 3 or 4 settings that actually yield significant results and
 that may benefit from a bit of tuning.
 
 TLP can limit CPU power consumption by limiting the maximum frequency of the CPU.
 CPUs can consume a lot of battery when running at 'full power'.
-In turn this generates a lot of heat, 
+In turn this generates a lot of heat,
 which necessitates the use of fan(s).
-Together this can rapidly drain your battery.
+Together this can rapidly drain your battery.  
 By tuning the maximum CPU frequency we can make sure that we limit power consumption
 while still having acceptable performance for most tasks.
 
@@ -147,47 +147,99 @@ while still having acceptable performance for most tasks.
 
 ### auto-cpufreq
 
-Simply limiting the maximum frequency of your CPU helps improving the battery life of your laptop.
+Simply limiting the maximum frequency of your CPU helps improving
+the battery life of your laptop.
 However, this is approach is still fairly static[^3]
 Additional benefits can be gained by 'throttling' your CPU.
-Basically, scaling up the maximum frequency of the CPU when necessary,
-but scaling
-This is where [`auto-cpufreq`](https://github.com/AdnanHodzic/auto-cpufreq) comes in. 
-
-A more extensive explanation of what `auto-cpufreq` offers over TLP can be found
-[here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq).
-is one approach to extend battery life.
-configuring settings through tlp is that they are static.
-This requires finding a sweetspot between battery life and performance,
-mainly by tuning `max cpu freq` or `pstat param`
-(if supported by your cpu).
-What you really want is a tool that can dynamically .
-This kind of CPU throttling is how a default Windows installation is (typically) able to
-achieve better battery life than a default linux installation,
-while still having decent performance.
-
-Some guidelines:
-
-- tune 
-- Otherwise play around with p=0.25, p=0.5, p=0.8
-- 
-
-This is what 
+Basically this means scaling up the maximum frequency of the CPU when
+processing power is required,
+but also scaling it down to preserve power whenever possible.
+This practice can significantly extend your battery life when
+running typical intermittent workloads,
+such as a combination of text editing and web browsing.
 
 [^3]: This is an oversimplification.
 TLP also offers the ability to change the
 'CPU frequency scaling governor' from
 'performance' to
 'powersave.
-However, 
+However, auto-cpufreq is more extensive in its approach.
 
+Of course you don't want to do constantly change your CPUs frequency by hand,
+which is where ['auto-cpufreq'](https://github.com/AdnanHodzic/auto-cpufreq) comes in.[^4]
+In the
+[actions section below](#actions-tlp)
+I will explain how to install & configure tlp and auto-cpufreq alongside each other.
+
+[^4]: A more extensive explanation of what auto-cpufreq offers over TLP can be found
+[here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq)
 
 ### Actions (10 mins): {#actions-tlp}
 
-1. xyz.
-2. xyz.
-3. xyz.
-4. xyz.
+1. Open a terminal.
+2. Run `sudo apt install tlp`.
+3. To install auto-cpufreq, type in `sudo snap install auto-cpufreq`.
+   Alternatively,
+   follow the instructions
+   [here](https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq).
+4. Activate `auto-cpufreq` daemon **TODO**
+5. Back-up your tlp configuration by running `cp /etc/tlp.conf ~/tlp.conf`.[^5]
+6. Run `sudo nano /etc/tlp.conf`
+7. Make sure the following lines are commented out (i.e. start with a `#` ):
+   - `#CPU_SCALING_GOVERNOR_ON_BAT`
+   - `#CPU_SCALING_MIN_FREQ_ON_BAT`
+   - `#CPU_SCALING_MAX_FREQ_ON_BAT`
+   - `#CPU_HWP_ON_BAT`
+   - `#CPU_MIN_PERF_ON_BAT`
+8. Restart your laptop. Open a terminal.
+   1. Check that TLP is running by  `TLP STUFF`
+   2. Check that auto-cpufreq is activated by typing `auto-cpufreq stuff`
+
+
+So far so good. This should.
+However we still need to tell tlp to limit the frequency.
+I found this was necessary on my laptop as without it, 
+This part requires a bit of tuning.
+Now comes the part that might require a tiny bit of tuning.
+
+8. If your CPU supports p-state **TODO**, go to step 1, otherwise, go to step 2:
+   1. et `CPU_MIN_PERF_ON_BAT = XX`, where `XX` is a basically a percentage. 
+   To get a quick idea of the effect of this parameter, try '50', or '25'.
+   1.  `#CPU_SCALING_MAX_FREQ_ON_BAT` if the laptops CPU d
+
+**Note**: Don't be afraid to play around with the tlp config file.
+A default version of the TLP config file should be stored under `etc/default/tlp.conf`.
+Run:
+
+[^5]: A default configuration is also stored in. BLABLA. Restoring **TODO  or in my case: /usr/share/tlp/defaults.conf**
+
+```bash
+ sudo cp /etc/default/tlp.conf /etc/tlp.conf
+```
+  
+ to restore it.
+
+<!-- **TODO** The `#` mean the line is commented out, and that TLP will use the default setting instead. -->
+<!-- **TODO** too powerhungry -> tune down from p=100% -->
+
+<!-- ### Troubleshooting
+
+If you find that your laptop is a little bit _too_ power hungry after,
+I recommend changing these parameters:
+
+- Set `CPU_HWP_ON_AC = balance_performance` 
+- If that doesn't work set `SCHED_POWERSAVE_ON_AC = 1`
+- If that doesn't work set `CPU_MAX_PERF_ON_AC = XX`, where XX is a number, for example, 80.
+- If that doesn't work, or your CPU does not support the p-state setting, set `CPU_SCALING_MAX_FREQ_ON_AC = XXXXXXXXX`.
+  This requires a little bit of investigating on the possible settings.
+  Default is maximum freq w/o turboboost. -->
+
+<!-- https://github.com/AdnanHodzic/auto-cpufreq/discussions/176#discussioncomment-505766 -->
+
+**TODO/investigate** is commenting out equivalent to turning off?
+Or do we simply revert back to the default settings?  
+What if you don't have a default? Check settings through `tlp-stat` ?
+
 
 ## Bluetooth & Wifi
 
@@ -242,6 +294,9 @@ Actions (5 mins):
 - xyz
 - xyz
 
+## Bonus:
+
+an easy tool to measure time on battery!
 
 <!---
 TODO: does it even help?
@@ -303,6 +358,16 @@ dropbox stop
 
 ### Undervolting
 
+`s-tui`
+
+`sudo apt-get install stress`
+
+`sudo undervolt --core -80 --cache -80`
+
+`sudo pip3 install undervolt`
+
+`sudo apt install python3-pip`
+
 ### darkmode
 
 A lot of developers have darkmode enabled by default. A lot of people have darkmode enabled. 
@@ -310,3 +375,11 @@ A lot of developers have darkmode enabled by default. A lot of people have darkm
 # Further info
 
 [An extensive guide to optimizing a linux battery for battery life and performance](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c)
+
+
+https://github.com/erpalma/throttled
+
+
+https://github.com/amanusk/s-tui
+
+https://github.com/georgewhewell/undervolt

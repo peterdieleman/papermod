@@ -1,5 +1,6 @@
 [x] have archive / search / tags setup
 [ ] write linux laptop post
+[X] pin above post
 [ ] https://favicon.io/ create 
   - https://www.iconfinder.com/search/?q=boba%20fett
   - https://iconarchive.com/show/starwars-icons-by-sensibleworld/Boba-Fett-icon.html
@@ -8,10 +9,10 @@
 [ ] add ruler 80/100 chars
 [ ] find a way to add captions to the figures https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ 
 [ ] consider posting into https://www.reddit.com/r/linux4noobs/
-[ ] consider pinning the battery post
 [ ] check if we can link 500px, strava?
 [ ] add recipes as a separate category at the top, hide recipes on front page
-[ ] make new archetype for recipes  
+[ ] make new archetype for recipes 
+[ ] Highlighting code?
 
 Other topics
 
@@ -28,6 +29,12 @@ Other topics
 [ ] some simple work breakdown guidelines for Epic/User story/tasks
 [ ] 3D printing
 [ ] link articles
+[ ] symmetry breaking (clasping hands)
+
+English
+
+[ ] Dunglish
+[ ] words that Americans pronounce inconsistently (presentation, divisive)
 
 Recipes:
 
@@ -38,7 +45,14 @@ Recipes:
 Linux:
 
 [ ] guide on setting up gestures laptop libinput 
+[ ] guide on undervolting
+[ ] guide on cleaning linux (applications you don't use anymore)
 
 EU:
 
 [ ] Numbers for EU (minimum wage)
+
+Cloud:
+
+[ ] OSI model, 7 layered cake
+

@@ -18,7 +18,7 @@ params:
     description: "thisistheway"
     author: Peter Dieleman
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
 
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -48,23 +48,27 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: This is the way
-        subtitle: "subtitle"
-        imageUrl: /Boba-Fett-512x512.png
-        imageWidth: 80
-        imageHeight: 80
+        enabled: true # needs to be explicitly set
+        title: Linux Tips and Tricks
+        subtitle: "Plus other random observations."
+        # imageUrl: /Boba-Fett-512x512.png
+        imageWidth: 100
+        imageHeight: 100
         imageTitle: my image
         buttons:
-            - name: Posts
+            - name: Linux
+              url: tags/linux/
+            - name: Cooking Recipes
+              url: tags/recipe
+            - name: Random
+              url: tags/random
+            - name: All Posts
               url: posts
-            - name: Tags
-              url: falsetags
 
     # home-info mode
     homeInfoParams:
-        Title: This is the way
-        Content: I have spoken.
+        Title: Step by step Linux Guides # Linux, Cooking Recipes, Bikes, and more.
+        Content: "Plus some other random observations. Press  Alt + / for search."
 
     socialIcons:
         - name: stackoverflow

@@ -1,18 +1,18 @@
 ---
-title: "Sushi Rice"
-date: 2021-03-15T22:59:02+01:00
+title: "Couscous_ratio"
+date: 2021-03-16T19:13:04+01:00
 # weight: 1
-aliases: ["/sushirice"]
-tags: ["Recipe", "Japanese", "Asian"]
+# aliases: ["/first"]
+tags: [""]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
-showToc: false  
+showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-# description: "Desc Text."
-disableHLJS: false # to disable highlightjs
+description: "Desc Text."
+disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
@@ -25,15 +25,4 @@ searchHidden: false
 
 ---
 
-Rice:[^1]
-
-- 300g rice
-- 350-360g water
-
-For the dressing:[^1]
-
-- 50-55g rice vinegar
-- 2 tablespoons of sugar
-- 1 teaspoons of salt
-
-[^1]: justonecookbook.com/how-to-make-sushi-rice/
+# Test
