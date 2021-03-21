@@ -3,7 +3,7 @@ title: "Linux Laptops & Battery Life    "
 date: 2020-09-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
-tags: ["linux","tlp","guide"]
+tags: ["Linux","tlp","guide","auto-cpufreq","laptop"]
 # author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -139,7 +139,7 @@ TLP can limit CPU power consumption by limiting the maximum frequency of the CPU
 CPUs can consume a lot of battery when running at 'full power'.
 In turn this generates a lot of heat,
 which necessitates the use of fan(s).
-Together this can rapidly drain your battery.
+Together this can rapidly drain your battery.  
 By tuning the maximum CPU frequency we can make sure that we limit power consumption
 while still having acceptable performance for most tasks.
 
@@ -184,14 +184,15 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
    follow the instructions
    [here](https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq).
 4. Activate `auto-cpufreq` daemon **TODO**
-5. Run `sudo nano /etc/tlp.conf`
-6. Make sure the following lines are commented out (i.e. start with a `#` ):
+5. Back-up your tlp configuration by running `cp /etc/tlp.conf ~/tlp.conf`.[^5]
+6. Run `sudo nano /etc/tlp.conf`
+7. Make sure the following lines are commented out (i.e. start with a `#` ):
    - `#CPU_SCALING_GOVERNOR_ON_BAT`
    - `#CPU_SCALING_MIN_FREQ_ON_BAT`
    - `#CPU_SCALING_MAX_FREQ_ON_BAT`
    - `#CPU_HWP_ON_BAT`
    - `#CPU_MIN_PERF_ON_BAT`
-7. Restart your laptop. Open a terminal.
+8. Restart your laptop. Open a terminal.
    1. Check that TLP is running by  `TLP STUFF`
    2. Check that auto-cpufreq is activated by typing `auto-cpufreq stuff`
 
@@ -211,7 +212,7 @@ Now comes the part that might require a tiny bit of tuning.
 A default version of the TLP config file should be stored under `etc/default/tlp.conf`.
 Run:
 
-**TODO  or in my case: /usr/share/tlp/defaults.conf**
+[^5]: A default configuration is also stored in. BLABLA. Restoring **TODO  or in my case: /usr/share/tlp/defaults.conf**
 
 ```bash
  sudo cp /etc/default/tlp.conf /etc/tlp.conf
