@@ -60,6 +60,8 @@ params:
               url: tags/linux/
             - name: Cooking Recipes
               url: tags/recipe
+            - name: Random
+              url: tags/random
             - name: All Posts
               url: posts
 
