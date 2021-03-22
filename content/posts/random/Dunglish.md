@@ -109,4 +109,6 @@ We know it's an English term, but still pronounce 'wee-fee'.
 
 Straight up translation from Dutch.
 
+## Phone is empty
+
 
