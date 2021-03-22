@@ -315,6 +315,10 @@ This is the
 
 limit battery charge to preserve battery life.
 
+https://dev.to/vaclavhodek/limit-battery-charging-on-asus-ubuntu-56cn
+
+https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html
+
 ## powertop
 
 Additionally, there is the `powertop` package.
