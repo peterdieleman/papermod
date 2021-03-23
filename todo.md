@@ -56,3 +56,7 @@ Cloud:
 
 [ ] OSI model, 7 layered cake
 
+Github todo:
+
+[ ] undervolt asus 430 -> works
+[ ] reply auto-cpufreq -> tlp settings
