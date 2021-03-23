@@ -1,6 +1,7 @@
 [x] have archive / search / tags setup
 [ ] write linux laptop post
 [X] pin above post
+[ ] broken link detector
 [ ] https://favicon.io/ create 
   - https://www.iconfinder.com/search/?q=boba%20fett
   - https://iconarchive.com/show/starwars-icons-by-sensibleworld/Boba-Fett-icon.html
@@ -13,6 +14,7 @@
 [ ] add recipes as a separate category at the top, hide recipes on front page
 [ ] make new archetype for recipes 
 [ ] Highlighting code?
+[ ] Countries countries whose armies have less guns than american citizens
 
 Other topics
 
@@ -41,6 +43,7 @@ Recipes:
 [x] Sushi rice
 [ ] Citroen taart
 [ ] Top 10 most useless units used in cooking recipes
+[ ] Pizza Recipe w/ semolina flour
 
 Linux:
 
@@ -60,3 +63,7 @@ Github todo:
 
 [ ] undervolt asus 430 -> works
 [ ] reply auto-cpufreq -> tlp settings
+
+Data:
+
+[ ] what to do when your data has been leaked? (NWO)
