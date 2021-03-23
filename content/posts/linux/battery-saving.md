@@ -87,7 +87,7 @@ or at least not without a lot of hassle.
 That said,
 simple manually bringing down the
 brightness of the screen when possible is often more than sufficient.
-In addition,`
+In addition,
 most Linux distros offer some settings to make sure your laptop's screen does not
 inadvertently eat a lot of battery when running from your battery.
 
