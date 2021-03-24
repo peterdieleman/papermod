@@ -294,6 +294,8 @@ Actions (5 mins):
 - xyz
 - xyz
 
+https://linuxconfig.org/graphics-driver-check-ubuntu-20-04-focal-fossa
+
 ## Bonus:
 
 an easy tool to measure time on battery!
@@ -319,6 +321,10 @@ https://dev.to/vaclavhodek/limit-battery-charging-on-asus-ubuntu-56cn
 
 https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html
 
+https://www.reddit.com/r/Ubuntu/comments/gby6tu/psa_kernel_54_added_the_ability_to_set_a_battery/
+
+https://wiki.archlinux.org/index.php/Laptop/ASUS#Battery_charge_threshold
+
 ## powertop
 
 Additionally, there is the `powertop` package.
@@ -331,6 +337,10 @@ and provide little gains over the defaults used by most linux distros.
 The most valuable feature is the overview that is provided in the default menu,
 which allows you to quickly see what applications are using a lot of battery.
 Values are estimates.[^1]
+
+https://askubuntu.com/questions/112705/how-do-i-make-powertop-changes-permanent
+
+
 
 [^1]: To say down here.
 
@@ -387,3 +397,8 @@ https://github.com/erpalma/throttled
 https://github.com/amanusk/s-tui
 
 https://github.com/georgewhewell/undervolt
+
+
+https://gitlab.com/asus-linux/asus-nb-ctrl
+
+https://github.com/dominiksalvet/asus-fan-control
