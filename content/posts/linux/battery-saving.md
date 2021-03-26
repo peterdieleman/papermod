@@ -54,7 +54,10 @@ However, some settings are more easily configured through the GUI,
 and in this I will assume you are running Kubuntu.
 However, other popular Linux distros,
 such as or Manjaro/Arch,
-likely offer very similar settings.
+likely offer very similar settings. 
+In addition, I will also be assuming your laptop either contains an intel,
+AMD,
+or other x86-64 CPU.
 
 Note:
 When you find that info for your Linux installation is missing/incorrect,
@@ -182,65 +185,96 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
    Alternatively,
    follow the instructions
    [here](https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq).
-4. Activate `auto-cpufreq` daemon **TODO**
-5. Back-up your tlp configuration by running `cp /etc/tlp.conf ~/tlp.conf`.[^5]
-6. Run `sudo nano /etc/tlp.conf`
-7. Make sure the following lines are commented out (i.e. start with a `#` ):
+4. Run `sudo auto-cpufreq --install`
+5. Back-up your tlp configuration by running:\
+   `cp /etc/tlp.conf ~/tlp.conf`.[^5]
+6. Run `sudo nano /etc/tlp.conf` to open the tlp config file in nano.
+7. In the config file,
+   make sure the following lines are commented out,
+   by making sure they start with a `#`:
    - `#CPU_SCALING_GOVERNOR_ON_BAT`
    - `#CPU_SCALING_MIN_FREQ_ON_BAT`
    - `#CPU_SCALING_MAX_FREQ_ON_BAT`
    - `#CPU_HWP_ON_BAT`
    - `#CPU_MIN_PERF_ON_BAT`
-8. Restart your laptop. Open a terminal.
-   1. Check that TLP is running by  `TLP STUFF`
-   2. Check that auto-cpufreq is activated by typing `auto-cpufreq stuff`
+8. Check that both tlp and auto-cpufreq are installed correctly.
+   1. Restart your laptop. Open a terminal.
+   2. Check that tlp is enabled by running:\
+      `tlp-stat -c`.\
+      The very first line should contain:\
+      `TLP_ENABLE="1"`.\
+      In case it does not, go in and edit the file as in **step 6**.
+   3. Check that auto-cpufreq is activated by typing:\
+      `systemctl status snap.auto-cpufreq.service.service`,\
+      when you have installed the package using snap, or:\
+      `systemctl status auto-cpufreq`,\
+      when you went the other route.
+      This should display some information telling `auto-cpufreq` is activated.
 
+9.  This enables tlp and auto-cpufreq on your machine,
+   which should already significantly improve the battery life of your laptop.
+   In my case,
+   I found it beneficial to tune the CPU frequency limit to further increase battery life.
+   This may require a bit of tuning.
+   Don't fret!
+   You only need to adjust a single parameter:
+   exactly which one depends on your system.
+10. In case your laptop has an intel CPU, follow the steps below:
+    1. Double check whether your CPU is indeed supported, by running:\
+      `sudo tlp-stat --processor`.\
+      If the resulting output looks something like this:\
+      `/sys/.../scaling_driver = intel_pstate`,\
+      it means your CPU is using `intel_pstate` scaling driver,
+      and you can proceed to **to step 10.2 below**.
+      Otherwise, proceed **to step 11 below.** 
+    2. Type: `sudo nano /etc/tlp.conf` to edit your tlp config file.
+      Uncomment the `CPU_MIN_PERF_ON_BAT = XX` parameter,
+      and replace `XX` with a number between 0 and 100.
+      Lower values mean longer battery life, but also slower performance.
+      Suggested values for experimenting are 25, 50, or 75.
+      Enter a value, hit `control-X` and `Y` when prompted for
+      `Save modified buffer?`
+      See how you like the responsiveness of your system when operating from battery,
+      and either increase or decrease the `XX` value until you are satisfied.
+11. In case your laptop has an AMD, or an older intel CPU,
+    follow the steps below.
+    1. Open a terminal and type `sudo tlp-stat -p`,
+    2. Note down the values for 'scaling_min_freq' and 'scaling_max_freq'.
+    3. Type: `sudo nano /etc/tlp.conf` to edit your tlp config file.
+    4. Find the line containing:\
+       `CPU_SCALING_MAX_FREQ_ON_BAT =  YY`,\
+       and uncomment it
+       (i.e. remove the leading `#`).
+       To reduce the frequency on battery,
+       enter a value lower than the maximum value.[^6]
+       Hit `control-X` and `Y` when prompted for
+      `Save modified buffer?`
+       See how you like the responsiveness of your system when operating from battery,
+       and either increase or decrease the `YY` value until you are satisfied.
 
-So far so good. This should.
-However we still need to tell tlp to limit the frequency.
-I found this was necessary on my laptop as without it, 
-This part requires a bit of tuning.
-Now comes the part that might require a tiny bit of tuning.
+[^5]: This isn't absolutely necessary, but doesn't hurt either.
+A default configuration is also stored in `etc/default/tlp.conf`,
+or `/usr/share/tlp/defaults.conf`,
+depending on your installation. 
+To restore, run the command in reverse:\
+`sudo cp ~/tlp.conf /etc/tlp.conf`,
+where the sudo is necessary to copy into the `/etc/` directory.
 
-8. If your CPU supports p-state **TODO**, go to step 1, otherwise, go to step 2:
-   1. et `CPU_MIN_PERF_ON_BAT = XX`, where `XX` is a basically a percentage. 
-   To get a quick idea of the effect of this parameter, try '50', or '25'.
-   1.  `#CPU_SCALING_MAX_FREQ_ON_BAT` if the laptops CPU d
-
-**Note**: Don't be afraid to play around with the tlp config file.
-A default version of the TLP config file should be stored under `etc/default/tlp.conf`.
-Run:
-
-[^5]: A default configuration is also stored in. BLABLA. Restoring **TODO  or in my case: /usr/share/tlp/defaults.conf**
-
-```bash
- sudo cp /etc/default/tlp.conf /etc/tlp.conf
-```
-  
- to restore it.
-
-<!-- **TODO** The `#` mean the line is commented out, and that TLP will use the default setting instead. -->
-<!-- **TODO** too powerhungry -> tune down from p=100% -->
-
-<!-- ### Troubleshooting
-
-If you find that your laptop is a little bit _too_ power hungry after,
-I recommend changing these parameters:
-
-- Set `CPU_HWP_ON_AC = balance_performance` 
-- If that doesn't work set `SCHED_POWERSAVE_ON_AC = 1`
-- If that doesn't work set `CPU_MAX_PERF_ON_AC = XX`, where XX is a number, for example, 80.
-- If that doesn't work, or your CPU does not support the p-state setting, set `CPU_SCALING_MAX_FREQ_ON_AC = XXXXXXXXX`.
-  This requires a little bit of investigating on the possible settings.
-  Default is maximum freq w/o turboboost. -->
-
-<!-- https://github.com/AdnanHodzic/auto-cpufreq/discussions/176#discussioncomment-505766 -->
-
-**TODO/investigate** is commenting out equivalent to turning off?
-Or do we simply revert back to the default settings?  
-What if you don't have a default? Check settings through `tlp-stat` ?
-
-
+[^6]: The official tlp guide notes  that:\
+_'Lowering the max frequency on battery power does not conserve power; 
+best results are achieved by the ondemand governor without frequency limits'._
+This statement is either lacking in nuance or outdated.
+It is certainly the case that setting this limit too low
+will unnecessarily cripple your system
+and indeed may even reduce your battery life,
+as certain tasks will run over a longer time.
+However, higher CPU frequencies may result in:\
+(1) higher temperatures, requiring active cooling with a fan.\
+(2) an exponentially higher power consumption, see:
+[this medium post](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c).\
+These issues are no problem when running running on AC,
+but on battery we can find a sweetspot between performance and battery life.
+ 
 ## Bluetooth & Wifi
 
 Although the amount of battery bluetooth/wifi chips consume when
@@ -270,7 +304,7 @@ The [actions](tlp-radio-actions) below result in the following behaviour:
 - Uncomment `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
 - Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
 
-
+<!-- 
 ## Video / gpu
 
 ### hardware acceleration (videos)
@@ -304,7 +338,7 @@ an easy tool to measure time on battery!
 TODO: does it even help?
 do a few benchmarks on this.
 -->
-
+<!-- 
 ## sleep settings
 
 This is a topic with a long history.
@@ -321,7 +355,7 @@ https://dev.to/vaclavhodek/limit-battery-charging-on-asus-ubuntu-56cn
 
 https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html
 
-https://www.reddit.com/r/Ubuntu/comments/gby6tu/psa_kernel_54_added_the_ability_to_set_a_battery/
+   https://www.reddit.com/r/Ubuntu/comments/gby6tu/psa_kernel_54_added_the_ability_to_set_a_battery/
 
 https://wiki.archlinux.org/index.php/Laptop/ASUS#Battery_charge_threshold
 
@@ -339,9 +373,9 @@ which allows you to quickly see what applications are using a lot of battery.
 Values are estimates.[^1]
 
 https://askubuntu.com/questions/112705/how-do-i-make-powertop-changes-permanent
+ -->
 
-
-
+<!-- 
 [^1]: To say down here.
 
 `PowerTOP --auto-tune`
@@ -401,4 +435,4 @@ https://github.com/georgewhewell/undervolt
 
 https://gitlab.com/asus-linux/asus-nb-ctrl
 
-https://github.com/dominiksalvet/asus-fan-control
+https://github.com/dominiksalvet/asus-fan-control --> 
