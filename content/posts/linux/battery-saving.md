@@ -3,7 +3,7 @@ title: "Linux Laptops & Battery Life    "
 date: 2021-01-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
-tags: ["Linux","tlp","guide","auto-cpufreq","laptop"]
+tags: ["Linux","TLP","guide","auto-cpufreq","laptop"]
 # author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -113,7 +113,7 @@ This assumes you are running Kubuntu:
 
 Together with your screen,
 the CPU (processor) of your laptop can be one of the big consumers of your laptop's battery.
-This section describes two tools, 'tlp' and 'auto-cpufreq',
+This section describes two tools, 'TLP' and 'auto-cpufreq',
 that work in conjunction,
 and limit the power consumption of your cpu.
 
@@ -171,8 +171,8 @@ However, auto-cpufreq is more extensive in its approach.
 Of course you don't want to do constantly change your CPUs frequency by hand,
 which is where ['auto-cpufreq'](https://github.com/AdnanHodzic/auto-cpufreq) comes in.[^4]
 In the
-[actions section below](#actions-tlp)
-I will explain how to install & configure tlp and auto-cpufreq alongside each other.
+[actions section below](#actions-TLP)
+I will explain how to install & configure TLP and auto-cpufreq alongside each other.
 
 [^4]: A more extensive explanation of what auto-cpufreq offers over TLP can be found
 [here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq)
@@ -186,11 +186,11 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
    follow the instructions
    [here](https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq).
 4. Run `sudo auto-cpufreq --install`
-5. Back-up your tlp configuration by running:\
+5. Back-up your TLP configuration by running:\
    `cp /etc/tlp.conf ~/tlp.conf`.[^5]
-6. Check that both tlp and auto-cpufreq are installed correctly.
+6. Check that both TLP and auto-cpufreq are installed correctly.
    1. Restart your laptop. Open a terminal.
-   2. Check that tlp is enabled by running:\
+   2. Check that TLP is enabled by running:\
       `tlp-stat -c`.\
       The very first line should contain:\
       `TLP_ENABLE="1"`.\
@@ -202,7 +202,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
       `systemctl status auto-cpufreq`,\
       when you went the other route.
       This should display some information telling `auto-cpufreq` is activated.
-7. Run `sudo nano /etc/tlp.conf` to open the tlp config file in nano.
+7. Run `sudo nano /etc/tlp.conf` to open the TLP config file in nano.
 8. In the config file,
    make sure the following lines are commented out,
    by making sure they start with a `#`:
@@ -211,7 +211,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
    - `#CPU_SCALING_MAX_FREQ_ON_BAT`
    - `#CPU_HWP_ON_BAT`
    - `#CPU_MIN_PERF_ON_BAT`
-9. This enables tlp and auto-cpufreq on your machine,
+9. This enables TLP and auto-cpufreq on your machine,
    which should already significantly improve the battery life of your laptop.
    In my case,
    I found it beneficial to tune the CPU frequency limit to further increase battery life.
@@ -227,7 +227,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
       it means your CPU is using `intel_pstate` scaling driver,
       and you can proceed to **to step 10.2 below**.
       Otherwise, proceed **to step 11 below.** 
-    2. Type: `sudo nano /etc/tlp.conf` to edit your tlp config file.
+    2. Type: `sudo nano /etc/tlp.conf` to edit your TLP config file.
       Uncomment the `CPU_MIN_PERF_ON_BAT = XX` parameter,
       and replace `XX` with a number between 0 and 100.
       Lower values mean longer battery life, but also slower performance.
@@ -240,7 +240,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
     follow the steps below.
     1. Open a terminal and type `sudo tlp-stat -p`,
     2. Note down the values for 'scaling_min_freq' and 'scaling_max_freq'.
-    3. Type: `sudo nano /etc/tlp.conf` to edit your tlp config file.
+    3. Type: `sudo nano /etc/tlp.conf` to edit your TLP config file.
     4. Find the line containing:\
        `CPU_SCALING_MAX_FREQ_ON_BAT =  YY`,\
        and uncomment it
@@ -260,7 +260,7 @@ To restore, run the command in reverse:\
 `sudo cp ~/tlp.conf /etc/tlp.conf`,
 where the sudo is necessary to copy into the `/etc/` directory.
 
-[^6]: The official tlp guide notes  that:\
+[^6]: The official TLP guide notes  that:\
 _'Lowering the max frequency on battery power does not conserve power; 
 best results are achieved by the ondemand governor without frequency limits'._
 This statement is either lacking in nuance or outdated.
