@@ -269,7 +269,7 @@ will unnecessarily cripple your system
 and indeed may even reduce your battery life,
 as certain tasks will run over a longer time.
 However, higher CPU frequencies may result in:\
-(1) higher temperatures, requiring active cooling with a fan.\
+(1) higher temperatures, requiring active cooling with a fan,\
 (2) an exponentially higher power consumption, see:
 [this medium post](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c).\
 These issues are no problem when running running on AC,
