@@ -298,10 +298,19 @@ The [actions](tlp-radio-actions) below result in the following behaviour:
 
 ### Actions (5 min) {#tlp-radio-actions}
 
-- Follow steps **TODO** in the [tlp & auto-cpufreq instructions above](#actions-tlp).
-- `sudo nano etc/tlp.conf`
-- Uncomment `DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE = "bluetooth wifi wwan"`.
-- Uncomment `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
+- Make sure that TLP is installed on your system by following
+  **steps 1, 2, 6.1, 6.2**
+  in
+  [TLP & auto-cpufreq instructions above](#actions-tlp).
+- Edit your TLP configuration by typing `sudo nano etc/tlp.conf`
+- Uncomment
+  (remove the leading `#`)
+  the following line:\
+  `DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE = "bluetooth wifi wwan"`.
+- Uncomment
+  (remove the leading `#`)
+  the following line:\
+  `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
 - Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
 
 # Future Topics
