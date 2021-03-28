@@ -188,8 +188,22 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
 4. Run `sudo auto-cpufreq --install`
 5. Back-up your tlp configuration by running:\
    `cp /etc/tlp.conf ~/tlp.conf`.[^5]
-6. Run `sudo nano /etc/tlp.conf` to open the tlp config file in nano.
-7. In the config file,
+6. Check that both tlp and auto-cpufreq are installed correctly.
+   1. Restart your laptop. Open a terminal.
+   2. Check that tlp is enabled by running:\
+      `tlp-stat -c`.\
+      The very first line should contain:\
+      `TLP_ENABLE="1"`.\
+      In case it does not, go in and edit the file as in **step 7** below,
+      and change the parameter.
+   3. Check that auto-cpufreq is activated by typing:\
+      `systemctl status snap.auto-cpufreq.service.service`,\
+      when you have installed the package using snap, or:\
+      `systemctl status auto-cpufreq`,\
+      when you went the other route.
+      This should display some information telling `auto-cpufreq` is activated.
+7. Run `sudo nano /etc/tlp.conf` to open the tlp config file in nano.
+8. In the config file,
    make sure the following lines are commented out,
    by making sure they start with a `#`:
    - `#CPU_SCALING_GOVERNOR_ON_BAT`
@@ -197,21 +211,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
    - `#CPU_SCALING_MAX_FREQ_ON_BAT`
    - `#CPU_HWP_ON_BAT`
    - `#CPU_MIN_PERF_ON_BAT`
-8. Check that both tlp and auto-cpufreq are installed correctly.
-   1. Restart your laptop. Open a terminal.
-   2. Check that tlp is enabled by running:\
-      `tlp-stat -c`.\
-      The very first line should contain:\
-      `TLP_ENABLE="1"`.\
-      In case it does not, go in and edit the file as in **step 6**.
-   3. Check that auto-cpufreq is activated by typing:\
-      `systemctl status snap.auto-cpufreq.service.service`,\
-      when you have installed the package using snap, or:\
-      `systemctl status auto-cpufreq`,\
-      when you went the other route.
-      This should display some information telling `auto-cpufreq` is activated.
-
-9.  This enables tlp and auto-cpufreq on your machine,
+9. This enables tlp and auto-cpufreq on your machine,
    which should already significantly improve the battery life of your laptop.
    In my case,
    I found it beneficial to tune the CPU frequency limit to further increase battery life.
