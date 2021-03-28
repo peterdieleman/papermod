@@ -8,7 +8,7 @@ author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false  
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 # description: "Desc Text."
@@ -34,6 +34,6 @@ For the dressing:[^1]
 
 - 50-55g rice vinegar
 - 2 tablespoons of sugar
-- 1 teaspoons of salt
+- 1 teaspoon of salt
 
 [^1]: justonecookbook.com/how-to-make-sushi-rice/
