@@ -284,8 +284,8 @@ intend to connect to any devices/networks.
 Most Linux distros offer options through the GUI that disable
 wifi and/or bluetooth when disconnecting from AC.
 This is a somewhat blunt instrument that can interfere with work,
-e.g. when you're in the middle of a Google Meet call using your 
-bluetooth headphones and running to a more quiet room. 
+e.g. when you're in the middle of a Google Meet call using your
+bluetooth headphones and running to a more quiet room.
 TLP offers a slightly more refined option that only disables
 bluetooth/wifi when you are not connected to any devices/networks.
 The [actions](tlp-radio-actions) below result in the following behaviour:
