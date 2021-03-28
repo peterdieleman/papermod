@@ -94,7 +94,7 @@ In addition,
 most Linux distros offer some settings to make sure your laptop's screen does not
 inadvertently eat a lot of battery when running from your battery.
 
-### Actions (3 min): 
+### Actions (5 min)
 
 This assumes you are running Kubuntu:
 
@@ -177,7 +177,7 @@ I will explain how to install & configure tlp and auto-cpufreq alongside each ot
 [^4]: A more extensive explanation of what auto-cpufreq offers over TLP can be found
 [here](https://github.com/AdnanHodzic/auto-cpufreq#why-do-i-need-auto-cpufreq)
 
-### Actions (10 mins): {#actions-tlp}
+### Actions (20 mins) {#actions-tlp}
 
 1. Open a terminal.
 2. Run `sudo apt install tlp`.
@@ -266,9 +266,7 @@ best results are achieved by the ondemand governor without frequency limits'._
 This statement is either lacking in nuance or outdated.
 It is certainly the case that setting this limit too low
 will unnecessarily cripple your system
-and indeed may even reduce your battery life,TLP project on github ↩︎
-
-
+and indeed may even reduce your battery life,
 as certain tasks will run over a longer time.
 However, higher CPU frequencies may result in:\
 (1) higher temperatures, requiring active cooling with a fan,\
@@ -298,10 +296,20 @@ The [actions](tlp-radio-actions) below result in the following behaviour:
 - Connecting to AC:
   - Enable bluetooth and wifi.
 
-### Actions (2 min) {#tlp-radio-actions}
+### Actions (5 min) {#tlp-radio-actions}
 
 - Follow steps **TODO** in the [tlp & auto-cpufreq instructions above](#actions-tlp).
 - `sudo nano etc/tlp.conf`
 - Uncomment `DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE = "bluetooth wifi wwan"`.
 - Uncomment `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
 - Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
+
+# Future Topics
+
+- Undervolting
+- Sleep and hibernate settings
+- Battery conservation
+- Hardware acceleration for video (Chrome / Firefox)
+- Powertop
+- Darkmode
+- An easy way to measure real life battery time
