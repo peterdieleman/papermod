@@ -33,7 +33,7 @@ params:
     tocopen: true
 
     assets:
-        # disableHLJS: true # to disable highlight.js
+        disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
         favicon: /Boba-Fett.ico
         favicon16x16: /Boba-Fett-16x16.png
@@ -58,12 +58,12 @@ params:
         buttons:
             - name: Linux
               url: tags/linux/
-            - name: Cooking Recipes
-              url: tags/recipe
-            - name: Random
-              url: tags/random
-            - name: All Posts
-              url: posts
+            # - name: Cooking Recipes
+            #   url: tags/recipe
+            # - name: Random
+            #   url: tags/random
+            # - name: All Posts
+            #   url: posts
 
     # home-info mode
     homeInfoParams:
@@ -71,8 +71,8 @@ params:
         Content: "Plus some other random observations. Press  Alt + / for search."
 
     socialIcons:
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/13984462/peter-dieleman"
+        # - name: stackoverflow
+        #   url: "https://stackoverflow.com/users/13984462/peter-dieleman"
         - name: github
           url: "https://github.com/peterdieleman"
         - name: twitter
@@ -90,8 +90,8 @@ params:
     fuseOpts:
         isCaseSensitive: false
         shouldSort: true
-        location: 0
-        distance: 1000
+        location: 1
+        distance: 1000000
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
@@ -109,21 +109,17 @@ menu:
           name: search
           url: /search/
           weight: 20
-        # - identifier: example
-        #   name: thisistheway.wiki
-        #   url: https://thisistheway.wiki.org
-        #   weight: 30
 outputs:
     home:
         - HTML
         - RSS
         - JSON # is necessary
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+pygmentsUseClasses: true
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: monokai
