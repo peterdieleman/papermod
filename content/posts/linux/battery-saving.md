@@ -112,7 +112,7 @@ This assumes you are running Kubuntu:
 ## CPU 
 
 Together with your screen,
-the CPU (processor) of your laptop can be one of the big consumers of your laptop's battery. 
+the CPU (processor) of your laptop can be one of the big consumers of your laptop's battery.
 This section describes two tools, 'tlp' and 'auto-cpufreq',
 that work in conjunction,
 and limit the power consumption of your cpu.
@@ -266,7 +266,9 @@ best results are achieved by the ondemand governor without frequency limits'._
 This statement is either lacking in nuance or outdated.
 It is certainly the case that setting this limit too low
 will unnecessarily cripple your system
-and indeed may even reduce your battery life,
+and indeed may even reduce your battery life,TLP project on github ↩︎
+
+
 as certain tasks will run over a longer time.
 However, higher CPU frequencies may result in:\
 (1) higher temperatures, requiring active cooling with a fan,\
@@ -303,136 +305,3 @@ The [actions](tlp-radio-actions) below result in the following behaviour:
 - Uncomment `DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE = "bluetooth wifi wwan"`.
 - Uncomment `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
 - Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
-
-<!-- 
-## Video / gpu
-
-### hardware acceleration (videos)
-
-You don't install linux on a laptop to watch videos all day,
-but it's still nice save a little bit of battery when you do.
-By default, watching videos through chrome on firefox or chrome can eat quite a bit of battery,
-as they don't make use of the GPU (graphics card). 
-This means the videos 
-This has a variety of reasons:
-
-- h264
-- linux being supported, especially when it comes to nvidia
-
-Late 2020, firefox finally gained the, see:
-
-[this post on omgubuntu]
-(https://www.omgubuntu.co.uk/2020/08/firefox-80-release-linux-gpu-acceleration)
-
-Actions (5 mins):
-- xyz
-- xyz
-
-https://linuxconfig.org/graphics-driver-check-ubuntu-20-04-focal-fossa
-
-## Bonus:
-
-an easy tool to measure time on battery!
-
-<!---
-TODO: does it even help?
-do a few benchmarks on this.
--->
-<!-- 
-## sleep settings
-
-This is a topic with a long history.
-
-# Diminishing Returns
-
-This is the 
-
-## battery conservation 
-
-limit battery charge to preserve battery life.
-
-https://dev.to/vaclavhodek/limit-battery-charging-on-asus-ubuntu-56cn
-
-https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html
-
-   https://www.reddit.com/r/Ubuntu/comments/gby6tu/psa_kernel_54_added_the_ability_to_set_a_battery/
-
-https://wiki.archlinux.org/index.php/Laptop/ASUS#Battery_charge_threshold
-
-## powertop
-
-Additionally, there is the `powertop` package.
-This package was originally developed by intel as
-a diagnostic tool for linux distribution developers.
-It comes with a host of options,
-some of which actually toggle .
-However, these settings are quite difficult to get-persistent-on-boot,
-and provide little gains over the defaults used by most linux distros.
-The most valuable feature is the overview that is provided in the default menu,
-which allows you to quickly see what applications are using a lot of battery.
-Values are estimates.[^1]
-
-https://askubuntu.com/questions/112705/how-do-i-make-powertop-changes-permanent
- -->
-
-<!-- 
-[^1]: To say down here.
-
-`PowerTOP --auto-tune`
-
-## hibernate (aka sleep settings part 2)
-
-Alright
-
-Logo: ![alt](/powertop_overview.png#center "Title")
-
-Test: ![alt](/powertop_tunables.png#center "Title")
-
-## other tips
-
-close apps that you don't nee
-
-## dropbox
-
-dropbox fairly slow to sync (especially when you have many files)
-this means it can run for quite a long time
-this is no problem on AC, but can drain quite some battery
-In KDE it is possible to disable syncing when on battery.
-This can be done by running the following script.
-
-dropbox start
-dropbox stop
-
-
-### Undervolting
-
-`s-tui`
-
-`sudo apt-get install stress`
-
-`sudo undervolt --core -80 --cache -80`
-
-`sudo pip3 install undervolt`
-
-`sudo apt install python3-pip`
-
-### darkmode
-
-A lot of developers have darkmode enabled by default. A lot of people have darkmode enabled. 
-
-# Further info
-
-[An extensive guide to optimizing a linux battery for battery life and performance](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c)
-
-
-https://github.com/erpalma/throttled
-
-
-https://github.com/amanusk/s-tui
-
-https://github.com/georgewhewell/undervolt
-
-
-https://gitlab.com/asus-linux/asus-nb-ctrl
-
-https://github.com/dominiksalvet/asus-fan-control --> 
