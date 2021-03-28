@@ -58,12 +58,12 @@ params:
         buttons:
             - name: Linux
               url: tags/linux/
-            - name: Cooking Recipes
-              url: tags/recipe
-            - name: Random
-              url: tags/random
-            - name: All Posts
-              url: posts
+            # - name: Cooking Recipes
+            #   url: tags/recipe
+            # - name: Random
+            #   url: tags/random
+            # - name: All Posts
+            #   url: posts
 
     # home-info mode
     homeInfoParams:
@@ -71,8 +71,8 @@ params:
         Content: "Plus some other random observations. Press  Alt + / for search."
 
     socialIcons:
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/13984462/peter-dieleman"
+        # - name: stackoverflow
+        #   url: "https://stackoverflow.com/users/13984462/peter-dieleman"
         - name: github
           url: "https://github.com/peterdieleman"
         - name: twitter
@@ -109,10 +109,6 @@ menu:
           name: search
           url: /search/
           weight: 20
-        # - identifier: example
-        #   name: thisistheway.wiki
-        #   url: https://thisistheway.wiki.org
-        #   weight: 30
 outputs:
     home:
         - HTML
