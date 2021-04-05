@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Steps to replicate this website"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
