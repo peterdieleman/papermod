@@ -25,9 +25,7 @@ searchHidden: false
 
 ---
 
-# Steps for replicating this website 
-
-On macOS:
+# On macOS
 
 1. Create a [Github](http://github.com/) account.
 2. Open a terminal.
