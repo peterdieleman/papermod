@@ -46,8 +46,7 @@ sudo nano /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
 ```
 
 and changing the value from `3` to a `2`.
-Hit `Control+X` and then `Y` when prompted to save your changes,
-and reboot.
+Hit `Control+X` and `Y` when prompted to save your changes. Reboot.
 This disables the powersave mode for your wifi driver [^1].
 To check if this had any effect,
 type `iwconfig` and see whether the value after 'Power management:' reads 'off'.
@@ -65,8 +64,8 @@ WIFI_PWR_ON_BAT=on
 ```
 
 check that at least the 'AC' setting is set to 'off'.
-Hit `Control+X` and then `Y` when prompted to save your changes,
-and reboot.
+Hit `Control+X` and `Y` when prompted to save your changes.
+Reboot.
 Consider turning your 'BAT' setting to 'off' as well in the case you experience 
 very low or inconsistent 5g wifi speeds.
 
