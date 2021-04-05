@@ -11,10 +11,9 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "When connected to a 5ghz wifi network you may experience slower speeds
-            than Windows, or then when connected to a the same router on a 2.4ghz network.
-            This may be due to a change in the default wifi power saving mode in Ubuntu 20.04."
-disableHLJS: true # to disable highlightjs
+description: "When connected to a 5ghz wifi network you may experience slow network speeds under 
+Ubuntu 20.04. This may be due to a change in the default wifi power saving mode in Ubuntu 20.04."
+disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
