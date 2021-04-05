@@ -31,7 +31,7 @@ describes limited network speeds when connected to a 5ghz network.
 This bottleneck only appears as a problem for those people that are lucky enough to
 have fast enough broadband.
 For example, on my Zenbook I obtained average download speeds no greater than 25Mpbs,
-while easily obtaining 250Mpbs down /25Mpbs up on my Macbook,
+while easily obtaining 250Mpbs/25Mpbs Up/Down on my Macbook,
 which hits the capped speed of my IP.
 This is on the the exact same 5g network and from the exact same location in the house.
 On top of this the speed is not only slower, but also jump all over the place.
