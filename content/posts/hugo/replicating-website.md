@@ -53,7 +53,7 @@ searchHidden: false
    9. Type `git submodule update --init --recursive`
       to make sure the submodules are cloned correctly.
 7. Within this folder, run `hugo server -D` and navigate to
-   http://localhost:1313/
+   [http://localhost:1313/](http://localhost:1313/)
    to look at the website.
 
 ## Deploying to Netlify
