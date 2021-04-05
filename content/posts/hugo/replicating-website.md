@@ -27,19 +27,21 @@ searchHidden: false
 
 # On macOS
 
+## Cloning the Repository
+
 1. Create a [Github](http://github.com/) account.
 2. Open a terminal.
 3. Make sure that you have installed 'brew' by 
    following [the installation instructions](https://brew.sh/).
-4. Install git by running `brew install git`
-5. Install hugo by running `brew install hugo`
+4. Install git by running `brew install git`.
+5. Install hugo by running `brew install hugo`.
 6. We're going to duplicate a repository by using the steps described
    [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository).
    Follow the steps below:
-   1. On github.com, create a new repository with your desired `newname`
-   2. Open a terminal
+   1. On github.com, create a new repository with your desired `newname`.
+   2. Open a terminal.
    3. Navigate to a suitable directory to clone into by making use of the `cd` command.
-   4. Type `git clone --bare https://github.com/peterdieleman/papermod.git && cd papermod`
+   4. Type `git clone --bare https://github.com/peterdieleman/papermod.git && cd papermod`.
    5. Type `git push --mirror https://github.com/yourusername/newname.git`,
       where `yourusername` is your github username,
       and where `newname` is the repository name above.
@@ -54,4 +56,19 @@ searchHidden: false
    http://localhost:1313/
    to look at the website.
 
-To follow: Using Netlify
+## Deploying to Netlify
+
+1. Sign up for a [netlify account](https://www.netlify.com/).
+2. Navigate to the [main settings page](https://app.netlify.com/).
+3. Click on `New site from Git`.
+4. Select 'Github'.
+5. Select the repository that you want to build the site from.
+6. Navigate to the bottom and hit 'Deploy site'.
+
+Your site should now be deployed to a randomly generated `*.netlify.com` address.
+To view the configuration of your site,
+navigate to
+[app.netlify.com](https://app.netlify.com/)
+and click on 'Sites'.
+
+## To come: Connecting your custom domain
