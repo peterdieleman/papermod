@@ -52,7 +52,8 @@ searchHidden: false
    8. Type `cd newname` to move into your newly cloned repo.
    9. Type `git submodule update --init --recursive`
       to make sure the submodules are cloned correctly.
-7. Within this folder, run `hugo server -D` and navigate to
+7. Make sure you are on the 'master' branch by running `git checkout master`.
+8. Within this folder, run `hugo server -D` and navigate to
    [http://localhost:1313/](http://localhost:1313/)
    to look at the website.
 
