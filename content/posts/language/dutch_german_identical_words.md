@@ -25,4 +25,7 @@ searchHidden: true
 
 ---
 
-test
+| Dutch     | German | Meaning |
+| --------- | ------ | ------- |
+| Header    | Title  | asdfaf  |
+| Paragraph | Text   | asfadf  |
