@@ -29,3 +29,5 @@ searchHidden: true
 | --------- | ------ | ------- |
 | Header    | Title  | asdfaf  |
 | Paragraph | Text   | asfadf  |
+| Header    | Title  | asdfaf  |
+| Paragraph | Text   | asfadf  |
