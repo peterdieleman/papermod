@@ -109,7 +109,7 @@ This assumes you are running Kubuntu:
   - enable the 'Screen Energy Saving' and
   set a time after which the screen should turn off.
 
-## CPU 
+## CPU
 
 Together with your screen,
 the CPU (processor) of your laptop can be one of the big consumers of your laptop's battery.
@@ -150,9 +150,9 @@ while still having acceptable performance for most tasks.
 
 ### auto-cpufreq
 
-Simply limiting the maximum frequency of your CPU helps improving
+Simply limiting the maximum frequency of your CPU helps to improve
 the battery life of your laptop.
-However, this is approach is still fairly static[^3]
+However, this is approach is still fairly static[^3]. 
 Additional benefits can be gained by 'throttling' your CPU.
 Basically this means scaling up the maximum frequency of the CPU when
 processing power is required,
