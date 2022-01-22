@@ -6,7 +6,7 @@ date: 2022-01-21T09:02:34+01:00
 tags: [""]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -42,8 +42,7 @@ Almost always:
 
 - **in** (_when referring to female professions Ärztin, Köchin, Sekretärin_)
 - **ung** (Bewegung, Endung, Entfernung)
-- **ie** (Demokratie, Energie, Fotografie)
-  [^1]: except: der Junkie, der Hippie
+- **ie** (Demokratie, Energie, Fotografie)[^1]
 - **ei** (Bäckerei, Bücherei, Druckere)
 - **keit** (Einigkeit, Einsamkeit, Geschwindigkeit)
 - **schaft** (Feindschaft, Freundschaft, Gesellschaft)
@@ -68,8 +67,8 @@ Almost always:
 - **tum** (Brauchtum, Christentum, Eigentum)
 - **um** (Datum, Publikum, Stadium)
 - **o** (Auto, Konto)
-  [^4]: Except: _die Avocado, der Euro_ 
 
-
+[^1]: except: der Junkie, der Hippie
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)
+[^4]: Except: _die Avocado, der Euro_ 
