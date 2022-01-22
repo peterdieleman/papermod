@@ -8,7 +8,7 @@ author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "When connected to a 5ghz wifi network you may experience slow network speeds under 
