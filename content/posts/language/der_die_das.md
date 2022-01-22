@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Rules for German articles"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -68,7 +68,6 @@ Almost always:
 - **lein** (Bächlein, Fräulein, Häuslein)
 - **ment** (Argument, Dokument, Elemen)
 - **tum** (Brauchtum, Christentum, Eigentum)
-<!-- - ma (Datum, Publikum, Stadium) -->
 - **um** (Datum, Publikum, Stadium)
 - **o** (Auto, Konto)
   [^4]: Except: _die Avocado, der Euro_ 
