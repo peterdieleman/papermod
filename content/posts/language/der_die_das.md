@@ -57,7 +57,7 @@ Almost always:
 
 ## Foreign words:
 
-– **ade** (Hitparade, Marmelade)
+- **ade** (Hitparade, Marmelade)
 - **age** (Garage, Passage)
 - **anz** (Allianz, Arroganz, Bilanz)
 - **enz** (Existenz, Intelligenz, Konferenz)
