@@ -3,7 +3,7 @@ title: "False Friends"
 date: 2022-01-21T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: [""]
+tags: ["German"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true

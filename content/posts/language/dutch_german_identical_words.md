@@ -3,7 +3,7 @@ title: "German Words that are Identical to Dutch"
 date: 2022-01-19T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: [""]
+tags: ["German"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
