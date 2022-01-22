@@ -61,7 +61,7 @@ params:
             - name: Cooking Recipes
               url: tags/recipe
             - name: German
-              url: tags/geran
+              url: tags/german
             # - name: All Posts
             #   url: posts
 
