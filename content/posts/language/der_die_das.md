@@ -31,8 +31,6 @@ Almost always:
 
 - **or** (Autor, Direktor, Doktor)
 - **ling** (Feigling, Lehrling, Pfifferling)
-<!-- - **ig** -->
-<!-- - **ner** -->
 - **ismus** (Alkoholismus, Atheismus, Faschismus)
 - **ant** (Emigrant, Fabrikant, Lieferant)
 - **ent** (Absolvent, Agent, Dirigent)
@@ -73,9 +71,5 @@ Almost always:
   [^4]: Except: _die Avocado, der Euro_ 
 
 
-
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)
-<!-- 
-https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf
-http://www.passion4teq.com/articles/der-die-das-genus-regeln/ -->
