@@ -70,6 +70,9 @@ Almost always:
 - **tum** (Brauchtum, Christentum, Eigentum)
 <!-- - ma (Datum, Publikum, Stadium) -->
 - **um** (Datum, Publikum, Stadium)
+- **o** (Auto, Konto)
+  [^4]: Except: _die Avocado, der Euro_ 
+
 
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
