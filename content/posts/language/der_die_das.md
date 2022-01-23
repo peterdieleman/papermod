@@ -93,7 +93,7 @@ Further Rules:
 - **-ing** When referring to English words (das Meeting, das Training)
 - **-ma** When referring to words of Greek origin (das Schema, das Thema, das Rheuma. But not: die Firma, der Puma)
 - **-nis** When _not_ referring to a state of mind (das Ergbenis, das Zeugnis)[^10]
-- **ge-** When used as a prefix (das Gebirge, das Gebäck, das Geschirr)[^5][^11]
+- **ge-** When used as a prefix (das Gebirge, das Gebäck, das Geschirr)[^5]’[^11]
 
 These endings are usually das words when referring to things[^5]:
 
@@ -102,10 +102,10 @@ These endings are usually das words when referring to things[^5]:
 - **-ar** (Radar, Sonar)[^12]
 - **-(m)ent** (Talent, Dokument, Element)
 - **-ett** (Etikett, Ballett, Sonett, Bett, Brett)
-- **-ier** (Papier, Tier, Bier)^[13]
+- **-ier** (Papier, Tier, Bier)[^13]
 - **-iv** (Adjektiv, Archiv, Stativ)
 - **-o** (Büro, Cello, Klo)
-- **-on** When referring to words of Greek origin (Mikrophon, Hormon, Lexikon)^[14]
+- **-on** When referring to words of Greek origin (Mikrophon, Hormon, Lexikon)[^14]
 
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
