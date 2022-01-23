@@ -92,7 +92,7 @@ params:
         shouldSort: true
         location: 1
         distance: 1000000
-        threshold: 0.6
+        threshold: 0.3
         minMatchCharLength: 0
         includeScore: true
         keys: ["title", "permalink", "summary", "content"]
