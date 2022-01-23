@@ -43,8 +43,15 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Angst, die
 - vier
 - Hamburger, der
+- Gedicht, das
+- Balkon, der
+- Hotel, das
+- Detail, das
+- Radar, das
+- Ticket, das
+- Kiwi, die
 
-# Off by 1:
+# Off-by-one:
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
@@ -62,8 +69,17 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - vierte 
 - Tier, das
 - trinken
+- Geschlecht, das
+- jung
+- leben
+- Soldat, der
+- Februar, der
+- Präsident, der
+- Pflicht, die
+- Leder, das
+- Kristall, der
 
-# Off by 2:
+# Off-by-two:
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
@@ -74,10 +90,25 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - langsam
 - Charakter, der
 - nichts
+- Kostüm, das
+- Liste, die
+- Antwort, die
+- Ehre, die
+
+# Homophones (subset of off-by-more-than-two)
+
+German and Dutch words with identical meaning, pronounced similarly, but with different spelling:
+
+- bauen
+- kreativ
 
 # False friends
 
+Words that exist in Dutch with an almost similar spelling, but that have a different meaning
+
 - Gift
 - Gelegenheit
-- das Ufer
-- 
+- Ufer, das
+- Bericht, der
+- Kleid, das
+- Hochwasser, das
