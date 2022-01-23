@@ -69,7 +69,6 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Leder, das
 - Mayonnaise, die
 - Norden, der
-- Pfau, der
 - Pflicht, die
 - Präsident, der
 - Soldat, der
@@ -91,6 +90,7 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - langsam
 - Liste, die
 - nichts
+- Pfau, der
 - Regierung, die
 - Roboter, der
 - Schokolade, die
