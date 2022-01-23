@@ -25,6 +25,8 @@ searchHidden: false
 
 ---
 
+Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2][^3]
+
 # Der
 
 Almost always:
@@ -52,7 +54,7 @@ Almost always:
 - **ur** (Agentur, Diktatur, Natu)
 - **heit** (Frechheit, Freiheit, Geborgenheit)
 
-## Foreign words:
+In addition, foreign words with these endings are also Die:
 
 - **ade** (Hitparade, Marmelade)
 - **age** (Garage, Passage)
@@ -68,7 +70,7 @@ Almost always:
 - **um** (Datum, Publikum, Stadium)
 - **o** (Auto, Konto)
 
-[^1]: except: der Junkie, der Hippie
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)
+[^1]: except: der Junkie, der Hippie
 [^4]: Except: _die Avocado, der Euro_ 
