@@ -27,6 +27,8 @@ searchHidden: false
 
 # Identical
 
+German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles)
+
 - Energie, die
 - Allergie
 - Artikel
@@ -39,29 +41,43 @@ searchHidden: false
 - Tunnel, der
 - Magie, die
 - Angst, die
+- vier
+- Hamburger, der
 
 # Off by 1:
 
-German word can be formed by (adding, replacing, or deleting 1 of the letters in the Dutch word.
+German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
 - Grab
 - Mayonnaise
 - Tourist
 - Norden
-- Basketball, Der
+- Basketball, der
 - stören
+- Eingang, der
+- Kamera, die
+- Jäger, der
+- Pfau, der
+- hören
+- vierte 
+- Tier, das
+- trinken
 
 # Off by 2:
 
-German word can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word.
+German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
 - Roboter, der
 - Regierung, die
 - Baum, der
 - Tomate, die
+- langsam
+- Charakter, der
+- nichts
 
 # False friends
 
 - Gift
 - Gelegenheit
 - das Ufer
+- 
