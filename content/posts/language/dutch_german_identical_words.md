@@ -29,71 +29,72 @@ searchHidden: false
 
 German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles)
 
-- Energie, die
-- Allergie
-- Artikel
-- Assistent
-- Spiegel, der
-- Restaurant, das
-- Regel, die
-- Engel, der
-- Mode, die
-- Tunnel, der
-- Magie, die
+- Allergie, die
 - Angst, die
-- vier
-- Hamburger, der
-- Gedicht, das
+- Artikel, der
+- Assistent
 - Balkon, der
-- Hotel, das
 - Detail, das
-- Radar, das
-- Ticket, das
+- Energie, die
+- Engel, der
+- Gedicht, das
+- Hamburger, der
+- Hotel, das
 - Kiwi, die
+- Magie, die
+- Mode, die
+- Radar, das
+- Regel, die
+- Restaurant, das
+- Spiegel, der
+- Ticket, das
+- Tunnel, der
+- vier
 
 # Off-by-one:
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
-- Grab
-- Mayonnaise
-- Tourist
-- Norden
 - Basketball, der
-- stören
 - Eingang, der
-- Kamera, die
-- Jäger, der
-- Pfau, der
-- hören
-- vierte 
-- Tier, das
-- trinken
-- Geschlecht, das
-- jung
-- leben
-- Soldat, der
 - Februar, der
-- Präsident, der
-- Pflicht, die
-- Leder, das
+- Geschlecht, das
+- Grab, das
+- hören
+- jung
+- Jäger, der
+- Kamera, die
 - Kristall, der
+- leben
+- Leder, das
+- Mayonnaise, die
+- Norden, der
+- Pfau, der
+- Pflicht, die
+- Präsident, der
+- Soldat, der
+- stören
+- Tier, das
+- Tourist, der
+- trinken
+- vierte 
 
 # Off-by-two:
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
-- Roboter, der
-- Regierung, die
-- Baum, der
-- Tomate, die
-- langsam
-- Charakter, der
-- nichts
-- Kostüm, das
-- Liste, die
 - Antwort, die
+- Baum, der
+- Charakter, der
 - Ehre, die
+- Kostüm, das
+- langsam
+- Liste, die
+- nichts
+- Regierung, die
+- Roboter, der
+- Schokolade, die
+- Tomate, die
 
 # Homophones (subset of off-by-more-than-two)
 
@@ -101,15 +102,15 @@ German and Dutch words with identical meaning, pronounced similarly, but with di
 
 - bauen
 - kreativ
-- Schokolade, die
+
 
 # False friends
 
 Words that exist in Dutch with an almost similar spelling, but that have a different meaning
 
-- Gift
-- Gelegenheit
-- Ufer, das
 - Bericht, der
-- Kleid, das
+- Gelegenheit, die
+- Gift, das
 - Hochwasser, das
+- Kleid, das
+- Ufer, das
