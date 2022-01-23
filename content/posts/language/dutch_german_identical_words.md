@@ -94,6 +94,7 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Liste, die
 - Antwort, die
 - Ehre, die
+- Schokolade, die
 
 # Homophones (subset of off-by-more-than-two)
 
