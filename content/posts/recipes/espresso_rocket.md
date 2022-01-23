@@ -24,3 +24,5 @@ searchHidden: false
 - 10g
 - 24sec
 - 30mL out
+
+[^1] [blog-post](https://www.home-barista.com/espresso-machines/single-basket-size-too-big-for-8g-espresso-dose-t28758.html)
