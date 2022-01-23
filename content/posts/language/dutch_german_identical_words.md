@@ -1,5 +1,5 @@
 ---
-title: "German Words that are Identical to Dutch"
+title: "German & Dutch. (Near) Identical Words and False Friends"
 date: 2022-01-19T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -25,14 +25,43 @@ searchHidden: false
 
 ---
 
-| Dutch     | German | Meaning |
-| --------- | ------ | ------- |
-| Header    | Title  | asdfaf  |
-| Paragraph | Text   | asfadf  |
-| Header    | Title  | asdfaf  |
-| Paragraph | Text   | asfadf  |
-| Test		| Text   | asfadf  | 
+# Identical
 
-<!-- retroworter -->
+- Energie, die
+- Allergie
+- Artikel
+- Assistent
+- Spiegel, der
+- Restaurant, das
+- Regel, die
+- Engel, der
+- Mode, die
+- Tunnel, der
+- Magie, die
+- Angst, die
 
-<!-- https://skiinformatie.nl/7-nederlandse-woorden-die-in-het-duits-heel-wat-anders-betekenen/ -->
+# Off by 1:
+
+German word can be formed by (adding, replacing, or deleting 1 of the letters in the Dutch word.
+
+- Grab
+- Mayonnaise
+- Tourist
+- Norden
+- Basketball, Der
+- stören
+
+# Off by 2:
+
+German word can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word.
+
+- Roboter, der
+- Regierung, die
+- Baum, der
+- Tomate, die
+
+# False friends
+
+- Gift
+- Gelegenheit
+- das Ufer
