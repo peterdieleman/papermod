@@ -20,7 +20,7 @@ searchHidden: false
 ---
 
 - Rocket Appartemento 
-- 1Zpresso click 2.1
+- 1Zpresso click 2.0, 2.1
 - 10g
 - 24sec
 - 30mL out
