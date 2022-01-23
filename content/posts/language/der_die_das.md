@@ -120,5 +120,5 @@ These endings are usually das words when referring to things[^5]:
 [^10]: Except: die Erkenntnis, die Kenntnis, die Erlaubnis
 [^11]: Except: male persons (der Gehilfe), as well as some nouns derived from verbs (der Gebrauch, der Genuss, der Gesang, der Gedanke, der Geruch, der Gewinn), and these 11 female words: Gebärde, Gebühr, Geburt, Geduld, Gefahr,  Gemeinde, Geschichte, Geschwulst, Gestalt,  Gewähr, Gewalt.
 [^12]: Except: der Altar.
-[^13]: Except: die Neugie.
+[^13]: Except: die Neugier.
 [^14]: Except: words of non-greek origin, which are usually Der words (der Bourbon, der Kanon, der Pavillon, der Waggon).
