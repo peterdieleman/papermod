@@ -25,31 +25,38 @@ searchHidden: false
 
 ---
 
-Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2][^3]
+Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2][^3][^4][^5][^6]
 
 # Der
 
-Almost always:
+These words are almost always Der:
 
+- **er** (_except: die Butter, das Fenster, die Leiter, die Mutter_)
 - **or** (Autor, Direktor, Doktor)
 - **ling** (Feigling, Lehrling, Pfifferling)
-- **ismus** (Alkoholismus, Atheismus, Faschismus)
 - **ant** (Emigrant, Fabrikant, Lieferant)
+- **ast** (Ballast, Palast, Morast)
 - **ent** (Absolvent, Agent, Dirigent)
 - **ist** (Artist, Jurist, Journalist)
-- **er** (_except: die Butter, das Fenster, die Leiter, die Mutter_)
 - **ich** (Gänserich, Kranich, Pfirsich)
+- **ig** (Essig, König, Honig)
+- **eig** (Zweig, Teig, Steig)
+- **eich** (Bereich, Teich, Deich)
+- **us** (Campus, Exitus)[^7]
+- **ismus** (Alkoholismus, Atheismus, Faschismus)
 
 # Die:
 
-- **in** (_when referring to female professions Ärztin, Köchin, Sekretärin_)
-- **ung** (Bewegung, Endung, Entfernung)
+- **e** (90%: Bete, Seite, Zeile)^[9]
 - **ie** (Demokratie, Energie, Fotografie)[^1]
-- **ei** (Bäckerei, Bücherei, Druckere)
+- **ei** (Bäckerei, Bücherei, Druckerei)
+- **in** (_when referring to female persons Ärztin, Köchin, Sekretärin_)
+- **ung** (Bewegung, Endung, Entfernung)
 - **keit** (Einigkeit, Einsamkeit, Geschwindigkeit)
 - **schaft** (Feindschaft, Freundschaft, Gesellschaft)
 – **tät** (Aggressivität, Aktivität, Humanität)
 - **tion** (Aktion, Diskussion, Information)
+- **sion** (Version, Dimension, Illusion)
 - **ik** (Fabrik, Klinik, Politik)
 - **ur** (Agentur, Diktatur, Natu)
 - **heit** (Frechheit, Freiheit, Geborgenheit)
@@ -58,10 +65,16 @@ In addition, foreign words with these endings are also Die:
 
 - **ade** (Hitparade, Marmelade)
 - **age** (Garage, Passage)
-- **anz** (Allianz, Arroganz, Bilanz)
+- **anz** (Allianz, Arroganz, Bilanz)[^8]
 - **enz** (Existenz, Intelligenz, Konferenz)
 
+Further Rules:
+
+- **nis** (from adjectives and verbs expressing a state of mind)[^5]
+
 # Das
+
+These word endings indicate a Das word:
 
 - **chen** (Bäumchen, Bärchen, Häschen)
 - **lein** (Bächlein, Fräulein, Häuslein)
@@ -69,8 +82,26 @@ In addition, foreign words with these endings are also Die:
 - **tum** (Brauchtum, Christentum, Eigentum)
 - **um** (Datum, Publikum, Stadium)
 - **o** (Auto, Konto)
+- **il** (Ventil, Profil, Textil)
+- **it** (Fazit, Dynamit, Zenit)
+
+Further Rules:
+
+- **a** When referring to a country (das Amerika, das Guinea)
+- **en** When a verb is used as a noun (das Lesen, das Verstehen)
+- **in** When referring to chemical terms (das Benzin, das Protein)
+- **ing** When referring to English words (das Meeting, das Training)
+- **ma** When referring to words of Greek origin (das Schema, das Thema, das Rheuma. But not: die Firma, der Puma)
+- **nis** When _not_ referring to a state of mind (das Ergbenis, das Zeugnis)[^10]
+
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)
-[^1]: except: der Junkie, der Hippie
-[^4]: Except: _die Avocado, der Euro_ 
+[^4]: [lingolia](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/gender)
+[^5]: [jakubmarian](https://jakubmarian.com/how-to-recognize-gender-in-german-using-endings/)
+[^6]: [der-artikel](https://der-artikel.de/)
+[^1]: Except der Junkie, der Hippie.
+[^4]: Except das Genus, das Tempus.
+[^8]: Except monosyllabic words: der Schwanz, der Tanz.
+[^9]: Except: names of male persons and animal: der Affe, der Bote, der Junge, etc.
+[^10]: Except: die Erkenntnis, die Kenntnis, die Erlaubnis
