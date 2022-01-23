@@ -19,10 +19,20 @@ searchHidden: false
 
 ---
 
-- Rocket Appartemento 
+Rocket Single Basket:
+
 - 1Zpresso click 2.0, 2.1
 - 10g
 - 24sec
 - 30mL out
+
+or:
+
+- 1Zpresso click 1.2 (halfway 1 and 2)
+- 8g
+- 24sec
+- 25mL out
+
+
 
 [^1] [blog-post](https://www.home-barista.com/espresso-machines/single-basket-size-too-big-for-8g-espresso-dose-t28758.html)
