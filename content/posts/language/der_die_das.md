@@ -93,6 +93,8 @@ Further Rules:
 - **ing** When referring to English words (das Meeting, das Training)
 - **ma** When referring to words of Greek origin (das Schema, das Thema, das Rheuma. But not: die Firma, der Puma)
 - **nis** When _not_ referring to a state of mind (das Ergbenis, das Zeugnis)[^10]
+- **ge-** When used as a prefix (das Gebirge, das Gebäck, das Geschirr)[^5][^11]
+
 
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
@@ -105,3 +107,4 @@ Further Rules:
 [^8]: Except monosyllabic words: der Schwanz, der Tanz.
 [^9]: Except: names of male persons and animal: der Affe, der Bote, der Junge, etc.
 [^10]: Except: die Erkenntnis, die Kenntnis, die Erlaubnis
+[^11]: Except: male persons (der Gehilfe), as well as some nouns derived from verbs (der Gebrauch, der Genuss, der Gesang, der Gedanke, der Geruch, der Gewinn), and these 11 female words: Gebärde, Gebühr, Geburt, Geduld, Gefahr,  Gemeinde, Geschichte, Geschwulst, Gestalt,  Gewähr, Gewalt.
