@@ -47,7 +47,7 @@ These words are almost always Der:
 
 # Die:
 
-- **-e** (90%: Bete, Seite, Zeile)^[9]
+- **-e** (90%: Bete, Seite, Zeile)[^9]
 - **-ie** (Demokratie, Energie, Fotografie)[^1]
 - **-ei** (Bäckerei, Bücherei, Druckerei)
 - **-in** (_when referring to female persons Ärztin, Köchin, Sekretärin_)
