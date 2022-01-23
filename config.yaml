@@ -35,7 +35,7 @@ params:
     assets:
         disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: /Boba-Fett.ico
+        favicon: /favicon.ico
         favicon16x16: /Boba-Fett-16x16.png
         favicon32x32: /Boba-Fett-32x32.png
         apple_touch_icon: /apple-touch-icon.png
