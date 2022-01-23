@@ -25,7 +25,7 @@ searchHidden: false
 
 ---
 
-Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2],[^3],[^4],[^5],[^6]
+Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2]’[^3]’[^4]’[^5]’[^6]
 
 # Der
 
