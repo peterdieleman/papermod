@@ -24,10 +24,12 @@ searchHidden: false
 #     hidden: true # only hide on current single page
 
 ---
+# Dutch and German
 
-# Identical
+Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. This is an attempt at listing some of the more simple ones.
+## Identical
 
-German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles)
+German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles).
 
 - Allergie, die
 - Angst, die
@@ -51,7 +53,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Tunnel, der
 - vier
 
-# Off-by-one
+## Off-by-one
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
@@ -78,7 +80,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - trinken
 - vierte 
 
-# Off-by-two:
+## Off-by-two
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
@@ -96,17 +98,16 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Schokolade, die
 - Tomate, die
 
-# Homophones (subset of off-by-more-than-two)
+## Homophones
 
-German and Dutch words with identical meaning, pronounced similarly, but with different spelling:
+These are German and Dutch words with identical meaning, pronounced similarly, but with different spelling. A subset from  off-by-more-than-two.
 
 - bauen
 - kreativ
 
+## False friends
 
-# False friends
-
-Words that exist in Dutch with an almost similar spelling, but that have a different meaning
+Words that exist in Dutch with an almost similar spelling, but that have a different meaning.
 
 - Bericht, der
 - Gelegenheit, die
