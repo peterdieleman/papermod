@@ -1,5 +1,5 @@
 ---
-title: "German & Dutch. (Near) Identical Words and False Friends"
+title: "Words shared by German & Dutch."
 date: 2022-01-19T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
