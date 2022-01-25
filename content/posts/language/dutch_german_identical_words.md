@@ -51,7 +51,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Tunnel, der
 - vier
 
-# Off-by-one:
+# Off-by-one
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
