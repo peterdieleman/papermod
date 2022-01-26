@@ -1,16 +1,16 @@
 ---
 title: "title"
-# date: 2021-04-05T11:38:07+02:00
-# weight: 1
+date: 2021-04-05T11:38:07+02:00
+weight: 1
 # aliases: ["/first"]
 tags: ["tag1"]
 author: "Peter Dieleman"
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
-description: "Description kg "
+description: "Description"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -24,6 +24,6 @@ searchHidden: false
 
 ---
 
-# title
+# guides
 
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners

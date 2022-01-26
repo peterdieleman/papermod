@@ -1,7 +1,7 @@
 ---
 title: "title"
-# date: 2021-04-05T11:38:07+02:00
-# weight: 1
+date: 2021-04-05T11:38:07+02:00
+weight: 1
 # aliases: ["/first"]
 tags: ["tag1"]
 author: "Peter Dieleman"
