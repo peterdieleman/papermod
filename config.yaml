@@ -35,7 +35,7 @@ params:
     assets:
         disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: /Boba-Fett.ico
+        favicon: /favicon.ico
         favicon16x16: /Boba-Fett-16x16.png
         favicon32x32: /Boba-Fett-32x32.png
         apple_touch_icon: /apple-touch-icon.png
@@ -92,8 +92,9 @@ params:
         shouldSort: true
         location: 1
         distance: 1000000
-        threshold: 0.4
+        threshold: 0.3
         minMatchCharLength: 0
+        includeScore: true
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
