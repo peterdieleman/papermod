@@ -25,27 +25,27 @@ searchHidden: false
 
 ---
 
-| Dutch     | German | Meaning German| 
-| --------- | ------ | ------- |
-| x   | Winkel | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
-| x   | y | z  |
+| Dutch | German | Meaning German |
+| ----- | ------ | -------------- |
+| x     | Winkel | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
+| x     | y      | z              |
 
 
