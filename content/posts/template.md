@@ -1,7 +1,7 @@
 ---
 title: "Template"
 tags: ["template"]
-# date: 2021-01-15T11:30:03+00:00
+date: 1970-01-01
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
