@@ -15,7 +15,7 @@ draft: false
 ---
 
 The Dutch equivalent of 'Inuits have 50 words for snow'.
-All of these refer to artificial bodies of water that are longer than they are wider, and could be translated as 'canal'.
+All of these refer to artificial bodies of water that are longer than they are wide, and could be translated as 'canal'.
 
 - Delf
 - Kanaal
