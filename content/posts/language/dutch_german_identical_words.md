@@ -52,6 +52,8 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Ticket, das
 - Tunnel, der
 - vier
+Licht 
+
 
 ## Off-by-one
 
@@ -78,7 +80,10 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Tier, das
 - Tourist, der
 - trinken
-- vierte 
+- vierte
+- schief
+Apparat
+Dutzend
 
 ## Off-by-two
 
@@ -97,6 +102,9 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Roboter, der
 - Schokolade, die
 - Tomate, die
+Zwei
+Noch
+Mechanismus
 
 ## Homophones
 
