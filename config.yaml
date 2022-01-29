@@ -9,118 +9,118 @@ buildFuture: false
 buildExpired: false
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: thisistheway
-    description: "thisistheway"
-    author: Peter Dieleman
-    # author: ["Me", "You"] # multiple authors
-    # images: ["<link or path of image for opengraph, twitter-cards>"]
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: thisistheway
+  description: "thisistheway"
+  author: Peter Dieleman
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
 
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
-    ShowReadingTime: false
-    ShowShareButtons: true
-    ShowBreadCrumbs: false
-    disableSpecial1stPost: false
-    comments: false
-    hidemeta: false
-    showtoc: true
-    tocopen: true
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowBreadCrumbs: false
+  disableSpecial1stPost: false
+  comments: false
+  hidemeta: false
+  showtoc: false
+  tocopen: true
 
-    assets:
-        disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: /favicon.ico
-        favicon16x16: /Boba-Fett-16x16.png
-        favicon32x32: /Boba-Fett-32x32.png
-        apple_touch_icon: /apple-touch-icon.png
-        # safari_pinned_tab: "<link / abs url>"
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: /favicon.ico
+    favicon16x16: /Boba-Fett-16x16.png
+    favicon32x32: /Boba-Fett-32x32.png
+    apple_touch_icon: /apple-touch-icon.png
+    # safari_pinned_tab: "<link / abs url>"
 
-    label:
-        text: "thisistheway"
-        # icon: /boba_fett.png
-        # iconHeight: 35
+  label:
+    text: "thisistheway"
+    # icon: /boba_fett.png
+    # iconHeight: 35
 
-    # profile-mode
-    profileMode:
-        enabled: true # needs to be explicitly set
-        title: Linux Tips and Tricks
-        subtitle: "Plus other random observations."
-        # imageUrl: /Boba-Fett-512x512.png
-        imageWidth: 100
-        imageHeight: 100
-        imageTitle: my image
-        buttons:
-            - name: Linux
-              url: tags/linux/
-            - name: Cooking Recipes
-              url: tags/recipe
-            - name: German
-              url: tags/german
-            # - name: All Posts
-            #   url: posts
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Linux Tips and Tricks
+    subtitle: "Plus other random observations."
+    # imageUrl: /Boba-Fett-512x512.png
+    imageWidth: 100
+    imageHeight: 100
+    imageTitle: my image
+    buttons:
+      - name: Linux
+        url: tags/linux/
+      - name: Cooking Recipes
+        url: tags/recipe
+      - name: German
+        url: tags/german
+      # - name: All Posts
+      #   url: posts
 
-    # home-info mode
-    homeInfoParams:
-        Title: Step by step Linux Guides # Linux, Cooking Recipes, Bikes, and more.
-        Content: "Plus some other random observations. Press  Alt + / for search."
+  # home-info mode
+  homeInfoParams:
+    Title: Step by step Linux Guides # Linux, Cooking Recipes, Bikes, and more.
+    Content: "Plus some other random observations. Press  Alt + / for search."
 
-    socialIcons:
-        # - name: stackoverflow
-        #   url: "https://stackoverflow.com/users/13984462/peter-dieleman"
-        - name: github
-          url: "https://github.com/peterdieleman"
-        - name: twitter
-          url: "https://twitter.com/ptrdlmn/"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/ptrdlmn/"
+  socialIcons:
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com/users/13984462/peter-dieleman"
+    - name: github
+      url: "https://github.com/peterdieleman"
+    - name: twitter
+      url: "https://twitter.com/ptrdlmn/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ptrdlmn/"
 
-    cover:
-        hidden: false # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 
-    # for search
-    # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 1
-        distance: 1000000
-        threshold: 0.3
-        minMatchCharLength: 0
-        includeScore: true
-        keys: ["title", "permalink", "summary", "content"]
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 1
+    distance: 1000000
+    threshold: 0.3
+    minMatchCharLength: 0
+    includeScore: true
+    keys: ["title", "permalink", "summary", "content"]
 menu:
-    main:
-        - identifier: archive
-          name: archive
-          url: /archives/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
-        - identifier: search
-          name: search
-          url: /search/
-          weight: 20
+  main:
+    - identifier: archive
+      name: archive
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 20
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
-    highlight:
-        # anchorLineNos: true
-        codeFences: true
-        guessSyntax: true
-        lineNos: true
-        style: monokai
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
