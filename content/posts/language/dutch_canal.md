@@ -20,15 +20,26 @@ and could all be translated as 'canal',
 although more appropriate translations may exist.
 
 - Delf
+- Diep
+- Gracht (stadsgracht, slotgracht)
+- Greppel
+- Grift (also a river)
 - Kanaal
 - Plomp(erd)
 - Singel
 - Sloot
 - Tocht
-- Vaart
+- Vaart (Trekvaart)
 - Vest
 - Vliet
 - Watergang
 - Watering
 - Waterloop
 - Wetering
+- Waterweg
+- Zwet
+
+https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/
+
+https://www.joostdevree.nl/shtmls/watergangen.shtml
+

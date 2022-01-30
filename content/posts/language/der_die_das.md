@@ -107,6 +107,12 @@ These endings are usually das words when referring to things[^5]:
 - **-o** (Büro, Cello, Klo)
 - **-on** When referring to words of Greek origin (Mikrophon, Hormon, Lexikon)[^14]
 
+# Exceptions
+
+- Opfer, das
+- Wasser, das
+
+
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)

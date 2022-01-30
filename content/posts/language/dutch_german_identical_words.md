@@ -27,6 +27,7 @@ searchHidden: false
 # Dutch and German
 
 Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. This is an attempt at listing some of the more simple ones.
+
 ## Identical
 
 German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles).
@@ -52,9 +53,11 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Ticket, das
 - Tunnel, der
 - vier
-Licht 
-
-
+Licht
+Technologie
+Dame, die
+Berg, der
+    
 ## Off-by-one
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
@@ -84,6 +87,14 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - schief
 Apparat
 Dutzend
+elfte
+familie, die
+importieren
+fallen
+Dokument, das
+graben
+lernen
+
 
 ## Off-by-two
 
@@ -105,6 +116,12 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 Zwei
 Noch
 Mechanismus
+Holz
+religiös
+Genetik, die
+gesund
+Wurzel, die
+Maus, die
 
 ## Homophones
 
@@ -123,3 +140,7 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 - Hochwasser, das
 - Kleid, das
 - Ufer, das
+ambulanz
+ausrüstung
+Hemd, das
+
