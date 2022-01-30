@@ -57,6 +57,8 @@ Licht
 Technologie
 Dame, die
 Berg, der
+Surfen, das *check use article
+Gewehr, das
     
 ## Off-by-one
 
@@ -94,7 +96,11 @@ fallen
 Dokument, das
 graben
 lernen
-
+Planet, der
+Punkt, der
+Ohr, das
+Vase, die
+Apfel, der
 
 ## Off-by-two
 
@@ -122,13 +128,19 @@ Genetik, die
 gesund
 Wurzel, die
 Maus, die
+Straße, die
+Kraft, die
+Mitternacht, die
+tanzen
+Musik, die
 
 ## Homophones
 
-These are German and Dutch words with identical meaning, pronounced similarly, but with different spelling. A subset from  off-by-more-than-two.
+These are German and Dutch words with identical meaning, pronounced similarly, but with different spelling. A subset from off-by-more-than-two.
 
 - bauen
 - kreativ
+- Wahrheit, die
 
 ## False friends
 
@@ -143,4 +155,4 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 ambulanz
 ausrüstung
 Hemd, das
-
+Sicherheit, die
