@@ -39,7 +39,7 @@ although more appropriate translations may exist.
 - Waterweg
 - Zwet
 
-https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/
+## Some Sources
 
-https://www.joostdevree.nl/shtmls/watergangen.shtml
-
+- https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/
+- https://www.joostdevree.nl/shtmls/watergangen.shtml

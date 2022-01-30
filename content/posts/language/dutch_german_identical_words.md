@@ -36,71 +36,130 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Angst, die
 - Artikel, der
 - Assistent
+- Auto, das
 - Balkon, der
+- Berg, der
+- Dame, die
 - Detail, das
+- Diamant, der
+- Dichter, der
+- Ei, das
 - Energie, die
 - Engel, der
+- Film, der
 - Gedicht, das
+- Gewehr, das
 - Hamburger, der
+- Helm, der
+- hier
 - Hotel, das
 - Kiwi, die
+- Land, das
+- Licht
 - Magie, die
+- Manager, der
+- Methode, der
 - Mode, die
+- Morgen, der
+- Museum, das
+- Oktober, der
+- Plan, der
+- praktisch
+- Professor, der
 - Radar, das
+- Radio, das
 - Regel, die
+- rennen
 - Restaurant, das
+- Sandwich, das
+- Sation, das
 - Spiegel, der
+- Student, der
+- Surfen, das (check use of article)
+- Technologie
+- Tennis, das
 - Ticket, das
 - Tunnel, der
+- Universum, das
 - vier
-Licht
-Technologie
-Dame, die
-Berg, der
-Surfen, das *check use article
-Gewehr, das
-    
+- Visum, das
+- wild
+- Wind, der
+
 ## Off-by-one
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
 
+- allein
+- Apfel, der
+- Apparat
+- Ball, der
 - Basketball, der
+- Dach, das
+- Dokument, das
+- Dorf, das
+- Dutzend, das
 - Eingang, der
+- elfte
+- fallen
+- Familie, die
 - Februar, der
+- Finger, der
+- fliegen
+- folgen
 - Geschlecht, das
+- Gesicht, das
+- Gold, das
 - Grab, das
+- graben
+- Haarde, die
+- Herbst, der
+- Honig, der
 - hören
-- jung
+- Hund, der
+- importieren
 - Jäger, der
+- jung
 - Kamera, die
+- Kinn, das
+- kommen
 - Kristall, der
 - leben
 - Leder, das
+- lernen
+- lesen
+- Maske, die
 - Mayonnaise, die
+- Mord, der
 - Norden, der
+- Ohr, das
 - Pflicht, die
+- Planet, der
+- Planet, der
 - Präsident, der
+- Prinz, der
+- Punkt, der
+- Risiko, das
+- Rock, der
+- rosa
+- schief
 - Soldat, der
+- spielen
+- stehlen
 - stören
+- Tag, der
+- Tal, das
 - Tier, das
 - Tourist, der
 - trinken
+- Vase, die
+- Vater, der
+- vergessen
 - vierte
-- schief
-Apparat
-Dutzend
-elfte
-familie, die
-importieren
-fallen
-Dokument, das
-graben
-lernen
-Planet, der
-Punkt, der
-Ohr, das
-Vase, die
-Apfel, der
+- Wange, die
+- was
+- wollen
+- Yacht, die
 
 ## Off-by-two
 
@@ -119,21 +178,39 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Roboter, der
 - Schokolade, die
 - Tomate, die
-Zwei
-Noch
-Mechanismus
-Holz
-religiös
-Genetik, die
-gesund
-Wurzel, die
-Maus, die
-Straße, die
-Kraft, die
-Mitternacht, die
-tanzen
-Musik, die
-
+- Zwei
+- Noch
+- Mechanismus
+- Holz
+- religiös
+- Genetik, die
+- gesund
+- Wurzel, die
+- Maus, die
+- Straße, die
+- Kraft, die
+- Mitternacht, die
+- tanzen
+- Musik, die
+- Adresse, die
+- neu
+- Toilette, die
+- essen
+- Befehl, der
+- Kapitän, der
+- gestern
+- Konzert, das
+- Sekunde, die
+- Ratte, die
+- Karriere, die
+- König, der
+- welche
+- drei
+- Wunde, die
+- Stück, das
+- Eis, das
+- Himmel, der
+- Bett, das
 ## Homophones
 
 These are German and Dutch words with identical meaning, pronounced similarly, but with different spelling. A subset from off-by-more-than-two.
@@ -152,7 +229,6 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 - Hochwasser, das
 - Kleid, das
 - Ufer, das
-ambulanz
-ausrüstung
-Hemd, das
-Sicherheit, die
+- Ambulanz, die
+- Hemd, das
+- Sicherheit, die
