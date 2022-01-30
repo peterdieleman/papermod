@@ -1,5 +1,5 @@
 ---
-title: "Words shared by German & Dutch."
+title: "Words shared by German & Dutch"
 date: 2022-01-19T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
@@ -7,7 +7,7 @@ tags: ["German"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
@@ -24,11 +24,11 @@ searchHidden: false
 #     hidden: true # only hide on current single page
 
 ---
-# Dutch and German
+## Dutch and German
 
 Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. This is an attempt at listing some of the more simple ones.
 
-## Identical
+## Identical Words
 
 German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles).
 
@@ -86,9 +86,9 @@ German words that are spelled identical to the Dutch one, and also have the same
 - wild
 - Wind, der
 
-## Off-by-one
+## Identical apart from one characters
 
-German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
+German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
 - allein
 - Apfel, der
@@ -161,9 +161,9 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - wollen
 - Yacht, die
 
-## Off-by-two
+## Identical apart from two characters
 
-German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (ignoring the articles), and also largely have the same meaning.
+German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
 - Antwort, die
 - Baum, der
@@ -211,9 +211,14 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Eis, das
 - Himmel, der
 - Bett, das
+
 ## Homophones
 
-These are German and Dutch words with identical meaning, pronounced similarly, but with different spelling. A subset from off-by-more-than-two.
+These are German and Dutch words with identical meaning and
+with almost identical pronuncation.
+However,
+their spelling is quite different,
+or at least off by more than two characters.
 
 - bauen
 - kreativ
