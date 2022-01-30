@@ -75,7 +75,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Sation, das
 - Spiegel, der
 - Student, der
-- Surfen, das (check use of article)
+- Surfen, das
 - Technologie
 - Tennis, das
 - Ticket, das
