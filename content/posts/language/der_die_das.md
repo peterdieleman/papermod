@@ -27,7 +27,7 @@ searchHidden: false
 
 Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2]’[^3]’[^4]’[^5]’[^6]
 
-# Der
+## Der
 
 These words are almost always Der:
 
@@ -42,10 +42,10 @@ These words are almost always Der:
 - **-ig** (Essig, König, Honig)
 - **-eig** (Zweig, Teig, Steig)
 - **-eich** (Bereich, Teich, Deich)
-- **-us** (Campus, Exitus)[^7]
+- **-us** (Campus, Exitus)[^4]
 - **-ismus** (Alkoholismus, Atheismus, Faschismus)
 
-# Die:
+## Die:
 
 - **-e** (90%: Bete, Seite, Zeile)[^9]
 - **-ie** (Demokratie, Energie, Fotografie)[^1]
@@ -72,7 +72,7 @@ Further Rules:
 
 - **-nis** (from adjectives and verbs expressing a state of mind)[^5]
 
-# Das
+## Das
 
 These word endings indicate a Das word:
 
@@ -107,13 +107,13 @@ These endings are usually das words when referring to things[^5]:
 - **-o** (Büro, Cello, Klo)
 - **-on** When referring to words of Greek origin (Mikrophon, Hormon, Lexikon)[^14]
 
-# Exceptions
+## Common Exceptions
 
 - Opfer, das
 - Wasser, das
 - Käse, der
 
-
+## Sources, Notes
 
 [^2]: [mein-deutschbuch.de](https://mein-deutschbuch.de/files/grammatik/nomen/artikel.pdf)
 [^3]: [passion4teq](http://www.passion4teq.com/articles/der-die-das-genus-regeln/)
