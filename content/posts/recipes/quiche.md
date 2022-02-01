@@ -1,6 +1,6 @@
 ---
 title: "Quiche"
-tags: ["quiche","recipes"]
+tags: ["quiche","Recipe"]
 date: 2022-02-01
 # weight: 1
 # author: "Peter Dieleman"
@@ -17,6 +17,6 @@ draft: false
 Quiche
 
 - 250g cheese
-- 250g speise quark
+- 250g speisequark
 - 4 eggs
 - 2 small zucchini
