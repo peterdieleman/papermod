@@ -111,6 +111,7 @@ These endings are usually das words when referring to things[^5]:
 
 - Opfer, das
 - Wasser, das
+- Käse, der
 
 
 
