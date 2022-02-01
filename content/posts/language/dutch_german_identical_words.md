@@ -189,7 +189,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - wollen
 - Yacht, die
 - Arbeiter, der
-- Tocher, die
+- Tochter, die
 
 ## Identical apart from two characters
 
