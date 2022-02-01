@@ -30,7 +30,7 @@ Dutch and German share a common root, but it's surprisingly hard to find simple 
 
 ## Identical Words
 
-German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles).
+German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles). 
 
 - Allergie, die
 - Angst, die
@@ -89,6 +89,11 @@ German words that are spelled identical to the Dutch one, and also have the same
 - parallel
 - Show, die
 - Fan, der
+- Judo, das
+- Sherrif, der
+- Chip, der
+- Camping, das
+- Team, das
 ## Identical apart from one character
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
@@ -170,7 +175,13 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - blasen
 - Gefecht, das
 - Signal, das
-
+- mehr
+- Keller, das
+- Alkohol, der
+- Tiger, der
+- Leben, das
+- Eimer, der
+- vinden
 ## Identical apart from two characters
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
@@ -223,6 +234,7 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Zwei
 - Boxen, das
 - Generation, die
+- Autorität, die
 
 ## Homophones
 
@@ -244,9 +256,11 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 - Gelegenheit, die &larr;&rarr;
 - Gift, das &larr;&rarr;
 - Hochwasser, das &larr;&rarr;
-- Kleid, das &larr;&rarr;
+- Kleid, das    &larr;&rarr;
 <!-- - Ambulanz, die &larr;&rarr; -->
 <!-- - Slacht, die &larr;&rarr; gevecht -->
 - Knöchel, der &larr;&rarr; Enkel, de[^1] 
+- Ringen, das
+- leiten
 
 [^1]: In popular meaning.
