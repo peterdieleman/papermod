@@ -160,6 +160,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - was
 - wollen
 - Yacht, die
+- Beweis, der
 
 ## Identical apart from two characters
 
