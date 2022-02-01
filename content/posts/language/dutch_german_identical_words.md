@@ -85,8 +85,11 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Visum, das
 - wild
 - Wind, der
-
-## Identical apart from one characters
+- Theorie, die
+- parallel
+- Show, die
+- Fan, der
+## Identical apart from one character
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
@@ -161,57 +164,65 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - wollen
 - Yacht, die
 - Beweis, der
+- Handball, der
+- Englisch, das
+- Horn, das
+- blasen
+- Gefecht, das
+- Signal, das
 
 ## Identical apart from two characters
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
+- Adresse, die
 - Antwort, die
 - Baum, der
-- Charakter, der
-- Ehre, die
-- Kostüm, das
-- langsam
-- Liste, die
-- nichts
-- Pfau, der
-- Regierung, die
-- Roboter, der
-- Schokolade, die
-- Tomate, die
-- Zwei
-- Noch
-- Mechanismus
-- Holz
-- religiös
-- Genetik, die
-- gesund
-- Wurzel, die
-- Maus, die
-- Straße, die
-- Kraft, die
-- Mitternacht, die
-- tanzen
-- Musik, die
-- Adresse, die
-- neu
-- Toilette, die
-- essen
 - Befehl, der
-- Kapitän, der
+- Bett, das
+- Charakter, der
+- drei
+- Ehre, die
+- Eis, das
+- essen
+- Genetik, die
 - gestern
-- Konzert, das
-- Sekunde, die
-- Ratte, die
+- gesund
+- Himmel, der
+- Holz
+- Kapitän, der
 - Karriere, die
 - König, der
-- welche
-- drei
-- Wunde, die
+- Konzert, das
+- Kostüm, das
+- Kraft, die
+- langsam
+- Liste, die
+- Maus, die
+- Mechanismus
+- Mitternacht, die
+- Musik, die
+- neu
+- nichts
+- Noch
+- Pfau, der
+- Ratte, die
+- Regierung, die
+- religiös
+- Roboter, der
+- Schokolade, die
+- Sekunde, die
+- Straße, die
 - Stück, das
-- Eis, das
-- Himmel, der
-- Bett, das
+- tanzen
+- Toilette, die
+- Tomate, die
+- welche
+- Wunde, die
+- Wurzel, die
+- Zwei
+- Boxen, das
+- Generation, die
 
 ## Homophones
 
@@ -229,12 +240,13 @@ or at least off by more than two characters.
 
 Words that exist in Dutch with an almost similar spelling, but that have a different meaning.
 
-- Bericht, der
-- Gelegenheit, die
-- Gift, das
-- Hochwasser, das
-- Kleid, das
-- Ufer, das
-- Ambulanz, die
-- Hemd, das
-- Sicherheit, die
+- Bericht, der &larr;&rarr;
+- Gelegenheit, die &larr;&rarr;
+- Gift, das &larr;&rarr;
+- Hochwasser, das &larr;&rarr;
+- Kleid, das &larr;&rarr;
+<!-- - Ambulanz, die &larr;&rarr; -->
+<!-- - Slacht, die &larr;&rarr; gevecht -->
+- Knöchel, der &larr;&rarr; Enkel, de[^1] 
+
+[^1]: In popular meaning.
