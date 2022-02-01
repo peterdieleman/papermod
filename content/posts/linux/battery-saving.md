@@ -3,7 +3,7 @@ title: "Linux Laptops & Battery Life"
 date: 2021-01-15T11:30:03+00:00
 weight: 1
 # aliases: ["/first"]
-tags: ["Linux","TLP","guide","auto-cpufreq","laptop"]
+tags: ["Linux"]
 author: "Peter Dieleman"
 showToc: true
 TocOpen: false
