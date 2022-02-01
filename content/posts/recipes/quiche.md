@@ -1,6 +1,6 @@
 ---
 title: "Quiche"
-tags: ["quiche","Recipe"]
+tags: ["Recipe"]
 date: 2022-02-01
 # weight: 1
 # author: "Peter Dieleman"

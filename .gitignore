@@ -2,3 +2,5 @@
 todo/
 .hugo_build.lock
 .DS_Store
+# Local Netlify folder
+.netlify
