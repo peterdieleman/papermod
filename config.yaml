@@ -33,7 +33,7 @@ params:
   tocopen: true
 
   assets:
-    disableHLJS: true # to disable highlight.js
+    # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: /favicon.ico
     favicon16x16: /Boba-Fett-16x16.png
@@ -49,7 +49,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Linux Tips and Tricks
+    title: Personal Wiki
     subtitle: "Plus other random observations."
     # imageUrl: /Boba-Fett-512x512.png
     imageWidth: 100
@@ -62,12 +62,12 @@ params:
         url: tags/recipe
       - name: German
         url: tags/german
-      # - name: All Posts
-      #   url: posts
+      - name: Random
+        url: tags/random
 
   # home-info mode
   homeInfoParams:
-    Title: Step by step Linux Guides # Linux, Cooking Recipes, Bikes, and more.
+    Title: Personal Wiki
     Content: "Plus some other random observations. Press  Alt + / for search."
 
   socialIcons:

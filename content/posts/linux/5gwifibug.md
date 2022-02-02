@@ -3,7 +3,7 @@ title: "Ubuntu 20.04 and slow 5g wifi speed"
 date: 2021-04-05T11:38:07+02:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Linux","wifi","energy saving","tlp"]
+tags: ["Linux"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false

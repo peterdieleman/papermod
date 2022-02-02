@@ -1,6 +1,6 @@
 ---
 title: "Dutch words for 'canal'"
-tags: ["Dutch"]
+tags: ["Dutch","Random"]
 date: 2022-01-29
 # weight: 1
 # author: "Peter Dieleman"
@@ -15,21 +15,24 @@ draft: false
 ---
 
 The Dutch equivalent of 'Inuits have 50 words for snow'.
-All of these refer to artificial bodies of water that are longer than they are wide,
-and could all be translated as 'canal',
-although more appropriate translations may exist.
+All of these refer to artificial bodies of water that are longer than they are wide.
 
 - Delf
 - Diep
-- Gracht (stadsgracht, slotgracht)
+- Gracht
+  - Stadsgracht
+  - Slotgracht
+  - Kasteelgracht
 - Greppel
-- Grift (also a river)
+- Grift
 - Kanaal
 - Plomp(erd)
 - Singel
 - Sloot
 - Tocht
-- Vaart (Trekvaart)
+- Vaart
+  - Trekvaart
+  - Ringvaart
 - Vest
 - Vliet
 - Watergang
@@ -39,7 +42,8 @@ although more appropriate translations may exist.
 - Waterweg
 - Zwet
 
-## Some Sources
+Translations/examples to be added.
+## Sources
 
 - https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/
 - https://www.joostdevree.nl/shtmls/watergangen.shtml

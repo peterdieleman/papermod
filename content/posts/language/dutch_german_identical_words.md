@@ -30,7 +30,7 @@ Dutch and German share a common root, but it's surprisingly hard to find simple 
 
 ## Identical Words
 
-German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles).
+German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles). 
 
 - Allergie, die
 - Angst, die
@@ -39,6 +39,8 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Auto, das
 - Balkon, der
 - Berg, der
+- Camping, das
+- Chip, der
 - Dame, die
 - Detail, das
 - Diamant, der
@@ -46,6 +48,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Ei, das
 - Energie, die
 - Engel, der
+- Fan, der
 - Film, der
 - Gedicht, das
 - Gewehr, das
@@ -53,9 +56,12 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Helm, der
 - hier
 - Hotel, das
+- Judo, das
+- Kabel, das
 - Kiwi, die
 - Land, das
 - Licht
+- Limonade, die
 - Magie, die
 - Manager, der
 - Methode, der
@@ -63,6 +69,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Morgen, der
 - Museum, das
 - Oktober, der
+- parallel
 - Plan, der
 - praktisch
 - Professor, der
@@ -73,11 +80,16 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Restaurant, das
 - Sandwich, das
 - Sation, das
+- Sherrif, der
+- Show, die
 - Spiegel, der
 - Student, der
 - Surfen, das
+- T-shirt, das
+- Team, das
 - Technologie
 - Tennis, das
+- Theorie, die
 - Ticket, das
 - Tunnel, der
 - Universum, das
@@ -85,51 +97,62 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Visum, das
 - wild
 - Wind, der
-
-## Identical apart from one characters
+- beginnen
+## Identical apart from one character
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
+- Alkohol, der
 - allein
 - Apfel, der
 - Apparat
 - Ball, der
 - Basketball, der
+- Beweis, der
+- blasen
 - Dach, das
 - Dokument, das
 - Dorf, das
 - Dutzend, das
+- Eimer, der
 - Eingang, der
 - elfte
+- Englisch, das
 - fallen
 - Familie, die
 - Februar, der
 - Finger, der
 - fliegen
 - folgen
+- Gefecht, das
 - Geschlecht, das
 - Gesicht, das
 - Gold, das
 - Grab, das
 - graben
 - Haarde, die
+- Handball, der
 - Herbst, der
 - Honig, der
 - hören
+- Horn, das
 - Hund, der
 - importieren
 - Jäger, der
 - jung
 - Kamera, die
+- Keller, das
 - Kinn, das
 - kommen
 - Kristall, der
 - leben
+- Leben, das
 - Leder, das
 - lernen
 - lesen
 - Maske, die
 - Mayonnaise, die
+- mehr
 - Mord, der
 - Norden, der
 - Ohr, das
@@ -139,78 +162,92 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Präsident, der
 - Prinz, der
 - Punkt, der
+- Richting, die
 - Risiko, das
 - Rock, der
 - rosa
 - schief
+- Signal, das
 - Soldat, der
+- sonnig
 - spielen
 - stehlen
 - stören
 - Tag, der
 - Tal, das
 - Tier, das
+- Tiger, der
 - Tourist, der
 - trinken
 - Vase, die
 - Vater, der
 - vergessen
 - vierte
+- vinden
 - Wange, die
 - was
 - wollen
 - Yacht, die
+- Arbeiter, der
+- Tochter, die
 
 ## Identical apart from two characters
 
 German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
 
-- Antwort, die
-- Baum, der
-- Charakter, der
-- Ehre, die
-- Kostüm, das
-- langsam
-- Liste, die
-- nichts
-- Pfau, der
-- Regierung, die
-- Roboter, der
-- Schokolade, die
-- Tomate, die
-- Zwei
-- Noch
-- Mechanismus
-- Holz
-- religiös
-- Genetik, die
-- gesund
-- Wurzel, die
-- Maus, die
-- Straße, die
-- Kraft, die
-- Mitternacht, die
-- tanzen
-- Musik, die
 - Adresse, die
-- neu
-- Toilette, die
-- essen
+- Antwort, die
+- Autorität, die
+- Baum, der
 - Befehl, der
-- Kapitän, der
+- Bett, das
+- Boxen, das
+- Charakter, der
+- drei
+- Ehre, die
+- Eis, das
+- essen
+- Generation, die
+- Genetik, die
 - gestern
-- Konzert, das
-- Sekunde, die
-- Ratte, die
+- gesund
+- Himmel, der
+- Holz
+- Kapitän, der
 - Karriere, die
 - König, der
-- welche
-- drei
-- Wunde, die
+- Konzert, das
+- Kostüm, das
+- Kraft, die
+- langsam
+- Liste, die
+- Maus, die
+- Mechanismus
+- Mitternacht, die
+- Musik, die
+- neu
+- nichts
+- Noch
+- Pfau, der
+- Pistole, die
+- Ratte, die
+- Regierung, die
+- religiös
+- Roboter, der
+- Schokolade, die
+- Sekunde, die
+- Straße, die
 - Stück, das
-- Eis, das
-- Himmel, der
-- Bett, das
+- tanzen
+- Toilette, die
+- Tomate, die
+- welche
+- Wunde, die
+- Wurzel, die
+- Zwei
+- Pille, die
+- Käse, der
+- ärgern
 
 ## Homophones
 
@@ -228,16 +265,18 @@ or at least off by more than two characters.
 
 Words that exist in Dutch with an almost similar spelling, but that have a different meaning.
 
-- Ambulanz, die
-- angreifen
-- Bericht, der
-- brauchen
-- Buro
-- Gelegenheit, die
-- Gift, das
-- Hemd, das
-- Hochwasser, das
-- Kleid, das
-- Sicherheit, die
-- trauen
-- Ufer, das
+- Bericht, der &larr;&rarr; rapport, het
+- Gelegenheit, die &larr;&rarr;
+- Gift, das &larr;&rarr;
+- Hochwasser, das &larr;&rarr;
+- Kleid, das &larr;&rarr; jurk, de
+<!-- - Ambulanz, die &larr;&rarr; -->
+<!-- - Slacht, die &larr;&rarr; gevecht -->
+- Knöchel, der &larr;&rarr; Enkel, de[^1] 
+- Ringen, das &larr;&rarr; worstelen het
+- leiten &larr;&rarr;
+- benutzen &larr;&rarr;
+- brauchen &larr;&rarr;
+- trauen &larr;&rarr; vertrouwen
+
+[^1]: In popular meaning.

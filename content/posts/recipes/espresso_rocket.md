@@ -19,20 +19,12 @@ searchHidden: false
 
 ---
 
-Rocket Single Basket:
+Assuming you set up your grinder to fill a double basket with:
 
-- 1Zpresso click 2.0, 2.1
-- 10g
-- 24sec
-- 30mL out
+18g / 25 sec / 60g out,
 
-or:
+You can use a single basket with the same grind using:
 
-- 1Zpresso click 1.2 (halfway 1 and 2)
-- 8g
-- 24sec
-- 25mL out
-
-
+10.5g - 11.5g / 25 sec/ 25-35g out.
 
 [^1] [blog-post](https://www.home-barista.com/espresso-machines/single-basket-size-too-big-for-8g-espresso-dose-t28758.html)
