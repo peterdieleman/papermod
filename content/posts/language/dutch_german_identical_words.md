@@ -278,5 +278,6 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 - benutzen &larr;&rarr;
 - brauchen &larr;&rarr;
 - trauen &larr;&rarr; vertrouwen
+- knapp &larr;&rarr; krap
 
 [^1]: In popular meaning.
