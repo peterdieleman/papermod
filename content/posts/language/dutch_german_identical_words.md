@@ -228,12 +228,16 @@ or at least off by more than two characters.
 
 Words that exist in Dutch with an almost similar spelling, but that have a different meaning.
 
+- Ambulanz, die
+- angreifen
 - Bericht, der
+- brauchen
+- Buro
 - Gelegenheit, die
 - Gift, das
+- Hemd, das
 - Hochwasser, das
 - Kleid, das
-- Ufer, das
-- Ambulanz, die
-- Hemd, das
 - Sicherheit, die
+- trauen
+- Ufer, das
