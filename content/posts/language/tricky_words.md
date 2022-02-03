@@ -30,3 +30,5 @@ draft: false
 - Witz, der
 - Gesetz, das
 - Loch, das
+- Stolz, der
+

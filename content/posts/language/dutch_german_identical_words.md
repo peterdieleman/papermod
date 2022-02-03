@@ -26,13 +26,17 @@ searchHidden: false
 ---
 ## Dutch and German
 
-Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. This is an attempt at listing some of the more simple ones.
+Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. 
+This is an attempt at listing some of the more simple ones.
 
 ## Identical Words
 
-German words that are spelled identical to the Dutch one, and also have the same meaning (ignoring the articles). 
+German words that are spelled identical to the Dutch one,
+and also have the same meaning (ignoring the articles). 
+Use singular for nouns, and infinitive for verbs. 
 
 - Allergie, die
+- Bar, die
 - Angst, die
 - Artikel, der
 - Assistent
@@ -51,7 +55,6 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Fan, der
 - Film, der
 - Gedicht, das
-- Gewehr, das
 - Hamburger, der
 - Helm, der
 - hier
@@ -76,6 +79,7 @@ German words that are spelled identical to the Dutch one, and also have the same
 - Radar, das
 - Radio, das
 - Regel, die
+- Regen, der
 - rennen
 - Restaurant, das
 - Sandwich, das
@@ -98,14 +102,26 @@ German words that are spelled identical to the Dutch one, and also have the same
 - wild
 - Wind, der
 - beginnen
+- denken
+- Mann, der
+- Cocktail, der
 ## Identical apart from one character
 
-German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
+German words that can be formed by adding, 
+replacing,
+or deleting 1 of the letters in the Dutch word 
+(or vice versa,
+ignoring the articles), 
+and that also largely have the same meaning.
+Reference point is the singular forms for nouns,
+and the infinitive form for verbs.
 
+- Esel, der
 - Alkohol, der
 - allein
 - Apfel, der
 - Apparat
+- Arbeiter, der
 - Ball, der
 - Basketball, der
 - Beweis, der
@@ -127,6 +143,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Gefecht, das
 - Geschlecht, das
 - Gesicht, das
+- Gewehr, das
 - Gold, das
 - Grab, das
 - graben
@@ -139,6 +156,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Hund, der
 - importieren
 - Jäger, der
+- Jahr, der
 - jung
 - Kamera, die
 - Keller, das
@@ -148,6 +166,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - leben
 - Leben, das
 - Leder, das
+- leiden
 - lernen
 - lesen
 - Maske, die
@@ -161,6 +180,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Planet, der
 - Präsident, der
 - Prinz, der
+- Produkt, das
 - Punkt, der
 - Richting, die
 - Risiko, das
@@ -168,6 +188,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - rosa
 - schief
 - Signal, das
+- singen
 - Soldat, der
 - sonnig
 - spielen
@@ -177,6 +198,7 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Tal, das
 - Tier, das
 - Tiger, der
+- Tochter, die
 - Tourist, der
 - trinken
 - Vase, die
@@ -188,13 +210,21 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - was
 - wollen
 - Yacht, die
-- Arbeiter, der
-- Tochter, die
+- recyceln
+- Gebiet, das
+- Wolke, die
 
 ## Identical apart from two characters
 
-German words that can be formed by adding, replacing, or deleting 2 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
+German words that can be formed by adding,
+replacing,
+or deleting 2 of the letters in the Dutch word
+(or vice versa, ignoring the articles),
+and that also largely have the same meaning.
+Reference point is the singular form for nouns,
+and the infinitive form for verbs.
 
+- Junge, der
 - Adresse, die
 - Antwort, die
 - Autorität, die
@@ -248,6 +278,9 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Pille, die
 - Käse, der
 - ärgern
+- essen
+- Träne, die
+- waschen
 
 ## Homophones
 
@@ -263,7 +296,8 @@ or at least off by more than two characters.
 
 ## False friends
 
-Words that exist in Dutch with an almost similar spelling, but that have a different meaning.
+Words that exist in Dutch with an almost similar spelling,
+but that have a different meaning.
 
 - Bericht, der &larr;&rarr; rapport, het
 - Gelegenheit, die &larr;&rarr;
@@ -279,5 +313,8 @@ Words that exist in Dutch with an almost similar spelling, but that have a diffe
 - brauchen &larr;&rarr;
 - trauen &larr;&rarr; vertrouwen
 - knapp &larr;&rarr; krap
+- bellen &larr;&rarr; blaffen
+- schlimm &larr;&rarr; erg, zwaar
+- bellen &larr;&rarr; blaffen
 
 [^1]: In popular meaning.
