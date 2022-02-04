@@ -38,7 +38,7 @@ Use singular for nouns, and infinitive for verbs.
 - Allergie, die
 - Angst, die
 - Apother, der
-- April, der <- hier gebleven
+- April, der
 - arm
 - Artikel, der
 - Assistent, der
