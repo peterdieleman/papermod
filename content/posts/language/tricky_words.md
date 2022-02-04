@@ -31,4 +31,4 @@ draft: false
 - Gesetz, das
 - Loch, das
 - Stolz, der
-
+- verkosten
