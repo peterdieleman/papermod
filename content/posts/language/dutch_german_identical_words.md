@@ -35,6 +35,8 @@ German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles). 
 Use singular for nouns, and infinitive for verbs. 
 
+- Picknick, das
+- verdienen
 - Allergie, die
 - Angst, die
 - Apother, der
@@ -161,6 +163,8 @@ Use singular for nouns, and infinitive for verbs.
 - wild
 - Wind, der
 - Wolf, der
+- Vogel, der
+- Knie, das
 
 ## Identical apart from one character
 
@@ -173,6 +177,8 @@ and that also largely have the same meaning.
 Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
+- verlieren
+- System, das
 - Alkohol, der
 - allein
 - Apfel, der
@@ -326,6 +332,10 @@ and the infinitive form for verbs.
 - wollen
 - Wurst, die
 - Yacht, die
+- Zentrum, das
+- singen
+- bringen
+- Spiel, das
 
 ## Identical apart from two characters
 
@@ -337,6 +347,9 @@ and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
+- Karte, die
+- Rose, die
+- tragen
 - Adresse, die
 - Antwort, die
 - ärgern
@@ -449,7 +462,13 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
-
+- Karte, die
+- Katze, die
+- gewinnen
+- Stern, der
+- Szene
+- Sommer, der
+- 
 ## Homophones
 
 These are German and Dutch words with identical meaning and
@@ -492,6 +511,8 @@ but that have a different meaning.
 - Wie? &larr;&rarr; hoe?
 - verführen &larr;&rarr; verleiden
 - Welle, die <-> golf, het
+- Schatten, der &larr;&rarr; schaduw, de
+- Tasche, die &larr;&rarr; Zak, de (clothing)
 
 [^1]: In popular meaning.
 
