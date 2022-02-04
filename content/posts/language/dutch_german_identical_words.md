@@ -37,6 +37,9 @@ Use singular for nouns, and infinitive for verbs.
 
 - Allergie, die
 - Angst, die
+- Apother, der
+- April, der <- hier gebleven
+- arm
 - Artikel, der
 - Assistent, der
 - Auto, das
@@ -45,12 +48,17 @@ Use singular for nouns, and infinitive for verbs.
 - Bar, die
 - beginnen
 - Berg, der
+- Bier, das
+- Bowling, das
 - Brief, der
+- Bus, der
 - Camping, das
 - Chip, der
 - Cocktail, der
+- Computer, der
 - Dame, die
 - Dame, die
+- Datum, das
 - denken
 - Detail, das
 - Diamant, der
@@ -58,39 +66,64 @@ Use singular for nouns, and infinitive for verbs.
 - Ei, das
 - Energie, die
 - Engel, der
+- Europa, ?
 - Fan, der
 - Film, der
+- Foto, das
+- Garage, die
 - Gedicht, das
 - Geld, das
+- Geschenk, das
+- Giraffe, die
+- Golf, das
 - hallo
 - Hamburger, der
 - Hand, die
+- Held, der
 - Helm, der
 - hier
 - Hotel, das
 - Idee, die
+- interessant
 - Judo, das
+- Juli, der
+- Juni, der
 - Kabel, das
+- Ketchup, das
+- Kinderwagen, der
 - Kiwi, die
+- klein
 - Koffer, der
+- kritisch
 - Land, das
+- lang
 - Licht
+- Lied, das
 - Limonade, die
 - Magie, die
+- Magie, die
+- Mais, der
 - Manager, der
 - Mann, der
 - Methode, der
 - Mode, die
 - Moment, der
 - Morgen, der
+- Motor, der
 - Museum, das
+- Niveau, das
 - Nummer, die
 - Oktober, der
+- Paar, das
 - Papier, das
 - parallel
+- Park, der
+- Passagier, der
 - Patient, der
+- pessimistisch
 - Plan, der
 - praktisch
+- Priester, der
 - Problem, das
 - Professor, der
 - Radar, das
@@ -104,63 +137,30 @@ Use singular for nouns, and infinitive for verbs.
 - Sherrif, der
 - Show, die
 - Spiegel, der
+- Strand, der
 - Student, der
 - Surfen, das
 - T-shirt, das
+- T-shirt, das
+- Tabak, der
+- Taxi, das
 - Team, das
 - Technologie
+- Tempel, der
 - Tennis, das
 - Theorie, die
 - Ticket, das
+- Tumor, der
 - Tunnel, der
 - Universum, das
 - Verlangen, das
+- Video, das
 - vier
 - Visum, das
+- Westen, der
 - wild
 - Wind, der
-- Westen, der
-- Tempel, der
-- Apother, der
-- Garage, die
-- Juli, der
-- interessant
-- Mais, der
-- Priester, der
-- Bowling, das
-- Video, das
-- Tumor, der
-- Europa, ?
-- Geschenk, das
-- Motor, der
-- Tabak, der
-- Golf, das
-- Giraffe, die
-- Taxi, das
-- Niveau, das
-- Datum, das
-- Magie, die
-- pessimistisch
-- lang
-- Passagier, der
-- T-shirt, das
 - Wolf, der
-- Held, der
-- Juni, der
-- Kinderwagen, der
-- Foto, das
-- arm
-- klein
-- Strand, der
-- Paar, das
-- Park, der
-- kritisch
-- Bus, der
-- Bier, das
-- Lied, das
-- Ketchup, das
-- Computer, der
-- April, der <- hier gebleven
 
 ## Identical apart from one character
 
@@ -182,10 +182,14 @@ and the infinitive form for verbs.
 - Ball, der
 - Bank, die
 - Basketball, der
+- Batterie, die
 - Bein, das
 - Beweis, der
+- Bibliothek, die
 - blasen
+- blau
 - Dach, das
+- Dezember, der
 - Dokument, das
 - Dorf, das
 - Dutzend, das
@@ -197,39 +201,54 @@ and the infinitive form for verbs.
 - Esel, der
 - fallen
 - Familie, die
+- fangen
 - Februar, der
 - finden
 - Finger, der
 - fliegen
 - folgen
+- Form, die
+- fragen
 - geben
 - Gebiet, das
+- Gefahr, die
 - Gefecht, das
 - Geschlecht, das
 - Gesicht, das
-- Gewicht, das
 - Gewehr, das
+- Gewicht, das
 - Gold, das
 - Gott, der
 - Grab, das
-- Gras, das
 - graben
+- Gras, das
 - Haare, die
+- Hammer, der
 - Handball, der
 - Herbst, der
 - Honig, der
 - hören
+- Horizont, der
 - Horn, das
 - Hund, der
+- Igel, der
 - importieren
 - Jäger, der
 - Jahr, der
+- Januar, der
+- Johgurt, der
 - jung
 - Kamera, die
 - Keller, das
 - Kinn, das
+- Kissen, das
+- Kiwi, die
 - kommen
+- kotzen
+- Kredit, der
 - Kristall, der
+- Kugel, die
+- küssen
 - leben
 - Leben, das
 - Leder, das
@@ -243,34 +262,53 @@ and the infinitive form for verbs.
 - Mayonnaise, die
 - mehr
 - Mord, der
+- Natur, die
 - Norden, der
+- November, der
+- null
+- Objekt, das
 - Ohr, das
+- Osten, der
+- Parfüm, das
 - Person, die
 - Pflicht, die
+- Pizza, die
 - Planet, der
 - Planet, der
+- Post, die
 - Präsident, der
 - Prinz, der
 - Produkt, das
+- Programm, das
 - Punkt, der
 - recyceln
 - Richting, die
 - Risiko, das
 - Rock, der
 - rosa
+- Sand, der
+- Schädel, der -> check
 - schief
 - Signal, das
+- Silber, das
 - singen
 - Soldat, der
 - sonnig
 - spielen
+- ßen
 - Stadt, die
+- Stahl, der
+- stark
 - stehlen
 - Stein, der
+- Stock, der , ?
+- stören
 - störens
+- studieren
 - Tag, der
 - Tal, das
 - Telefon, das
+- Theater, das
 - Tier, das
 - Tiger, der
 - Tochter, die
@@ -279,53 +317,15 @@ and the infinitive form for verbs.
 - Vase, die
 - Vater, der
 - vergessen
+- verraten
 - vierte
 - Wange, die
 - was
+- Wetter, das
 - Wolke, die
 - wollen
-- Yacht, die
-- Kredit, der
-- Kugel, die
-- Kiwi, die
-- blau
-- Post, die
-- ßen
-- Theater, das
-- Igel, der
-- November, der
-- Horizont, der
-- Januar, der
-- studieren
-- Pizza, die
-- Gefahr, die
-- Kissen, das
-- Stahl, der
-- Programm, das
-- kotzen
-- Objekt, das
-- küssen
-- stören
-- Stock, der , ?
-- Schädel, der -> check
-- Bibliothek, die
-- Batterie, die
-- Dezember, der
-- Wetter, das
-- verraten
-- Johgurt, der
-- stark
-- Natur, die
-- Sand, der
-- fangen
-- Osten, der
 - Wurst, die
-- Parfüm, das
-- Silber, das
-- Form, die
-- Hammer, der
-- null
-- fragen
+- Yacht, die
 
 ## Identical apart from two characters
 
@@ -340,17 +340,27 @@ and the infinitive form for verbs.
 - Adresse, die
 - Antwort, die
 - ärgern
+- August, der
 - Autorität, die
 - Bär, der
+- Bart, der
 - Baum, der
 - Befehl, der
+- besser
 - Bett, das
+- bezahlen
+- Blatt, das
 - Boxen, das
 - Bruder, der
+- Brust, die
 - Charakter, der
+- danken
+- Dienstag, der
 - drei
 - Ehre, die
 - Eis, das
+- Emotion, die
+- essen
 - essen
 - essen
 - Gefangene, der
@@ -358,15 +368,24 @@ and the infinitive form for verbs.
 - Genetik, die
 - gestern
 - gesund
+- Gitarre, die
+- Groß
+- grün
+- hassen
 - Herz, das
 - Himmel, der
 - Holz
 - hundert
+- Information, die
 - Junge, der
 - Kapitän, der
 - Karriere, die
 - Käse, der
+- Kohle, die
+- Kojote, der
 - König, der
+- Königin, die
+- Königin, die
 - Konzert, das
 - Kostüm, das
 - Kraft, die
@@ -375,6 +394,10 @@ and the infinitive form for verbs.
 - Liste, die
 - Maus, die
 - Mechanismus
+- Meinung, die
+- Melone die
+- Mensch, der
+- messen
 - Minute, die
 - Mitternacht, die
 - Musik, die
@@ -387,68 +410,45 @@ and the infinitive form for verbs.
 - Pille, die
 - Pistole, die
 - Pol, der
+- Preis, der
+- Puzzle, der
 - Ratte, die
 - Regierung, die
 - religiös
 - Roboter, der
+- rot
+- Sänger, der
 - Schiff, das
 - Schokolade, die
 - Sekunde, die
+- Socke, die
 - Sohn, der
+- Spinne, die
 - sprechen
+- Stadion, das
 - Straße, die
 - Stück, das
 - Stück, das
 - Stuhl, der
+- Tanz, der
 - tanzen
+- tief
 - Tod, der
 - Toilette, die
 - Tomate, die
 - Träne, die
+- Universität, die
 - Version, die
+- warum?
 - waschen
 - Wasser, das*
+- Wein, der
 - welche
+- windig
+- Wippe, die
 - Wunde, die
 - Wurzel, die
 - Zwei
-- Preis, der
-- warum?
-- Königin, die
-- Königin, die
-- Socke, die
-- Kojote, der
-- Melone die
-- Wippe, die
-- Emotion, die
-- messen
-- essen
-- Bart, der
-- tief
-- grün
-- August, der
-- Meinung, die
-- rot
-- Mensch, der
-- besser
-- Universität, die
-- hassen
-- Dienstag, der
-- Tanz, der
-- Stadion, das
-- Information, die
-- Wein, der
-- Groß
-- Brust, die
-- Spinne, die
-- danken
-- Gitarre, die
-- Blatt, das
-- Sänger, der
-- Kohle, die
-- windig
-- bezahlen
-- Puzzle, der
 
 ## Homophones
 
