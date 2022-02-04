@@ -35,8 +35,6 @@ German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles). 
 Use singular for nouns, and infinitive for verbs. 
 
-- Picknick, das
-- verdienen
 - Allergie, die
 - Angst, die
 - Apother, der
@@ -58,7 +56,6 @@ Use singular for nouns, and infinitive for verbs.
 - Chip, der
 - Cocktail, der
 - Computer, der
-- Dame, die
 - Dame, die
 - Datum, das
 - denken
@@ -95,6 +92,7 @@ Use singular for nouns, and infinitive for verbs.
 - Kinderwagen, der
 - Kiwi, die
 - klein
+- Knie, das
 - Koffer, der
 - kritisch
 - Land, das
@@ -102,7 +100,6 @@ Use singular for nouns, and infinitive for verbs.
 - Licht
 - Lied, das
 - Limonade, die
-- Magie, die
 - Magie, die
 - Mais, der
 - Manager, der
@@ -123,6 +120,7 @@ Use singular for nouns, and infinitive for verbs.
 - Passagier, der
 - Patient, der
 - pessimistisch
+- Picknick, das
 - Plan, der
 - praktisch
 - Priester, der
@@ -143,7 +141,6 @@ Use singular for nouns, and infinitive for verbs.
 - Student, der
 - Surfen, das
 - T-shirt, das
-- T-shirt, das
 - Tabak, der
 - Taxi, das
 - Team, das
@@ -155,16 +152,16 @@ Use singular for nouns, and infinitive for verbs.
 - Tumor, der
 - Tunnel, der
 - Universum, das
+- verdienen
 - Verlangen, das
 - Video, das
 - vier
 - Visum, das
+- Vogel, der
 - Westen, der
 - wild
 - Wind, der
 - Wolf, der
-- Vogel, der
-- Knie, das
 
 ## Identical apart from one character
 
@@ -177,8 +174,6 @@ and that also largely have the same meaning.
 Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
-- verlieren
-- System, das
 - Alkohol, der
 - allein
 - Apfel, der
@@ -194,6 +189,7 @@ and the infinitive form for verbs.
 - Bibliothek, die
 - blasen
 - blau
+- bringen
 - Dach, das
 - Dezember, der
 - Dokument, das
@@ -298,8 +294,10 @@ and the infinitive form for verbs.
 - Signal, das
 - Silber, das
 - singen
+- singen
 - Soldat, der
 - sonnig
+- Spiel, das
 - spielen
 - ßen
 - Stadt, die
@@ -311,6 +309,7 @@ and the infinitive form for verbs.
 - stören
 - störens
 - studieren
+- System, das
 - Tag, der
 - Tal, das
 - Telefon, das
@@ -323,6 +322,7 @@ and the infinitive form for verbs.
 - Vase, die
 - Vater, der
 - vergessen
+- verlieren
 - verraten
 - vierte
 - Wange, die
@@ -333,9 +333,6 @@ and the infinitive form for verbs.
 - Wurst, die
 - Yacht, die
 - Zentrum, das
-- singen
-- bringen
-- Spiel, das
 
 ## Identical apart from two characters
 
@@ -347,9 +344,6 @@ and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
-- Karte, die
-- Rose, die
-- tragen
 - Adresse, die
 - Antwort, die
 - ärgern
@@ -381,6 +375,7 @@ and the infinitive form for verbs.
 - Genetik, die
 - gestern
 - gesund
+- gewinnen
 - Gitarre, die
 - Groß
 - grün
@@ -393,7 +388,10 @@ and the infinitive form for verbs.
 - Junge, der
 - Kapitän, der
 - Karriere, die
+- Karte, die
+- Karte, die
 - Käse, der
+- Katze, die
 - Kohle, die
 - Kojote, der
 - König, der
@@ -429,6 +427,7 @@ and the infinitive form for verbs.
 - Regierung, die
 - religiös
 - Roboter, der
+- Rose, die
 - rot
 - Sänger, der
 - Schiff, das
@@ -436,19 +435,23 @@ and the infinitive form for verbs.
 - Sekunde, die
 - Socke, die
 - Sohn, der
+- Sommer, der
 - Spinne, die
 - sprechen
 - Stadion, das
+- Stern, der
 - Straße, die
 - Stück, das
 - Stück, das
 - Stuhl, der
+- Szene
 - Tanz, der
 - tanzen
 - tief
 - Tod, der
 - Toilette, die
 - Tomate, die
+- tragen
 - Träne, die
 - Universität, die
 - Version, die
@@ -462,12 +465,6 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
-- Karte, die
-- Katze, die
-- gewinnen
-- Stern, der
-- Szene
-- Sommer, der
 - 
 ## Homophones
 
