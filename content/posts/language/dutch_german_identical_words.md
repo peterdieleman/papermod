@@ -38,7 +38,7 @@ Use singular for nouns, and infinitive for verbs.
 - Allergie, die
 - Angst, die
 - Artikel, der
-- Assistent
+- Assistent, der
 - Auto, das
 - Baby, das
 - Balkon, der
@@ -119,6 +119,48 @@ Use singular for nouns, and infinitive for verbs.
 - Visum, das
 - wild
 - Wind, der
+- Westen, der
+- Tempel, der
+- Apother, der
+- Garage, die
+- Juli, der
+- interessant
+- Mais, der
+- Priester, der
+- Bowling, das
+- Video, das
+- Tumor, der
+- Europa, ?
+- Geschenk, das
+- Motor, der
+- Tabak, der
+- Golf, das
+- Giraffe, die
+- Taxi, das
+- Niveau, das
+- Datum, das
+- Magie, die
+- pessimistisch
+- lang
+- Passagier, der
+- T-shirt, das
+- Wolf, der
+- Held, der
+- Juni, der
+- Kinderwagen, der
+- Foto, das
+- arm
+- klein
+- Strand, der
+- Paar, das
+- Park, der
+- kritisch
+- Bus, der
+- Bier, das
+- Lied, das
+- Ketchup, das
+- Computer, der
+- April, der <- hier gebleven
 
 ## Identical apart from one character
 
@@ -138,6 +180,7 @@ and the infinitive form for verbs.
 - Arbeiter, der
 - Atem, der
 - Ball, der
+- Bank, die
 - Basketball, der
 - Bein, das
 - Beweis, der
@@ -164,10 +207,12 @@ and the infinitive form for verbs.
 - Gefecht, das
 - Geschlecht, das
 - Gesicht, das
+- Gewicht, das
 - Gewehr, das
 - Gold, das
 - Gott, der
 - Grab, das
+- Gras, das
 - graben
 - Haare, die
 - Handball, der
@@ -199,7 +244,6 @@ and the infinitive form for verbs.
 - mehr
 - Mord, der
 - Norden, der
-- Ohr, das
 - Ohr, das
 - Person, die
 - Pflicht, die
@@ -241,6 +285,47 @@ and the infinitive form for verbs.
 - Wolke, die
 - wollen
 - Yacht, die
+- Kredit, der
+- Kugel, die
+- Kiwi, die
+- blau
+- Post, die
+- ßen
+- Theater, das
+- Igel, der
+- November, der
+- Horizont, der
+- Januar, der
+- studieren
+- Pizza, die
+- Gefahr, die
+- Kissen, das
+- Stahl, der
+- Programm, das
+- kotzen
+- Objekt, das
+- küssen
+- stören
+- Stock, der , ?
+- Schädel, der -> check
+- Bibliothek, die
+- Batterie, die
+- Dezember, der
+- Wetter, das
+- verraten
+- Johgurt, der
+- stark
+- Natur, die
+- Sand, der
+- fangen
+- Osten, der
+- Wurst, die
+- Parfüm, das
+- Silber, das
+- Form, die
+- Hammer, der
+- null
+- fragen
 
 ## Identical apart from two characters
 
@@ -256,6 +341,7 @@ and the infinitive form for verbs.
 - Antwort, die
 - ärgern
 - Autorität, die
+- Bär, der
 - Baum, der
 - Befehl, der
 - Bett, das
@@ -326,6 +412,43 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
+- Preis, der
+- warum?
+- Königin, die
+- Königin, die
+- Socke, die
+- Kojote, der
+- Melone die
+- Wippe, die
+- Emotion, die
+- messen
+- essen
+- Bart, der
+- tief
+- grün
+- August, der
+- Meinung, die
+- rot
+- Mensch, der
+- besser
+- Universität, die
+- hassen
+- Dienstag, der
+- Tanz, der
+- Stadion, das
+- Information, die
+- Wein, der
+- Groß
+- Brust, die
+- Spinne, die
+- danken
+- Gitarre, die
+- Blatt, das
+- Sänger, der
+- Kohle, die
+- windig
+- bezahlen
+- Puzzle, der
 
 ## Homophones
 
@@ -338,12 +461,14 @@ or at least off by more than two characters.
 - bauen
 - kreativ
 - Wahrheit, die
+- aggresiv
 
 ## False friends
 
 Words that exist in Dutch with an almost similar spelling,
 but that have a different meaning.
 
+<!-- todo: turn this into a table -->
 - Bericht, der &larr;&rarr; rapport, het
 - Gelegenheit, die &larr;&rarr;
 - Gift, das &larr;&rarr;
@@ -366,6 +491,44 @@ but that have a different meaning.
 - Wo? &larr;&rarr; waar?
 - Wie? &larr;&rarr; hoe?
 - verführen &larr;&rarr; verleiden
-- 
+- Welle, die <-> golf, het
 
 [^1]: In popular meaning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
