@@ -478,31 +478,31 @@ Words that exist in Dutch with an almost similar spelling,
 but that have a different meaning.
 
 <!-- todo: turn this into a table -->
+- bellen &larr;&rarr; blaffen
+- bellen &larr;&rarr; blaffen
+- benutzen &larr;&rarr;
+- Bereich, der &larr;&rarr; gebied
 - Bericht, der &larr;&rarr; rapport, het
+- brauchen &larr;&rarr;
 - Gelegenheit, die &larr;&rarr;
 - Gift, das &larr;&rarr;
 - Hochwasser, das &larr;&rarr;
 - Kleid, das &larr;&rarr; jurk, de
-<!-- - Ambulanz, die &larr;&rarr; -->
-<!-- - Slacht, die &larr;&rarr; gevecht -->
-- Knöchel, der &larr;&rarr; Enkel, de[^1] 
-- Ringen, das &larr;&rarr; worstelen het
-- leiten &larr;&rarr;
-- benutzen &larr;&rarr;
-- brauchen &larr;&rarr;
-- trauen &larr;&rarr; vertrouwen
 - knapp &larr;&rarr; krap
-- bellen &larr;&rarr; blaffen
-- schlimm &larr;&rarr; erg, zwaar
-- bellen &larr;&rarr; blaffen
+- Knöchel, der &larr;&rarr; Enkel, de[^1] 
+- leiten &larr;&rarr;
 - Meer &larr;&rarr; zee
+- Ringen, das &larr;&rarr; worstelen het
+- Schatten, der &larr;&rarr; schaduw, de
+- schlimm &larr;&rarr; erg, zwaar
 - See &larr;&rarr; meer
-- Wo? &larr;&rarr; waar?
-- Wie? &larr;&rarr; hoe?
+- stöhnen &larr;&rarr; kreunen *(kreunt en steunt)
+- Tasche, die &larr;&rarr; Zak, de (clothing)
+- trauen &larr;&rarr; vertrouwen
 - verführen &larr;&rarr; verleiden
 - Welle, die <-> golf, het
-- Schatten, der &larr;&rarr; schaduw, de
-- Tasche, die &larr;&rarr; Zak, de (clothing)
+- Wie? &larr;&rarr; hoe?
+- Wo? &larr;&rarr; waar?
 
 [^1]: In popular meaning.
 
