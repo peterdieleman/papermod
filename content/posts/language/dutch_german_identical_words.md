@@ -255,7 +255,6 @@ and the infinitive form for verbs.
 - Leben, das
 - Leder, das
 - leiden
-- leiden
 - lernen
 - lesen
 - Literatur, die
@@ -276,7 +275,6 @@ and the infinitive form for verbs.
 - Pflicht, die
 - Pizza, die
 - Planet, der
-- Planet, der
 - Post, die
 - Präsident, der
 - Prinz, der
@@ -293,7 +291,6 @@ and the infinitive form for verbs.
 - schief
 - Signal, das
 - Silber, das
-- singen
 - singen
 - Soldat, der
 - sonnig
@@ -368,8 +365,6 @@ and the infinitive form for verbs.
 - Eis, das
 - Emotion, die
 - essen
-- essen
-- essen
 - Gefangene, der
 - Generation, die
 - Genetik, die
@@ -389,13 +384,11 @@ and the infinitive form for verbs.
 - Kapitän, der
 - Karriere, die
 - Karte, die
-- Karte, die
 - Käse, der
 - Katze, die
 - Kohle, die
 - Kojote, der
 - König, der
-- Königin, die
 - Königin, die
 - Konzert, das
 - Kostüm, das
@@ -441,7 +434,6 @@ and the infinitive form for verbs.
 - Stadion, das
 - Stern, der
 - Straße, die
-- Stück, das
 - Stück, das
 - Stuhl, der
 - Szene
