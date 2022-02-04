@@ -479,7 +479,6 @@ but that have a different meaning.
 
 <!-- todo: turn this into a table -->
 - bellen &larr;&rarr; blaffen
-- bellen &larr;&rarr; blaffen
 - benutzen &larr;&rarr;
 - Bereich, der &larr;&rarr; gebied
 - Bericht, der &larr;&rarr; rapport, het
