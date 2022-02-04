@@ -273,6 +273,7 @@ and the infinitive form for verbs.
 - Parfüm, das
 - Person, die
 - Pflicht, die
+- Pilot, der
 - Pizza, die
 - Planet, der
 - Post, die
@@ -302,7 +303,7 @@ and the infinitive form for verbs.
 - stark
 - stehlen
 - Stein, der
-- Stock, der , ?
+- Stock, der ?
 - stören
 - störens
 - studieren
@@ -457,7 +458,7 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
-- 
+
 ## Homophones
 
 These are German and Dutch words with identical meaning and
