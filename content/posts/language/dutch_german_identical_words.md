@@ -297,7 +297,6 @@ and the infinitive form for verbs.
 - sonnig
 - Spiel, das
 - spielen
-- ßen
 - Stadt, die
 - Stahl, der
 - stark
