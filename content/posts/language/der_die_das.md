@@ -45,7 +45,7 @@ These words are almost always Der:
 - **-us** (Campus, Exitus)[^4]
 - **-ismus** (Alkoholismus, Atheismus, Faschismus)
 
-## Die:
+## Die
 
 - **-e** (90%: Bete, Seite, Zeile)[^9]
 - **-ie** (Demokratie, Energie, Fotografie)[^1]
@@ -112,6 +112,7 @@ These endings are usually das words when referring to things[^5]:
 - Opfer, das
 - Wasser, das
 - Käse, der
+- Wetter, das
 
 ## Sources, Notes
 

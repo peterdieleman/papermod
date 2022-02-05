@@ -53,7 +53,7 @@ However, some settings are more easily configured through the GUI,
 and in this I will assume you are running Kubuntu.
 However, other popular Linux distros,
 such as or Manjaro/Arch,
-likely offer very similar settings. 
+likely offer very similar settings.
 In addition, I will also be assuming your laptop either contains an intel,
 AMD,
 or other x86-64 CPU.
@@ -62,18 +62,19 @@ Note:
 When you find that info for your Linux installation is missing/incorrect,
 please contact me (twitter/github).
 
-# Easy Wins (30 min)
+## Easy Wins (30 min)
   
 The following are easy wins that can significantly extend the total battery life of your laptop and
 can be configured in approximately half an hour.
 In case you have even less time:
+
 - The guide is ordered following hardware items that consume most battery,
   and likewise,
   offer most room for improvement.
 - Each section provides a little bit of context.
   If you want to speedrun this guide, skip ahead to the **Actions** subsections.
 
-## Screen
+### Screen
 
 On a laptop,
 the screen is one often one of the biggest consumers of battery.
@@ -151,7 +152,7 @@ while still having acceptable performance for most tasks.
 
 Simply limiting the maximum frequency of your CPU helps to improve
 the battery life of your laptop.
-However, this is approach is still fairly static[^3]. 
+However, this is approach is still fairly static[^3].
 Additional benefits can be gained by 'throttling' your CPU.
 Basically this means scaling up the maximum frequency of the CPU when
 processing power is required,
@@ -225,7 +226,7 @@ I will explain how to install & configure TLP and auto-cpufreq alongside each ot
       `/sys/.../scaling_driver = intel_pstate`,\
       it means your CPU is using `intel_pstate` scaling driver,
       and you can proceed to **to step 10.2 below**.
-      Otherwise, proceed **to step 11 below.** 
+      Otherwise, proceed **to step 11 below.**
     2. Type: `sudo nano /etc/tlp.conf` to edit your TLP config file.
       Uncomment the `CPU_MIN_PERF_ON_BAT = XX` parameter,
       and replace `XX` with a number between 0 and 100.
@@ -254,13 +255,13 @@ I will explain how to install & configure TLP and auto-cpufreq alongside each ot
 [^5]: This isn't absolutely necessary, but doesn't hurt either.
 A default configuration is also stored in `etc/default/tlp.conf`,
 or `/usr/share/tlp/defaults.conf`,
-depending on your installation. 
+depending on your installation.
 To restore, run the command in reverse:\
 `sudo cp ~/tlp.conf /etc/tlp.conf`,
 where the sudo is necessary to copy into the `/etc/` directory.
 
 [^6]: The official TLP guide notes  that:\
-_'Lowering the max frequency on battery power does not conserve power; 
+_'Lowering the max frequency on battery power does not conserve power;
 best results are achieved by the ondemand governor without frequency limits'._
 This statement is either lacking in nuance or outdated.
 It is certainly the case that setting this limit too low
@@ -273,7 +274,7 @@ However, higher CPU frequencies may result in:\
 [this medium post](https://amanusk.medium.com/an-extensive-guide-to-optimizing-a-linux-laptop-for-battery-life-and-performance-27a7d853856c).\
 These issues are no problem when running running on AC,
 but on battery we can find a sweetspot between performance and battery life.
- 
+
 ## Bluetooth & Wifi
 
 Although the amount of battery bluetooth/wifi chips consume when
@@ -312,7 +313,7 @@ The [actions](tlp-radio-actions) below result in the following behaviour:
   `DEVICES_TO_ENABLE_ON_AC" = "bluetooth wifi wwan"`.
 - Hit `control-X` and hit `Y` when prompted for `Save modified buffer?`.
 
-# Future Topics
+## Future Topics
 
 - Undervolting
 - Sleep and hibernate settings

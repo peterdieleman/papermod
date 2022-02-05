@@ -1,5 +1,5 @@
 ---
-title: "Dutch words for 'canal'"
+title: "Dutch words for 'Canal'"
 tags: ["Dutch","Random"]
 date: 2022-01-29
 # weight: 1
@@ -43,7 +43,8 @@ All of these refer to artificial bodies of water that are longer than they are w
 - Zwet
 
 Translations/examples to be added.
+
 ## Sources
 
-- https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/
-- https://www.joostdevree.nl/shtmls/watergangen.shtml
+- <https://kanaleninnederland.nl/algemeen/wat-is-een-kanaal/>
+- <https://www.joostdevree.nl/shtmls/watergangen.shtml>

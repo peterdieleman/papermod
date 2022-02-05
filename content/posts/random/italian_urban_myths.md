@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Italian Urban Myths"
 tags: ["template"]
 date: 1970-01-01
 # weight: 1
@@ -14,9 +14,6 @@ draft: true
 # searchHidden: false
 ---
 
-https://www.filmtourismus.de/grand-budapest-hotel/
-
-Freisebad Goerlitz
-Stadthalle Goerlitz
-Kaufhaus Goerlitz
-
+- Swimming after eating
+- Maelstrom Lakes
+- Colpo d'Aria

@@ -65,7 +65,7 @@ WIFI_PWR_ON_BAT=on
 check that at least the 'AC' setting is set to 'off'.
 Hit `Control+X` and `Y` when prompted to save your changes.
 Reboot.
-Consider turning your 'BAT' setting to 'off' as well in the case you experience 
+Consider turning your 'BAT' setting to 'off' as well in the case you experience
 very low or inconsistent 5g wifi speeds.
 
 For troubleshooting network speeds I like to use the
