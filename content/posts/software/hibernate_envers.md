@@ -20,3 +20,4 @@ draft: true
 - <https://vladmihalcea.com/the-best-way-to-implement-an-audit-log-using-hibernate-envers/>
 - <https://thorben-janssen.com/hibernate-envers-getting-started/>
 - <https://sunitc.dev/2020/01/21/spring-boot-how-to-add-jpa-hibernate-envers-auditing/>
+- <https://www.bytefish.de/blog/hibernate_envers_versioning_and_auditing.html>
