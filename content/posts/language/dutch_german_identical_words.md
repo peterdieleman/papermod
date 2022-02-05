@@ -26,14 +26,14 @@ searchHidden: false
 ---
 ## Dutch and German
 
-Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical. 
+Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical.
 This is an attempt at listing some of the more simple ones.
 
 ## Identical Words
 
 German words that are spelled identical to the Dutch one,
-and also have the same meaning (ignoring the articles). 
-Use singular for nouns, and infinitive for verbs. 
+and also have the same meaning (ignoring the articles).
+Use singular for nouns, and infinitive for verbs.
 
 - Allergie, die
 - Angst, die
@@ -165,9 +165,9 @@ Use singular for nouns, and infinitive for verbs.
 
 ## Identical apart from one character
 
-German words that can be formed by adding, 
+German words that can be formed by adding,
 replacing,
-or deleting 1 of the letters in the Dutch word 
+or deleting 1 of the letters in the Dutch word
 (or vice versa,
 ignoring the articles),
 and that also largely have the same meaning.
@@ -488,7 +488,7 @@ but that have a different meaning.
 - Hochwasser, das &larr;&rarr;
 - Kleid, das &larr;&rarr; jurk, de
 - knapp &larr;&rarr; krap
-- Knöchel, der &larr;&rarr; Enkel, de[^1] 
+- Knöchel, der &larr;&rarr; Enkel, de[^1]
 - leiten &larr;&rarr;
 - Meer &larr;&rarr; zee
 - Ringen, das &larr;&rarr; worstelen het
@@ -505,40 +505,16 @@ but that have a different meaning.
 
 [^1]: In popular meaning.
 
+## New
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+besser, 2
+Mittag
+Fassade
+bröckelen
+Name
+erkennen
+stille
+wirken
+groß
+Kleidung
+gesicht

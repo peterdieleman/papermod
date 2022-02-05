@@ -45,7 +45,7 @@ These words are almost always Der:
 - **-us** (Campus, Exitus)[^4]
 - **-ismus** (Alkoholismus, Atheismus, Faschismus)
 
-## Die:
+## Die
 
 - **-e** (90%: Bete, Seite, Zeile)[^9]
 - **-ie** (Demokratie, Energie, Fotografie)[^1]
