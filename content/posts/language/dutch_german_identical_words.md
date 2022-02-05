@@ -37,7 +37,7 @@ Use singular for nouns, and infinitive for verbs.
 
 - Allergie, die
 - Angst, die
-- Apother, der
+- Apotheker, der
 - April, der
 - arm
 - Artikel, der
@@ -133,8 +133,8 @@ Use singular for nouns, and infinitive for verbs.
 - rennen
 - Restaurant, das
 - Sandwich, das
-- Sation, das
-- Sherrif, der
+- Stadion, das
+- Sheriff, der
 - Show, die
 - Spiegel, der
 - Strand, der
@@ -238,7 +238,7 @@ and the infinitive form for verbs.
 - Jäger, der
 - Jahr, der
 - Januar, der
-- Johgurt, der
+- Joghurt, der
 - jung
 - Kamera, die
 - Keller, das
@@ -283,7 +283,7 @@ and the infinitive form for verbs.
 - Programm, das
 - Punkt, der
 - recyceln
-- Richting, die
+- Richtung, die
 - Risiko, das
 - Rock, der
 - rosa
@@ -305,7 +305,7 @@ and the infinitive form for verbs.
 - Stein, der
 - Stock, der ?
 - stören
-- störens
+- stören
 - studieren
 - System, das
 - Tag, der
@@ -462,7 +462,7 @@ and the infinitive form for verbs.
 ## Homophones
 
 These are German and Dutch words with identical meaning and
-with almost identical pronuncation.
+with almost identical pronunciation.
 However,
 their spelling is quite different,
 or at least off by more than two characters.
@@ -470,7 +470,7 @@ or at least off by more than two characters.
 - bauen
 - kreativ
 - Wahrheit, die
-- aggresiv
+- aggressiv
 
 ## False friends
 
@@ -510,11 +510,11 @@ but that have a different meaning.
 besser, 2
 Mittag
 Fassade
-bröckelen
+bröckeln
 Name
 erkennen
 stille
 wirken
 groß
 Kleidung
-gesicht
+Gesicht
