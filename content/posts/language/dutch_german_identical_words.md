@@ -474,6 +474,9 @@ or at least off by more than two characters.
 - aggressiv
 - Wahnsinn
 - vorstellbar
+- seltsam
+- mikroskop
+- akkurat
 
 ## False friends
 
@@ -508,6 +511,7 @@ but that have a different meaning.
 - Brutal &larr;&rarr; bruut
 - Winkel, der
 - Kapsel
+- penibel
 
 [^1]: In popular meaning.
 
@@ -553,3 +557,17 @@ Spur
 Etui
 entdecken
 bloß
+Ordner
+chaotisch
+Situation
+Norwegen
+weißen
+Park
+Passagier
+Hypnose
+Typ
+euphorisch
+jahrelang
+kontrollieren?
+hoffen
+Dingen
