@@ -177,7 +177,7 @@ and the infinitive form for verbs.
 - Alkohol, der
 - allein
 - Apfel, der
-- Apparat
+- Apparat, das
 - Arbeiter, der
 - Atem, der
 - Ball, der
@@ -457,6 +457,8 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
+- schätzen
+- winzig
 
 ## Homophones
 
@@ -470,6 +472,8 @@ or at least off by more than two characters.
 - kreativ
 - Wahrheit, die
 - aggressiv
+- Wahnsinn
+- vorstellbar
 
 ## False friends
 
@@ -501,6 +505,9 @@ but that have a different meaning.
 - Welle, die <-> golf, het
 - Wie? &larr;&rarr; hoe?
 - Wo? &larr;&rarr; waar?
+- Brutal &larr;&rarr; bruut
+- Winkel, der
+- Kapsel
 
 [^1]: In popular meaning.
 
@@ -517,3 +524,32 @@ wirken
 groß
 Kleidung
 Gesicht
+Wand
+Kasse
+verloren
+ruhig
+Modell
+niemand
+jemand
+Anwohner
+uhr
+schießen
+Panik
+stecken
+willen
+fremd
+brutto
+komisch
+Feld
+verbrennen
+ermorden
+genug
+Diesel
+Benzin
+Lampe
+Ventil
+Flammen
+Spur
+Etui
+entdecken
+bloß
