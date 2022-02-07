@@ -477,6 +477,7 @@ or at least off by more than two characters.
 - seltsam
 - mikroskop
 - akkurat
+- Ukraine
 
 ## False friends
 
@@ -512,6 +513,7 @@ but that have a different meaning.
 - Winkel, der
 - Kapsel
 - penibel
+- anmachen
 
 [^1]: In popular meaning.
 
@@ -571,3 +573,52 @@ hoffen, hopen
 Ding, das, 0
 Kurve, die, 1
 Armenien,2  
+bewegen
+Route, die, 0
+Heilige, der 0
+legen, 1
+Creme, die, 1
+Kommandant, der
+Haken, der
+Training, das
+Kanada
+Georgien
+Volksrepublik China, 1
+Volumen, das, 1
+Kurve, die, 1
+Grad, der, 2
+jagen
+irritieren, 1
+Mexiko, 1
+Kuba, 1
+heiß, 2
+Stimmung, die, 2
+Balance, die, 2
+Thailand
+Realität, die, 2
+Australien, 2
+Gunst, die, 0
+Komfort, der, 1
+Dekan, der, 2
+Tunesien, 2
+Algerien, 2
+Sack, der, 2
+Dämon, der, 2
+Radius, der, 0
+Portugal, 0
+Brise, die, 2
+Mission, die, 2
+Eindruck, der, 2
+Syrien
+besitzen
+Tschechien
+Slowenien
+dick, 1
+bunt, 1
+Bombe, die, 
+Akzent, der, 2
+Krieger, der, 2
+Lunge, die
+Titel, der, 0
+Schande, die
+Lunge, die, 2

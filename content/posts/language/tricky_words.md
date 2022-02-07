@@ -22,6 +22,7 @@ draft: false
 ## Nouns
 
 - Zelt, das
+- Zelten
 - Verbrechen, das
 - Gipfel, der
 - Zeuge, der
@@ -37,3 +38,9 @@ draft: false
 - eher
 - anfassen
 - Sakko
+- Teich
+- Ast
+- Anwesen
+- rächen
+- absichtlich
+- Landwirt
