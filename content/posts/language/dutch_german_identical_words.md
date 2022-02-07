@@ -412,7 +412,6 @@ and the infinitive form for verbs.
 - Befehl, der
 - besitzen
 - besser
-- besser
 - Bett, das
 - bezahlen
 - Blatt, das
