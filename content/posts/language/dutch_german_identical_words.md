@@ -519,9 +519,9 @@ but that have a different meaning.
 
 ## New
 
-besser, 2
-Mittag
-Fassade
+2besser, 2
+2Mittag
+2Fassade
 bröckeln
 Name
 erkennen
@@ -596,29 +596,28 @@ Stimmung, die, 2
 Balance, die, 2
 Thailand
 Realität, die, 2
-Australien, 2
-Gunst, die, 0
-Komfort, der, 1
-Dekan, der, 2
-Tunesien, 2
-Algerien, 2
-Sack, der, 2
-Dämon, der, 2
-Radius, der, 0
-Portugal, 0
+2Australien, 2
+0Gunst, die, 0
+1Komfort, der, 1
+2Dekan, der, 2
+2Tunesien, 2
+2Algerien, 2
+2Sack, der, 2
+2Dämon, der, 2
+0Radius, der, 0
+0Portugal, 0
 Brise, die, 2
-Mission, die, 2
-Eindruck, der, 2
-Syrien
-besitzen
-Tschechien
-Slowenien
-dick, 1
-bunt, 1
-Bombe, die, 
-Akzent, der, 2
-Krieger, der, 2
-Lunge, die
-Titel, der, 0
-Schande, die
-Lunge, die, 2
+0Mission, die, 2
+2Eindruck, der, 2
+2Syrien
+2besitzen
+2Tschechien
+1dick, 1
+1bunt, 1
+2Bombe, die, 2
+2Akzent, der, 2
+2Krieger, der, 2
+2Lunge, die
+0Titel, der, 0
+0Schande, die
+2Lunge, die, 2
