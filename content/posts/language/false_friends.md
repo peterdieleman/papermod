@@ -19,7 +19,7 @@ draft: false
 Words that exist in Dutch with an almost similar spelling,
 but that have a different meaning.
 
-| German        | Dutch (wrong) | Dutch (right)      |
+| German &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Dutch (wrong)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Dutch (right)      |
 | :------------ | :------------ | :----------------- |
 | bellen        | bellen        | blaffen            |
 | Bereich, der  | bereik        | gebied             |
@@ -33,7 +33,7 @@ but that have a different meaning.
 | Meer          | meer          | zee                |
 | penibel       | penibel       | heel precies       |
 | ringen        | ringen        | worstelen          |
-| Schatten, der | Schatten      | schaduw,de         |
+| Schatten, der | Schatten      | schaduw, de         |
 | schlimm       | slim          | erg, zwaar         |
 | See           | zee           | meer, het          |
 | stöhnen       | steunen       | kreunen            |
