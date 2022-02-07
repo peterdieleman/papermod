@@ -447,7 +447,6 @@ and the infinitive form for verbs.
 - Gitarre, die
 - Grad, der
 - groß
-- Groß
 - grün
 - Haken, der
 - hassen
