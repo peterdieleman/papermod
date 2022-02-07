@@ -131,7 +131,6 @@ Use singular for nouns, and infinitive for verbs.
 - Park, das
 - Park, der
 - Passagier, der
-- Passagier, der
 - Patient, der
 - pessimistisch
 - Picknick, das
@@ -187,7 +186,6 @@ Use singular for nouns, and infinitive for verbs.
 - willen
 - Wind, der
 - Wolf, der
-
 
 ## Identical apart from one character
 
