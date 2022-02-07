@@ -562,12 +562,39 @@ chaotisch
 Situation
 Norwegen
 weißen
-Park
-Passagier
-Hypnose
-Typ
-euphorisch
-jahrelang
-kontrollieren?
-hoffen
-Dingen
+uhr, 1
+schießen, 1
+Panik, 1
+stecken, 1
+willen, 0
+fremd, 2
+brutto, 1
+komisch, 0
+Feld, 1
+verbrennen, 2
+ermorden, 2
+genug, 2
+Diesel, 0
+Benzin,1 
+Lampe, 1
+Ventil,1 
+Flammen, 1 
+Spur, 2
+Etui, 0
+entdecken, 2
+bloß, 2
+Ordner, 0
+chaotisch, 0
+Situation, 0
+Norwegen, 1
+weißen, 2
+Park, 0
+Passagier, 0
+Hypnose, 0
+Typ, das, 1 
+euphorisch, 2
+jahrelang, 2
+hoffen, hopen
+Ding, das, 0
+Kurve, die, 1
+Armenien,2  
