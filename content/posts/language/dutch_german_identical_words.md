@@ -209,13 +209,18 @@ and the infinitive form for verbs.
 - Basketball, der
 - Batterie, die
 - Bein, das
+- Benzin, der
 - Beweis, der
 - Bibliothek, die
 - blasen
 - blau
 - bringen
+- brutto
+- bunt
+- Creme, die
 - Dach, das
 - Dezember, der
+- dick
 - Dokument, das
 - Dorf, das
 - Dutzend, das
@@ -224,13 +229,16 @@ and the infinitive form for verbs.
 - elfte
 - Ende, das
 - Englisch, das
+- erkennen
 - Esel, der
 - fallen
 - Familie, die
 - fangen
 - Februar, der
+- Feld, das
 - finden
 - Finger, der
+- flammen
 - fliegen
 - folgen
 - Form, die
@@ -240,6 +248,7 @@ and the infinitive form for verbs.
 - Gefahr, die
 - Gefecht, das
 - Geschlecht, das
+- Gesicht, das
 - Gesicht, das
 - Gewehr, das
 - Gewicht, das
@@ -259,25 +268,35 @@ and the infinitive form for verbs.
 - Hund, der
 - Igel, der
 - importieren
+- irritieren
 - Jäger, der
 - Jahr, der
 - Januar, der
+- jemand
 - Joghurt, der
 - jung
 - Kamera, die
+- Kanada
+- Kasse, die
 - Keller, das
 - Kinn, das
 - Kissen, das
 - Kiwi, die
+- Komfort, der
+- Kommandant, der
 - kommen
 - kotzen
 - Kredit, der
 - Kristall, der
+- Kuba
 - Kugel, die
+- Kurve, die
 - küssen
+- Lampe, die
 - leben
 - Leben, das
 - Leder, das
+- legen
 - leiden
 - lernen
 - lesen
@@ -286,14 +305,18 @@ and the infinitive form for verbs.
 - Maske, die
 - Mayonnaise, die
 - mehr
+- Mexiko
+- Modell, das
 - Mord, der
 - Natur, die
 - Norden, der
+- Norwegen
 - November, der
 - null
 - Objekt, das
 - Ohr, das
 - Osten, der
+- Panik, die
 - Parfüm, das
 - Person, die
 - Pflicht, die
@@ -314,6 +337,7 @@ and the infinitive form for verbs.
 - Sand, der
 - Schädel, der -> check
 - schief
+- schießen
 - Signal, das
 - Silber, das
 - singen
@@ -324,8 +348,10 @@ and the infinitive form for verbs.
 - Stadt, die
 - Stahl, der
 - stark
+- stecken
 - stehlen
 - Stein, der
+- Stille, die
 - Stock, der ?
 - stören
 - stören
@@ -340,15 +366,21 @@ and the infinitive form for verbs.
 - Tochter, die
 - Tourist, der
 - trinken
+- Typ, das
+- Uhr, das
 - Vase, die
 - Vater, der
+- Ventil, das
 - vergessen
 - verlieren
 - verraten
 - vierte
+- Volksrepublik China
+- Volumen, das
 - Wange, die
 - was
 - Wetter, das
+- wirken
 - Wolke, die
 - wollen
 - Wurst, die
@@ -548,39 +580,10 @@ but that have a different meaning.
 
 
 
-1Benzin,1 
-1brutto, 1
-1bunt, 1
-1Creme, die, 1
-1dick, 1
-1erkennen
-1Feld, 1
-1Flammen, 1 
-1Gesicht
-1irritieren, 1
-1jemand
-1Kanada
-1Kasse
-1Komfort, der, 1
-1Kommandant, der
-1Kuba, 1
-1Kurve, die, 1
-1Kurve, die, 1
-1Lampe, 1
-1legen, 1
-1Mexiko, 1
-1Modell
-1Norwegen, 1
-1Panik, 1
-1schießen, 1
-1stecken, 1
-1stille
-1Typ, das, 1 
-1uhr, 1
-1Ventil,1 
-1Volksrepublik China, 1
-1Volumen, das, 1
-1wirken
+
+
+
+
 2Akzent, der, 2
 2Algerien, 2
 2Armenien,2  
