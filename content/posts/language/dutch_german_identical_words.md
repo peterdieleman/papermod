@@ -533,35 +533,8 @@ Kasse
 verloren
 ruhig
 Modell
-niemand
+niemand, 2
 jemand
-Anwohner
-uhr
-schießen
-Panik
-stecken
-willen
-fremd
-brutto
-komisch
-Feld
-verbrennen
-ermorden
-genug
-Diesel
-Benzin
-Lampe
-Ventil
-Flammen
-Spur
-Etui
-entdecken
-bloß
-Ordner
-chaotisch
-Situation
-Norwegen
-weißen
 uhr, 1
 schießen, 1
 Panik, 1
