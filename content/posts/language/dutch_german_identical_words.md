@@ -249,7 +249,6 @@ and the infinitive form for verbs.
 - Gefecht, das
 - Geschlecht, das
 - Gesicht, das
-- Gesicht, das
 - Gewehr, das
 - Gewicht, das
 - Gold, das
@@ -354,7 +353,6 @@ and the infinitive form for verbs.
 - Stille, die
 - Stock, der ?
 - stören
-- stören
 - studieren
 - System, das
 - Tag, der
@@ -399,50 +397,77 @@ Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
 - Adresse, die
+- Akzent, der
+- Algerien
 - Antwort, die
 - ärgern
+- Armenien  
 - August, der
+- Australien
 - Autorität, die
+- Balance, die
 - Bär, der
 - Bart, der
 - Baum, der
 - Befehl, der
+- besitzen
+- besser
 - besser
 - Bett, das
 - bezahlen
 - Blatt, das
+- bloß
+- Bombe, die
 - Boxen, das
+- Brise, die
 - Bruder, der
 - Brust, die
 - Charakter, der
+- Dämon, der
 - danken
+- Dekan, der
 - Dienstag, der
 - drei
 - Ehre, die
+- Eindruck, der
 - Eis, das
 - Emotion, die
+- entdecken
+- ermorden
 - essen
+- euphorisch
+- Fassade, die
+- fremd
 - Gefangene, der
 - Generation, die
 - Genetik, die
+- genug
+- Georgien
 - gestern
 - gesund
 - gewinnen
 - Gitarre, die
+- Grad, der
+- groß
 - Groß
 - grün
+- Haken, der
 - hassen
+- heiß
 - Herz, das
 - Himmel, der
+- hoffen
 - Holz
 - hundert
 - Information, die
+- jahrelang
 - Junge, der
 - Kapitän, der
 - Karriere, die
 - Karte, die
 - Käse, der
 - Katze, die
+- Kleidung, die
 - Kohle, die
 - Kojote, der
 - König, der
@@ -450,9 +475,11 @@ and the infinitive form for verbs.
 - Konzert, das
 - Kostüm, das
 - Kraft, die
+- Krieger, der
 - Küste, die
 - langsam
 - Liste, die
+- Lunge, die
 - Maus, die
 - Mechanismus
 - Meinung, die
@@ -460,10 +487,13 @@ and the infinitive form for verbs.
 - Mensch, der
 - messen
 - Minute, die
+- Mittag, der
 - Mitternacht, die
 - Musik, die
+- Name, der
 - neu
 - nichts
+- niemand
 - Noch
 - Operation, die
 - Pfau, der
@@ -474,12 +504,16 @@ and the infinitive form for verbs.
 - Preis, der
 - Puzzle, der
 - Ratte, die
+- Realität, die
 - Regierung, die
 - religiös
 - Roboter, der
 - Rose, die
 - rot
+- ruhig
+- Sack, der
 - Sänger, der
+- schätzen
 - Schiff, das
 - Schokolade, die
 - Sekunde, die
@@ -488,11 +522,14 @@ and the infinitive form for verbs.
 - Sommer, der
 - Spinne, die
 - sprechen
+- Spur, das
 - Stadion, das
 - Stern, der
+- Stimmung, die
 - Straße, die
 - Stück, das
 - Stuhl, der
+- Syrien
 - Szene
 - Tanz, der
 - tanzen
@@ -502,20 +539,23 @@ and the infinitive form for verbs.
 - Tomate, die
 - tragen
 - Träne, die
+- Tschechien
+- Tunesien
 - Universität, die
+- verbrennen
 - Version, die
 - warum?
 - waschen
 - Wasser, das*
 - Wein, der
+- weißen
 - welche
 - windig
+- winzig
 - Wippe, die
 - Wunde, die
 - Wurzel, die
 - Zwei
-- schätzen
-- winzig
 
 ## Homophones
 
@@ -577,53 +617,3 @@ but that have a different meaning.
 ## New
 
 
-
-
-
-
-
-
-
-2Akzent, der, 2
-2Algerien, 2
-2Armenien,2  
-2Australien, 2
-2Balance, die, 2
-2besitzen
-2besser, 2
-2bloß, 2
-2Bombe, die, 2
-2Brise, die, 2
-2Dämon, der, 2
-2Dekan, der, 2
-2Eindruck, der, 2
-2entdecken, 2
-2ermorden, 2
-2euphorisch, 2
-2Fassade
-2fremd, 2
-2genug, 2
-2Georgien
-2Grad, der, 2
-2groß
-2Haken, der
-2heiß, 2
-2hoffen, hopen
-2jahrelang, 2
-2Kleidung
-2Krieger, der, 2
-2Lunge, die
-2Lunge, die, 2
-2Mittag
-2Name
-2niemand, 2
-2Realität, die, 2
-2ruhig
-2Sack, der, 2
-2Spur, 2
-2Stimmung, die, 2
-2Syrien
-2Tschechien
-2Tunesien, 2
-2verbrennen, 2
-2weißen, 2
