@@ -48,11 +48,13 @@ Use singular for nouns, and infinitive for verbs.
 - Bar, die
 - beginnen
 - Berg, der
+- bewegen
 - Bier, das
 - Bowling, das
 - Brief, der
 - Bus, der
 - Camping, das
+- chaotisch
 - Chip, der
 - Cocktail, der
 - Computer, der
@@ -62,9 +64,12 @@ Use singular for nouns, and infinitive for verbs.
 - Detail, das
 - Diamant, der
 - Dichter, der
+- Diesel
+- Ding, das
 - Ei, das
 - Energie, die
 - Engel, der
+- Etui, das
 - Europa, ?
 - Fan, der
 - Film, der
@@ -75,15 +80,19 @@ Use singular for nouns, and infinitive for verbs.
 - Geschenk, das
 - Giraffe, die
 - Golf, das
+- Gunst, die
 - hallo
 - Hamburger, der
 - Hand, die
+- Heilige, der
 - Held, der
 - Helm, der
 - hier
 - Hotel, das
+- Hypnose, die
 - Idee, die
 - interessant
+- jagen
 - Judo, das
 - Juli, der
 - Juni, der
@@ -94,6 +103,7 @@ Use singular for nouns, and infinitive for verbs.
 - klein
 - Knie, das
 - Koffer, der
+- komisch
 - kritisch
 - Land, das
 - lang
@@ -105,6 +115,7 @@ Use singular for nouns, and infinitive for verbs.
 - Manager, der
 - Mann, der
 - Methode, der
+- Mission, die
 - Mode, die
 - Moment, der
 - Morgen, der
@@ -113,30 +124,38 @@ Use singular for nouns, and infinitive for verbs.
 - Niveau, das
 - Nummer, die
 - Oktober, der
+- Ordner, der
 - Paar, das
 - Papier, das
 - parallel
+- Park, das
 - Park, der
+- Passagier, der
 - Passagier, der
 - Patient, der
 - pessimistisch
 - Picknick, das
 - Plan, der
+- Portugal
 - praktisch
 - Priester, der
 - Problem, das
 - Professor, der
 - Radar, das
 - Radio, das
+- Radius, der
 - Regel, die
 - Regen, der
 - rennen
 - Restaurant, das
+- Route, die
 - Sandwich, das
-- Stadion, das
+- Schande, die
 - Sheriff, der
 - Show, die
+- Situation, die
 - Spiegel, der
+- Stadion, das
 - Strand, der
 - Student, der
 - Surfen, das
@@ -147,21 +166,28 @@ Use singular for nouns, and infinitive for verbs.
 - Technologie
 - Tempel, der
 - Tennis, das
+- Thailand
 - Theorie, die
 - Ticket, das
+- Titel, der
+- Training, das
 - Tumor, der
 - Tunnel, der
 - Universum, das
 - verdienen
 - Verlangen, das
+- verloren
 - Video, das
 - vier
 - Visum, das
 - Vogel, der
+- Wand, die
 - Westen, der
 - wild
+- willen
 - Wind, der
 - Wolf, der
+
 
 ## Identical apart from one character
 
@@ -330,6 +356,7 @@ and the infinitive form for verbs.
 - Wurst, die
 - Yacht, die
 - Zentrum, das
+
 
 ## Identical apart from two characters
 
@@ -519,105 +546,83 @@ but that have a different meaning.
 
 ## New
 
-2besser, 2
-2Mittag
-2Fassade
-bröckeln
-Name
-erkennen
-stille
-wirken
-groß
-Kleidung
-Gesicht
-Wand
-Kasse
-verloren
-ruhig
-Modell
-niemand, 2
-jemand
-uhr, 1
-schießen, 1
-Panik, 1
-stecken, 1
-willen, 0
-fremd, 2
-brutto, 1
-komisch, 0
-Feld, 1
-verbrennen, 2
-ermorden, 2
-genug, 2
-Diesel, 0
-Benzin,1 
-Lampe, 1
-Ventil,1 
-Flammen, 1 
-Spur, 2
-Etui, 0
-entdecken, 2
-bloß, 2
-Ordner, 0
-chaotisch, 0
-Situation, 0
-Norwegen, 1
-weißen, 2
-Park, 0
-Passagier, 0
-Hypnose, 0
-Typ, das, 1 
-euphorisch, 2
-jahrelang, 2
-hoffen, hopen
-Ding, das, 0
-Kurve, die, 1
-Armenien,2  
-bewegen
-Route, die, 0
-Heilige, der 0
-legen, 1
-Creme, die, 1
-Kommandant, der
-Haken, der
-Training, das
-Kanada
-Georgien
-Volksrepublik China, 1
-Volumen, das, 1
-Kurve, die, 1
-Grad, der, 2
-jagen
-irritieren, 1
-Mexiko, 1
-Kuba, 1
-heiß, 2
-Stimmung, die, 2
-Balance, die, 2
-Thailand
-Realität, die, 2
-2Australien, 2
-0Gunst, die, 0
-1Komfort, der, 1
-2Dekan, der, 2
-2Tunesien, 2
-2Algerien, 2
-2Sack, der, 2
-2Dämon, der, 2
-0Radius, der, 0
-0Portugal, 0
-Brise, die, 2
-0Mission, die, 2
-2Eindruck, der, 2
-2Syrien
-2besitzen
-2Tschechien
-1dick, 1
+
+
+
+
+1Benzin,1 
+1brutto, 1
 1bunt, 1
-2Bombe, die, 2
+1Creme, die, 1
+1dick, 1
+1erkennen
+1Feld, 1
+1Flammen, 1 
+1Gesicht
+1irritieren, 1
+1jemand
+1Kanada
+1Kasse
+1Komfort, der, 1
+1Kommandant, der
+1Kuba, 1
+1Kurve, die, 1
+1Kurve, die, 1
+1Lampe, 1
+1legen, 1
+1Mexiko, 1
+1Modell
+1Norwegen, 1
+1Panik, 1
+1schießen, 1
+1stecken, 1
+1stille
+1Typ, das, 1 
+1uhr, 1
+1Ventil,1 
+1Volksrepublik China, 1
+1Volumen, das, 1
+1wirken
 2Akzent, der, 2
+2Algerien, 2
+2Armenien,2  
+2Australien, 2
+2Balance, die, 2
+2besitzen
+2besser, 2
+2bloß, 2
+2Bombe, die, 2
+2Brise, die, 2
+2Dämon, der, 2
+2Dekan, der, 2
+2Eindruck, der, 2
+2entdecken, 2
+2ermorden, 2
+2euphorisch, 2
+2Fassade
+2fremd, 2
+2genug, 2
+2Georgien
+2Grad, der, 2
+2groß
+2Haken, der
+2heiß, 2
+2hoffen, hopen
+2jahrelang, 2
+2Kleidung
 2Krieger, der, 2
 2Lunge, die
-0Titel, der, 0
-0Schande, die
 2Lunge, die, 2
+2Mittag
+2Name
+2niemand, 2
+2Realität, die, 2
+2ruhig
+2Sack, der, 2
+2Spur, 2
+2Stimmung, die, 2
+2Syrien
+2Tschechien
+2Tunesien, 2
+2verbrennen, 2
+2weißen, 2
