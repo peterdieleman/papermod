@@ -569,45 +569,9 @@ or at least off by more than two characters.
 - Wahnsinn
 - vorstellbar
 - seltsam
-- mikroskop
+- Mikroskop, das
 - akkurat
-- Ukraine
-
-## False friends
-
-Words that exist in Dutch with an almost similar spelling,
-but that have a different meaning.
-
-<!-- todo: turn this into a table -->
-- bellen &larr;&rarr; blaffen
-- benutzen &larr;&rarr;
-- Bereich, der &larr;&rarr; gebied
-- Bericht, der &larr;&rarr; rapport, het
-- brauchen &larr;&rarr;
-- Gelegenheit, die &larr;&rarr;
-- Gift, das &larr;&rarr;
-- Hochwasser, das &larr;&rarr;
-- Kleid, das &larr;&rarr; jurk, de
-- knapp &larr;&rarr; krap
-- Knöchel, der &larr;&rarr; Enkel, de[^1]
-- leiten &larr;&rarr;
-- Meer &larr;&rarr; zee
-- Ringen, das &larr;&rarr; worstelen het
-- Schatten, der &larr;&rarr; schaduw, de
-- schlimm &larr;&rarr; erg, zwaar
-- See &larr;&rarr; meer
-- stöhnen &larr;&rarr; kreunen *(kreunt en steunt)
-- Tasche, die &larr;&rarr; Zak, de (clothing)
-- trauen &larr;&rarr; vertrouwen
-- verführen &larr;&rarr; verleiden
-- Welle, die <-> golf, het
-- Wie? &larr;&rarr; hoe?
-- Wo? &larr;&rarr; waar?
-- Brutal &larr;&rarr; bruut
-- Winkel, der
-- Kapsel
-- penibel
-- anmachen
+- Ukraine, die
 
 [^1]: In popular meaning.
 
