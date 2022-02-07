@@ -385,7 +385,6 @@ and the infinitive form for verbs.
 - Yacht, die
 - Zentrum, das
 
-
 ## Identical apart from two characters
 
 German words that can be formed by adding,
@@ -614,5 +613,3 @@ but that have a different meaning.
 [^1]: In popular meaning.
 
 ## New
-
-
