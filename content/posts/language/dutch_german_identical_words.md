@@ -577,28 +577,25 @@ or at least off by more than two characters.
 
 ## New
 
-vorstellen
-fysik
-links
-kommen
-streifen
-mittel
-mittel
-getroffen
-hilfte
-orange
-sport
-bild
-mauer
-amst
-bestrafen
-straf
-process
-excess
-berg
-functionieren
-hobby
-spotter
-fotografieren
-spannung
-gericht (gerecht)
+1vorstellen
+0links
+1kommen
+2mittel
+0treffen
+1helfen
+1orange
+1Sport, der
+2Bild das
+2mauer
+1amst
+1bestrafen
+2Prozess, der
+0Berg, der
+2funktionieren
+0Hobby, das
+0Spotter, der
+1fotografieren
+1Spannung, die
+1gericht (gerecht)
+1Regress, der
+0Stress, der
