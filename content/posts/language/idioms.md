@@ -1,26 +1,21 @@
 ---
-title: "Too Long"
-tags: ["German"]
-date: 2022-01-29
+title: "Idioms"
+tags: ["Germans"]
+date: 2022-02-06
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
 # disableShare: false
 # searchHidden: false
 ---
-<!-- look up ratio -->
 
-## Comically Long Words
 
-- entgegengesetzt, opposite
-- Krankenschwester, nurse
+|Duits | Nederlands|
+|---|---|
+|weiß der Teufel| Dat mag de duivel weten|
 
-## Acronyms
-
-- Kripo, Kriminalpolizei
-- Soko, Sonderkommission

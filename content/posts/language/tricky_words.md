@@ -22,13 +22,25 @@ draft: false
 ## Nouns
 
 - Zelt, das
+- Zelten
 - Verbrechen, das
 - Gipfel, der
 - Zeuge, der
-- Gespents, das
+- Gespenst, das
 - Anwalt, der
 - Witz, der
 - Gesetz, das
 - Loch, das
 - Stolz, der
 - verkosten
+- Fichte, die
+- Wiese, die
+- eher
+- anfassen
+- Sakko
+- Teich
+- Ast
+- Anwesen
+- rächen
+- absichtlich
+- Landwirt

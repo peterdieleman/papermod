@@ -1,26 +1,19 @@
 ---
-title: "Too Long"
-tags: ["German"]
-date: 2022-01-29
+title: "Italian Urban Myths"
+tags: ["template"]
+date: 1970-01-01
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
 # disableShare: false
 # searchHidden: false
 ---
-<!-- look up ratio -->
 
-## Comically Long Words
-
-- entgegengesetzt, opposite
-- Krankenschwester, nurse
-
-## Acronyms
-
-- Kripo, Kriminalpolizei
-- Soko, Sonderkommission
+- Swimming after eating
+- Maelstrom Lakes
+- Colpo d'Aria

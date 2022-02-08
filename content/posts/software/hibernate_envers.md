@@ -20,7 +20,6 @@ draft: false
 - <https://thorben-janssen.com/hibernate-envers-getting-started/>
 - <https://sunitc.dev/2020/01/21/spring-boot-how-to-add-jpa-hibernate-envers-auditing/>
 - <https://www.bytefish.de/blog/hibernate_envers_versioning_and_auditing.html>
-
-<https://hibernate.atlassian.net/browse/HHH-10212?attachmentOrder=asc>
-<https://developer.jboss.org/thread/152642>
-<https://developer.jboss.org/thread/166705>
+- <https://hibernate.atlassian.net/browse/HHH-10212?attachmentOrder=asc>
+- <https://developer.jboss.org/thread/152642>
+- <https://developer.jboss.org/thread/166705>
