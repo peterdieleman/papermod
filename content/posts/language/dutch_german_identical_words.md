@@ -576,3 +576,29 @@ or at least off by more than two characters.
 [^1]: In popular meaning.
 
 ## New
+
+vorstellen
+fysik
+links
+kommen
+streifen
+mittel
+mittel
+getroffen
+hilfte
+orange
+sport
+bild
+mauer
+amst
+bestrafen
+straf
+process
+excess
+berg
+functionieren
+hobby
+spotter
+fotografieren
+spannung
+gericht (gerecht)
