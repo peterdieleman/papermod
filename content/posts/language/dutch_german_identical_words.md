@@ -505,7 +505,12 @@ but that have a different meaning.
 
 [^1]: In popular meaning.
 
-
+kostenlos
+daueren
+weg
+aktuell
+kredit
+uns
 
 
 
