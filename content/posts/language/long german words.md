@@ -25,4 +25,4 @@ draft: false
 - Kripo, Kriminalpolizei
 - Soko, Sonderkommission
 - KeDeWe, Kaufhaus Des Westens
-
+- MPK, Ministerpräsidentenkonferenz
