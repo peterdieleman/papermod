@@ -587,7 +587,7 @@ or at least off by more than two characters.
 1Sport, der
 2Bild das
 2mauer
-1amst
+1Amts
 1bestrafen
 2Prozess, der
 0Berg, der
@@ -608,7 +608,20 @@ or at least off by more than two characters.
 0Fantasie
 1Chemikalie, die
 1imponieren
-1abonieren
+1abonnieren
 1leer
 2stürzen
 2Kosmetik
+2regelmäßig
+?sterben
+?romantisch
+?frisch
+?stand (van marktstand)
+?skelet
+?analyse
+?Moralist, der
+?Video, das
+1?Lack, der
+1Leck, 
+2anonym
+

@@ -42,3 +42,9 @@ but that have a different meaning.
 | verführen     | vervoeren     | verleiden          |
 | Wie?          | wie?          | hoe?               |
 | Winkel, der   | Winkel        | Hoek               |
+
+
+## New
+
+Sucht (verslaving)
+Gierig
