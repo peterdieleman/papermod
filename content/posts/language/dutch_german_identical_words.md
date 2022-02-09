@@ -187,10 +187,10 @@ Use singular for nouns, and infinitive for verbs.
 - Wind, der
 - beginnen
 - geduldig
-enorm
-schande
-Familie
-November, der
+- enorm
+- schande
+- Familie?
+- November, der
 - Wolf, der
 
 ## Identical apart from one character
@@ -391,14 +391,14 @@ and the infinitive form for verbs.
 - Yacht, die
 - Arbeiter, der
 - Tochter, die
-ob
-mit
-Reiz, der
-Februar, der
-Familiendrama
-Fragen
-System
-gebiet
+- ob
+- mit
+- Reiz, der
+- Februar, der
+- Familiendrama, ?
+- Fragen
+- System, ?
+- gebiet
 - Zentrum, das
 
 ## Identical apart from two characters
@@ -588,10 +588,6 @@ These are German and Dutch words with identical origin, of which Dutch people wo
 - Abschlebwagen?
 - Schusswaffen?
 
-## German words that made it into English
-
-- oft
-
 ## Homophones
 
 These are German and Dutch words with identical meaning and
@@ -604,7 +600,6 @@ or at least off by more than two characters.
 - kreativ
 - Wahrheit, die
 - gedeihen
-- 
 - aggressiv
 - Wahnsinn
 - vorstellbar
@@ -664,4 +659,5 @@ or at least off by more than two characters.
 1?Lack, der
 1Leck, 
 2anonym
+
 
