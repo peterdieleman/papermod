@@ -48,3 +48,5 @@ but that have a different meaning.
 
 Sucht (verslaving)
 Gierig
+Aktien
+auf

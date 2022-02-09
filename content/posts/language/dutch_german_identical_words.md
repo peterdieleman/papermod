@@ -607,6 +607,10 @@ or at least off by more than two characters.
 - Mikroskop, das
 - akkurat
 - Ukraine, die
+- attraktiv
+- massiv
+- Unsinn
+
 
 [^1]: In popular meaning.
 
@@ -659,5 +663,23 @@ or at least off by more than two characters.
 1?Lack, der
 1Leck, 
 2anonym
-
-
+Arzt
+Erker
+selten
+Examen
+hitze
+verteidigen
+Kastanie
+Affäre?
+kehren
+kamele
+nackt
+luft
+Idiot
+bersten
+lebenslang
+gewalt
+sinn
+theorie
+nicken
+blatt
