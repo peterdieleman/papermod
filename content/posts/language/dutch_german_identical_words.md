@@ -98,6 +98,12 @@ German words that are spelled identical to the Dutch one, and also have the same
 - wild
 - Wind, der
 - beginnen
+- geduldig
+enorm
+schande
+Familie
+November, der
+
 ## Identical apart from one character
 
 German words that can be formed by adding, replacing, or deleting 1 of the letters in the Dutch word (or vice versa, ignoring the articles), and that also largely have the same meaning.
@@ -190,6 +196,14 @@ German words that can be formed by adding, replacing, or deleting 1 of the lette
 - Yacht, die
 - Arbeiter, der
 - Tochter, die
+ob
+mit
+Reiz, der
+Februar, der
+Familiendrama
+Fragen
+System
+gebiet
 
 ## Identical apart from two characters
 
@@ -206,7 +220,8 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - drei
 - Ehre, die
 - Eis, das
-- essen
+- esse
+- feststellen
 - Generation, die
 - Genetik, die
 - gestern
@@ -248,6 +263,23 @@ German words that can be formed by adding, replacing, or deleting 2 of the lette
 - Pille, die
 - Käse, der
 - ärgern
+- mindestens
+- entdecken
+- Polizei, der
+
+## Words of Identical Origin
+
+These are German and Dutch words with identical origin, of which Dutch people would correctly guess the meaning even if they've never seen it before (but which differ by more than 2 characters).
+
+- vermuten?
+- entwicklung
+- Seitenstraße
+- Abschlebwagen?
+- Schusswaffen?
+
+## German words that made it into English
+
+- oft
 
 ## Homophones
 
@@ -260,6 +292,8 @@ or at least off by more than two characters.
 - bauen
 - kreativ
 - Wahrheit, die
+- gedeihen
+- 
 
 ## False friends
 
