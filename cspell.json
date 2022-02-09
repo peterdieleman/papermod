@@ -4,12 +4,18 @@
     "dictionaryDefinitions": [],
     "dictionaries": [
         "german",
-        "english"
+        "english",
+        "dutch"
     ],
     "words": [
-        "Allergie"
+        "Häuslein",
+        "hidemeta",
+        "highlightjs",
+        "HLJS",
+        "Karte"
     ],
     "ignoreWords": [],
     "import": [],
-    "enabled": false
+    "enabled": true,
+    "language": "en,de-DE,nl"
 }

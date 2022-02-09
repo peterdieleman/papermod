@@ -45,7 +45,7 @@ These words are almost always Der:
 - **-us** (Campus, Exitus)[^4]
 - **-ismus** (Alkoholismus, Atheismus, Faschismus)
 
-## Die:
+## Die
 
 - **-e** (90%: Bete, Seite, Zeile)[^9]
 - **-ie** (Demokratie, Energie, Fotografie)[^1]
@@ -58,7 +58,7 @@ These words are almost always Der:
 - **-tion** (Aktion, Diskussion, Information)
 - **-sion** (Version, Dimension, Illusion)
 - **-ik** (Fabrik, Klinik, Politik)
-- **-ur** (Agentur, Diktatur, Natu)
+- **-ur** (Agentur, Diktatur, Natur)
 - **-heit** (Frechheit, Freiheit, Geborgenheit)
 
 In addition, foreign words with these endings are also Die:
@@ -78,7 +78,7 @@ These word endings indicate a Das word:
 
 - **-chen** (Bäumchen, Bärchen, Häschen)
 - **-lein** (Bächlein, Fräulein, Häuslein)
-- **-ment** (Argument, Dokument, Elemen)
+- **-ment** (Argument, Dokument, Element)
 - **-tum** (Brauchtum, Christentum, Eigentum)
 - **-um** (Datum, Publikum, Stadium)
 - **-o** (Auto, Konto)
@@ -92,7 +92,7 @@ Further Rules:
 - **-in** When referring to chemical terms (das Benzin, das Protein)
 - **-ing** When referring to English words (das Meeting, das Training)
 - **-ma** When referring to words of Greek origin (das Schema, das Thema, das Rheuma. But not: die Firma, der Puma)
-- **-nis** When _not_ referring to a state of mind (das Ergbenis, das Zeugnis)[^10]
+- **-nis** When _not_ referring to a state of mind (das Ergebnis, das Zeugnis)[^10]
 - **ge-** When used as a prefix (das Gebirge, das Gebäck, das Geschirr)[^5]’[^11]
 
 These endings are usually das words when referring to things[^5]:
@@ -112,6 +112,7 @@ These endings are usually das words when referring to things[^5]:
 - Opfer, das
 - Wasser, das
 - Käse, der
+- Wetter, das
 
 ## Sources, Notes
 
@@ -128,4 +129,4 @@ These endings are usually das words when referring to things[^5]:
 [^11]: Except: male persons (der Gehilfe), as well as some nouns derived from verbs (der Gebrauch, der Genuss, der Gesang, der Gedanke, der Geruch, der Gewinn), and these 11 female words: Gebärde, Gebühr, Geburt, Geduld, Gefahr,  Gemeinde, Geschichte, Geschwulst, Gestalt,  Gewähr, Gewalt.
 [^12]: Except: der Altar.
 [^13]: Except: die Neugier.
-[^14]: Except: words of non-greek origin, which are usually Der words (der Bourbon, der Kanon, der Pavillon, der Waggon).
+[^14]: Except: words of non-Greek origin, which are usually Der words (der Bourbon, der Kanon, der Pavillon, der Waggon).

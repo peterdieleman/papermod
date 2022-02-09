@@ -14,9 +14,3 @@ draft: true
 # searchHidden: false
 ---
 
-https://www.filmtourismus.de/grand-budapest-hotel/
-
-Freisebad Goerlitz
-Stadthalle Goerlitz
-Kaufhaus Goerlitz
-
