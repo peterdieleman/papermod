@@ -26,6 +26,11 @@ draft: false
 
 - **MPK**: Ministerpräsidentenkonferenz
 
+## Shorthand
+
+- **Iro** [Irokesenschnitt](https://de.wikipedia.org/wiki/Irokesenschnitt)
+- **OP** [Operationssaal](https://de.wikipedia.org/wiki/Operationssaal)
+
 ## Silbenkurzwörter
 
 Syllabic abbreviatons, like **SoHo** are very common in German, see: 

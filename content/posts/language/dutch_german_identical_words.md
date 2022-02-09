@@ -599,3 +599,16 @@ or at least off by more than two characters.
 1gericht (gerecht)
 1Regress, der
 0Stress, der
+1befinden
+1kaput
+1Ethik, die
+1Statistik, die
+0ambivalent
+1äquivalent
+0Fantasie
+1Chemikalie, die
+1imponieren
+1abonieren
+1leer
+2stürzen
+2Kosmetik
