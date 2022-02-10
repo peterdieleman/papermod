@@ -113,6 +113,7 @@ These endings are usually das words when referring to things[^5]:
 - Wasser, das
 - Käse, der
 - Wetter, das
+- Butter, die
 
 ## Sources, Notes
 

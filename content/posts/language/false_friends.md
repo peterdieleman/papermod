@@ -50,3 +50,5 @@ Sucht (verslaving)
 Gierig
 Aktien
 auf
+umschlag
+vertieft

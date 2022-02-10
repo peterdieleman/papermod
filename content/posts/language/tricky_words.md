@@ -18,6 +18,7 @@ draft: false
 
 - erwähnen, noemen
 - ablehnen, weigeren
+- sieden
 
 ## Nouns
 

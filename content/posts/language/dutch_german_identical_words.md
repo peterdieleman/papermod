@@ -683,3 +683,31 @@ sinn
 theorie
 nicken
 blatt
+pause, die
+Hexe, die
+Chemie, die
+nass
+laser, der
+Laser?
+Marketing, das
+Bibel, die
+Gerücht, das
+kämmen
+sprechen
+sprecher?
+Kategorie
+Fett, das
+optimistisch
+offen
+vierzig
+Puls, der
+Motel, das
+Kollege, der
+Butter, die
+gießen
+positiv
+voll
+Psychologie
+Scheidung
+Gas, das
+Schatz, der
