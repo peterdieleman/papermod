@@ -439,7 +439,6 @@ and the infinitive form for verbs.
 - anonym
 - Antwort, die
 - ärgern
-- ärgern
 - Armenien  
 - Arzt, der
 - August, der
@@ -455,7 +454,6 @@ and the infinitive form for verbs.
 - Bett, das
 - bezahlen
 - Bild das
-- Blatt, das
 - Blatt, das
 - bloß
 - Bombe, die
@@ -474,7 +472,6 @@ and the infinitive form for verbs.
 - Eindruck, der
 - Eis, das
 - Emotion, die
-- entdecken
 - entdecken
 - ermorden
 - esse
@@ -513,7 +510,6 @@ and the infinitive form for verbs.
 - Kapitän, der
 - Karriere, die
 - Karte, die
-- Käse, der
 - Käse, der
 - Katze, die
 - Kleidung, die
@@ -559,7 +555,6 @@ and the infinitive form for verbs.
 - Pfau, der
 - Pferd, das
 - Pille, die
-- Pille, die
 - Pistole, die
 - Pol, der
 - Polizei, der
@@ -588,7 +583,6 @@ and the infinitive form for verbs.
 - Sohn, der
 - Sommer, der
 - Spinne, die
-- sprechen
 - sprechen
 - Sprecher, der
 - Spur, das
