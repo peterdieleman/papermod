@@ -233,7 +233,6 @@ and the infinitive form for verbs.
 - Apparat, das
 - äquivalent
 - Arbeiter, der
-- Arbeiter, der
 - Atem, der
 - Ball, der
 - Bank, die
@@ -273,7 +272,6 @@ and the infinitive form for verbs.
 - Familie, die
 - Familiendrama, ?
 - fangen
-- Februar, der
 - Februar, der
 - Feld, das
 - finden
@@ -340,7 +338,6 @@ and the infinitive form for verbs.
 - Kollege, der
 - Komfort, der
 - Kommandant, der
-- kommen
 - kommen
 - kotzen
 - Kredit, der
@@ -441,7 +438,6 @@ and the infinitive form for verbs.
 - Theater, das
 - Tier, das
 - Tiger, der
-- Tochter, die
 - Tochter, die
 - Tourist, der
 - trinken
