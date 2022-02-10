@@ -664,16 +664,6 @@ and the infinitive form for verbs.
 - Wurzel, die
 - Zwei
 
-## Words of Identical Origin
-
-These are German and Dutch words with identical origin, of which Dutch people would correctly guess the meaning even if they've never seen it before (but which differ by more than 2 characters).
-
-- vermuten?
-- entwicklung
-- Seitenstraße
-- Abschlebwagen?
-- Schusswaffen?
-
 ## Homophones
 
 These are German and Dutch words with identical meaning and
