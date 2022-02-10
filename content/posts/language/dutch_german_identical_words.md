@@ -225,25 +225,34 @@ and that also largely have the same meaning.
 Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
+- abonnieren
 - Alkohol, der
 - allein
+- Amts
 - Apfel, der
 - Apparat, das
+- äquivalent
+- Arbeiter, der
 - Arbeiter, der
 - Atem, der
 - Ball, der
 - Bank, die
 - Basketball, der
 - Batterie, die
+- befinden
 - Bein, das
 - Benzin, der
+- bersten
+- bestrafen
 - Beweis, der
+- Bibel, die
 - Bibliothek, die
 - blasen
 - blau
 - bringen
 - brutto
 - bunt
+- Chemikalie, die
 - Creme, die
 - Dach, das
 - Dezember, der
@@ -258,9 +267,13 @@ and the infinitive form for verbs.
 - Englisch, das
 - erkennen
 - Esel, der
+- Ethik, die
+- Fabrik, die
 - fallen
 - Familie, die
+- Familiendrama, ?
 - fangen
+- Februar, der
 - Februar, der
 - Feld, das
 - finden
@@ -269,15 +282,21 @@ and the infinitive form for verbs.
 - fliegen
 - folgen
 - Form, die
+- fotografieren
 - fragen
+- Fragen
 - geben
+- gebiet
 - Gebiet, das
 - Gefahr, die
 - Gefecht, das
+- gericht (gerecht)
+- Gerücht, das
 - Geschlecht, das
 - Gesicht, das
 - Gewehr, das
 - Gewicht, das
+- gießen
 - Gold, das
 - Gott, der
 - Grab, das
@@ -286,13 +305,17 @@ and the infinitive form for verbs.
 - Haare, die
 - Hammer, der
 - Handball, der
+- helfen
 - Herbst, der
+- Hitze, die
 - Honig, der
 - hören
 - Horizont, der
 - Horn, das
 - Hund, der
+- Idiot, der
 - Igel, der
+- imponieren
 - importieren
 - irritieren
 - Jäger, der
@@ -301,15 +324,23 @@ and the infinitive form for verbs.
 - jemand
 - Joghurt, der
 - jung
+- Kamel, das
 - Kamera, die
+- kämmen
 - Kanada
+- kaput
 - Kasse, die
+- Kastanie, die
+- Kategorie, die
+- kehren
 - Keller, das
 - Kinn, das
 - Kissen, das
 - Kiwi, die
+- Kollege, der
 - Komfort, der
 - Kommandant, der
+- kommen
 - kommen
 - kotzen
 - Kredit, der
@@ -318,29 +349,38 @@ and the infinitive form for verbs.
 - Kugel, die
 - Kurve, die
 - küssen
+- Lack, der
 - Lampe, die
 - leben
 - Leben, das
+- lebenslang
+- Leck, das
 - Leder, das
+- leer
 - legen
 - leiden
 - lernen
 - lesen
+- Leser, der
 - Literatur, die
 - Lotterie, die
 - Maske, die
 - Mayonnaise, die
 - mehr
 - Mexiko
+- mit
 - Modell, das
 - Mord, der
+- nackt
 - Natur, die
 - Norden, der
 - Norwegen
 - November, der
 - null
+- ob
 - Objekt, das
 - Ohr, das
+- orange
 - Osten, der
 - Panik, die
 - Parfüm, das
@@ -354,33 +394,46 @@ and the infinitive form for verbs.
 - Prinz, der
 - Produkt, das
 - Programm, das
+- Prozent, das
+- Puls, der
 - Punkt, der
 - recyceln
+- Regress, der
+- Reiz, der
 - Richtung, die
 - Risiko, das
 - Rock, der
+- romantisch
 - rosa
 - Sand, der
 - Schädel, der -> check
+- Schatz, der
+- Scheidung, die
 - schief
 - schießen
 - Signal, das
 - Silber, das
 - singen
+- Skelet, das
 - Soldat, der
 - sonnig
+- Spannung, die
 - Spiel, das
 - spielen
+- Sport, der
 - Stadt, die
 - Stahl, der
 - stark
+- Statistik, die
 - stecken
 - stehlen
 - Stein, der
+- sterben
 - Stille, die
 - Stock, der ?
 - stören
 - studieren
+- System, ?
 - System, das
 - Tag, der
 - Tal, das
@@ -388,6 +441,7 @@ and the infinitive form for verbs.
 - Theater, das
 - Tier, das
 - Tiger, der
+- Tochter, die
 - Tochter, die
 - Tourist, der
 - trinken
@@ -401,6 +455,7 @@ and the infinitive form for verbs.
 - verraten
 - vierte
 - Volksrepublik China
+- voll
 - Volumen, das
 - Wange, die
 - was
@@ -410,16 +465,6 @@ and the infinitive form for verbs.
 - wollen
 - Wurst, die
 - Yacht, die
-- Arbeiter, der
-- Tochter, die
-- ob
-- mit
-- Reiz, der
-- Februar, der
-- Familiendrama, ?
-- Fragen
-- System, ?
-- gebiet
 - Zentrum, das
 
 ## Identical apart from two characters
@@ -664,49 +709,5 @@ or at least off by more than two characters.
 ## New
 
 
-1abonnieren
-1Amts
-1äquivalent
-1befinden
-1bersten
-1bestrafen
-1Bibel, die
-1Chemikalie, die
-1Ethik, die
-1Fabrik, die
-1fotografieren
-1gericht (gerecht)
-1Gerücht, das
-1gießen
-1helfen
-1Hitze, die
-1Idiot, der
-1imponieren
-1Kamel, das
-1kämmen
-1kaput
-1Kastanie, die
-1Kategorie, die
-1Kollege, der
-1kommen
-1Lack, der
-1lebenslang
-1Leck, das
-1leer
-1Leser, der
-1nackt
-1kehren
-1orange
-1Prozent, das
-1Puls, der
-1Regress, der
-1romantisch
-1Schatz, der
-1Scheidung, die
-1Skelet, das
-1Spannung, die
-1Sport, der
-1Statistik, die
-1sterben
-1voll
+
 
