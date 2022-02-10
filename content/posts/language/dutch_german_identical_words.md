@@ -36,6 +36,8 @@ and also have the same meaning (ignoring the articles).
 Use singular for nouns, and infinitive for verbs.
 
 - Allergie, die
+- ambivalent
+- Analyse, die
 - Angst, die
 - Apotheker, der
 - April, der
@@ -47,6 +49,8 @@ Use singular for nouns, and infinitive for verbs.
 - Balkon, der
 - Bar, die
 - beginnen
+- beginnen
+- Berg, der
 - Berg, der
 - bewegen
 - Bier, das
@@ -55,6 +59,7 @@ Use singular for nouns, and infinitive for verbs.
 - Bus, der
 - Camping, das
 - chaotisch
+- Chemie, die
 - Chip, der
 - Cocktail, der
 - Computer, der
@@ -69,13 +74,20 @@ Use singular for nouns, and infinitive for verbs.
 - Ei, das
 - Energie, die
 - Engel, der
+- enorm
+- Erker, der
 - Etui, das
 - Europa, ?
+- Examen, das
+- Familie?
 - Fan, der
+- Fantasie
 - Film, der
 - Foto, das
 - Garage, die
+- Gas, das
 - Gedicht, das
+- geduldig
 - Geld, das
 - Geschenk, das
 - Giraffe, die
@@ -88,11 +100,14 @@ Use singular for nouns, and infinitive for verbs.
 - Held, der
 - Helm, der
 - hier
+- Hobby, das
 - Hotel, das
+- Humor, der
 - Hypnose, die
 - Idee, die
 - interessant
 - jagen
+- Japan, das
 - Judo, das
 - Juli, der
 - Juni, der
@@ -107,23 +122,30 @@ Use singular for nouns, and infinitive for verbs.
 - kritisch
 - Land, das
 - lang
+- Laser, der
 - Licht
 - Lied, das
 - Limonade, die
+- links
 - Magie, die
 - Mais, der
 - Manager, der
 - Mann, der
+- Marketing, das
 - Methode, der
 - Mission, die
 - Mode, die
 - Moment, der
+- Moralist, der
 - Morgen, der
+- Motel, das
 - Motor, der
 - Museum, das
 - Niveau, das
+- November, der
 - Nummer, die
 - Oktober, der
+- optimistisch
 - Ordner, der
 - Paar, das
 - Papier, das
@@ -132,6 +154,7 @@ Use singular for nouns, and infinitive for verbs.
 - Park, der
 - Passagier, der
 - Patient, der
+- Pause, die
 - pessimistisch
 - Picknick, das
 - Plan, der
@@ -140,6 +163,7 @@ Use singular for nouns, and infinitive for verbs.
 - Priester, der
 - Problem, das
 - Professor, der
+- Psychologie, die
 - Radar, das
 - Radio, das
 - Radius, der
@@ -149,13 +173,17 @@ Use singular for nouns, and infinitive for verbs.
 - Restaurant, das
 - Route, die
 - Sandwich, das
+- schande
 - Schande, die
 - Sheriff, der
 - Show, die
 - Situation, die
 - Spiegel, der
+- Spotter, der
 - Stadion, das
+- Stand, der
 - Strand, der
+- Stress, der
 - Student, der
 - Surfen, das
 - T-shirt, das
@@ -167,15 +195,19 @@ Use singular for nouns, and infinitive for verbs.
 - Tennis, das
 - Thailand
 - Theorie, die
+- Theorie, die
 - Ticket, das
 - Titel, der
 - Training, das
+- treffen
+- Tumor, der
 - Tumor, der
 - Tunnel, der
 - Universum, das
 - verdienen
 - Verlangen, das
 - verloren
+- Video, das
 - Video, das
 - vier
 - Visum, das
@@ -185,12 +217,6 @@ Use singular for nouns, and infinitive for verbs.
 - wild
 - willen
 - Wind, der
-- beginnen
-- geduldig
-- enorm
-- schande
-- Familie?
-- November, der
 - Wolf, der
 
 ## Identical apart from one character
@@ -616,107 +642,80 @@ or at least off by more than two characters.
 
 ## New
 
-1vorstellen
-0links
-1kommen
-2mittel
-0treffen
-1helfen
-1orange
-1Sport, der
-2Bild das
-2mauer
-1Amts
-1bestrafen
-2Prozess, der
-0Berg, der
-2funktionieren
-0Hobby, das
-0Spotter, der
-1fotografieren
-1Spannung, die
-1gericht (gerecht)
-1Regress, der
-0Stress, der
-1befinden
-1kaput
-1Ethik, die
-1Statistik, die
-0ambivalent
-1äquivalent
-0Fantasie
-1Chemikalie, die
-1imponieren
-1abonnieren
-1leer
-2stürzen
-2Kosmetik
-2regelmäßig
-?sterben
-?romantisch
-?frisch
-?stand (van marktstand)
-?skelet
-?analyse
-?Moralist, der
-?Video, das
-1?Lack, der
-1Leck, 
-2anonym
-Arzt
-Erker
-selten
-Examen
-hitze
-verteidigen
-Kastanie
-Affäre?
-kehren
-kamele
-nackt
-luft
-Idiot
-bersten
-lebenslang
-gewalt
-sinn
-theorie
-nicken
-blatt
-pause, die
-Hexe, die
-Chemie, die
-nass
-laser, der
-Laser?
-Marketing, das
-Bibel, die
-Gerücht, das
-kämmen
-sprechen
-sprecher?
-Kategorie
-Fett, das
-optimistisch
-offen
-vierzig
-Puls, der
-Motel, das
-Kollege, der
-Butter, die
-gießen
-positiv
-voll
-Psychologie
-Scheidung
-Gas, das
-Schatz, der
-kochen
-Text, der
-Humor, der
-Tumor, ?
-Japan
-negativ
-Fabrik, die
-Prozent, das
 
+1abonnieren
+1Amts
+1äquivalent
+1befinden
+1bersten
+1bestrafen
+1Bibel, die
+1Chemikalie, die
+1Ethik, die
+1Fabrik, die
+1fotografieren
+1gericht (gerecht)
+1Gerücht, das
+1gießen
+1helfen
+1Hitze, die
+1Idiot, der
+1imponieren
+1Kamel, das
+1kämmen
+1kaput
+1Kastanie, die
+1Kategorie, die
+1Kollege, der
+1kommen
+1Lack, der
+1lebenslang
+1Leck, das
+1leer
+1Leser, der
+1nackt
+1orange
+1Prozent, das
+1Puls, der
+1Regress, der
+1romantisch
+1Schatz, der
+1Scheidung, die
+1Skelet, das
+1Spannung, die
+1Sport, der
+1Statistik, die
+1sterben
+1voll
+2Affäre, die
+2anonym
+2Arzt, der
+2Bild das
+2Blatt, das
+2Butter, die
+2Fett, das
+2funktionieren
+2Gewalt, die
+2Hexe, die
+2kochen
+2Kosmetik
+2Luft, die
+2mauer
+2mittel
+2nass
+2negativ
+2negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
+2nicken
+2offen
+2positiv
+2Prozess, der
+2regelmäßig
+2selten (kaum)
+2Sinn, der ([Bedeutung, Zweck](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/sinn))
+2sprechen
+2Sprecher, der
+2stürzen
+2Text, der
+2verteidigen
+2vierzig
+kehren
