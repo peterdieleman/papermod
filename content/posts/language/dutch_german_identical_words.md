@@ -711,3 +711,12 @@ Psychologie
 Scheidung
 Gas, das
 Schatz, der
+kochen
+Text, der
+Humor, der
+Tumor, ?
+Japan
+negativ
+Fabrik, die
+Prozent, das
+
