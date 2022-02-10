@@ -433,11 +433,15 @@ Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
 - Adresse, die
+- Affäre, die
 - Akzent, der
 - Algerien
+- anonym
 - Antwort, die
 - ärgern
+- ärgern
 - Armenien  
+- Arzt, der
 - August, der
 - Australien
 - Autorität, die
@@ -450,6 +454,8 @@ and the infinitive form for verbs.
 - besser
 - Bett, das
 - bezahlen
+- Bild das
+- Blatt, das
 - Blatt, das
 - bloß
 - Bombe, die
@@ -457,6 +463,7 @@ and the infinitive form for verbs.
 - Brise, die
 - Bruder, der
 - Brust, die
+- Butter, die
 - Charakter, der
 - Dämon, der
 - danken
@@ -466,15 +473,18 @@ and the infinitive form for verbs.
 - Ehre, die
 - Eindruck, der
 - Eis, das
-- esse
-- feststellen
 - Emotion, die
 - entdecken
+- entdecken
 - ermorden
+- esse
 - essen
 - euphorisch
 - Fassade, die
+- feststellen
+- Fett, das
 - fremd
+- funktionieren
 - Gefangene, der
 - Generation, die
 - Genetik, die
@@ -482,6 +492,7 @@ and the infinitive form for verbs.
 - Georgien
 - gestern
 - gesund
+- Gewalt, die
 - gewinnen
 - Gitarre, die
 - Grad, der
@@ -491,6 +502,7 @@ and the infinitive form for verbs.
 - hassen
 - heiß
 - Herz, das
+- Hexe, die
 - Himmel, der
 - hoffen
 - Holz
@@ -502,45 +514,62 @@ and the infinitive form for verbs.
 - Karriere, die
 - Karte, die
 - Käse, der
+- Käse, der
 - Katze, die
 - Kleidung, die
+- kochen
 - Kohle, die
 - Kojote, der
 - König, der
 - Königin, die
 - Konzert, das
+- Kosmetik
 - Kostüm, das
 - Kraft, die
 - Krieger, der
 - Küste, die
 - langsam
 - Liste, die
+- Luft, die
 - Lunge, die
+- mauer
 - Maus, die
 - Mechanismus
 - Meinung, die
 - Melone die
 - Mensch, der
 - messen
+- mindestens
 - Minute, die
 - Mittag, der
+- mittel
 - Mitternacht, die
 - Musik, die
 - Name, der
+- nass
+- negativ
+- negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - neu
 - nichts
+- nicken
 - niemand
 - Noch
+- offen
 - Operation, die
 - Pfau, der
 - Pferd, das
 - Pille, die
+- Pille, die
 - Pistole, die
 - Pol, der
+- Polizei, der
+- positiv
 - Preis, der
+- Prozess, der
 - Puzzle, der
 - Ratte, die
 - Realität, die
+- regelmäßig
 - Regierung, die
 - religiös
 - Roboter, der
@@ -553,11 +582,15 @@ and the infinitive form for verbs.
 - Schiff, das
 - Schokolade, die
 - Sekunde, die
+- selten (kaum)
+- Sinn, der ([Bedeutung, Zweck](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/sinn))
 - Socke, die
 - Sohn, der
 - Sommer, der
 - Spinne, die
 - sprechen
+- sprechen
+- Sprecher, der
 - Spur, das
 - Stadion, das
 - Stern, der
@@ -565,10 +598,12 @@ and the infinitive form for verbs.
 - Straße, die
 - Stück, das
 - Stuhl, der
+- stürzen
 - Syrien
 - Szene
 - Tanz, der
 - tanzen
+- Text, der
 - tief
 - Tod, der
 - Toilette, die
@@ -580,6 +615,8 @@ and the infinitive form for verbs.
 - Universität, die
 - verbrennen
 - Version, die
+- verteidigen
+- vierzig
 - warum?
 - waschen
 - Wasser, das*
@@ -592,12 +629,7 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
-- Pille, die
-- Käse, der
-- ärgern
-- mindestens
-- entdecken
-- Polizei, der
+
 
 ## Words of Identical Origin
 
@@ -669,6 +701,7 @@ or at least off by more than two characters.
 1leer
 1Leser, der
 1nackt
+1kehren
 1orange
 1Prozent, das
 1Puls, der
@@ -682,35 +715,4 @@ or at least off by more than two characters.
 1Statistik, die
 1sterben
 1voll
-2Affäre, die
-2anonym
-2Arzt, der
-2Bild das
-2Blatt, das
-2Butter, die
-2Fett, das
-2funktionieren
-2Gewalt, die
-2Hexe, die
-2kochen
-2Kosmetik
-2Luft, die
-2mauer
-2mittel
-2nass
-2negativ
-2negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
-2nicken
-2offen
-2positiv
-2Prozess, der
-2regelmäßig
-2selten (kaum)
-2Sinn, der ([Bedeutung, Zweck](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/sinn))
-2sprechen
-2Sprecher, der
-2stürzen
-2Text, der
-2verteidigen
-2vierzig
-kehren
+
