@@ -284,7 +284,6 @@ and the infinitive form for verbs.
 - fragen
 - Fragen
 - geben
-- gebiet
 - Gebiet, das
 - Gefahr, die
 - Gefecht, das
