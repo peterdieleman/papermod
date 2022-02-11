@@ -17,3 +17,7 @@ draft: false
 ## The Nuclear Option
 
 `git clean -xdf`
+
+## Pre-push hook that always fails
+
+<https://ghost.org/changelog/prevent-master-push/>
