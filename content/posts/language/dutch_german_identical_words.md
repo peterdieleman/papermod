@@ -696,11 +696,13 @@ or at least off by more than two characters.
 - attraktiv
 - massiv
 - Unsinn
+- schlapp
 
 
 [^1]: In popular meaning.
 
 ## New
+gesprechen
 
 
 
