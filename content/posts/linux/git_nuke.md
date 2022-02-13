@@ -20,6 +20,12 @@ draft: false
 
 ## Pull rebase
 
+For current repository:
+
+`git config pull.rebase true`
+
+As a global setting:
+
 `git config --global pull.rebase true`
 
 <https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull>
