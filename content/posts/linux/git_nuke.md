@@ -23,3 +23,4 @@ draft: false
 `git config --global pull.rebase true`
 
 <https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull>
+
