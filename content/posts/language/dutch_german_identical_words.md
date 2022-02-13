@@ -572,7 +572,7 @@ and the infinitive form for verbs.
 - Maus, die
 - Mechanismus
 - Meinung, die
-- Melone die
+- Melone, die
 - Mensch, der
 - messen
 - mindestens
@@ -664,16 +664,6 @@ and the infinitive form for verbs.
 - Wurzel, die
 - Zwei
 
-## Words of Identical Origin
-
-These are German and Dutch words with identical origin, of which Dutch people would correctly guess the meaning even if they've never seen it before (but which differ by more than 2 characters).
-
-- vermuten?
-- entwicklung
-- Seitenstraße
-- Abschlebwagen?
-- Schusswaffen?
-
 ## Homophones
 
 These are German and Dutch words with identical meaning and
@@ -698,12 +688,8 @@ or at least off by more than two characters.
 - Unsinn
 - schlapp
 
-
 [^1]: In popular meaning.
 
 ## New
-gesprechen
 
-
-
-
+2Gesprechen
