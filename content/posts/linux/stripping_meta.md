@@ -1,12 +1,12 @@
 ---
-title: "Git"
-tags: ["git"]
-date: 1970-01-01
+title: "Stripping metadata"
+tags: ["git", "linux"]
+date: 2022-02-13
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
@@ -14,12 +14,6 @@ draft: false
 # searchHidden: false
 ---
 
-## The Nuclear Option
+configure pre-commit hook
 
-`git clean -xdf`
-
-## Pull rebase
-
-`git config --global pull.rebase true`
-
-<https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull>
+<https://www.shellhacks.com/remove-exif-data-images-photos-linux/>
