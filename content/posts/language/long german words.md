@@ -44,6 +44,11 @@ Some are used in day to day language, but may not appear in dictionaries.
 - **Schupo**:  Schutzpolizei 
 - **Obmeßböker**: Objektiv meßbare ökonomische Erfolge
 - [Vokuhila](https://de.wikipedia.org/wiki/Vokuhila)
+- **Abitur**:
+- **ReHa**:
+- **bofag**
+- **cvs**
+- **kmh**
 
 see: <https://www.mediensprache.net/de/basix/oekonomie/kurzwort/liste_kw.aspx>.
 

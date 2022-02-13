@@ -1,7 +1,7 @@
 ---
-title: "Items Poisonous to cats"
+title: "Items Very Toxic to Cats"
 tags: ["cats"]
-date: 1970-01-01
+date: 2022-02-01
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
@@ -14,14 +14,22 @@ draft: false
 # searchHidden: false
 ---
 
-List of fooditems/plants poisonous to cats:
+List of items that are highly toxic to Cats:
 
-- Grapes/raisins
+- Grapes & Raisins
 - Lillies
+- paracetemol
+- Chocolate
+- Onion 'family': onions, garlic, leeks, scallions, shallots, and chives 
+- Citrus fruits, and citrus fruit trees: leaves, stems, etc.
+- Xylitol sweetener
+- Alcohol
+- Nuts, especially Macademia nuts
 - ...
 
-To be extended.
-
-Sources:
+## Sources:
 
 - <https://aercmn.com/grape-and-raisin-toxicity/>
+- <https://www.battersea.org.uk/pet-advice/cat-care-advice/toxic-items-cats>
+- <https://www.dailypaws.com/cats-kittens/cat-nutrition/what-can-cats-eat/foods-toxic-to-cats>
+- <https://www.rd.com/list/houseplants-cat-owners-should-avoid/>
