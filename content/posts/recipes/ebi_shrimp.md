@@ -1,6 +1,6 @@
 ---
 title: "Template"
-tags: ["template"]
+tags: ["recipe","asian"]
 date: 2022-02-14
 # weight: 1
 # author: "Peter Dieleman"

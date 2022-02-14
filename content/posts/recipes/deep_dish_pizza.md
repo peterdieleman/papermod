@@ -1,6 +1,6 @@
 ---
 title: "Deep Dish / Pan Pizza"
-tags: ["recipes", "pizza"]
+tags: ["recipes", "pizza","italian"]
 date: 2022-02-14
 # weight: 1
 # author: "Peter Dieleman"
