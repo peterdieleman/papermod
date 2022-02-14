@@ -1,6 +1,6 @@
 ---
-title: "Template"
-tags: ["recipe"]
+title: "Polenta"
+tags: ["recipe", "italian"]
 date: 2022-02-14
 # weight: 1
 # author: "Peter Dieleman"
@@ -20,9 +20,8 @@ Recipe from [Americas Test Kitchen](https://www.epicurious.com/recipes/member/vi
 - 1 1/2 teaspoons table salt
 - pinch baking soda
 - 1 1/2 cups coarse-ground polenta (see note)
-- 2 tablespoons unsalted butter 
+- 2 tablespoons unsalted butter
 - 4 ounces good-quality Parmesan cheese, grated (about 2 cups) plus extra for serving
-  
 
 ## Sources
 
