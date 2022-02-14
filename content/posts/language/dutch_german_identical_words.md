@@ -555,7 +555,7 @@ and the infinitive form for verbs.
 - Kleidung, die
 - kochen
 - Kohle, die
-- Kojote, der {{< colour "#ff0000" >}}
+- Kojote, der
 - König, der
 - Königin, die
 - Konzert, das
