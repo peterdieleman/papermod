@@ -26,14 +26,15 @@ searchHidden: false
 ---
 ## Dutch and German
 
-Dutch and German share a common root, but it's surprisingly hard to find simple lists of words that are (nearly) identical.
+Dutch and German share a common root,
+but it's surprisingly hard to find simple lists of words that are (nearly) identical.
 This is an attempt at listing some of the more simple ones.
 
 ## Identical Words
 
 German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles).
-Use singular for nouns, and infinitive for verbs.
+Use singular (masculine) for nouns, and infinitive for verbs.
 
 - Allergie, die
 - ambivalent
@@ -61,6 +62,7 @@ Use singular for nouns, and infinitive for verbs.
 - Chip, der
 - Cocktail, der
 - Computer, der
+- Credo, das
 - Dame, die
 - Datum, das
 - denken
@@ -104,6 +106,7 @@ Use singular for nouns, and infinitive for verbs.
 - Hypnose, die
 - Idee, die
 - interessant
+- irrelevant
 - jagen
 - Japan, das
 - Judo, das
@@ -121,10 +124,12 @@ Use singular for nouns, and infinitive for verbs.
 - Land, das
 - lang
 - Laser, der
+- latent
 - Licht
 - Lied, das
 - Limonade, die
 - links
+- Macht, die
 - Magie, die
 - Mais, der
 - Manager, der
@@ -167,6 +172,7 @@ Use singular for nouns, and infinitive for verbs.
 - Radius, der
 - Regel, die
 - Regen, der
+- relevant
 - rennen
 - Restaurant, das
 - Route, die
@@ -192,6 +198,7 @@ Use singular for nouns, and infinitive for verbs.
 - Tempel, der
 - Tennis, das
 - Thailand
+- Theologie, die
 - Theorie, die
 - Ticket, das
 - Titel, der
@@ -248,12 +255,15 @@ and the infinitive form for verbs.
 - Bibliothek, die
 - blasen
 - blau
+- Blindgänger, der
+- Boden, der
 - bringen
 - brutto
 - bunt
 - Chemikalie, die
 - Creme, die
 - Dach, das
+- dauern
 - Dezember, der
 - dick
 - Dokument, das
@@ -302,6 +312,8 @@ and the infinitive form for verbs.
 - Haare, die
 - Hammer, der
 - Handball, der
+- handeln
+- hart ([fast](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/hart))
 - helfen
 - Herbst, der
 - Hitze, die
@@ -334,6 +346,9 @@ and the infinitive form for verbs.
 - Kinn, das
 - Kissen, das
 - Kiwi, die
+- Klager, der ([in jud. context](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/klager))
+- Kloster, das
+- Knall, der
 - Kollege, der
 - Komfort, der
 - Kommandant, der
@@ -359,7 +374,9 @@ and the infinitive form for verbs.
 - lesen
 - Leser, der
 - Literatur, die
+- lohnen 
 - Lotterie, die
+- Magnet, der
 - Maske, die
 - Mayonnaise, die
 - mehr
@@ -373,6 +390,7 @@ and the infinitive form for verbs.
 - Norwegen
 - November, der
 - null
+- nun
 - ob
 - Objekt, das
 - Ohr, das
@@ -417,6 +435,8 @@ and the infinitive form for verbs.
 - Spiel, das
 - spielen
 - Sport, der
+- Staatsbürger, der
+- Stab, der  
 - Stadt, die
 - Stahl, der
 - stark
@@ -452,8 +472,10 @@ and the infinitive form for verbs.
 - Volksrepublik China
 - voll
 - Volumen, das
+- vorall
 - Wange, die
 - was
+- Webseite, die
 - Wetter, das
 - wirken
 - Wolke, die
@@ -461,6 +483,7 @@ and the infinitive form for verbs.
 - Wurst, die
 - Yacht, die
 - Zentrum, das
+
 
 ## Identical apart from two characters
 
@@ -505,10 +528,12 @@ and the infinitive form for verbs.
 - Charakter, der
 - Dämon, der
 - danken
+- Daten, die (always plural)
 - Dekan, der
 - Dienstag, der
 - drei
 - Ehre, die
+- Eindruck, der
 - Eindruck, der
 - Eis, das
 - Emotion, die
@@ -527,6 +552,7 @@ and the infinitive form for verbs.
 - Genetik, die
 - genug
 - Georgien
+- Gesprechen
 - gestern
 - gesund
 - Gewalt, die
@@ -556,6 +582,7 @@ and the infinitive form for verbs.
 - kochen
 - Kohle, die
 - Kojote, der
+- Konflikt, das
 - König, der
 - Königin, die
 - Konzert, das
@@ -565,12 +592,15 @@ and the infinitive form for verbs.
 - Krieger, der
 - Küste, die
 - langsam
+- Latein, das
 - Liste, die
 - Luft, die
 - Lunge, die
 - mauer
 - Maus, die
 - Mechanismus
+- meckern
+- mehrere
 - Meinung, die
 - Melone, die
 - Mensch, der
@@ -616,6 +646,7 @@ and the infinitive form for verbs.
 - schätzen
 - Schiff, das
 - Schokolade, die
+- sehr
 - Sekunde, die
 - selten (kaum)
 - Sinn, der ([Bedeutung, Zweck](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/sinn))
@@ -625,6 +656,7 @@ and the infinitive form for verbs.
 - Spinne, die
 - sprechen
 - Sprecher, der
+- spucken
 - Spur, das
 - Stadion, das
 - Stern, der
@@ -638,6 +670,8 @@ and the infinitive form for verbs.
 - Tanz, der
 - tanzen
 - Text, der
+- Stuhl, dersehr
+- tapfer
 - tief
 - Tod, der
 - Toilette, die
@@ -691,42 +725,3 @@ or at least off by more than two characters.
 [^1]: In popular meaning.
 
 ## New
-
-2Gesprechen
-1Webseite
-Eindruck
-sehr
-nutig
-mutig
-versuchen
-handeln
-credo
-meckeren?
-pamperen?
-macht
-taternun
-mehrere
-lohnen
-(un)relevant
-verdacht
-magnetometer
-stab (staaf)
-blindganger
-boden
-dauern
-schieff
-mistiege?
-spucken
-(knal)hard
-latijn
-klostern
-voral
-theologie
-daten
-datei
-webseite
-statsbrger
-truppen
-conflict
-welkom
-klager

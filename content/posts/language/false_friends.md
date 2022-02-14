@@ -19,7 +19,7 @@ draft: false
 Words that exist in Dutch with an almost similar spelling,
 but that have a different meaning.
 
-| German &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Dutch (wrong)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Dutch (right)      |
+| German        | Dutch (wrong) | Dutch (right)      |
 | :------------ | :------------ | :----------------- |
 | bellen        | bellen        | blaffen            |
 | Bereich, der  | bereik        | gebied             |
@@ -42,14 +42,22 @@ but that have a different meaning.
 | verführen     | vervoeren     | verleiden          |
 | Wie?          | wie?          | hoe?               |
 | Winkel, der   | Winkel        | Hoek               |
-
+| versuchen     | verzoeken     | proberen           |
+| umschlag      | omslag        | envelop            |
+| vertieft      | vertieft      | verdiept           |
+| auf           | af            | op                 |
+| gierig        | gierig        | gretig             |
+| Sucht         | zucht         | verslaving         |
+| Aktien        | acties        | aandelen           |
+| vorstellen    | voorstellen   | vooruitzetten      |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
+|               |               |                    |
 
 ## New
 
-Sucht (verslaving)
-Gierig
-Aktien
-auf
-umschlag
-vertieft
-vorstellen
