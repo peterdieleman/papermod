@@ -555,7 +555,7 @@ and the infinitive form for verbs.
 - Kleidung, die
 - kochen
 - Kohle, die
-- Kojote, der
+- Kojote, der {{< colour "#ff0000" >}}
 - König, der
 - Königin, die
 - Konzert, das
@@ -693,3 +693,40 @@ or at least off by more than two characters.
 ## New
 
 2Gesprechen
+1Webseite
+Eindruck
+sehr
+nutig
+mutig
+versuchen
+handeln
+credo
+meckeren?
+pamperen?
+macht
+taternun
+mehrere
+lohnen
+(un)relevant
+verdacht
+magnetometer
+stab (staaf)
+blindganger
+boden
+dauern
+schieff
+mistiege?
+spucken
+(knal)hard
+latijn
+klostern
+voral
+theologie
+daten
+datei
+webseite
+statsbrger
+truppen
+conflict
+welkom
+klager
