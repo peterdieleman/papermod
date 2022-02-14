@@ -1,7 +1,7 @@
 ---
 title: "Git"
 tags: ["git"]
-date: 1970-01-01
+date: 2022-02-01
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
