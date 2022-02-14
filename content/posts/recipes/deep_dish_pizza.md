@@ -26,4 +26,3 @@ Ingredient List (must haves):
 - 350mL pizza sauce
 - 350grams grated full-fat, low moisture (dry) mozzarella cheese (dry, not moist/fresh)
 - Toppings
-        
