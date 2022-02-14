@@ -664,14 +664,14 @@ and the infinitive form for verbs.
 - Straße, die
 - Stück, das
 - Stuhl, der
+- Stuhl, dersehr
 - stürzen
 - Syrien
 - Szene
 - Tanz, der
 - tanzen
-- Text, der
-- Stuhl, dersehr
 - tapfer
+- Text, der
 - tief
 - Tod, der
 - Toilette, die
