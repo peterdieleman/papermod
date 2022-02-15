@@ -616,7 +616,7 @@ and the infinitive form for verbs.
 - negativ
 - negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - neu
-- nichts
+- nicht(s)
 - nicken
 - niemand
 - Noch
