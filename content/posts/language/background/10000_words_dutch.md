@@ -8148,7 +8148,7 @@ vierhonderd
 Elvis
 evalueren
 Nature
-priv�-leven
+privé-leven
 vermaarde
 situeren
 agentschap
@@ -8156,7 +8156,7 @@ Voerendaal
 Planet
 fiscaliteit
 Glaverbel
-defil�
+defilé
 vergaderen
 aanloop
 vooroordelen
@@ -8648,7 +8648,7 @@ My
 zegen
 toenmalig
 Trio
-Mus�e
+Muse
 deviezen
 Manager
 sa
@@ -8762,7 +8762,7 @@ IJzeren
 eeuwenoude
 theoretisch
 toegegeven
-G�n�rale
+Generale
 uitblijven
 Irakezen
 loonsverhoging
