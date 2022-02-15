@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Ebi Shrimp"
 tags: ["recipe","asian"]
 date: 2022-02-14
 # weight: 1
