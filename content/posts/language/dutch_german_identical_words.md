@@ -726,6 +726,48 @@ or at least off by more than two characters.
 
 [^1]: In popular meaning.
 
+kostenlos
+daueren
+weg
+aktuell
+kredit
+uns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## New
 
 1Gerücht, das
