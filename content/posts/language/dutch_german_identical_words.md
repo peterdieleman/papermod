@@ -721,6 +721,8 @@ or at least off by more than two characters.
 - massiv
 - Unsinn
 - schlapp
+- Katastrophe, die
+- Weisheit, die
 
 [^1]: In popular meaning.
 
@@ -760,3 +762,42 @@ Seehund, der
 Priorität, die
 Klima, das
 klopfen
+Donner, der
+Whisky, der
+Omelett, das
+Bürgermeister, der
+Klick, der
+emotional
+historisch
+Instinkt, der
+ethisch
+etnisch
+Nest, das
+Limit, das
+Wurm, der
+belohnen
+rühren
+stinken
+lehren
+industriell
+Klinik, die
+Becher, der
+Russisch, das
+Schaf, das
+Deal, der
+spannend
+Behandlung, die
+Element, das
+Option, die
+traditionell
+spucken
+Demokratie, die
+atmen
+Bewegung, die
+nuklear
+Punkt, der
+komisch
+Sofa, das
+regional
+Minderheit, die
+Galerie, die

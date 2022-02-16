@@ -51,3 +51,5 @@ draft: false
 - Cowboy, der
 - Hubschrauber
 - Lücke, die
+- Ruf, der
+- Fliese, die
