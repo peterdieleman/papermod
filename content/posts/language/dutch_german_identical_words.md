@@ -728,76 +728,72 @@ or at least off by more than two characters.
 
 ## New
 
-offen
-Gerücht, das
-Bibel, die
-Chemie, die
-kämmen
-achtzig
-annehmen
-Pause, die
-nass
-vierzig
-Geste
-Reis, der
-Text, der
-Motel, das
-Knoten, der
-Feedback, das
-Temperatur, die
-kauen
-Klauwe, die
-Hals, der
-wecken
-Analyst, der
-Tulpe, die
-Fremde, der
-Schal, der
-laden
-Postbote, der
-braun
-Herzog, der
-Zeremonie, die
-Seehund, der
-Priorität, die
-Klima, das
-klopfen
-Donner, der
-Whisky, der
-Omelett, das
-Bürgermeister, der
-Klick, der
-emotional
-historisch
-Instinkt, der
-ethisch
-etnisch
-Nest, das
-Limit, das
-Wurm, der
-belohnen
-rühren
-stinken
-lehren
-industriell
-Klinik, die
-Becher, der
-Russisch, das
-Schaf, das
-Deal, der
-spannend
-Behandlung, die
-Element, das
-Option, die
-traditionell
-spucken
-Demokratie, die
-atmen
-Bewegung, die
-nuklear
-Punkt, der
-komisch
-Sofa, das
-regional
-Minderheit, die
-Galerie, die
+1Gerücht, das
+1kämmen
+2achtzig
+2annehmen
+0Pause, die
+2nass
+2vierzig
+0Geste
+0Reis, der
+2Text, der
+0Motel, das
+1Knoten, der
+0Feedback, das
+1Temperatur, die
+1kauen
+1Klaue, die
+0Hals, der
+1wecken
+1Analyst, der
+1Tulpe, die
+2Fremde, der
+2Schal, der
+0laden
+1Postbote, der
+2braun
+1Herzog, der
+1Zeremonie, die
+2Seehund, der
+2Priorität, die
+2Klima, das
+1klopfen
+1Donner, der
+0Whisky, der
+1Omelett, das
+2Bürgermeister, der
+1Klick, der
+2emotional
+0historisch
+1Instinkt, der
+0ethisch
+1ethnisch
+0Nest, das
+1Limit, das
+1Wurm, der
+1belohnen
+2rühren
+0stinken
+1lehren
+1industriell
+1Klinik, die
+2Becher, der
+0Russisch, das
+2Schaf, das
+0Deal, der
+0spannend
+2Behandlung, die
+0Element, das
+1traditionell
+2spucken
+1Demokratie, die
+2atmen
+1Bewegung, die
+2nuklear
+1Punkt, der
+0komisch
+0Sofa, das
+1regional
+1Minderheit, die
+0Galerie, die
