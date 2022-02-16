@@ -726,48 +726,6 @@ or at least off by more than two characters.
 
 [^1]: In popular meaning.
 
-kostenlos
-daueren
-weg
-aktuell
-kredit
-uns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## New
 
 1Gerücht, das
@@ -839,3 +797,10 @@ uns
 1regional
 1Minderheit, die
 0Galerie, die
+
+kostenlos
+daueren
+weg
+aktuell
+kredit
+uns
