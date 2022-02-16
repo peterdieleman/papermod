@@ -14,13 +14,3 @@ draft: true
 # searchHidden: false
 ---
 
-<<<<<<<< HEAD:content/posts/language/austauschen.md
-========
-## The Nuclear Option
-
-`git clean -xdf`
-
-## Pre-push hook that always fails
-
-<https://ghost.org/changelog/prevent-master-push/>
->>>>>>>> work:content/posts/software/git_nuke.md
