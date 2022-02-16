@@ -725,3 +725,38 @@ or at least off by more than two characters.
 [^1]: In popular meaning.
 
 ## New
+
+offen
+Gerücht, das
+Bibel, die
+Chemie, die
+kämmen
+achtzig
+annehmen
+Pause, die
+nass
+vierzig
+Geste
+Reis, der
+Text, der
+Motel, das
+Knoten, der
+Feedback, das
+Temperatur, die
+kauen
+Klauwe, die
+Hals, der
+wecken
+Analyst, der
+Tulpe, die
+Fremde, der
+Schal, der
+laden
+Postbote, der
+braun
+Herzog, der
+Zeremonie, die
+Seehund, der
+Priorität, die
+Klima, das
+klopfen

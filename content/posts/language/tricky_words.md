@@ -19,6 +19,7 @@ draft: false
 - erwähnen, noemen
 - ablehnen, weigeren
 - sieden
+- zähmen
 
 ## Nouns
 
@@ -44,4 +45,9 @@ draft: false
 - Anwesen
 - rächen
 - absichtlich
-- Landwirt
+- Landwirt(in)
+- Schrotflinte, die
+- Schuppen, die
+- Cowboy, der
+- Hubschrauber
+- Lücke, die
