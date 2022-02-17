@@ -51,7 +51,7 @@ but that have a different meaning.
 | Aktien        | acties        | aandelen           |
 | vorstellen    | voorstellen   | vooruitzetten      |
 | Schläger, der | slager        | racket, het        |
-|               |               |                    |
+| schaffen      |               |                    |
 |               |               |                    |
 |               |               |                    |
 |               |               |                    |

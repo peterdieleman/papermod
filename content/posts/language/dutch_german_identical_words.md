@@ -43,20 +43,24 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Apotheker, der
 - April, der
 - arm
+- arrogant
 - Artikel, der
 - Assistent, der
 - Auto, das
 - Baby, das
 - Balkon, der
+- Band, die
 - Bar, die
 - beginnen
 - Berg, der
 - bewegen
 - Bier, das
+- biologisch
 - Bowling, das
 - Brief, der
 - Bus, der
 - Camping, das
+- Chaos, das
 - chaotisch
 - Chemie, die
 - Chip, der
@@ -65,6 +69,7 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Credo, das
 - Dame, die
 - Datum, das
+- Deal, der
 - denken
 - Detail, das
 - Diamant, der
@@ -72,28 +77,36 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Diesel
 - Ding, das
 - Ei, das
+- elektronisch
+- Element, das
 - Energie, die
 - Engel, der
 - enorm
 - Erker, der
+- ethisch
 - Etui, das
 - Europa, ?
 - Examen, das
 - Familie?
 - Fan, der
 - Fantasie
+- Feedback, das
 - Film, der
 - Foto, das
+- Galerie, die
 - Garage, die
 - Gas, das
 - Gedicht, das
 - geduldig
 - Geld, das
+- Gen, das
 - Geschenk, das
+- Geste
 - Giraffe, die
 - Golf, das
 - Gunst, die
 - hallo
+- Hals, der
 - Hamburger, der
 - Hand, die
 - heilig
@@ -101,15 +114,18 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Held, der
 - Helm, der
 - hier
+- historisch
 - Hobby, das
 - Hotel, das
 - Humor, der
 - Hypnose, die
 - Idee, die
+- Immigrant, der
 - interessant
 - irrelevant
 - jagen
 - Japan, das
+- Jeep, der
 - Judo, das
 - Juli, der
 - Juni, der
@@ -121,7 +137,10 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Knie, das
 - Koffer, der
 - komisch
+- kosten
+- Kosten, die
 - kritisch
+- laden
 - Land, das
 - lang
 - Laser, der
@@ -134,10 +153,10 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Magie, die
 - Mais, der
 - Manager, der
-- Mann, der
+- Marine, die
 - Marketing, das
 - Methode, der
-- Mission, die
+- Minister, der
 - Mode, die
 - Moment, der
 - Moralist, der
@@ -145,12 +164,14 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Motel, das
 - Motor, der
 - Museum, das
+- Nest, das
 - Niveau, das
 - November, der
 - Nummer, die
 - Oktober, der
 - optimistisch
 - Ordner, der
+- organisch
 - Paar, das
 - Papier, das
 - parallel
@@ -171,30 +192,40 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Radar, das
 - Radio, das
 - Radius, der
+- Rang, der
 - Regel, die
 - Regen, der
+- Reis, der
 - relevant
 - rennen
 - Restaurant, das
 - Route, die
+- Russisch, das
 - Sandwich, das
 - schande
 - Schande, die
+- schuldig
 - Sheriff, der
 - Show, die
 - Situation, die
+- Sofa, das
+- spannend
 - Spiegel, der
 - Spotter, der
 - Stadion, das
 - Stand, der
+- stinken
 - Strand, der
+- strategisch
 - Stress, der
 - Student, der
 - Surfen, das
+- Sympathie, die
 - T-shirt, das
 - Tabak, der
 - Taxi, das
 - Team, das
+- technisch
 - Technologie
 - Tempel, der
 - Tennis, das
@@ -205,9 +236,11 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Titel, der
 - Training, das
 - treffen
+- Trommel, die
 - Tumor, der
 - Tunnel, der
 - Universum, das
+- verachten
 - verdienen
 - Verlangen, das
 - verloren
@@ -216,7 +249,10 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Visum, das
 - Vogel, der
 - Wand, die
+- warm
+- Weg, der
 - Westen, der
+- Whisky, der
 - wild
 - willen
 - Wind, der
@@ -237,6 +273,7 @@ and the infinitive form for verbs.
 - Alkohol, der
 - allein
 - Amts
+- Analyst, der
 - Apfel, der
 - Apparat, das
 - äquivalent
@@ -248,9 +285,11 @@ and the infinitive form for verbs.
 - Batterie, die
 - befinden
 - Bein, das
+- belohnen
 - Benzin, der
 - bersten
 - bestrafen
+- Bewegung, die
 - Beweis, der
 - Bibel, die
 - Bibliothek, die
@@ -261,14 +300,20 @@ and the infinitive form for verbs.
 - bringen
 - brutto
 - bunt
+- Champagner, der
 - Chemikalie, die
 - Creme, die
 - Dach, das
 - dauern
+- Demokratie, die
 - Dezember, der
 - dick
+- Dieb, der
+- Digital
 - Dokument, das
+- Donner, der
 - Dorf, das
+- Druck, der
 - Dutzend, das
 - Eimer, der
 - Eingang, der
@@ -278,6 +323,7 @@ and the infinitive form for verbs.
 - erkennen
 - Esel, der
 - Ethik, die
+- ethnisch
 - Fabrik, die
 - fallen
 - Familie, die
@@ -285,6 +331,7 @@ and the infinitive form for verbs.
 - fangen
 - Februar, der
 - Feld, das
+- Felge, die
 - finden
 - Finger, der
 - flammen
@@ -311,22 +358,29 @@ and the infinitive form for verbs.
 - graben
 - Gras, das
 - Haare, die
+- Hafen, der
 - Hammer, der
 - Handball, der
 - handeln
 - hart ([fast](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/hart))
 - helfen
 - Herbst, der
+- Herzog, der
 - Hitze, die
 - Honig, der
 - hören
 - Horizont, der
 - Horn, das
 - Hund, der
+- Identität, die
 - Idiot, der
 - Igel, der
 - imponieren
 - importieren
+- industriell
+- informieren
+- Insekt, das
+- Instinkt, der
 - irritieren
 - Jäger, der
 - Jahr, der
@@ -342,19 +396,26 @@ and the infinitive form for verbs.
 - Kasse, die
 - Kastanie, die
 - Kategorie, die
+- kauen
 - kehren
 - Keller, das
 - Kinn, das
 - Kissen, das
 - Kiwi, die
 - Klager, der ([in jud. context](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/klager))
+- Klaue, die
+- Klick, der
+- Klinik, die
+- klopfen
 - Kloster, das
 - Knall, der
+- Knoten, der
 - Kollege, der
 - Komfort, der
 - Kommandant, der
 - kommen
 - kotzen
+- Kredit
 - Kredit, der
 - Kristall, der
 - Kuba
@@ -370,23 +431,28 @@ and the infinitive form for verbs.
 - Leder, das
 - leer
 - legen
+- lehren
 - leiden
 - lernen
 - lesen
 - Leser, der
+- Limit, das
 - Literatur, die
 - lohnen 
 - Lotterie, die
 - Magnet, der
+- Mann, der
 - Maske, die
 - Mayonnaise, die
 - mehr
 - Mexiko
+- Minderheit, die
 - mit
 - Modell, das
 - Mord, der
 - nackt
 - Natur, die
+- Netzwerk, das
 - Norden, der
 - Norwegen
 - November, der
@@ -394,7 +460,9 @@ and the infinitive form for verbs.
 - nun
 - ob
 - Objekt, das
+- Offizier, der
 - Ohr, das
+- Omelett, das
 - orange
 - Osten, der
 - Panik, die
@@ -404,7 +472,9 @@ and the infinitive form for verbs.
 - Pilot, der
 - Pizza, die
 - Planet, der
+- Porträt, das
 - Post, die
+- Postbote, der
 - Präsident, der
 - Prinz, der
 - Produkt, das
@@ -413,6 +483,7 @@ and the infinitive form for verbs.
 - Puls, der
 - Punkt, der
 - recyceln
+- regional
 - Regress, der
 - Reiz, der
 - Richtung, die
@@ -455,14 +526,21 @@ and the infinitive form for verbs.
 - Tag, der
 - Tal, das
 - Telefon, das
+- Temperatur, die
 - Theater, das
 - Tier, das
 - Tiger, der
 - Tochter, die
 - Tourist, der
+- traditionell
 - trinken
+- Tulpe, die
 - Typ, das
 - Uhr, das
+- universell
+- uns
+- unschuldig
+- Vampir, der
 - Vase, die
 - Vater, der
 - Ventil, das
@@ -473,18 +551,19 @@ and the infinitive form for verbs.
 - Volksrepublik China
 - voll
 - Volumen, das
-- vorall
 - Wange, die
 - was
 - Webseite, die
+- wecken
 - Wetter, das
 - wirken
 - Wolke, die
 - wollen
+- Wurm, der
 - Wurst, die
 - Yacht, die
 - Zentrum, das
-
+- Zeremonie, die
 
 ## Identical apart from two characters
 
@@ -496,15 +575,19 @@ and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
+- achtzig
 - Adresse, die
 - Affäre, die
+- aktuell
 - Akzent, der
 - Algerien
+- annehmen
 - anonym
 - Antwort, die
 - ärgern
 - Armenien  
 - Arzt, der
+- atmen
 - August, der
 - Australien
 - Autorität, die
@@ -512,7 +595,9 @@ and the infinitive form for verbs.
 - Bär, der
 - Bart, der
 - Baum, der
+- Becher, der
 - Befehl, der
+- Behandlung, die
 - besitzen
 - besser
 - Bett, das
@@ -522,22 +607,27 @@ and the infinitive form for verbs.
 - bloß
 - Bombe, die
 - Boxen, das
+- braun
 - Brise, die
+- Brokkoli
 - Bruder, der
 - Brust, die
+- Bürgermeister, der
 - Butter, die
 - Charakter, der
+- Cholesterin, das
 - Dämon, der
 - danken
 - Daten, die (always plural)
 - Dekan, der
 - Dienstag, der
 - drei
+- dummm
 - Ehre, die
-- Eindruck, der
 - Eindruck, der
 - Eis, das
 - Emotion, die
+- emotional
 - entdecken
 - ermorden
 - esse
@@ -547,13 +637,14 @@ and the infinitive form for verbs.
 - feststellen
 - Fett, das
 - fremd
+- Fremde, der
+- füllen
 - funktionieren
 - Gefangene, der
 - Generation, die
 - Genetik, die
 - genug
 - Georgien
-- Gesprechen
 - gestern
 - gesund
 - Gewalt, die
@@ -565,12 +656,14 @@ and the infinitive form for verbs.
 - Haken, der
 - hassen
 - heiß
+- heißen
 - Herz, das
 - Hexe, die
 - Himmel, der
 - hoffen
 - Holz
 - hundert
+- husten
 - Information, die
 - jahrelang
 - Junge, der
@@ -580,6 +673,7 @@ and the infinitive form for verbs.
 - Käse, der
 - Katze, die
 - Kleidung, die
+- Klima, das
 - kochen
 - Kohle, die
 - Kojote, der
@@ -587,13 +681,20 @@ and the infinitive form for verbs.
 - König, der
 - Königin, die
 - Konzert, das
+- Koralle, die
 - Kosmetik
+- kostenlos
 - Kostüm, das
 - Kraft, die
 - Krieger, der
+- Krone, die
+- Kronleuchter, der
+- kühl
 - Küste, die
 - langsam
 - Latein, das
+- leihen
+- Linse, die
 - Liste, die
 - Luft, die
 - Lunge, die
@@ -608,6 +709,7 @@ and the infinitive form for verbs.
 - messen
 - mindestens
 - Minute, die
+- Mission, die
 - Mittag, der
 - mittel
 - Mitternacht, die
@@ -621,39 +723,54 @@ and the infinitive form for verbs.
 - nicken
 - niemand
 - Noch
+- Nonne, die
+- nuklear
 - offen
 - Operation, die
 - Pfau, der
 - Pferd, das
+- Pfote, die
 - Pille, die
 - Pistole, die
 - Pol, der
 - Polizei, der
 - positiv
 - Preis, der
+- Priorität, die
+- Protein, das
 - Prozess, der
 - Puzzle, der
 - Ratte, die
 - Realität, die
+- rechnen
 - regelmäßig
 - Regierung, die
 - religiös
+- Ritter, der
 - Roboter, der
 - Rose, die
 - rot
 - ruhig
+- rühren
 - Sack, der
 - Sänger, der
+- Schaf, das
+- Schal, der
 - schätzen
 - Schiff, das
 - Schokolade, die
+- Schoß, der
+- Seehund, der
 - sehr
 - Sekunde, die
 - selten (kaum)
+- sichtbar
 - Sinn, der ([Bedeutung, Zweck](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/sinn))
+- Situation, die
 - Socke, die
 - Sohn, der
 - Sommer, der
+- Sorge, die
 - Spinne, die
 - sprechen
 - Sprecher, der
@@ -665,13 +782,13 @@ and the infinitive form for verbs.
 - Straße, die
 - Stück, das
 - Stuhl, der
-- Stuhl, dersehr
 - stürzen
 - Syrien
 - Szene
 - Tanz, der
 - tanzen
 - tapfer
+- Terrorismus, der
 - Text, der
 - tief
 - Tod, der
@@ -695,14 +812,15 @@ and the infinitive form for verbs.
 - windig
 - winzig
 - Wippe, die
+- Wolle, die
 - Wunde, die
 - Wurzel, die
 - Zwei
 
-## Homophones
+## (Near) Homophones
 
 These are German and Dutch words with identical meaning and
-with almost identical pronunciation.
+with (almost) identical pronunciation.
 However,
 their spelling is quite different,
 or at least off by more than two characters.
@@ -724,121 +842,10 @@ or at least off by more than two characters.
 - schlapp
 - Katastrophe, die
 - Weisheit, die
+- Eisbär, der
+- Bewusstsein, das
 
 [^1]: In popular meaning.
 
 ## New
-
-1Gerücht, das
-1kämmen
-2achtzig
-2annehmen
-0Pause, die
-2nass
-2vierzig
-0Geste
-0Reis, der
-2Text, der
-0Motel, das
-1Knoten, der
-0Feedback, das
-1Temperatur, die
-1kauen
-1Klaue, die
-0Hals, der
-1wecken
-1Analyst, der
-1Tulpe, die
-2Fremde, der
-2Schal, der
-0laden
-1Postbote, der
-2braun
-1Herzog, der
-1Zeremonie, die
-2Seehund, der
-2Priorität, die
-2Klima, das
-1klopfen
-1Donner, der
-0Whisky, der
-1Omelett, das
-2Bürgermeister, der
-1Klick, der
-2emotional
-0historisch
-1Instinkt, der
-0ethisch
-1ethnisch
-0Nest, das
-1Limit, das
-1Wurm, der
-1belohnen
-2rühren
-0stinken
-1lehren
-1industriell
-1Klinik, die
-2Becher, der
-0Russisch, das
-2Schaf, das
-0Deal, der
-0spannend
-2Behandlung, die
-0Element, das
-1traditionell
-2spucken
-1Demokratie, die
-2atmen
-1Bewegung, die
-2nuklear
-1Punkt, der
-0komisch
-0Sofa, das
-1regional
-1Minderheit, die
-0Galerie, die
-2Brokkoli
-1Dieb, der
-2leihen
-0Minister, der
-2kühl
-2Schoß, der
-2füllen
-2Situation, die
-0Immigrant, der
-1Digital
-1Felge, die
-2Wolle, die
-0technisch
-0kosten
-0Marine, die
-1Insekt, das
-2Terrorismus, der
-2sichtbar
-0Gen, das
-2Pfote, die
-0warm
-0schuldig
-1Offizier, der
-0elektronisch
-2Koralle, die
-0Kosten, die
-1Hafen, der
-2Protein, das
-0Sympathie, die
-0strategisch
-0biologisch
-1Champagner, der
-1Porträt, das
-0arrogant
-
-
-kostenlos
-daueren
-weg
-aktuell
-kredit
-uns
-
 

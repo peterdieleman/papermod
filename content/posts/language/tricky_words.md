@@ -54,6 +54,7 @@ draft: false
 - Ruf, der
 - Fliese, die
 - Bezirk, der
+- Zinsen, die
 
 ## The Other Stuff
 
