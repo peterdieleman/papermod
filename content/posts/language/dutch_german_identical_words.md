@@ -96,6 +96,7 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - hallo
 - Hamburger, der
 - Hand, die
+- heilig
 - Heilige, der
 - Held, der
 - Helm, der
@@ -797,6 +798,31 @@ or at least off by more than two characters.
 1regional
 1Minderheit, die
 0Galerie, die
+2Brokkoli
+1Dieb, der
+2leihen
+0Minister, der
+2kühl
+2Schoß, der
+2füllen
+2Situation, die
+0Immigrant, der
+1Digital
+1Felge, die
+2Wolle, die
+0technisch
+0kosten
+0Marine, die
+1Insekt, das
+2Terrorismus, der
+2sichtbar
+0Gen, das
+2Pfote, die
+0warm
+0schuldig
+1Offizier, der
+0elektronisch
+
 
 kostenlos
 daueren
@@ -804,3 +830,5 @@ weg
 aktuell
 kredit
 uns
+
+

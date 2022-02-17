@@ -53,3 +53,7 @@ draft: false
 - Lücke, die
 - Ruf, der
 - Fliese, die
+
+## The Other Stuff
+
+- ledig
