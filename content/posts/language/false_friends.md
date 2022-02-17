@@ -50,7 +50,7 @@ but that have a different meaning.
 | Sucht         | zucht         | verslaving         |
 | Aktien        | acties        | aandelen           |
 | vorstellen    | voorstellen   | vooruitzetten      |
-|               |               |                    |
+| Schläger, der | slager        | racket, het        |
 |               |               |                    |
 |               |               |                    |
 |               |               |                    |

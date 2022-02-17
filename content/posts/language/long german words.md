@@ -22,16 +22,22 @@ draft: false
 - **Überschallgeschwindigkeit**: supersonic speed
 - **Bundesausbildungsförderungsgesetz**
 
-## Buchstabenkurzwörter(Acronyms)
+## Too Long Words
+
+### Buchstabenkurzwörter(Acronyms)
 
 - **MPK**: Ministerpräsidentenkonferenz
+- **kmh**
+- **NRW** Nordrhein-Westfalen
 
-## Shorthand
+### Shorthand
 
 - **Iro** [Irokesenschnitt](https://de.wikipedia.org/wiki/Irokesenschnitt)
 - **OP** [Operationssaal](https://de.wikipedia.org/wiki/Operationssaal)
+- **MeckPomm** [Mecklenburg-Vorpommern](https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern)
+- **Abi**:
 
-## Silbenkurzwörter
+### Silbenkurzwörter
 
 Syllabic abbreviatons, like **SoHo** are very common in German, see: 
 [https://de.wikipedia.org/wiki/Silbenwort](https://de.wikipedia.org/wiki/Silbenwort).
@@ -44,15 +50,13 @@ Some are used in day to day language, but may not appear in dictionaries.
 - **Schupo**:  Schutzpolizei 
 - **Obmeßböker**: Objektiv meßbare ökonomische Erfolge
 - [Vokuhila](https://de.wikipedia.org/wiki/Vokuhila)
-- **Abitur**:
 - **ReHa**:
 - **bofag**
-- **cvs**
-- **kmh**
+- **BaWü**
 
 see: <https://www.mediensprache.net/de/basix/oekonomie/kurzwort/liste_kw.aspx>.
 
-## Sources Abbreviatons/Acronyms
+### Sources Abbreviatons/Acronyms
 
 - <https://www.fluentu.com/blog/german/german-abbreviation/>
 - <https://germanwordoftheday.de/common-german-abbreviations/>

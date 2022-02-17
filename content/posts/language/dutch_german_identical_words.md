@@ -822,6 +822,16 @@ or at least off by more than two characters.
 0schuldig
 1Offizier, der
 0elektronisch
+2Koralle, die
+0Kosten, die
+1Hafen, der
+2Protein, das
+0Sympathie, die
+0strategisch
+0biologisch
+1Champagner, der
+1Porträt, das
+0arrogant
 
 
 kostenlos
