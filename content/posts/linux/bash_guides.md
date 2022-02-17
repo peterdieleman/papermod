@@ -15,3 +15,5 @@ showToc: false
 ---
 
 https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
+{{< tweet user="jakewharton" id="1334177665356587008" >}}
