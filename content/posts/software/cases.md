@@ -1,0 +1,1 @@
+https://chaseadams.io/posts/most-common-programming-case-types/

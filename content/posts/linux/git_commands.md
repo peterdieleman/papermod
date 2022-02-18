@@ -30,3 +30,17 @@ As a global setting:
 
 <https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull>
 
+
+## Fix wrong rebase
+
+`git rebase --abort`
+
+`git rebase --quit`
+
+`git am --resolved`
+
+`git am --abort`
+
+## 
+
+https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website
