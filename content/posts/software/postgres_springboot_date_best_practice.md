@@ -14,7 +14,6 @@ draft: false
 # searchHidden: false
 ---
 
-
 ## Notes
 
 The SQL standard requires that writing just
@@ -56,7 +55,9 @@ This is for readability and for consistency with RFC 3339 as well as some other 
 ## Best Practice?
 
 - Use ISO-8601 where possible
-- Save date in UTC timestamp, only make zoned when
+- Save date in UTC timestamp, only make zoned when displaying to the user (convert at application layer)
+- Use `timestamptz`?
+- Use classes in the [`java.time package`](https://thorben-janssen.com/hibernate-jpa-date-and-time/)
 
 ## Sources
 
@@ -64,7 +65,7 @@ This is for readability and for consistency with RFC 3339 as well as some other 
 - <https://www.postgresql.org/docs/current/datatype-datetime.html#DATATYPE-DATETIME-INPUT>
 - <https://stackoverflow.com/questions/43476364/hibernate-with-java-8-localdate-localdatetime-in-database>
 - <https://medium.com/building-the-system/how-to-store-dates-and-times-in-postgresql-269bda8d6403>
-- <>
+- <https://thorben-janssen.com/hibernate-jpa-date-and-time/>
 - <>
 - <>
 - <>
