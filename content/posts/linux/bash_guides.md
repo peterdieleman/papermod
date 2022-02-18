@@ -14,6 +14,6 @@ showToc: false
 # searchHidden: false
 ---
 
-https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+<https://linuxconfig.org/bash-scripting-tutorial-for-beginners>
 
-{{< tweet user="jakewharton" id="1334177665356587008" >}}
+<!-- {{< tweet user="jakewharton" id="1334177665356587008" >}} -->
