@@ -52,7 +52,7 @@ but that have a different meaning.
 | vorstellen    | voorstellen   | vooruitzetten      |
 | Schläger, der | slager        | racket, het        |
 | schaffen      |               |                    |
-|               |               |                    |
+| Huhn, das              |               |                    |
 |               |               |                    |
 |               |               |                    |
 |               |               |                    |

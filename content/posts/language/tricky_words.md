@@ -55,6 +55,8 @@ draft: false
 - Fliese, die
 - Bezirk, der
 - Zinsen, die
+- Spatz, der
+- Ameise, die
 
 ## The Other Stuff
 

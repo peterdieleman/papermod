@@ -835,7 +835,7 @@ or at least off by more than two characters.
 - seltsam
 - Mikroskop, das
 - akkurat
-- Ukraine, die
+- Ukraine, die (used solely with article)
 - attraktiv
 - massiv
 - Unsinn
@@ -844,8 +844,63 @@ or at least off by more than two characters.
 - Weisheit, die
 - Eisbär, der
 - Bewusstsein, das
+- Känguru, das
+- Aserbaidschan
 
 [^1]: In popular meaning.
 
 ## New
 
+### 0
+
+- Aal, der
+- Krokodil, das
+- Gorilla, der
+- Zebra, das
+- Specht, der
+- Gans, die
+- Polen
+- Japan
+- Thailand
+
+### 1
+
+- Büffel, der
+- Valke, der
+- Pïnguin, der
+- Hai, der
+- Panther, der
+- Hahn, der
+- Finnland
+- Irland
+- Niederlande, die (used solely with article)
+- Mexiko
+- Russland
+
+### 2
+
+- Krabbe, die
+- Rabe, der
+- Küken, das
+- Kojote, der
+- Kakerlake, die
+- Wiesel, das
+- Seestern, der
+- Elefant, das
+- Kuh, die
+- Griechenland
+- Kroatien
+- Italien
+- Indien
+- Spanien
+- Ägypten
+- Albanien
+- Bulgarien
+- Tunesien
+- Syrien
+- Australien
+- Algerien
+- Armenien
+- Georgien
+- Indonesien
+- Argentinien
