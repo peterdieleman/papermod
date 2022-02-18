@@ -862,6 +862,17 @@ or at least off by more than two characters.
 - Polen
 - Japan
 - Thailand
+- Ingenieur, der
+- Journalist, der
+- Manager, der
+- Apotheker, der
+- Babysitter, der
+- Reporter, der
+- Astronaut, der
+- Barkeeper, der
+- vier
+- acht
+- elf
 
 ### 1
 
@@ -876,6 +887,17 @@ or at least off by more than two characters.
 - Niederlande, die (used solely with article)
 - Mexiko
 - Russland
+- Richter, der
+- Architekt, der
+- Fotograf, der
+- Barmann, der
+- blau
+- violett
+- ein
+- erste
+- vierte
+- elfte
+- 
 
 ### 2
 
@@ -904,3 +926,14 @@ or at least off by more than two characters.
 - Georgien
 - Indonesien
 - Argentinien
+- Bäcker, der
+- Kameramann, der
+- Zimmermann, der
+- Sänger, der
+- Autor, der
+- gelb
+- rot
+- grün
+- weiß
+- drei
+- achte
