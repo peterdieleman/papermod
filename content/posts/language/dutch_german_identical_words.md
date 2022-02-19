@@ -897,7 +897,7 @@ or at least off by more than two characters.
 - erste
 - vierte
 - elfte
-- 
+- Tochter, die
 
 ### 2
 
@@ -937,3 +937,5 @@ or at least off by more than two characters.
 - weiß
 - drei
 - achte
+- Mutter, die
+- stupmf

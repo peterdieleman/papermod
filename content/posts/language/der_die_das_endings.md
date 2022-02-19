@@ -114,6 +114,7 @@ These endings are usually das words when referring to things[^5]:
 - Käse, der
 - Wetter, das
 - Butter, die
+- Mutter, die
 
 ## Sources, Notes
 
