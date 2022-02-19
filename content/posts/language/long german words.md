@@ -27,7 +27,7 @@ draft: false
 ### Buchstabenkurzwörter(Acronyms)
 
 - **MPK**: Ministerpräsidentenkonferenz
-- **kmh**
+- **kmh**: From English, stundenkilometer wrong, kilometer pro stunde does not seem to be used
 - **NRW** Nordrhein-Westfalen
 
 ### Shorthand
