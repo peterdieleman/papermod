@@ -943,10 +943,15 @@ or at least off by more than two characters.
 
 # New
 
-- verschoben
-- verscheidene
-- vorschriften
-- Artillerie
-- Korfu
-- vermissten
-- 
+verschoben
+verscheidene
+vorschriften
+Artillerie
+Korfu
+vermissten
+gesprechen
+grippe
+begriff
+beine
+stress
+brons?
