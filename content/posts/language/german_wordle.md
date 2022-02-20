@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "German Wordle"
 tags: ["German"]
 date: 1970-01-01
 # weight: 1

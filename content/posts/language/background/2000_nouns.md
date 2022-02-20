@@ -1,4 +1,6 @@
-<!-- http://frequencylists.blogspot.com/2015/12/the-2000-most-frequent-german-nouns.html -->
+# 2000 most common nouns German
+
+Source: <http://frequencylists.blogspot.com/2015/12/the-2000-most-frequent-german-nouns.html>
 
 1. time – Die Zeit
 2. man – Der Mann

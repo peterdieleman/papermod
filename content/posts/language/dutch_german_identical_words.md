@@ -873,6 +873,8 @@ or at least off by more than two characters.
 - vier
 - acht
 - elf
+- heftig
+- gas
 
 ### 1
 
