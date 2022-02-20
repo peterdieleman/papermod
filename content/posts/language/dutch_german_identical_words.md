@@ -939,3 +939,14 @@ or at least off by more than two characters.
 - achte
 - Mutter, die
 - stupmf
+
+
+# New
+
+- verschoben
+- verscheidene
+- vorschriften
+- Artillerie
+- Korfu
+- vermissten
+- 
