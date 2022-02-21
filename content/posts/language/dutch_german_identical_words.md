@@ -957,3 +957,19 @@ begriff
 beine
 stress
 brons?
+
+### 0
+
+- Arm, der
+
+### 1
+
+- Bein, das
+- Gesicht, das
+- Kinn, das
+- Mund, der
+- Wange, die
+
+### 2
+
+- Lippe, die
