@@ -500,7 +500,7 @@ and the infinitive form for verbs.
 - Signal, das
 - Silber, das
 - singen
-- Skelet, das
+- Skelett, das
 - Soldat, der
 - sonnig
 - Spannung, die
@@ -846,6 +846,7 @@ or at least off by more than two characters.
 - Bewusstsein, das
 - Känguru, das
 - Aserbaidschan
+- Blut, das
 
 [^1]: In popular meaning.
 
@@ -880,7 +881,7 @@ or at least off by more than two characters.
 
 - Büffel, der
 - Valke, der
-- Pïnguin, der
+- Pinguïn, der
 - Hai, der
 - Panther, der
 - Hahn, der
@@ -940,27 +941,29 @@ or at least off by more than two characters.
 - drei
 - achte
 - Mutter, die
-- stupmf
+- stumpf
 
 
 # New
 
 verschoben
 verscheidene
-vorschriften
+Vorschriften
 Artillerie
 Korfu
 vermissten
-gesprechen
 grippe
 begriff
-beine
 stress
 brons?
 
 ### 0
 
 - Arm, der
+- Haare, die
+- Wimper, die
+- Taille, die
+- Nagel, der
 
 ### 1
 
@@ -969,7 +972,15 @@ brons?
 - Kinn, das
 - Mund, der
 - Wange, die
+- Diebstahl, der
+- Ohr, das
+- Milz, die
+
 
 ### 2
 
 - Lippe, die
+- Mittelfinger, der
+- Niere, die
+- Kehle, die
+- Adampsafpel, der
