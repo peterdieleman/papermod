@@ -36,6 +36,10 @@ PostgreSQL accepts that format on input, but on output it uses a space rather th
 This is for readability and for consistency with RFC 3339 as well as some other database systems.
 ```
 
+```
+So if what you want to store is a point in time, rather than a picture of a clock, use timestamptz. 
+```
+
 ## Mapping
 
 `Date` columm can be mapped by:
@@ -66,6 +70,11 @@ This is for readability and for consistency with RFC 3339 as well as some other 
 - <https://stackoverflow.com/questions/43476364/hibernate-with-java-8-localdate-localdatetime-in-database>
 - <https://medium.com/building-the-system/how-to-store-dates-and-times-in-postgresql-269bda8d6403>
 - <https://thorben-janssen.com/hibernate-jpa-date-and-time/>
-- <>
-- <>
-- <>
+- <https://thorben-janssen.com/hibernate-jpa-date-and-time/>
+- <https://justatheory.com/2012/04/postgres-use-timestamptz/>
+- <https://stackoverflow.com/questions/22922155/postgresql-jdbc-and-timestamp-vs-timestamptz>
+- <https://wiki.postgresql.org/wiki/Don%27t_Do_This>
+- <https://www.baeldung.com/spring-date-parameters>
+- <https://howtodoinjava.com/java/date-time/parse-string-to-date-time-utc-gmt/>
+- <https://www.baeldung.com/java-convert-date-to-offsetdatetime>
+- <https://stackoverflow.com/questions/41480485/how-to-convert-zoneddatetime-offsetdatetime-to-date-using-threetenabp>
