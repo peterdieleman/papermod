@@ -1,6 +1,6 @@
 ---
-title: "Template"
-tags: ["template"]
+title: "Case types"
+tags: ["software", "programming"]
 date: 2022-02-22
 # weight: 1
 # author: "Peter Dieleman"
