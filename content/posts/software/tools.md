@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Tools"
 tags: ["template"]
 date: 2022-02-22
 # weight: 1
@@ -14,8 +14,5 @@ draft: false
 # searchHidden: false
 ---
 
-## Sources
-
-- <https://chaseadams.io/posts/most-common-programming-case-types/>
-- <https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn>
-- <https://www.webhosting24.com/understanding-nginx-request_uri/>
+- <https://www.roboleary.net/vscode/2020/09/15/vscode-git.html#prerequisite>
+- <https://blog.back4app.com/backend-tools-list/#Firebase>
