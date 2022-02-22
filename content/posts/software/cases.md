@@ -19,3 +19,4 @@ draft: false
 - <https://chaseadams.io/posts/most-common-programming-case-types/>
 - <https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn>
 - <https://www.webhosting24.com/understanding-nginx-request_uri/>
+
