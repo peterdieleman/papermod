@@ -16,3 +16,4 @@ draft: false
 
 - <https://www.roboleary.net/vscode/2020/09/15/vscode-git.html#prerequisite>
 - <https://blog.back4app.com/backend-tools-list/#Firebase>
+- <https://phoenixnap.com/kb/hyper-v-ubuntu>
