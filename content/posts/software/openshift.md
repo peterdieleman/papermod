@@ -14,6 +14,10 @@ draft: true
 # searchHidden: false
 ---
 
+## Issues with root
+
+- <https://number1.co.za/openshift-will-not-run-your-container-as-a-root-user/>
+
 ## Install Minishift
 
 - <https://phoenixnap.com/kb/ubuntu-install-kvm>
