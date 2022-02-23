@@ -17,6 +17,7 @@ draft: false
 ## Issues with root
 
 - <https://number1.co.za/openshift-will-not-run-your-container-as-a-root-user/>
+- <https://stackoverflow.com/questions/57044509/openshift-use-nginx-official-image-instead-of-one-from-oc-registry>
 
 ## Install Minishift
 
