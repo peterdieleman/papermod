@@ -21,6 +21,7 @@ draft: false
 - <https://stackoverflow.com/questions/38754592/what-is-the-correct-way-to-run-an-nginx-docker-container-in-openshift>
 - <https://engineering.bitnami.com/articles/running-non-root-containers-on-openshift.html>
 - <https://torstenwalter.de/openshift/nginx/2017/08/04/nginx-on-openshift.html>
+- <https://developers.redhat.com/blog/2020/10/26/adapting-docker-and-kubernetes-containers-to-run-on-red-hat-openshift-container-platform>
 
 ## Install Minishift
 
