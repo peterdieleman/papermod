@@ -28,7 +28,9 @@ draft: false
 
 - **MPK**: Ministerpräsidentenkonferenz
 - **kmh**: From English, stundenkilometer wrong, kilometer pro stunde does not seem to be used
-- **NRW** Nordrhein-Westfalen
+- **NRW**: Nordrhein-Westfalen
+- **QbA**: [https://magazine.wein.plus/faq/wine-appellation/what-does-qba-mean](Qualitätswein bestimmter Anbaugebiete) 
+- **GG**: Grosses Gewächs 
 
 ### Shorthand
 

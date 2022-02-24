@@ -61,3 +61,4 @@ draft: false
 ## The Other Stuff
 
 - ledig
+- schlicht

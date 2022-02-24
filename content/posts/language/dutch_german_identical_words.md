@@ -847,6 +847,7 @@ or at least off by more than two characters.
 - Känguru, das
 - Aserbaidschan
 - Blut, das
+- schick
 
 [^1]: In popular meaning.
 
@@ -964,6 +965,9 @@ brons?
 - Wimper, die
 - Taille, die
 - Nagel, der
+- betreffen
+- Strafregister, das
+- dynamisch
 
 ### 1
 
@@ -975,6 +979,15 @@ brons?
 - Diebstahl, der
 - Ohr, das
 - Milz, die
+- Areal, das
+- bohren
+- bringen
+- darin
+- denkbar
+- Original
+- perfekt
+- Saal
+- wegbringen
 
 
 ### 2
@@ -984,3 +997,15 @@ brons?
 - Niere, die
 - Kehle, die
 - Adampsafpel, der
+- Betrug, der
+- explizit
+- Fortune, die
+- Manipulation, die
+- Militär, der
+- Möbel, das
+- Notar(in), der
+- relativ
+- Rhetorik, der
+- versilbern
+
+### candidates
