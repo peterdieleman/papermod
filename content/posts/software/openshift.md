@@ -18,6 +18,9 @@ draft: false
 
 - <https://number1.co.za/openshift-will-not-run-your-container-as-a-root-user/>
 - <https://stackoverflow.com/questions/57044509/openshift-use-nginx-official-image-instead-of-one-from-oc-registry>
+- <https://stackoverflow.com/questions/38754592/what-is-the-correct-way-to-run-an-nginx-docker-container-in-openshift>
+- <https://engineering.bitnami.com/articles/running-non-root-containers-on-openshift.html>
+- <https://torstenwalter.de/openshift/nginx/2017/08/04/nginx-on-openshift.html>
 
 ## Install Minishift
 
