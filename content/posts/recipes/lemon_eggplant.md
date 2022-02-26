@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Eggplant Lemon Leaf Curry"
 tags: ["template"]
 date: 2022-02-24
 # weight: 1
