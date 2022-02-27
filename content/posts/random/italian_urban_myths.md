@@ -17,3 +17,4 @@ draft: true
 - Swimming after eating
 - Maelstrom Lakes
 - Colpo d'Aria
+- vaporub feet
