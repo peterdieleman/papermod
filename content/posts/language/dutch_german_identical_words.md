@@ -43,7 +43,6 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Analyse, die
 - Angst, die
 - Apotheker, der
-- Apotheker, der
 - April, der
 - arm
 - Arm, der
@@ -171,7 +170,6 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Magie, die
 - Mais, der
 - Manager, der
-- Manager, der
 - Marine, die
 - Marketing, das
 - Methode, der
@@ -255,7 +253,6 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Tempel, der
 - Tennis, das
 - Thailand
-- Thailand
 - Theologie, die
 - Theorie, die
 - Ticket, das
@@ -271,7 +268,6 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Verlangen, das
 - verloren
 - Video, das
-- vier
 - vier
 - Visum, das
 - Vogel, der
@@ -317,7 +313,6 @@ and the infinitive form for verbs.
 - Batterie, die
 - befinden
 - Bein, das
-- Bein, das
 - belohnen
 - Benzin, der
 - bersten
@@ -328,11 +323,9 @@ and the infinitive form for verbs.
 - Bibliothek, die
 - blasen
 - blau
-- blau
 - Blindgänger, der
 - Boden, der
 - bohren
-- bringen
 - bringen
 - brutto
 - Büffel, der
@@ -357,7 +350,6 @@ and the infinitive form for verbs.
 - Eimer, der
 - ein
 - Eingang, der
-- elfte
 - elfte
 - Ende, das
 - Englisch, das
@@ -392,7 +384,6 @@ and the infinitive form for verbs.
 - gericht (gerecht)
 - Gerücht, das
 - Geschlecht, das
-- Gesicht, das
 - Gesicht, das
 - Gewehr, das
 - Gewicht, das
@@ -448,7 +439,6 @@ and the infinitive form for verbs.
 - kehren
 - Keller, das
 - Kinn, das
-- Kinn, das
 - Kissen, das
 - Kiwi, die
 - Klager, der ([in jud. context](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/klager))
@@ -495,7 +485,6 @@ and the infinitive form for verbs.
 - Mayonnaise, die
 - mehr
 - Mexiko
-- Mexiko
 - Milz, die
 - Minderheit, die
 - mit
@@ -513,7 +502,6 @@ and the infinitive form for verbs.
 - ob
 - Objekt, das
 - Offizier, der
-- Ohr, das
 - Ohr, das
 - Omelett, das
 - orange
@@ -590,7 +578,6 @@ and the infinitive form for verbs.
 - Tier, das
 - Tiger, der
 - Tochter, die
-- Tochter, die
 - Tourist, der
 - traditionell
 - trinken
@@ -609,12 +596,10 @@ and the infinitive form for verbs.
 - verlieren
 - verraten
 - vierte
-- vierte
 - violett
 - Volksrepublik China
 - voll
 - Volumen, das
-- Wange, die
 - Wange, die
 - was
 - Webseite, die
@@ -650,7 +635,6 @@ and the infinitive form for verbs.
 - Akzent, der
 - Albanien
 - Algerien
-- Algerien
 - annehmen
 - anonym
 - Antwort, die
@@ -661,7 +645,6 @@ and the infinitive form for verbs.
 - Arzt, der
 - atmen
 - August, der
-- Australien
 - Australien
 - Autor, der
 - Autorität, die
@@ -700,7 +683,6 @@ and the infinitive form for verbs.
 - Diebstahl, der
 - Dienstag, der
 - drei
-- drei
 - dummm
 - Ehre, die
 - Eindruck, der
@@ -728,7 +710,6 @@ and the infinitive form for verbs.
 - Genetik, die
 - genug
 - Georgien
-- Georgien
 - gestern
 - gesund
 - Gewalt, die
@@ -737,7 +718,6 @@ and the infinitive form for verbs.
 - Grad, der
 - Griechenland
 - groß
-- grün
 - grün
 - Haken, der
 - hassen
@@ -768,7 +748,6 @@ and the infinitive form for verbs.
 - Klima, das
 - kochen
 - Kohle, die
-- Kojote, der
 - Kojote, der
 - Konflikt, das
 - König, der
@@ -860,11 +839,9 @@ and the infinitive form for verbs.
 - Roboter, der
 - Rose, die
 - rot
-- rot
 - ruhig
 - rühren
 - Sack, der
-- Sänger, der
 - Sänger, der
 - Schaf, das
 - Schal, der
@@ -899,7 +876,6 @@ and the infinitive form for verbs.
 - stumpf
 - stürzen
 - Syrien
-- Syrien
 - Szene
 - Tanz, der
 - tanzen
@@ -913,7 +889,6 @@ and the infinitive form for verbs.
 - tragen
 - Träne, die
 - Tschechien
-- Tunesien
 - Tunesien
 - Universität, die
 - verbrennen
