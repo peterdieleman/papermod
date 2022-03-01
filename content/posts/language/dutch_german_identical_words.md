@@ -614,6 +614,8 @@ and the infinitive form for verbs.
 - Yacht, die
 - Zentrum, das
 - Zeremonie, die
+- Niere, die
+- Adampsafpel, der
 
 ## Identical apart from two characters
 
@@ -627,7 +629,6 @@ and the infinitive form for verbs.
 
 - achte
 - achtzig
-- Adampsafpel, der
 - Adresse, die
 - Affäre, die
 - Ägypten
@@ -640,7 +641,6 @@ and the infinitive form for verbs.
 - Antwort, die
 - Argentinien
 - ärgern
-- Armenien
 - Armenien  
 - Arzt, der
 - atmen
@@ -799,13 +799,12 @@ and the infinitive form for verbs.
 - Name, der
 - nass
 - negativ
-- negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
+- Negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - neu
 - nicht(s)
 - nicken
 - Niederlande, die (used solely with article)
 - niemand
-- Niere, die
 - Noch
 - Nonne, die
 - Notar(in), der
