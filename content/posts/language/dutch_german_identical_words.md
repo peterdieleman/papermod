@@ -36,6 +36,35 @@ German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles).
 Use singular (masculine) for nouns, and infinitive for verbs.
 
+- Aal, der
+- Krokodil, das
+- Gorilla, der
+- Zebra, das
+- Specht, der
+- Gans, die
+- Polen
+- Japan
+- Thailand
+- Ingenieur, der
+- Journalist, der
+- Manager, der
+- Apotheker, der
+- Babysitter, der
+- Reporter, der
+- Astronaut, der
+- Barkeeper, der
+- vier
+- acht
+- elf
+- heftig
+- gas
+- Arm, der
+- Wimper, die
+- Taille, die
+- Nagel, der
+- betreffen
+- Strafregister, das
+- dynamisch
 - Allergie, die
 - ambivalent
 - Analyse, die
@@ -269,6 +298,42 @@ and that also largely have the same meaning.
 Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
+- Ohr, das
+- Milz, die
+- Areal, das
+- bohren
+- bringen
+- darin
+- denkbar
+- perfekt
+- Saal
+- wegbringen
+- Bein, das
+- Gesicht, das
+- Kinn, das
+- Mund, der
+- Wange, die
+- Büffel, der
+- Valke, der
+- Pinguïn, der
+- Hai, der
+- Panther, der
+- Hahn, der
+- Finnland
+- Irland
+- Mexiko
+- Russland
+- Richter, der
+- Architekt, der
+- Fotograf, der
+- Barmann, der
+- blau
+- violett
+- ein
+- erste
+- vierte
+- elfte
+- Tochter, die
 - abonnieren
 - Alkohol, der
 - allein
@@ -575,6 +640,7 @@ and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
+- Niederlande, die (used solely with article)
 - achtzig
 - Adresse, die
 - Affäre, die
@@ -816,95 +882,6 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zwei
-
-## (Near) Homophones
-
-These are German and Dutch words with identical meaning and
-with (almost) identical pronunciation.
-However,
-their spelling is quite different,
-or at least off by more than two characters.
-
-- bauen
-- kreativ
-- Wahrheit, die
-- gedeihen
-- aggressiv
-- Wahnsinn
-- vorstellbar
-- seltsam
-- Mikroskop, das
-- akkurat
-- Ukraine, die (used solely with article)
-- attraktiv
-- massiv
-- Unsinn
-- schlapp
-- Katastrophe, die
-- Weisheit, die
-- Eisbär, der
-- Bewusstsein, das
-- Känguru, das
-- Aserbaidschan
-- Blut, das
-- schick
-
-[^1]: In popular meaning.
-
-## New
-
-### 0
-
-- Aal, der
-- Krokodil, das
-- Gorilla, der
-- Zebra, das
-- Specht, der
-- Gans, die
-- Polen
-- Japan
-- Thailand
-- Ingenieur, der
-- Journalist, der
-- Manager, der
-- Apotheker, der
-- Babysitter, der
-- Reporter, der
-- Astronaut, der
-- Barkeeper, der
-- vier
-- acht
-- elf
-- heftig
-- gas
-
-### 1
-
-- Büffel, der
-- Valke, der
-- Pinguïn, der
-- Hai, der
-- Panther, der
-- Hahn, der
-- Finnland
-- Irland
-- Niederlande, die (used solely with article)
-- Mexiko
-- Russland
-- Richter, der
-- Architekt, der
-- Fotograf, der
-- Barmann, der
-- blau
-- violett
-- ein
-- erste
-- vierte
-- elfte
-- Tochter, die
-
-### 2
-
 - Krabbe, die
 - Rabe, der
 - Küken, das
@@ -943,55 +920,6 @@ or at least off by more than two characters.
 - achte
 - Mutter, die
 - stumpf
-
-
-# New
-
-verschoben
-verscheidene
-Vorschriften
-Artillerie
-Korfu
-vermissten
-grippe
-begriff
-stress
-brons?
-
-### 0
-
-- Arm, der
-- Haare, die
-- Wimper, die
-- Taille, die
-- Nagel, der
-- betreffen
-- Strafregister, das
-- dynamisch
-
-### 1
-
-- Bein, das
-- Gesicht, das
-- Kinn, das
-- Mund, der
-- Wange, die
-- Diebstahl, der
-- Ohr, das
-- Milz, die
-- Areal, das
-- bohren
-- bringen
-- darin
-- denkbar
-- Original
-- perfekt
-- Saal
-- wegbringen
-
-
-### 2
-
 - Lippe, die
 - Mittelfinger, der
 - Niere, die
@@ -1007,5 +935,61 @@ brons?
 - relativ
 - Rhetorik, der
 - versilbern
+- Diebstahl, der
+- original
 
-### candidates
+## (Near) Homophones
+
+These are German and Dutch words with identical meaning and
+with (almost) identical pronunciation.
+However,
+their spelling is quite different,
+or at least off by more than two characters.
+
+- bauen
+- kreativ
+- Wahrheit, die
+- gedeihen
+- aggressiv
+- Wahnsinn
+- vorstellbar
+- seltsam
+- Mikroskop, das
+- akkurat
+- Ukraine, die (used solely with article)
+- attraktiv
+- massiv
+- Unsinn
+- schlapp
+- Katastrophe, die
+- Weisheit, die
+- Eisbär, der
+- Bewusstsein, das
+- Känguru, das
+- Aserbaidschan
+- Blut, das
+- schick
+
+[^1]: In popular meaning.
+
+## New
+
+- Tabu
+- verschoben
+- verscheidene
+- Vorschriften
+- Artillerie
+- Korfu
+- vermissten
+- grippe
+- begriff
+- stress
+- brons?
+
+### 0
+
+### 1
+
+### 2
+
+s
