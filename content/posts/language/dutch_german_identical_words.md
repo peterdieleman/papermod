@@ -615,7 +615,7 @@ and the infinitive form for verbs.
 - Zentrum, das
 - Zeremonie, die
 - Niere, die
-- Adampsafpel, der
+- Adampsapfel, der
 
 ## Identical apart from two characters
 
