@@ -1,6 +1,8 @@
 {
     "version": "0.2",
-    "ignorePaths": [],
+    "ignorePaths": [
+        "content/posts/language/long german words.md"
+    ],
     "dictionaryDefinitions": [],
     "dictionaries": [
         "german",
