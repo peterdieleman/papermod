@@ -94,9 +94,9 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Erker, der
 - ethisch
 - Etui, das
-- Europa, ?
+- Europa, das
 - Examen, das
-- Familie?
+- Familie, die
 - Fan, der
 - Fantasie
 - Feedback, das
@@ -361,7 +361,7 @@ and the infinitive form for verbs.
 - Fabrik, die
 - fallen
 - Familie, die
-- Familiendrama, ?
+- Familiendrama, das
 - fangen
 - Februar, der
 - Feld, das
@@ -565,10 +565,9 @@ and the infinitive form for verbs.
 - Stein, der
 - sterben
 - Stille, die
-- Stock, der ?
+- Stock, der
 - stören
 - studieren
-- System, ?
 - System, das
 - Tag, der
 - Tal, das
@@ -895,7 +894,7 @@ and the infinitive form for verbs.
 - Version, die
 - verteidigen
 - vierzig
-- warum?
+- warum
 - waschen
 - Wasser, das*
 - Wein, der
@@ -920,50 +919,93 @@ However,
 their spelling is quite different,
 or at least off by more than two characters.
 
-- bauen
-- kreativ
-- Wahrheit, die
-- gedeihen
 - aggressiv
-- Wahnsinn
-- vorstellbar
-- seltsam
-- Mikroskop, das
 - akkurat
-- Ukraine, die (used solely with article)
-- attraktiv
-- massiv
-- Unsinn
-- schlapp
-- Katastrophe, die
-- Weisheit, die
-- Eisbär, der
-- Bewusstsein, das
-- Känguru, das
 - Aserbaidschan
+- attraktiv
+- bauen
+- Bewusstsein
+- Bewusstsein, das
 - Blut, das
+- Eisbär, der
+- gedeihen
+- Haut, die
+- Känguru, das
+- Katastrophe, die
+- kreativ
+- massiv
+- Mikroskop, das
 - schick
+- schlapp
+- seltsam
+- Ukraine, die (used solely with article)
+- Unsinn
+- vorstellbar
+- Wahnsinn
+- Wahrheit, die
+- Weisheit, die
 
 [^1]: In popular meaning.
 
 ## New
-
-- Tabu
-- verschoben
-- verscheidene
-- Vorschriften
-- Artillerie
-- Korfu
-- vermissten
-- grippe
-- begriff
-- stress
-- brons?
-
 ### 0
+
+- Jazz, der
+- Artillerie, die
+- Stress, der
+- offline
+- sparen
+- Melodie, die
+- typisch
+- sensibel
+- online
+- Gouverneur, der
+- Genie, das
+- Sirene, die
+- Drang, der
+- Campus, der
+- Service, der
+- Geologie, die
+- Trommel, die
+- Hand, die
 
 ### 1
 
+- Vorschrift, die
+- Korfu
+- vermisst
+- Fracht, die
+- nackt
+- Muslim, der
+- streben
+- inkonsequent
+- Politik, die
+- spontan
+- Pirat, der
+- zwingen
+- halb
+- Schrott, der
+- Rakete, die
+- Netzwerk, das
+- Druck, der
+- universell
+- informieren
+- Leber, die
+
 ### 2
 
-s
+- Tabu, (das)
+- Grippe, die
+- Begriff, das
+- Bronze, das
+- Marionette, die
+- segnen
+- Medien, die
+- Ritual, das
+- aktiv
+- Tradition, die
+- Pumpe, die
+- Motivation, die
+- Krone, die
+- kurz
+- Herz, das

@@ -16,49 +16,51 @@ draft: false
 
 ## Verbs
 
-- erwähnen, noemen
-- ablehnen, weigeren
+- erwähnen
+- ablehnen
 - sieden
 - zähmen
-
+- necken
 ## Nouns
 
-- Zelt, das
-- Zelten
-- Verbrechen, das
-- Gipfel, der
-- Zeuge, der
-- Gespenst, das
-- Anwalt, der
-- Witz, der
-- Gesetz, das
-- Loch, das
-- Stolz, der
-- verkosten
-- Fichte, die
-- Wiese, die
-- eher
-- anfassen
-- Sakko
-- Teich
-- Ast
-- Anwesen
-- rächen
 - absichtlich
+- Ameise, die
+- anfassen
+- Anwalt, der
+- Anwesen
+- Ast
+- Bezirk, der
+- Cowboy, der
+- eher
+- Fichte, die
+- Fliese, die
+- Gesetz, das
+- Gespenst, das
+- Gipfel, der
+- Hubschrauber
 - Landwirt(in)
+- Loch, das
+- Lücke, die
+- rächen
+- Ruf, der
+- Sakko
 - Schrotflinte, die
 - Schuppen, die
-- Cowboy, der
-- Hubschrauber
-- Lücke, die
-- Ruf, der
-- Fliese, die
-- Bezirk, der
-- Zinsen, die
 - Spatz, der
-- Ameise, die
+- Stolz, der
+- Teich
+- Verbrechen, das
+- verkosten
+- Wiese, die
+- Witz, der
+- Zelt, das
+- Zelten
+- Zeuge, der
+- Zinsen, die
+- Zinsen, die
 
 ## The Other Stuff
 
 - ledig
 - schlicht
+- niedlich

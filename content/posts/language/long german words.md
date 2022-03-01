@@ -20,7 +20,7 @@ draft: false
 - **entgegengesetzt**: opposite
 - **Krankenschwester**: nurse
 - **Überschallgeschwindigkeit**: supersonic speed
-- **Bundesausbildungsförderungsgesetz**
+- **Leistengegend**: groin
 
 ## Too Long Words
 
@@ -53,8 +53,8 @@ Some are used in day to day language, but may not appear in dictionaries.
 - **Obmeßböker**: Objektiv meßbare ökonomische Erfolge
 - [Vokuhila](https://de.wikipedia.org/wiki/Vokuhila)
 - **ReHa**:
-- **bofag**
-- **BaWü**
+- **BAFoG**: Bundesausbildungsförderungsgesetz
+- **BaWü**: 
 
 see: <https://www.mediensprache.net/de/basix/oekonomie/kurzwort/liste_kw.aspx>.
 
