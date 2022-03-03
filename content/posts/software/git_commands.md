@@ -1,5 +1,5 @@
 ---
-title: "Git"
+title: "Git Commands"
 tags: ["git"]
 date: 2022-02-01
 # weight: 1
@@ -30,7 +30,6 @@ As a global setting:
 
 <https://coderwall.com/p/tnoiug/rebase-by-default-when-doing-git-pull>
 
-
 ## Fix wrong rebase
 
 `git rebase --abort`
@@ -41,6 +40,6 @@ As a global setting:
 
 `git am --abort`
 
-## 
+##
 
-https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website
+<https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website>
