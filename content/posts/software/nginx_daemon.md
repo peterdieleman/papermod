@@ -19,3 +19,4 @@ draft: true
 <https://stackoverflow.com/questions/24241292/dockerized-nginx-is-not-starting>
 <https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/>
 <http://nginx.org/en/docs/faq/daemon_master_process_off.html>
+<https://stackoverflow.com/questions/25970711/what-is-the-difference-between-nginx-daemon-on-off-option>
