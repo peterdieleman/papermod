@@ -22,6 +22,10 @@ draft: false
 - <https://engineering.bitnami.com/articles/running-non-root-containers-on-openshift.html>
 - <https://torstenwalter.de/openshift/nginx/2017/08/04/nginx-on-openshift.html>
 - <https://developers.redhat.com/blog/2020/10/26/adapting-docker-and-kubernetes-containers-to-run-on-red-hat-openshift-container-platform>
+- <https://developers.redhat.com/blog/2020/10/26/adapting-docker-and-kubernetes-containers-to-run-on-red-hat-openshift-container-platform#how_to_debug_issues>
+- <https://stackoverflow.com/questions/42363105/permission-denied-mkdir-in-container-on-openshift>
+
+> Although OpenShift runs containers using an arbitrarily assigned user ID, the group ID must always be set to the root group (0). Therefore, the directories and files that the processes running in the image need to access should have their group ownership set to the root group. They also need to be read/writable by that group as recommended by the OpenShift Container Platform-specific guidelines.
 
 ## Install Minishift
 
