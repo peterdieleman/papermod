@@ -21,6 +21,8 @@ draft: false
 - sieden
 - zähmen
 - necken
+- segeln
+
 ## Nouns
 
 - absichtlich
@@ -58,9 +60,15 @@ draft: false
 - Zeuge, der
 - Zinsen, die
 - Zinsen, die
+- Handgelenk, das
+- Käfig, der
+- sensibel
+- Schließfach
 
 ## The Other Stuff
 
 - ledig
 - schlicht
 - niedlich
+- großzügig
+- zuverlässig

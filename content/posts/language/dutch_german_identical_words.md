@@ -823,7 +823,7 @@ and the infinitive form for verbs.
 - Priorität, die
 - Protein, das
 - Prozess, der
-- Puzzle, der
+- Puzzle, das
 - Rabe, der
 - Ratte, die
 - Realität, die
@@ -968,6 +968,7 @@ or at least off by more than two characters.
 - Geologie, die
 - Trommel, die
 - Hand, die
+- dienen
 
 ### 1
 
@@ -991,6 +992,14 @@ or at least off by more than two characters.
 - universell
 - informieren
 - Leber, die
+- braten
+- rosten (roesten)
+- Marmor, der
+- Projekt, das
+- Sektor, der
+- Volumen, das
+- Kanu, das
+
 
 ### 2
 
@@ -1009,3 +1018,7 @@ or at least off by more than two characters.
 - Krone, die
 - kurz
 - Herz, das
+- Kultur, die
+- schertsen
+- heulen
+- Seemann, der
