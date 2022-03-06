@@ -68,8 +68,8 @@ These nouns have different articles, which also correspond to different translat
 Some special cases with identical meaning, but different plural forms:
 
 - Bank, die:
-  - die Bänke (benches)
-  - die Bank, die Banken (banks)
+  - die Bänke: benches
+  - die Banken: banks
 - Strauß, der:
   - die Sträuße: bunches (of flowers)
   - die Strauße: ostrich, ostriches
