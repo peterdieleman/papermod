@@ -33,33 +33,33 @@ These nouns have different articles, which also correspond to different translat
 - Erbe (Erbin)
   - das: the inheritance
   - der: heir(ess)
-- Mark:
+- Mark
   - die: mark, currency
   - das: marrow
 - Bauer(in)
   - der: (female) farmer
   - das: (bird) cage
-- Band:
+- Band
   - der: volume
   - die: band
   - das: ribbon
-- Foto:
-  - der: regional
-  - die: regional
+- Foto
+  - der: regional?
+  - die: regional?
   - das: photograph
-- See (varies regionally):
+- See (varies regionally?)
   - der: lake
   - die: sea
-- Tor:
+- Tor
   - der: fool
   - das: gate
-- Kiefer;
+- Kiefer
   - der: jaw(-bone)
   - die: (pine) tree
-- Steuer:
+- Steuer
   - die: tax
   - das: (steering) wheel
-- Plastik:
+- Plastik
   - die: sculpture
   - das: plastic
 
