@@ -40,6 +40,16 @@ As a global setting:
 
 `git am --abort`
 
-##
+See: <https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website>
+
+## Purging Secrets from Repo
+
+Use git-filter-repo or BFG repo cleaner:
 
 <https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website>
+
+Guides:
+
+<https://improveandrepeat.com/2021/06/how-to-use-git-filter-repo-to-remove-files-from-your-git-repository/>
+<https://peterbabic.dev/blog/clever-uses-for-git-filter-repo/>
+<https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository>
