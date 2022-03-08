@@ -22,7 +22,7 @@ draft: false
 - zähmen
 - necken
 - segeln
-
+- zelten
 ## Nouns
 
 - absichtlich
@@ -33,9 +33,9 @@ draft: false
 - Ast
 - Bezirk, der
 - Cowboy, der
-- eher
 - Fichte, die
 - Fliese, die
+- Gegenstand, das
 - Gesetz, das
 - Gespenst, das
 - Gipfel, der
@@ -56,14 +56,13 @@ draft: false
 - Wiese, die
 - Witz, der
 - Zelt, das
-- Zelten
 - Zeuge, der
 - Zinsen, die
 - Zinsen, die
 - Handgelenk, das
 - Käfig, der
-- sensibel
 - Schließfach
+- Felsen
 
 ## The Other Stuff
 
@@ -72,3 +71,6 @@ draft: false
 - niedlich
 - großzügig
 - zuverlässig
+- sensibel
+- eher
+- ausgeglichen

@@ -54,13 +54,13 @@ but that have a different meaning.
 | schaffen      |               |                       |
 | Huhn, das     |               |                       |
 | anleitung     | aanleiding    | richtlijn, instructie |
-|               |               |                       |
+| Kasten        | Kasten        | bak                   |
 |               |               |                       |
 |               |               |                       |
 |               |               |                       |
 
 ## New
- 
+
 anleitung
 unwetter
 Recherche, die

@@ -999,7 +999,15 @@ or at least off by more than two characters.
 - Sektor, der
 - Volumen, das
 - Kanu, das
-
+- Foltern
+- (in)direkt
+- stehlen
+- Kopf, der
+- Tipp, der
+- [felsen](https://nl.wiktionary.org/wiki/felsen) (DE: falzen)
+- planen
+- Pore, die
+- behaart
 
 ### 2
 
@@ -1022,3 +1030,6 @@ or at least off by more than two characters.
 - schertsen
 - heulen
 - Seemann, der
+- Scherbe, die
+- stumm
+- schmal
