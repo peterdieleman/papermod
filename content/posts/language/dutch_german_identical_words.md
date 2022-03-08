@@ -107,6 +107,7 @@ Use singular (masculine) for nouns, and infinitive for verbs.
 - Garage, die
 - gas
 - Gas, das
+- Gast, der
 - Gedicht, das
 - geduldig
 - Geld, das
@@ -800,6 +801,7 @@ and the infinitive form for verbs.
 - negativ
 - Negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - neu
+- nehmen
 - nicht(s)
 - nicken
 - Niederlande, die (used solely with article)
@@ -944,6 +946,7 @@ or at least off by more than two characters.
 - Wahnsinn
 - Wahrheit, die
 - Weisheit, die
+- gastfrei
 
 [^1]: In popular meaning.
 
@@ -969,6 +972,10 @@ or at least off by more than two characters.
 - Trommel, die
 - Hand, die
 - dienen
+- Bankier, der
+- Ader, die
+- Rand, der
+- beklagen
 
 ### 1
 
@@ -1008,6 +1015,9 @@ or at least off by more than two characters.
 - planen
 - Pore, die
 - behaart
+- Fest, das
+- Konstante, die
+- verwandt
 
 ### 2
 
@@ -1033,3 +1043,5 @@ or at least off by more than two characters.
 - Scherbe, die
 - stumm
 - schmal
+- Generation, die
+- lassen
