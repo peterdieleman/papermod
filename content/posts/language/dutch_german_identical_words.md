@@ -947,6 +947,7 @@ or at least off by more than two characters.
 - Wahrheit, die
 - Weisheit, die
 - gastfrei
+- Scheck
 
 [^1]: In popular meaning.
 
@@ -976,6 +977,8 @@ or at least off by more than two characters.
 - Ader, die
 - Rand, der
 - beklagen
+- treffen 
+- merken
 
 ### 1
 
@@ -1018,6 +1021,7 @@ or at least off by more than two characters.
 - Fest, das
 - Konstante, die
 - verwandt
+- Koma, die
 
 ### 2
 
@@ -1045,3 +1049,5 @@ or at least off by more than two characters.
 - schmal
 - Generation, die
 - lassen
+- Schienbein, das
+- einmal
