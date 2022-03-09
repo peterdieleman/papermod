@@ -1,3 +1,7 @@
+---
+searchHidden: true
+---
+
 de
 van
 een

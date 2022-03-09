@@ -1,3 +1,7 @@
+---
+searchHidden: true
+---
+
 the
 of
 to

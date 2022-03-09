@@ -1,3 +1,7 @@
+---
+searchHidden: true
+---
+
 absolute
 Ach
 acht

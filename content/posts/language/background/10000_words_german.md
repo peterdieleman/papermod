@@ -1,3 +1,7 @@
+---
+searchHidden: true
+---
+
 der
 die
 und
