@@ -44,3 +44,7 @@ draft: false
 Which finally contains this amazing quote:
 
 >> I can't believe that this is still not working in 2021
+
+## Persisting Revision Info into TimestampTz
+
+<https://stackoverflow.com/questions/37748142/how-to-save-utc-instead-of-local-timestamps-for-hibernate-envers-revision-info>
