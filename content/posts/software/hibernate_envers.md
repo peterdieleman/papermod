@@ -23,3 +23,24 @@ draft: false
 - <https://hibernate.atlassian.net/browse/HHH-10212?attachmentOrder=asc>
 - <https://developer.jboss.org/thread/152642>
 - <https://developer.jboss.org/thread/166705>
+
+## Further Issues Regarding 
+
+- <https://www.baeldung.com/database-auditing-jpa>
+- <https://rashidi.github.io/spring-boot-data-audit/>
+
+>> @CreatedDate, @CreatedBy, @LastModifiedDate, and @LastModifiedBy. createdBy and modifiedBy fields will be automatically populated if Spring Security is available in the project path. 
+
+`@CreatedDate` & `@LastModifiedDate`
+
+- <https://stackoverflow.com/questions/49170180/createdby-and-lastmodifieddate-are-no-longer-working-with-zoneddatetime>
+- <https://stackoverflow.com/questions/43236431/register-a-new-date-converter-auditable-in-spring-data-mongodb-for-zoneddatetime>
+- <https://stackoverflow.com/questions/49170180/createdby-and-lastmodifieddate-are-no-longer-working-with-zoneddatetime>
+
+`java.lang.IllegalArgumentException: Invalid date type for member <MEMBER NAME>! Supported types are [org.joda.time.DateTime, org.joda.time.LocalDateTime, java.util.Date, java.lang.Long, long].`
+
+- <https://github.com/spring-projects/spring-data-commons/issues/880>
+
+Which finally contains this amazing quote:
+
+>> I can't believe that this is still not working in 2021
