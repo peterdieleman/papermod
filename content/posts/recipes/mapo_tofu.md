@@ -1,5 +1,5 @@
 ---
-title: "Vegggie Mapo Tofu"
+title: "Veggie Mapo Tofu"
 tags: ["recipe", "asian"]
 date: 2022-03-19
 # weight: 1
@@ -27,7 +27,6 @@ draft: false
 ### Other
 - 1 - 1 1/2 tsp Sichuan peppercorns
 - 2 tbsp rapeseed oil
-- 2 tbsp toasted sesame oil
 - 2 tbsp toasted sesame oil
 - 2 tbsp chilli bean sauce (aka _Toban Djan_ - e.g. Lee Kum Kee chilli bean sauce)
 - 1 tbsp dark soy sauce
