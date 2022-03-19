@@ -48,3 +48,7 @@ Which finally contains this amazing quote:
 ## Persisting Revision Info into TimestampTz
 
 <https://stackoverflow.com/questions/37748142/how-to-save-utc-instead-of-local-timestamps-for-hibernate-envers-revision-info>
+
+## Annotating Base Class
+
+- <https://stackoverflow.com/questions/41298391/base-model-with-audited>
