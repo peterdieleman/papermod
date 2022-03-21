@@ -79,23 +79,23 @@ draft: false
 
 List of example words:
 
+- **Bäcker**
 - **Busse**
 - **Buße**
 - **CD**
-- **Fluss**
+- **Fluss**/**Flüsse**
 - **Fuchs**
-- **Fuß**
+- **Fuß**/**Füße**
 - **gerne**
+- **heute**
 - **ich**
+- **Mädchen**
+- **Mutter**
 - **Schokolade**
 - **tanzen**
 - **typisch**
 - **Vater**
 - **Wecker**
-- **Mutter**
-- **heute**
-- **Bäcker**
-- **Mädchen**
 
 ## Further Comments
 
