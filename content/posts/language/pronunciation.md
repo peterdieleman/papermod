@@ -18,19 +18,19 @@ draft: false
 
 (Bold indicates identical pronunciaton)
 
-| Duits | Nederlands | Beispiel | Uitspraak / Hint  |
-| :---- | :--------- | :------- | :---------------- |
-| a     | a          |          |                   |
-| a     | aa         |          |                   |
-| ä     | e          | Bäcker   | [bekker]          |
-|       | ee         | Mädchen  | [meedchjen]       |
-| o     | o          |          |                   |
-|       | oo         |          |                   |
-| ö     | eu         | stören   | [steuren]         |
-| u     | oe         | Mutter   | [Moeter]          |
-| ü     | u          |          |                   |
-|       | uu         |          |                   |
-| q     | kwaa       | Aquarium | [Aak-waa-rie-oem] |
+| Duits | Nederlands | Beispiel    | Uitspraak / Hint  |
+| :---- | :--------- | :---------- | :---------------- |
+| a     | a          | **missing** | **missing**       |
+| a     | aa         | **missing** | **missing**       |
+| ä     | e          | Bäcker      | [bekker]          |
+|       | ee         | Mädchen     | [meedchjen]       |
+| o     | o          | **missing** | **missing**       |
+|       | oo         | **missing** | **missing**       |
+| ö     | eu         | stören      | [steuren]         |
+| u     | oe         | Mutter      | [Moeter]          |
+| ü     | u          | **missing** | **missing**       |
+|       | uu         | **missing** | **missing**       |
+| q     | kwaa       | Aquarium    | [Aak-waa-rie-oem] |
 
 ## Diphtongs / Consonant Cluster
 
@@ -87,7 +87,6 @@ draft: false
   - **Sport**
 - Vowels that are followed by an **h** should be stretched out:
   - **Jahren**
-- 
 
 ### List of Example Words
 
