@@ -39,24 +39,24 @@ draft: false
 | :----- | :--------- | :------- | :-------- |
 | ei     | ai         | mein     | [main]    |
 | eu     | oi         | heute    | [hoite]   |
-| **au** | **au**     |          |           |
 | äu     | oi         | Bäume    | [boime]   |
 
 
 ## Consonants that differ in Pronunciation from Dutch
 
 
-| Duits | Nederlands | Beispiel | Uitspraak / hint       |
-| :---- | :--------- | :------- | :--------------------- |
-| c     | ts         | CD       | [tseedee]              |
-| s     | z          |          |                        |
-| z     | ts         |          |                        |
-| v     | f          |          |                        |
-| w     | v          | Bäume    |                        |
-| sch   | sj         |          |                        |
-| ch    |            | ich      | als in 'wiegje'        |
-|       |            | Nacht    | nacht                  |
-| g     |            | gerne    | als in 'golf' (Engels) |
+| Duits | Nederlands | Beispiel   | Uitspraak / hint       |
+| :---- | :--------- | :--------- | :--------------------- |
+| c     | ts         | CD         | [tseedee]              |
+| s     | z          |            |                        |
+| z     | ts         | tanzen     | [tantsen]              |
+| y     | u          | typisch    | [tupisj]               |
+| v     | f          | Vater      |                        |
+| w     | v          | Bäume      |                        |
+| sch   | sj/ch      | Schokolade | chocolade              |
+| ch    |            | ich        | als in 'wiegje'        |
+|       |            | Nacht      | nacht                  |
+| g     |            | gerne      | als in 'golf' (Engels) |
 
 
 
@@ -65,12 +65,15 @@ draft: false
 - Vowels that are followed directly by **ß** are  'long', e.g. **Fuß**
 - Vowels that are followed directly by **ck** or **ch** are 'short', e.g. **noch**, **Wecker**
 - Difference between **ß** and **ss**:
-  - **Buße**, pronounced with long u
+  - **Buße**, fine, pronounced with long u
   - **Busse**, plural of bus
-
+  - **der Fuß** (long as in k**oe**), **die Füße** (long as in m**uur)**
+  - **der Fluss** (short as in z**oe**k), **die Flüsse** (k**u**ssen)
 
 ## Sources
 
 - <https://www.thoughtco.com/pronunciation-and-alphabet-4076770>
 - <https://educatie-en-school.infonu.nl/taal/22175-duitse-spelling-en-uitspraak-een-beknopte-handleiding.html>
 - <https://www.nubeterduits.nl/website/index.php?pag=87>
+- <https://www.duits.de/vaklokaal/sprechen/uitspraak/>
+- <https://www.greelane.com/nl/talen/duitse/pronunciation-and-alphabet-4076770/>
