@@ -53,7 +53,7 @@ draft: false
 |       | sj         | **S**port      | [Sjport] (*see details below*)           |
 |       | z          | **S**ommer     | [zommer] (*see details below*)           |
 | z     | ts         | tan**z**en     | [tantsen]                                |
-| y     | u          | t**y**pisch    | [tupisj]                                 |
+| y     | u          | t**y**pisch    | [tuu-pisj]                                 |
 | v     | f          | **V**ater      | soft 'f'                                 |
 | w     | v/w        | **W**ind       | Wind - although pronounced closer to a v |
 | sch   | sj/ch      | **Sch**okolade | chocolade                                |
@@ -91,21 +91,23 @@ draft: false
 
 ### List of Example Words
 
+Dutch pseudo-phonetic in brackets.
+
 - **Bäcker** [Bekker]
-- **Busse**  
-- **Buße** 
-- **CD**
-- **Fluss**/**Flüsse**
-- **Fuchs**
-- **Fuß**/**Füße**
-- **gerne**
-- **heute**
-- **ich**
-- **Mädchen**
-- **Mutter**
-- **Schokolade**
-- **tanzen**
-- **typisch**
+- **Busse** [Busse]
+- **Buße** [Boese]
+- **CD** [tsee-dee]
+- **Fluss**/**Flüsse** [Floes] / [Flusse] (short)
+- **Fuchs** [Foex]
+- **Fuß**/**Füße** [Foes] / [Fuu-se]
+- **gerne** [gerne], g pronounced as in **Golf**
+- **heute** [hoi-te]
+- **ich** [ieg]
+- **Mädchen** [meed-ch-jen]
+- **Mutter** [moeter]
+- **Schokolade** [chocolade]
+- **tanzen** [tantsen]
+- **typisch** [tuu-pisj]
 - **Vater** [fvater]
 - **Wecker** [wekker]
 - **Sport** [sjport]
