@@ -53,7 +53,7 @@ draft: false
 | z     | ts         | tanzen     | [tantsen]              |
 | y     | u          | typisch    | [tupisj]               |
 | v     | f          | Vater      |                        |
-| w     | v          | Bäume      |                        |
+| w     | v          |            |                        |
 | sch   | sj/ch      | Schokolade | chocolade              |
 | ch    |            | ich        | als in 'wiegje'        |
 |       |            | Nacht      | nacht                  |
@@ -61,20 +61,45 @@ draft: false
 
 
 
-## Rules
+## Pronunciation Rules
 
-- Vowels that are followed directly by **ß** are  'long', e.g. **Fuß**
 - Vowels that are followed directly by **ck** or **ch** are 'short', e.g. **noch**, **Wecker**
+- Vowels that are followed directly by **ß** are  'long', e.g. **Fuß**
 - Difference between **ß** and **ss**:
   - **Buße**, fine, pronounced with long u
   - **Busse**, plural of bus
   - **der Fuß** (long as in k**oe**), **die Füße** (long as in m**uur)**
   - **der Fluss** (short as in z**oe**k), **die Flüsse** (k**u**ssen)
-- **ch** after an **a**, **o**, or **u** is pronounced like a k / g
+- **ch** after an **a**, **o**, or **u** is pronounced like a k / g:
+- **example 1**
+- **ch** after an **??**:
+  - **example 1**
 - **ch** followed by **s** is pronounced like an 'x':
   - **Fuchs**
-  - **Lachs**
 
+List of example words:
+
+- **Busse**
+- **Buße**
+- **CD**
+- **Fluss**
+- **Fuchs**
+- **Fuß**
+- **gerne**
+- **ich**
+- **Schokolade**
+- **tanzen**
+- **typisch**
+- **Vater**
+- **Wecker**
+- **Mutter**
+- **heute**
+- **Bäcker**
+- **Mädchen**
+
+## Further Comments
+
+Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: **auto**.
 
 ## Sources
 
