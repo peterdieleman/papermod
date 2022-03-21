@@ -46,21 +46,21 @@ draft: false
 ## Consonants that differ in Pronunciation from Dutch
 
 
-| Duits | Nederlands | Beispiel   | Uitspraak / Hint       |
-| :---- | :--------- | :--------- | :--------------------- |
-| c     | ts         | CD         | [tsee-dee]             |
-| s     | s          | messen     | [messen]               |
-|       | sj         | Sport      | [Sjport]               |
-|       | z          | Sommer     | [zommer]               |
-| z     | ts         | tanzen     | [tantsen]              |
-| y     | u          | typisch    | [tupisj]               |
-| v     | f          | Vater      | soft 'f'               |
-| w     | v          |            |                        |
-| sch   | sj/ch      | Schokolade | chocolade              |
-| tsch  |            |            |                        |
-| ch    |            | ich        | als in 'wiegje'        |
-|       |            | Nacht      | nacht                  |
-| g     |            | gerne      | als in 'golf' (Engels) |
+| Duits | Nederlands | Beispiel       | Uitspraak / Hint       |
+| :---- | :--------- | :------------- | :--------------------- |
+| c     | ts         | **C**D         | [tsee-dee]             |
+| s     | s          | me**sse**n     | [messen]               |
+|       | sj         | **S**port      | [Sjport]               |
+|       | z          | **S**ommer     | [zommer]               |
+| z     | ts         | tan**z**en     | [tantsen]              |
+| y     | u          | t**y**pisch    | [tupisj]               |
+| v     | f          | **V**ater      | soft 'f'               |
+| w     | v          |                |                        |
+| sch   | sj/ch      | **Sch**okolade | chocolade              |
+| tsch  |            |                |                        |
+| ch    |            | i**ch**        | als in 'wiegje'        |
+|       |            | Na**ch**t      | nacht                  |
+| g     |            | **g**erne      | als in 'golf' (Engels) |
 
 
 
