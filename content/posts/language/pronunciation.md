@@ -55,7 +55,7 @@ draft: false
 | v     | f          | Vater      |                        |
 | w     | v          |            |                        |
 | sch   | sj/ch      | Schokolade | chocolade              |
-| tsch|||
+| tsch  |            |            |                        |
 | ch    |            | ich        | als in 'wiegje'        |
 |       |            | Nacht      | nacht                  |
 | g     |            | gerne      | als in 'golf' (Engels) |
@@ -71,16 +71,16 @@ draft: false
   - **Busse**, plural of bus
   - **der Fuß** (long as in k**oe**), **die Füße** (long as in m**uur)**
   - **der Fluss** (short as in z**oe**k), **die Flüsse** (k**u**ssen)
-- **ch** after an **a**, **o**, or **u** is pronounced like a k / g:
-- **example 1**
+- **ch** after an **a**, **o**, or **u** is pronounced like in the Dutch word **lach**^[1]
+  - **Nacht**
 - **ch** after an **??**:
   - **example 1**
 - **ch** followed by **s** is pronounced like an 'x':
   - **Fuchs**
 - **s** at the beginning of the word is pronounced as a **z**:
-  - **example**
+  - **Sommer**
 - **s** in the middle of the word is as an **s**
-  - **example**
+  - **messen**
 - **s** followed by a **p** or a **t** is pronounced as **sj**
   - **Sport**
 
@@ -104,6 +104,7 @@ draft: false
 - **Vater**
 - **Wecker**
 - **Sport**
+- **Nacht**
 
 ## Further Comments
 
@@ -118,3 +119,6 @@ Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: 
 - <https://www.greelane.com/nl/talen/duitse/pronunciation-and-alphabet-4076770/>
 - <https://lets-learn-german.com/german-language/beginning-german/diphthongs>
 - <https://www.colanguage.com/nl/het-duits-alfabet-en-de-uitspraak-van-duitse-woorden>
+
+
+[^1]: aka Ach-laut 
