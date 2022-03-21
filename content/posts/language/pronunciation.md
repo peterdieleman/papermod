@@ -91,9 +91,9 @@ draft: false
 
 ### List of Example Words
 
-- **Bäcker**
-- **Busse**
-- **Buße**
+- **Bäcker** [Bekker]
+- **Busse**  
+- **Buße** 
 - **CD**
 - **Fluss**/**Flüsse**
 - **Fuchs**
@@ -106,13 +106,13 @@ draft: false
 - **Schokolade**
 - **tanzen**
 - **typisch**
-- **Vater**
-- **Wecker**
-- **Sport**
-- **Nacht**
-- **Jahren**
-- **Wind**
-- **stören**
+- **Vater** [fvater]
+- **Wecker** [wekker]
+- **Sport** [sjport]
+- **Nacht** [nacht]
+- **Jahren** [jaaren]
+- **Wind** [wvind]
+- **stören** [steuren]
 
 ## Further Comments & Mnemonics
 
