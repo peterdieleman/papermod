@@ -27,7 +27,7 @@ draft: false
 | o     | o          |          |           |
 |       | oo         |          |           |
 | ö     | eu         |          |           |
-| u     | oe         |          |           |
+| u     | oe         | Mutter   | Moeter    |
 | ü     | u          |          |           |
 |       | uu         |          |           |
 
@@ -37,27 +37,33 @@ draft: false
 
 | Duits  | Nederlands | Beispiel | Uitspraak |
 | :----- | :--------- | :------- | :-------- |
-| ei     | ai         |          |           |
+| ei     | ai         | mein     | [main]    |
 | eu     | oi         | heute    | [hoite]   |
 | **au** | **au**     |          |           |
-| äu     | oi         | Bäume    | boime     |
+| äu     | oi         | Bäume    | [boime]   |
 
 ## Consonants that differ in Pronunciation from Dutch
 
 
-| Duits | Nederlands | Beispiel | Uitspraak       |
-| :---- | :--------- | :------- | :-------------- |
-| c     | ts         | CD       | tseedee         |
-| s     | z          |          |                 |
-| z     | ts         |          |                 |
-| v     | f          |          |                 |
-| w     | v          | Bäume    |                 |
-| sch   | sj         |          |                 |
-| ch    |            | ich      | als in 'wiegje' |
-|       |            | Nacht    | nacht           |
+| Duits | Nederlands | Beispiel | Uitspraak / hint       |
+| :---- | :--------- | :------- | :--------------------- |
+| c     | ts         | CD       | [tseedee]              |
+| s     | z          |          |                        |
+| z     | ts         |          |                        |
+| v     | f          |          |                        |
+| w     | v          | Bäume    |                        |
+| sch   | sj         |          |                        |
+| ch    |            | ich      | als in 'wiegje'        |
+|       |            | Nacht    | nacht                  |
+| g     |            | gerne    | als in 'golf' (Engels) |
 
 
-## RUles
+
+## Rules
+
+- Vowels that are followed directly by **ß** are  'long', e.g. **Fuß**
+- Vowels that are followed directly by **ck** or **ch** are 'short', e.g. **noch**, **Wecker**
+
 
 ## Sources
 
