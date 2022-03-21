@@ -18,16 +18,16 @@ draft: false
 
 (Bold indicates identical pronunciaton)
 
-| Duits | Nederlands | Beispiel | Uitspraak         |
+| Duits | Nederlands | Beispiel | Uitspraak / Hint  |
 | :---- | :--------- | :------- | :---------------- |
 | a     | a          |          |                   |
 | a     | aa         |          |                   |
-| ä     | e          | Bäcker   | bekker            |
-|       | ee         | Mädchen  | meedchjen         |
+| ä     | e          | Bäcker   | [bekker]          |
+|       | ee         | Mädchen  | [meedchjen]       |
 | o     | o          |          |                   |
 |       | oo         |          |                   |
 | ö     | eu         |          |                   |
-| u     | oe         | Mutter   | Moeter            |
+| u     | oe         | Mutter   | [Moeter]          |
 | ü     | u          |          |                   |
 |       | uu         |          |                   |
 | q     | kwaa       | Aquarium | [Aak-waa-rie-oem] |
@@ -36,23 +36,25 @@ draft: false
 
 (Bold indicates identical pronunciaton)
 
-| Duits  | Nederlands | Beispiel | Uitspraak |
-| :----- | :--------- | :------- | :-------- |
-| ei     | ai         | mein     | [main]    |
-| eu     | oi         | heute    | [hoite]   |
-| äu     | oi         | Bäume    | [boime]   |
+| Duits | Nederlands | Beispiel | Uitspraak / Hint |
+| :---- | :--------- | :------- | :--------------- |
+| ei    | ai         | mein     | [main]           |
+| eu    | oi         | heute    | [hoite]          |
+| äu    | oi         | Bäume    | [boime]          |
 
 
 ## Consonants that differ in Pronunciation from Dutch
 
 
-| Duits | Nederlands | Beispiel   | Uitspraak / hint       |
+| Duits | Nederlands | Beispiel   | Uitspraak / Hint       |
 | :---- | :--------- | :--------- | :--------------------- |
-| c     | ts         | CD         | [tseedee]              |
-| s     | z          |            |                        |
+| c     | ts         | CD         | [tsee-dee]             |
+| s     | s          | messen     | [messen]               |
+|       | sj         | Sport      | [Sjport]               |
+|       | z          | Sommer     | [zommer]               |
 | z     | ts         | tanzen     | [tantsen]              |
 | y     | u          | typisch    | [tupisj]               |
-| v     | f          | Vater      |                        |
+| v     | f          | Vater      | soft 'f'               |
 | w     | v          |            |                        |
 | sch   | sj/ch      | Schokolade | chocolade              |
 | tsch  |            |            |                        |
@@ -83,6 +85,9 @@ draft: false
   - **messen**
 - **s** followed by a **p** or a **t** is pronounced as **sj**
   - **Sport**
+- Vowels that are followed by an **h** should be stretched out:
+  - **Jahren**
+- 
 
 ### List of Example Words
 
@@ -105,10 +110,11 @@ draft: false
 - **Wecker**
 - **Sport**
 - **Nacht**
+- **Jahren**
 
-## Further Comments
+## Further Comments & Mnemonics
 
-Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: **auto**.
+- Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: **auto**.
 
 ## Sources
 
