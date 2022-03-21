@@ -69,6 +69,11 @@ draft: false
   - **Busse**, plural of bus
   - **der Fuß** (long as in k**oe**), **die Füße** (long as in m**uur)**
   - **der Fluss** (short as in z**oe**k), **die Flüsse** (k**u**ssen)
+- **ch** after an **a**, **o**, or **u** is pronounced like a k / g
+- **ch** followed by **s** is pronounced like an 'x':
+  - **Fuchs**
+  - **Lachs**
+
 
 ## Sources
 
@@ -77,3 +82,4 @@ draft: false
 - <https://www.nubeterduits.nl/website/index.php?pag=87>
 - <https://www.duits.de/vaklokaal/sprechen/uitspraak/>
 - <https://www.greelane.com/nl/talen/duitse/pronunciation-and-alphabet-4076770/>
+- <https://lets-learn-german.com/german-language/beginning-german/diphthongs>
