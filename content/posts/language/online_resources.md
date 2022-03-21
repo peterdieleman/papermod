@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Online Resources for Learning German"
 tags: ["german", "language"]
 date: 2022-03-16
 # weight: 1
@@ -16,10 +16,10 @@ draft: false
 
 ## Placement Tests
 
-[Sprachschule Munchen](https://www.sprachschule-aktiv-muenchen.de/en/german-test-online/#1554708058776-ddf113ee-617b)
-[Goethe](https://www.goethe.de/en/spr/kup/tsd.html)
-[Explainer](https://jaroslavplotnikov.com/test-german/)
+- [Sprachschule Munchen](https://www.sprachschule-aktiv-muenchen.de/en/german-test-online/#1554708058776-ddf113ee-617b)
+- [Goethe](https://www.goethe.de/en/spr/kup/tsd.html)
+- [Explainer](https://jaroslavplotnikov.com/test-german/)
 
 ## Online resources for Dutch Speakers
 
-[nubeterduits.nl - daily test](https://www.nubeterduits.nl/website/index.php?pag=2)
+- [nubeterduits.nl - daily test](https://www.nubeterduits.nl/website/index.php?pag=2)
