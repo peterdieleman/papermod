@@ -16,25 +16,29 @@ draft: false
 
 ## Vowels
 
-| Duits  | Nederlands |
-| :----- | :--------- |
-| **a**  | **a / aa** |
-| **au** | **au**     |
-| ä      | e / ee     |
-| ä      | e / ee     |
-| **o**  | **o / oo** |
-| ö      | eu         |
-| u      | oe         |
-| ü      | u / uu     |
+(Bold indicates identical pronunciaton)
 
+| Duits | Nederlands | Example |
+| :---- | :--------- | :------ |
+| **a** | **a / aa** |         |
+| ä     | e / ee     |         |
+| **o** | **o / oo** |         |
+| ö     | eu         |         |
+| u     | oe         |         |
+| ü     | u / uu     |         |
+
+Rules: 
 
 ## Diphtongs
 
-- ai/ei: eye
-- au: ow
-- eu/äu: oy
-- ie: eeh
-- 
+(Bold indicates identical pronunciaton)
+
+| Duits  | Nederlands | Example |
+| :----- | :--------- | :------ |
+| ei     | ai         |         |
+| eu     | oi         |         |
+| **au** | **au**     |         |
+| äu     | oi         |         |
 
 ## Consonants that differ in Pronunciation from Dutch
 
