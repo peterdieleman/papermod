@@ -77,7 +77,7 @@ draft: false
 - **ch** followed by **s** is pronounced like an 'x':
   - **Fuchs**
 
-List of example words:
+### List of Example Words
 
 - **Bäcker**
 - **Busse**
