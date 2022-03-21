@@ -26,7 +26,7 @@ draft: false
 |       | ee         | Mädchen  | [meedchjen]       |
 | o     | o          |          |                   |
 |       | oo         |          |                   |
-| ö     | eu         |          |                   |
+| ö     | eu         | stören   | [steuren]         |
 | u     | oe         | Mutter   | [Moeter]          |
 | ü     | u          |          |                   |
 |       | uu         |          |                   |
@@ -57,7 +57,7 @@ draft: false
 | v     | f          | **V**ater      | soft 'f'                                 |
 | w     | v/w        | **W**ind       | Wind - although pronounced closer to a v |
 | sch   | sj/ch      | **Sch**okolade | chocolade                                |
-| tsch  |            |                |                                          |
+| tsch  | tsj        | ki**tsch**     | [kietsj] - als in Tsjechie               |
 | ch    |            | i**ch**        | als in 'wiegje' (*see details below*)    |
 |       |            | Na**ch**t      | nacht  (*see details below*)             |
 | g     |            | **g**erne      | als in 'golf' (Engels)                   |
@@ -112,6 +112,7 @@ draft: false
 - **Nacht**
 - **Jahren**
 - **Wind**
+- **stören**
 
 ## Further Comments & Mnemonics
 
