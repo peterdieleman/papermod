@@ -73,7 +73,7 @@ draft: false
   - **der Fluss** (short as in z**oe**k), **die Flüsse** (k**u**ssen)
 - **ch** after an **a**, **o**, or **u** is pronounced like in the Dutch word **lach**^[1]
   - **Nacht**
-- **ch** after an **??**:
+- **ch** after anything but **a**, **o**, or **u** is pronounced like in the Dutch word **vlieg**^[2]
   - **example 1**
 - **ch** followed by **s** is pronounced like an 'x':
   - **Fuchs**
@@ -120,5 +120,5 @@ Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: 
 - <https://lets-learn-german.com/german-language/beginning-german/diphthongs>
 - <https://www.colanguage.com/nl/het-duits-alfabet-en-de-uitspraak-van-duitse-woorden>
 
-
 [^1]: aka Ach-laut 
+[^2]: aka Ich-laut
