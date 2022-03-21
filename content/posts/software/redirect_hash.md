@@ -1,6 +1,6 @@
 ---
 title: "Empty Hash MSAL React"
-tags: ["template"]
+tags: ["software"]
 date: 2022-03-21
 # weight: 1
 # author: "Peter Dieleman"
@@ -21,3 +21,7 @@ draft: false
 - <https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/4573>
 
 > We've resolved this in our application. For us, we had our redirect URL as the home page of our application. This caused an issue where our router (in Next.js) took over the routing in the popup, stripping the hash and redirecting it to the login page - before the window that launched the popup had time to extract it. Redirecting to a blank page allowed consistent logins.
+
+- <https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/login-user.md#redirecturi-considerations>
+
+> When using popup and silent APIs we recommend setting the redirectUri to a blank page or a page that does not implement MSAL. 
