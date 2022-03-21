@@ -46,21 +46,21 @@ draft: false
 ## Consonants that differ in Pronunciation from Dutch
 
 
-| Duits | Nederlands | Beispiel       | Uitspraak / Hint       |
-| :---- | :--------- | :------------- | :--------------------- |
-| c     | ts         | **C**D         | [tsee-dee]             |
-| s     | s          | me**sse**n     | [messen]               |
-|       | sj         | **S**port      | [Sjport]               |
-|       | z          | **S**ommer     | [zommer]               |
-| z     | ts         | tan**z**en     | [tantsen]              |
-| y     | u          | t**y**pisch    | [tupisj]               |
-| v     | f          | **V**ater      | soft 'f'               |
-| w     | v          |                |                        |
-| sch   | sj/ch      | **Sch**okolade | chocolade              |
-| tsch  |            |                |                        |
-| ch    |            | i**ch**        | als in 'wiegje'        |
-|       |            | Na**ch**t      | nacht                  |
-| g     |            | **g**erne      | als in 'golf' (Engels) |
+| Duits | Nederlands | Beispiel       | Uitspraak / Hint                         |
+| :---- | :--------- | :------------- | :--------------------------------------- |
+| c     | ts         | **C**D         | [tsee-dee]                               |
+| s     | s          | me**sse**n     | [messen] (*see details below*)           |
+|       | sj         | **S**port      | [Sjport] (*see details below*)           |
+|       | z          | **S**ommer     | [zommer] (*see details below*)           |
+| z     | ts         | tan**z**en     | [tantsen]                                |
+| y     | u          | t**y**pisch    | [tupisj]                                 |
+| v     | f          | **V**ater      | soft 'f'                                 |
+| w     | v/w        | **W**ind       | Wind - although pronounced closer to a v |
+| sch   | sj/ch      | **Sch**okolade | chocolade                                |
+| tsch  |            |                |                                          |
+| ch    |            | i**ch**        | als in 'wiegje' (*see details below*)    |
+|       |            | Na**ch**t      | nacht  (*see details below*)             |
+| g     |            | **g**erne      | als in 'golf' (Engels)                   |
 
 
 
@@ -111,6 +111,7 @@ draft: false
 - **Sport**
 - **Nacht**
 - **Jahren**
+- **Wind**
 
 ## Further Comments & Mnemonics
 
@@ -125,6 +126,7 @@ draft: false
 - <https://www.greelane.com/nl/talen/duitse/pronunciation-and-alphabet-4076770/>
 - <https://lets-learn-german.com/german-language/beginning-german/diphthongs>
 - <https://www.colanguage.com/nl/het-duits-alfabet-en-de-uitspraak-van-duitse-woorden>
+- <https://www.duitsetaal.org/alfabet>
 
 [^1]: aka Ach-laut 
 [^2]: aka Ich-laut
