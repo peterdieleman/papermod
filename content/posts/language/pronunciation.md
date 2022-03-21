@@ -18,18 +18,19 @@ draft: false
 
 (Bold indicates identical pronunciaton)
 
-| Duits | Nederlands | Beispiel | Uitspraak |
-| :---- | :--------- | :------- | :-------- |
-| a     | a          |          |           |
-| a     | aa         |          |           |
-| ä     | e          | Bäcker   | bekker    |
-|       | ee         | Mädchen  | meedchjen |
-| o     | o          |          |           |
-|       | oo         |          |           |
-| ö     | eu         |          |           |
-| u     | oe         | Mutter   | Moeter    |
-| ü     | u          |          |           |
-|       | uu         |          |           |
+| Duits | Nederlands | Beispiel | Uitspraak      |
+| :---- | :--------- | :------- | :------------- |
+| a     | a          |          |                |
+| a     | aa         |          |                |
+| ä     | e          | Bäcker   | bekker         |
+|       | ee         | Mädchen  | meedchjen      |
+| o     | o          |          |                |
+|       | oo         |          |                |
+| ö     | eu         |          |                |
+| u     | oe         | Mutter   | Moeter         |
+| ü     | u          |          |                |
+|       | uu         |          |                |
+| q     | kwaa       | Aquarium | [Aakwaarieoem] |
 
 ## Diphtongs / Consonant Cluster
 
