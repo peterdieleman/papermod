@@ -31,7 +31,7 @@ draft: false
 | ü     | u          |          |           |
 |       | uu         |          |           |
 
-## Diphtongs
+## Diphtongs / Consonant Cluster
 
 (Bold indicates identical pronunciaton)
 
@@ -41,6 +41,7 @@ draft: false
 | eu     | oi         | heute    | [hoite]   |
 | **au** | **au**     |          |           |
 | äu     | oi         | Bäume    | [boime]   |
+
 
 ## Consonants that differ in Pronunciation from Dutch
 
@@ -63,6 +64,9 @@ draft: false
 
 - Vowels that are followed directly by **ß** are  'long', e.g. **Fuß**
 - Vowels that are followed directly by **ck** or **ch** are 'short', e.g. **noch**, **Wecker**
+- Difference between **ß** and **ss**:
+  - **Buße**, pronounced with long u
+  - **Busse**, plural of bus
 
 
 ## Sources
