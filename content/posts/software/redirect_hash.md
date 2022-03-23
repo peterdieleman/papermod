@@ -24,4 +24,4 @@ draft: false
 
 - <https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/login-user.md#redirecturi-considerations>
 
-> When using popup and silent APIs we recommend setting the redirectUri to a blank page or a page that does not implement MSAL. 
+> When using popup and silent APIs we recommend setting the redirectUri to a blank page or a page that does not implement MSAL.
