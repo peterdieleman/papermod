@@ -1,5 +1,5 @@
 ---
-title: "OffsetDateTime returned as float"
+title: "Setting a default format for Java 8 Date types"
 tags: ["template"]
 date: 2022-03-24
 # weight: 1
@@ -15,5 +15,5 @@ draft: false
 ---
 
 
-
+<https://www.baeldung.com/spring-boot-formatting-json-dates>
 <https://stackoverflow.com/questions/66694406/spring-boot-rest-offsetdatetime-returned-as-float>
