@@ -17,3 +17,4 @@ draft: false
 ## Ideas
 
 - <https://github.com/Azure/azure-sdk-for-java/pull/12645/files>
+- <https://github.com/Azure/azure-sdk-for-java>
