@@ -42,6 +42,10 @@ As a global setting:
 
 See: <https://www.specbee.com/blogs/how-create-and-apply-patch-git-diff-and-git-apply-commands-your-drupal-website>
 
+## Pruning branches from remote list
+
+`git remote update origin --prune`
+
 ## Purging Secrets from Repo
 
 Use git-filter-repo or BFG repo cleaner:
