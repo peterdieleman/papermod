@@ -19,3 +19,12 @@ where `myproject` is the name of the `*.yml` or `*.properties` file that is stor
 The extension is not required.
 
 <https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-external-config.html>
+
+## Further Documentation
+
+<https://www.baeldung.com/spring-yaml>
+<https://baeldung-cn.com/spring-yaml-vs-properties>
+
+<https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/howto-properties-and-configuration.html>
+
+<https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/howto-properties-and-configuration.html#howto-change-configuration-depending-on-the-environment>
