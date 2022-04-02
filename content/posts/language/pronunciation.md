@@ -118,6 +118,7 @@ Dutch pseudo-phonetic in brackets.
 ## Further Comments & Mnemonics
 
 - Only letters that can have an umlaut: **a**, **u**, **o**, or **au**. Remember: **auto**.
+- exceptions? China? 
 
 ## Sources
 
