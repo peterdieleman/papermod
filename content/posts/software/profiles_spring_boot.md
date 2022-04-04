@@ -28,3 +28,27 @@ The extension is not required.
 <https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/howto-properties-and-configuration.html>
 
 <https://docs.spring.io/spring-boot/docs/1.0.1.RELEASE/reference/html/howto-properties-and-configuration.html#howto-change-configuration-depending-on-the-environment>
+
+need:
+
+spring.config.activate.on-profile: "profile-name
+
+example:
+
+```yaml
+spring: # default config without profile name
+.
+.
+.
+
+---
+
+spring:
+    config:
+        active:
+            on-profile: "profile name"
+```
+
+In conjunction with: `./gradlew run --args='--spring.profiles.active=profile-name'`
+
+Can make this even more complicated when activating multiple profiles at once with overlapping properties, in that case the precedence order of profiles needs to be defined.
