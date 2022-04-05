@@ -31,7 +31,7 @@ The extension is not required.
 
 need:
 
-spring.config.activate.on-profile: "profile-name
+spring.config.activate.on-profile: "profile_name"
 
 example:
 
@@ -49,6 +49,10 @@ spring:
             on-profile: "profile name"
 ```
 
-In conjunction with: `./gradlew run --args='--spring.profiles.active=profile-name'`
+In conjunction with: `./gradlew run --args='--spring.profiles.active=profile_name'`
 
 Can make this even more complicated when activating multiple profiles at once with overlapping properties, in that case the precedence order of profiles needs to be defined.
+
+## From IntelliJ
+
+Add the following as an environment variable when right clicking on the configuration in the top-left corner: `spring.profiles.active=profile_name` 
