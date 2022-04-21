@@ -22,5 +22,10 @@ draft: false
 <https://www.amitph.com/spring-rest-api-custom-error-messages/>
 <https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/>
 <https://stackoverflow.com/questions/45317638/how-to-catch-accessdeniedexception-in-spring-boot-rest-api>
+<https://stackoverflow.com/questions/59302621/custom-message-in-spring-accessdeniedexception>
 
 - `@ControllerAdvice` annotation
+
+## Note
+
+- AccessDeniedException needs to be taken care of in filter chain
