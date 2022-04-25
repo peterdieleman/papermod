@@ -52,3 +52,12 @@ Which finally contains this amazing quote:
 ## Annotating Base Class
 
 - <https://stackoverflow.com/questions/41298391/base-model-with-audited>
+
+# Native query?
+
+- <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
+- <https://localcoder.org/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
+- <https://stackoverflow.com/questions/12370596/work-around-for-envers-auditing-for-bulk-update>
+- <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
+
+can be done using `createNativeQuery(String sqlString)`?
