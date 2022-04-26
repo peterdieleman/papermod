@@ -59,5 +59,7 @@ Which finally contains this amazing quote:
 - <https://localcoder.org/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
 - <https://stackoverflow.com/questions/12370596/work-around-for-envers-auditing-for-bulk-update>
 - <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
+- <https://thorben-janssen.com/use-native-queries-perform-bulk-updates/>
+- <https://www.heise.de/hintergrund/Auditierung-mit-Hibernate-Envers-eine-Einfuehrung-3728004.html>
 
 can be done using `createNativeQuery(String sqlString)`?
