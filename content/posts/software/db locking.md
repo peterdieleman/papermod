@@ -14,5 +14,6 @@ draft: false
 # searchHidden: false
 ---
 
-https://dzone.com/articles/concurrency-and-locking-with-jpa-everything-you-ne
-
+- <https://dzone.com/articles/concurrency-and-locking-with-jpa-everything-you-ne>
+- <https://www.baeldung.com/jpa-pessimistic-locking>
+- <https://blog.arnoldgalovics.com/jpa-optimistic-locking/>
