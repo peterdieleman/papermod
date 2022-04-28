@@ -20,3 +20,4 @@ draft: false
 - <https://stackoverflow.com/questions/42857947/jpa-with-specification-how-to-filter-an-entity-by-a-child-collection-content>
 - <https://stackoverflow.com/questions/47867124/spring-data-jpa-specification-how-to-filter-a-parent-object-by-its-children-obj>
 - <https://www.baeldung.com/jpa-and-or-criteria-predicates?fbclid=IwAR0vao7fFrB_NghXBEesu-cCFN9HS4WfPcmCXvTkKIvO72sIWu2Nz2aST4A>
+- <https://stackoverflow.com/questions/55629512/how-to-filter-parent-object-which-has-list-of-children-and-a-child-has-list-of-g>
