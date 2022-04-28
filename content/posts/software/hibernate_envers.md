@@ -23,6 +23,7 @@ draft: false
 - <https://hibernate.atlassian.net/browse/HHH-10212?attachmentOrder=asc>
 - <https://developer.jboss.org/thread/152642>
 - <https://developer.jboss.org/thread/166705>
+- <https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/html/developing_hibernate_applications/hibernate_envers>
 
 ## Further Issues Regarding 
 
@@ -52,6 +53,21 @@ Which finally contains this amazing quote:
 ## Annotating Base Class
 
 - <https://stackoverflow.com/questions/41298391/base-model-with-audited>
+
+## Native queries bypassing hibernate envers
+
+- <https://stackoverflow.com/questions/12370596/work-around-for-envers-auditing-for-bulk-update>
+- <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
+- <https://developer.jboss.org/thread/149545>
+
+Need to trigger lifecycle events. This does not happen when we use:
+
+- Native queries
+- Bulk actions (get translated to SQL directly)
+
+What is safe?
+
+- 
 
 # Native query?
 
