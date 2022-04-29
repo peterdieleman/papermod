@@ -26,3 +26,7 @@ draft: false
 ## Fetch Joins
 
 - <https://stackoverflow.com/questions/71840199/how-to-fix-jpa-specification-api-with-join-on-condition-returns-2-query-instead>
+
+## More detail - Multiselect
+
+- <https://www.initgrep.com/posts/java/jpa/select-values-in-criteria-queries>
