@@ -1,5 +1,5 @@
 ---
-title: "Filtering on children entitites"
+title: "Filtering on children entities"
 tags: ["Java"]
 date: 2022-04-28
 # weight: 1
