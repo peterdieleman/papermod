@@ -30,3 +30,7 @@ draft: false
 ## More detail - Multiselect
 
 - <https://www.initgrep.com/posts/java/jpa/select-values-in-criteria-queries>
+
+## Subquery
+
+- <https://stackoverflow.com/questions/53678146/jpa-2-1-predicate-criteria-for-child-entity>
