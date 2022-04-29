@@ -25,6 +25,7 @@ draft: false
 # Exclusive lock table
 
 - <https://stackoverflow.com/questions/64224014/include-additional-columns-in-where-clause-of-hibernate-jpa-generated-update-que>
+- <https://stackoverflow.com/questions/65049057/spring-data-jpa-insert-into-multiple-tables-to-avoid-locking-tables>
 
 ```
 @Query(value = "LOCK TABLE SKU IN EXCLUSIVE MODE", nativeQuery = true)

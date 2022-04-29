@@ -33,4 +33,8 @@ draft: false
 
 ## Subquery
 
-- <https://stackoverflow.com/questions/53678146/jpa-2-1-predicate-criteria-for-child-entity>
+- <https://stackoverflow.com/questions/53678146/jpa-2-1-predicate-criteria-for-child-entity>\
+
+##
+
+- <https://stackoverflow.com/questions/47469861/what-is-the-difference-between-a-criteria-a-predicate-and-a-specification>
