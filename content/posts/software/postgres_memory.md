@@ -26,3 +26,5 @@ draft: false
 <https://stackoverflow.com/questions/70158261/postgresql-14-2-out-of-memory-failed-on-request-of-size-24576-in-memory-conte>
 
 `Failed on request of size 24576 in memory context "TupleSort main"`
+
+<https://postgrespro.com/list/thread-id/2437174>
