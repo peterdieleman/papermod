@@ -28,3 +28,6 @@ draft: false
 `Failed on request of size 24576 in memory context "TupleSort main"`
 
 <https://postgrespro.com/list/thread-id/2437174>
+
+`SQL Error: 0, SQLState: 53200`
+`ERROR: out of memory Detail: Failed on request of size 152 in memory context "ExecutorState"`
