@@ -31,3 +31,4 @@ draft: false
 
 `SQL Error: 0, SQLState: 53200`
 `ERROR: out of memory Detail: Failed on request of size 152 in memory context "ExecutorState"`
+` ERROR: out of memory Detail: Failed on request of size 32800 in memory context "HashBatchContext".`
