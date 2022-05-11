@@ -1,5 +1,5 @@
 ---
-title: "MS GRaph API v1 vs. v2"
+title: "MS Graph API v1 vs. v2"
 tags: ["template"]
 date: 2022-03-09
 # weight: 1
