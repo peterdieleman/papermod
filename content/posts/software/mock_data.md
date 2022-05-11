@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "PostgreSQL mock data insertion"
 tags: ["postgresql"]
 date: 2022-05-05
 # weight: 1
