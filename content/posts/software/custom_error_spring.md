@@ -23,6 +23,7 @@ draft: false
 - <https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/>
 - <https://stackoverflow.com/questions/45317638/how-to-catch-accessdeniedexception-in-spring-boot-rest-api>
 - <https://stackoverflow.com/questions/59302621/custom-message-in-spring-accessdeniedexception>
+- <https://dzone.com/articles/best-practice-for-exception-handling-in-spring-boo>
 
 - `@ControllerAdvice` annotation
 
