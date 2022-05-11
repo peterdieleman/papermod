@@ -1,6 +1,6 @@
 ---
 title: "Runtime environment variables in React + nginx"
-tags: ["template"]
+tags: ["react", "docker", "nginx", "javascript"]
 date: 2022-05-06
 # weight: 1
 # author: "Peter Dieleman"

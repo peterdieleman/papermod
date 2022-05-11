@@ -1,6 +1,6 @@
 ---
-title: "Template"
-tags: ["template"]
+title: "Customize error message Spring Boot"
+tags: ["spring-boot", "java", "error"]
 date: 2022-04-12
 # weight: 1
 # author: "Peter Dieleman"
