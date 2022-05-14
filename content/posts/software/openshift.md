@@ -1,6 +1,6 @@
 ---
 title: "Openshift Documentation"
-tags: ["template"]
+tags: ["openshift","docker","kubernetes"]
 date: 2022-02-22
 # weight: 1
 # author: "Peter Dieleman"
