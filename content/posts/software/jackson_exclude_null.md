@@ -35,3 +35,5 @@ Manually annotating the classes with
  did reinstate the wanted behaviour. However, this is painful for classes that are pulled from libraries.
 
 Root cause seems to be related to the following: <https://stackoverflow.com/questions/62819472/spring-jackson-default-property-inclusion-ignored>.
+
+`ObjectMapper` Bean in our config. Add the following: `.serializationInclusion(JsonInclude.Include.NON_NULL)`.
