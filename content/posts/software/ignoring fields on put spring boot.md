@@ -16,5 +16,6 @@ draft: false
 
 ## Sources
 
-https://stackoverflow.com/questions/51680343/ignore-fields-from-specific-request-in-spring-boot
-https://stackoverflow.com/questions/12505141/only-using-jsonignore-during-serialization-but-not-deserialization
+- <https://stackoverflow.com/questions/51680343/ignore-fields-from-specific-request-in-spring-boot>
+- <https://stackoverflow.com/questions/12505141/only-using-jsonignore-during-serialization-but-not-deserialization>
+- <https://www.concretepage.com/jackson-api/jackson-jsonignore-jsonignoreproperties-and-jsonignoretype>
