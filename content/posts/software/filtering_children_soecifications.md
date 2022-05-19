@@ -37,6 +37,11 @@ draft: false
 
 - <https://stackoverflow.com/questions/53678146/jpa-2-1-predicate-criteria-for-child-entity>\
 
-##
+
+## Matching against a list
+
+- <https://stackoverflow.com/questions/13940249/jpa-criteria-api-matching-against-a-list-in-spring-data-jpa-specifications>
+
+## Further Info
 
 - <https://stackoverflow.com/questions/47469861/what-is-the-difference-between-a-criteria-a-predicate-and-a-specification>
