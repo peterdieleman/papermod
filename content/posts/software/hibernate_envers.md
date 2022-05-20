@@ -69,7 +69,7 @@ What is safe?
 
 - 
 
-# Native query?
+## Native query?
 
 - <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
 - <https://localcoder.org/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
@@ -79,3 +79,16 @@ What is safe?
 - <https://www.heise.de/hintergrund/Auditierung-mit-Hibernate-Envers-eine-Einfuehrung-3728004.html>
 
 can be done using `createNativeQuery(String sqlString)`?
+
+## Ignoring Inserts / POSTS? (Conditional Auditing)
+
+- <https://vladmihalcea.com/hibernate-event-listeners/>
+- <https://thorben-janssen.com/conditional-auditing-hibernate-envers/#Customize_the_Handling_of_EventTypePRE_UPDATE_Events>
+- <https://stackoverflow.com/questions/58929502/hibernate-skip-envers-historisation-for-specific-action-or-a-transaction>
+- <https://www.youtube.com/watch?v=fX0SXEexy_o>
+
+To do this, 3 steps are required:
+
+- Custom event listeners
+- Overwrite envers integrator
+- List FQName of class in `<ETA-INF/services/org.hibernate.integrator.spi.Integrator`
