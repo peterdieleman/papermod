@@ -85,10 +85,13 @@ can be done using `createNativeQuery(String sqlString)`?
 - <https://vladmihalcea.com/hibernate-event-listeners/>
 - <https://thorben-janssen.com/conditional-auditing-hibernate-envers/#Customize_the_Handling_of_EventTypePRE_UPDATE_Events>
 - <https://stackoverflow.com/questions/58929502/hibernate-skip-envers-historisation-for-specific-action-or-a-transaction>
+- <https://stackoverflow.com/questions/14250612/conditional-envers-auditing>
 - <https://www.youtube.com/watch?v=fX0SXEexy_o>
+- <https://stackoverflow.com/questions/28118004/implementing-conditional-envers-auditing-hibernate-4-3-7-final>
 
-To do this, 3 steps are required:
+To do this, the following steps are required:
 
+- Customize listener for `POST_INSERT`
 - Custom event listeners
 - Overwrite envers integrator
 - List FQName of class in `<ETA-INF/services/org.hibernate.integrator.spi.Integrator`
