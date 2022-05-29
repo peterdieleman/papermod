@@ -21,3 +21,4 @@ cover:
 ---
 
 ![image alt text](/pics/2022-01-12%2014.15.45.jpg)
+![image alt text](/pics/anna_sitting.jpg)
