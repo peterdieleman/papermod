@@ -18,3 +18,7 @@ draft: false
 
 <https://ifttt.com/maker_webhooks>
 <https://notes.rmhogervorst.nl/post/2019/02/23/pushover-netlify-fails/>
+
+## Tips on Stripping Exif data
+
+<https://kpwn.de/2021/09/how-to-set-up-this-blog/s>
