@@ -40,3 +40,7 @@ Content-type: text/json
 - File Transfer Protocol (FTP)
 - Secure Shell Protocol (SSH)
 - SSH File Transfer Protocol (SFTP)
+
+## HTTP Overview
+
+<https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>
