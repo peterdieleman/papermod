@@ -23,3 +23,7 @@ draft: false
 ## Java Versions
 
 <https://stackoverflow.com/questions/9170832/list-of-java-class-file-format-major-version-numbers>
+
+`gradle INVALID SOURCE RELEASE 17`
+
+https://stackoverflow.com/questions/70320448/spring-boot-gradle-build-invalid-source-release-11
