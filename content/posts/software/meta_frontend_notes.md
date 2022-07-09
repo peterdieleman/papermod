@@ -92,3 +92,11 @@ HTML and CSS: Design and build websites by Jon Duckett: <https://www.amazon.com/
 
 CSS Definitive Guide  by Eric Meyer <https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/>
 
+### Responsive Design
+
+- Flexible grids
+- fluid images
+- media queries
+
+### bootstrap
+
