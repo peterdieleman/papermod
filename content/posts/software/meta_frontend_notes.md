@@ -44,3 +44,36 @@ Content-type: text/json
 ## HTTP Overview
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>
+
+## CSS
+
+selector, declaration (value:property)
+
+- Element Selectors
+- ID Selectors
+- Class Selectors
+- Child Selectors
+- Element with Class Selector:
+- Descendant Selectors: are useful if you need to select HTML elements that are contained within another selector.
+
+```html
+<div id="blog">
+  <h1>Latest News</h1>
+  <div>
+    <h1>Today's Weather</h1>
+    <p>The weather will be sunny</p>
+  </div>
+  <p>Subscribe for more news</p>
+</div>
+<div>
+  <h1>Archives</h1>
+</div>
+```
+
+```css
+#blog h1​ {
+  color: blue;
+}
+```
+
+The CSS rule will select all h1 elements that are contained within the element with the ID blog. The CSS rule will not apply to the h1 element containing the text Archives.
