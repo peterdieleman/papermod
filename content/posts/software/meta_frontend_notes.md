@@ -47,6 +47,8 @@ Content-type: text/json
 
 ## CSS
 
+### Selectors
+
 selector, declaration (value:property)
 
 - Element Selectors
@@ -77,3 +79,16 @@ selector, declaration (value:property)
 ```
 
 The CSS rule will select all h1 elements that are contained within the element with the ID blog. The CSS rule will not apply to the h1 element containing the text Archives.
+
+### Alignment
+
+"To center align an element, you set a width on the element and push its margins out to fill the remaining available space of the parent element as in the following HTML structure:"
+
+"To be more precise, in CSS you can set only the left and right margins to auto. This allows you to set the top and bottom margins to specific values if needed."
+
+CSS Reference (Mozilla): <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference>
+
+HTML and CSS: Design and build websites by Jon Duckett: <https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/>
+
+CSS Definitive Guide  by Eric Meyer <https://www.amazon.com/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/>
+
