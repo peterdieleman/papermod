@@ -8,6 +8,8 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+# googleAnalytics: UA-123-45
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -25,12 +27,19 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: true
+  ShowPostNavLinks: true
   ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
   disableSpecial1stPost: false
+  disableScrollToTop: false
   comments: false
   hidemeta: false
+  hideSummary: false
   showtoc: false
-  tocopen: true
+  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -80,6 +89,10 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/ptrdlmn/"
 
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
@@ -124,8 +137,9 @@ outputs:
 pygmentsUseClasses: true
 markup:
   highlight:
+    noClasses: false
     # anchorLineNos: true
-    codeFences: true
-    guessSyntax: true
-    lineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
     style: monokai
