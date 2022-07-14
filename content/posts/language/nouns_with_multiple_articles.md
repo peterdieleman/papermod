@@ -1,6 +1,6 @@
 ---
 title: "German Nouns with multiple corresponding articles"
-tags: ["German"]
+tags: ["german"]
 date: 2022-03-06
 # weight: 1
 # author: "Peter Dieleman"

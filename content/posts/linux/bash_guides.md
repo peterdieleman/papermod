@@ -1,6 +1,6 @@
 ---
 title: "Bash guides"
-tags: ["Linux"]
+tags: ["linux"]
 date: 2022-01-16T11:30:03+00:00
 # weight: 1
 # author: "Peter Dieleman"

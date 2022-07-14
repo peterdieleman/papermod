@@ -1,6 +1,6 @@
 ---
-title: "Date formats JSON"
-tags: ["template"]
+title: "Date format JSON"
+tags: ["json"]
 date: 2022-05-16
 # weight: 1
 # author: "Peter Dieleman"

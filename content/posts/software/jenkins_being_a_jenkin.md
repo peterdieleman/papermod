@@ -1,6 +1,6 @@
 ---
 title: "Jenkins being a Jenkin"
-tags: ["template"]
+tags: ["jenkins"]
 date: 2022-07-08
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,7 @@
 ---
 title: "German Wordle"
-tags: ["German"]
+tags: ["german"]
+author: "Peter"
 date: 1970-01-01
 # weight: 1
 # author: "Peter Dieleman"

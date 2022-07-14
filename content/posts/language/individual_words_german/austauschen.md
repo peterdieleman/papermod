@@ -1,6 +1,6 @@
 ---
 title: "Template"
-tags: ["template"]
+tags: ["german"]
 date: 1970-01-01
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,6 @@
 ---
 title: "Debugging Spring Security AAD"
-tags: ["template"]
+tags: ["java", "spring-boot"]
 date: 2022-03-23
 # weight: 1
 # author: "Peter Dieleman"
@@ -14,7 +14,6 @@ draft: false
 # searchHidden: false
 ---
 
-## Ideas
+## Disabling Spring Security 
 
 - <https://github.com/Azure/azure-sdk-for-java/pull/12645/files>
-- <https://github.com/Azure/azure-sdk-for-java>

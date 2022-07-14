@@ -3,7 +3,7 @@ title: "Sushi Rice"
 date: 2021-03-15T22:59:02+01:00
 # weight: 1
 aliases: ["/sushirice"]
-tags: ["recipe", "Japanese", "Asian"]
+tags: ["recipe", "japanese", "asian"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false  

@@ -1,6 +1,6 @@
 ---
 title: "Db Locking"
-tags: ["template"]
+tags: ["spring-boot", "jpa"]
 date: 2022-04-23
 # weight: 1
 # author: "Peter Dieleman"

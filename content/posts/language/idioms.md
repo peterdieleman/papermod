@@ -1,6 +1,6 @@
 ---
 title: "Idioms"
-tags: ["Germans"]
+tags: ["German"]
 date: 2022-02-06
 # weight: 1
 # author: "Peter Dieleman"

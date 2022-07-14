@@ -1,6 +1,6 @@
 ---
 title: "Spring Validation Context"
-tags: ["template"]  
+tags: ["spring-boot", "java"]  
 date: 2022-05-05
 # weight: 1
 # author: "Peter Dieleman"

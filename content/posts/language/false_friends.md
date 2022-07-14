@@ -1,6 +1,6 @@
 ---
 title: "Dutch German False Friends"
-tags: ["German", "Dutch"]
+tags: ["german", "dutch"]
 date: 2022-02-07
 # weight: 1
 # author: "Peter Dieleman"

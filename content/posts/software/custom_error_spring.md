@@ -1,6 +1,6 @@
 ---
 title: "Customize error message Spring Boot"
-tags: ["spring-boot", "java", "error"]
+tags: ["spring-boot", "java"]
 date: 2022-04-12
 # weight: 1
 # author: "Peter Dieleman"

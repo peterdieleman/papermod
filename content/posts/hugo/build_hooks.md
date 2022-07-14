@@ -1,6 +1,6 @@
 ---
 title: "Webhook for failing netlify build"
-tags: ["template"]
+tags: ["netlify"]
 date: 2022-02-22
 # weight: 1
 # author: "Peter Dieleman"

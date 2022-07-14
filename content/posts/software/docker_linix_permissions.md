@@ -1,6 +1,6 @@
 ---
 title: "Docker Permissiosn Issue non-root users"
-tags: ["template"]
+tags: ["docker"]
 date: 2022-07-05
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,6 @@
 ---
 title: "Using ModelMapper for a Count Field"
-tags: ["template"]
+tags: ["java"]
 date: 2022-03-24
 # weight: 1
 # author: "Peter Dieleman"
@@ -21,5 +21,5 @@ draft: false
 
 <https://www.baeldung.com/java-modelmapper>
 
-Usea Converter, as outlined above.
+Use a converter, as outlined above.
  

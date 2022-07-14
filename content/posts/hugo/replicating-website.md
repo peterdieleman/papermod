@@ -3,7 +3,7 @@ title: "Replicating this website"
 date: 2021-04-05T16:17:51+02:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Hugo"]
+tags: ["hugo","netlify"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false

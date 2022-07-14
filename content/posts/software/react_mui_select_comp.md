@@ -1,6 +1,6 @@
 ---
 title: "React Select / Randomness "
-tags: ["JS","mui"]
+tags: ["javascript","mui"]
 date: 2022-05-16
 # weight: 1
 # author: "Peter Dieleman"

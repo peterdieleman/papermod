@@ -3,7 +3,7 @@ title: "Dunglish"
 date: 2021-03-12T08:57:41+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Random"]
+tags: ["random"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true

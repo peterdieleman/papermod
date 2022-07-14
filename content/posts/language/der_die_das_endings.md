@@ -3,7 +3,7 @@ title: "Der Die Das Endings"
 date: 2022-01-21T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["German"]
+tags: ["german"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -22,7 +22,6 @@ searchHidden: false
 #     caption: "<text>" # display caption under cover
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
-
 ---
 
 Some rules to decide whether something is a Der, Die or Das word based on the word's ending.[^2]’[^3]’[^4]’[^5]’[^6]

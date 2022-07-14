@@ -1,6 +1,6 @@
 ---
 title: "Special Chars in REST API URIs"
-tags: ["template"]
+tags: ["REST"]
 date: 2022-05-19
 # weight: 1
 # author: "Peter Dieleman"

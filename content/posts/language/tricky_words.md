@@ -1,6 +1,6 @@
 ---
 title: "Tricky Words"
-tags: ["German"]
+tags: ["german"]
 date: 2022-02-01
 # weight: 1
 # author: "Peter Dieleman"

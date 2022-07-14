@@ -1,6 +1,6 @@
 ---
 title: "Setting a default format for Java 8 Date types"
-tags: ["template"]
+tags: ["java", "spring-boot"]
 date: 2022-03-24
 # weight: 1
 # author: "Peter Dieleman"

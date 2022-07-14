@@ -1,6 +1,6 @@
 ---
 title: "Jackson exclude null values"
-tags: ["template"]
+tags: ["java", "spring-boot"]
 date: 2022-05-16
 # weight: 1
 # author: "Peter Dieleman"

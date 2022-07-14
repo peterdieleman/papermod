@@ -1,6 +1,6 @@
 ---
 title: "(Too) Long German Words"
-tags: ["German"]
+tags: ["german"]
 date: 2022-01-29
 # weight: 1
 # author: "Peter Dieleman"

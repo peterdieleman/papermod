@@ -1,6 +1,6 @@
 ---
 title: "Dutch words for 'Canal'"
-tags: ["Dutch","Random"]
+tags: ["dutch","random"]
 date: 2022-01-29
 # weight: 1
 # author: "Peter Dieleman"

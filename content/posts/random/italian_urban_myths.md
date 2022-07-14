@@ -1,12 +1,12 @@
 ---
 title: "Italian Urban Myths"
-tags: ["template"]
-date: 1970-01-01
+tags: ["italian", "random"]
+date: 2022-07-14
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: true
+draft: false
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"

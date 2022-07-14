@@ -1,6 +1,6 @@
 ---
 title: "Pronunciation"
-tags: ["language", "german", "pronunciation"]
+tags: ["german"]
 date: 2022-03-21
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,12 +1,12 @@
 ---
 title: "MS Graph API v1 vs. v2"
-tags: ["template"]
+tags: ["azure"]
 date: 2022-03-09
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"

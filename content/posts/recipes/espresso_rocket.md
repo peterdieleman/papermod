@@ -3,7 +3,7 @@ title: "Espresso Recipes"
 date: 2021-01-23
 # weight: 1
 aliases: ["/espresso"]
-tags: ["Recipe", "Coffee", "Espresso"]
+tags: ["recipe", "espresso"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false  

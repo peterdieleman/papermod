@@ -3,7 +3,8 @@ title: "Words shared by German & Dutch"
 date: 2022-01-19T09:02:34+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["German"]
+tags: ["german"]
+author: "Peter"
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -3,7 +3,8 @@ title: "Der Die Das Endings"
 date: 2022-02-14
 # weight: 1
 # aliases: ["/first"]
-tags: ["German"]
+tags: ["german"]
+author: "Peter"
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -1,6 +1,6 @@
 ---
 title: "Automatically restart pods Openshift"
-tags: ["template"]
+tags: ["openshift","kubernetes"]
 date: 2022-07-12
 # weight: 1
 # author: "Peter Dieleman"
@@ -30,7 +30,6 @@ Pod restart policy: <https://docs.openshift.com/container-platform/3.11/architec
 
 - Restartpolicy?
 - Reloader?
-- 
 
 ## Tangents:
 

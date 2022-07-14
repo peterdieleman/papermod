@@ -1,6 +1,6 @@
 ---
 title: "Eggplant Lemon Leaf Curry"
-tags: ["template"]
+tags: ["indian"]
 date: 2022-02-24
 # weight: 1
 # author: "Peter Dieleman"
