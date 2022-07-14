@@ -62,8 +62,8 @@ params:
         url: tags/recipe
       - name: German
         url: tags/german
-      - name: Random
-        url: tags/random
+      - name: Java
+        url: tags/java
 
   # home-info mode
   homeInfoParams:
