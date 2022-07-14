@@ -84,6 +84,11 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+  
+  editPost:
+    URL: "https://github.dev/peterdieleman/papermod/blob/master/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
