@@ -88,7 +88,10 @@ params:
       url: "https://twitter.com/ptrdlmn/"
     - name: linkedin
       url: "https://www.linkedin.com/in/ptrdlmn/"
-
+    - name: strava
+      url: "https://www.strava.com/athletes/ptrdlmn"
+    # - name: flickr
+    #   url: "https://www.strava.com/athletes/ptrdlmn"
   # analytics:
   #   google:
   #     SiteVerificationTag: "XYZabc"
