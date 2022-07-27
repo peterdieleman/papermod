@@ -130,10 +130,11 @@ menu:
     - identifier: search
       name: search
       url: /search/
-      weight: 20
+      weight: 30
     - identifier: edit
       name: edit
       url: https://github.dev/peterdieleman/papermod/blob/master/
+      weight: 40
 outputs:
   home:
     - HTML
