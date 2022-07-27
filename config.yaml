@@ -129,7 +129,7 @@ menu:
       weight: 20
     - identifier: search
       name: search
-      url: /search/w
+      url: /search/
       weight: 30
     - identifier: edit
       name: edit
