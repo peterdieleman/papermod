@@ -131,6 +131,9 @@ menu:
       name: search
       url: /search/
       weight: 20
+    - identifier: edit
+      name: edit
+      url: https://github.dev/peterdieleman/papermod/blob/master/
 outputs:
   home:
     - HTML
