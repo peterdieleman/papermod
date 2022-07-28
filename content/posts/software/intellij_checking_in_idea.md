@@ -34,3 +34,6 @@ Q: Can we check in (parts of) the .idea folder as in VS Code?
 <https://stackoverflow.com/questions/43198273/which-files-in-idea-folder-should-be-tracked-by-git?r=SearchResults&s=1%7C91.0115>
 
 
+## Jetbrains official gitignore
+
+https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
