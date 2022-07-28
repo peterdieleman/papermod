@@ -14,4 +14,22 @@ draft: false
 # searchHidden: false
 ---
 
+## General
+
+- <https://dzone.com>
+
+## Specifics
+
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+
+## Java
+
+- <https://thorben-janssen.com/>
+
+## Spring 
+
+- <https://piotrminkowski.com/>
+- <https://www.baeldung.com/>
+    
+
+

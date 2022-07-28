@@ -80,8 +80,6 @@ params:
     Content: "Plus some other random observations. Press  Alt + / for search."
 
   socialIcons:
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com/users/13984462/peter-dieleman"
     - name: github
       url: "https://github.com/peterdieleman"
     - name: twitter
