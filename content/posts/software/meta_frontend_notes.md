@@ -100,3 +100,14 @@ CSS Definitive Guide  by Eric Meyer <https://www.amazon.com/CSS-Definitive-Guide
 
 ### bootstrap
 
+### basic javascript resources
+
+https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+
+https://tc39.es/ecma262/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
+
+https://jquery.com/
+
+https://reactjs.org/
