@@ -17,6 +17,7 @@ draft: false
 ## General
 
 - <https://dzone.com>
+- <https://zetcode.com/>
 
 ## Specifics
 
