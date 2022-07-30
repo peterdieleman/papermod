@@ -16,9 +16,6 @@ draft: false
 
 - run `uname -r`
 - remove older kernels under `/boot/`
-
-- possibly run: `sudo apt-get autoremove --purge`
-
 - run `sudo apt-get autoremove --purge`
 
 ```
