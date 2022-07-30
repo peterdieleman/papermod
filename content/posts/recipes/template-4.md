@@ -29,7 +29,7 @@ From <https://www.indianhealthyrecipes.com/paneer-jalfrezi-recipe/>
 - 2 tablespoons coriander leaves
 
 - 1/2 teaspoon cumin seeds
-- 1++ garam masala
+- 1++ teaspoon garam masala
 - 1/2++ teaspoon Kashmiri red chili powder
 - 1/8 teaspoon turmeric
 - 1/3 teaspoon salt
