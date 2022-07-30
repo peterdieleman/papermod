@@ -22,11 +22,12 @@ From <https://www.indianhealthyrecipes.com/paneer-jalfrezi-recipe/>
 - 1 cup of onions
 - 1 green chili
 - 1 1/2 ginger garlic paste
-- 1 capsicum
+- 1+ bell pepper sliced
 - 250g paneer
 - 1 teaspoon vinegar
 - 1 teaspoon sugar
 - 2 tablespoons coriander leaves
+- Optional: other veggies (peas)
 
 - 1/2 teaspoon cumin seeds
 - 1++ teaspoon garam masala
