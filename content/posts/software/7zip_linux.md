@@ -15,3 +15,6 @@ draft: true
 ---
 
 <https://www.tecmint.com/7zip-command-examples-in-linux/>
+<https://wiki.archlinux.org/title/p7zip>
+
+`7z a archive_name file_name -p -mhe=on`
