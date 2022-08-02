@@ -14,7 +14,7 @@ draft: false
 # searchHidden: false
 ---
 
-## How to share config between developers
+## How to share config between developers?
 
 Q: Can we check in (parts of) the .idea folder as in VS Code?
 
@@ -37,3 +37,12 @@ Q: Can we check in (parts of) the .idea folder as in VS Code?
 ## Jetbrains official gitignore
 
 https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+
+## But but I just want to set required plugin for the whole team...
+
+- <https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html>
+- <https://www.jetbrains.com/help/idea/configure-project-settings.html#share-project-through-vcs>
+- <https://stackoverflow.com/questions/39875823/how-to-share-installed-plugins-in-intellij-with-team>
+- <https://youtrack.jetbrains.com/issue/IDEA-35331>
+
+We need to specify "required plugins" (`(Preferences | Build, Execution, Deployment | Required Plugins)`).
