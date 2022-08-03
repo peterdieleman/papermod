@@ -47,3 +47,7 @@ Use: <https://github.com/vladmihalcea/hibernate-types>
 
 <https://www.postgresql.org/docs/current/arrays.html>
 
+
+## And there's this
+
+<https://stackoverflow.com/questions/69858533/replacement-for-hibernates-deprecated-type-annotation>
