@@ -41,6 +41,9 @@ Also see: <https://stackoverflow.com/questions/1647583/how-to-map-a-postgresql-a
 
 Use: <https://github.com/vladmihalcea/hibernate-types>
 
+<https://vladmihalcea.com/how-to-map-java-and-sql-arrays-with-jpa-and-hibernate/>
+
 ## PostgreSQL data types
 
 <https://www.postgresql.org/docs/current/arrays.html>
+
