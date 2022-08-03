@@ -36,3 +36,11 @@ From: [Vlad Mihalcea](https://vladmihalcea.com/postgresql-array-java-list/)
 " Hibernate ORM does not support ARRAY column types"
 
 Also see: <https://stackoverflow.com/questions/1647583/how-to-map-a-postgresql-array-with-hibernate>
+
+## Semi-canonical solution
+
+Use: <https://github.com/vladmihalcea/hibernate-types>
+
+## PostgreSQL data types
+
+<https://www.postgresql.org/docs/current/arrays.html>
