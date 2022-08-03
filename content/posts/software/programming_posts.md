@@ -26,6 +26,7 @@ draft: false
 ## Java
 
 - <https://thorben-janssen.com/>
+- <https://vladmihalcea.com>
 
 ## Spring 
 
