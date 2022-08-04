@@ -50,4 +50,6 @@ Use: <https://github.com/vladmihalcea/hibernate-types>
 
 ## And there's this
 
-<https://stackoverflow.com/questions/69858533/replacement-for-hibernates-deprecated-type-annotation>
+- <https://stackoverflow.com/questions/69858533/replacement-for-hibernates-deprecated-type-annotation>
+- <https://stackoverflow.com/questions/4332467/mapping-array-with-hibernate>
+- <https://stackoverflow.com/questions/62647125/hibernate-envers-does-not-recognize-custom-types-from-hibernate-types-52>
