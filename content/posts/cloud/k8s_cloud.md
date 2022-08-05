@@ -66,6 +66,8 @@ draft: false
 
 <https://www.shiphp.com/blog/dan-seandon-kubesail>
 
+<https://github.com/hobby-kube/guide>
+
 ## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
