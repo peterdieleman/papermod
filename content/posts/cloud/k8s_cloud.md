@@ -1,12 +1,12 @@
 ---
-title: "Managed Kubernetes for different cloud vendors"
+title: "Modern platforms for hosting personal website"
 tags: ["cloud"]
 date: 2022-08-05
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
@@ -14,14 +14,18 @@ draft: false
 # searchHidden: false
 ---
 
-https://thechief.io/c/cloudplex/digital-ocean-kubernetes-doks-vs-google-kubernetes-engine-gke/
+<https://thechief.io/c/cloudplex/digital-ocean-kubernetes-doks-vs-google-kubernetes-engine-gke/>
 
 
 ## GKE guide
 
-https://medium.com/the-andela-way/how-to-host-an-application-on-gke-e95e7b1177eb
+<https://medium.com/the-andela-way/how-to-host-an-application-on-gke-e95e7b1177eb>
 
-https://www.cyberithub.com/guide-to-deploy-a-website-on-gke-google-kubernetes-engine/
+<https://www.cyberithub.com/guide-to-deploy-a-website-on-gke-google-kubernetes-engine/>
+
+## Firebase vs Netlify
+
+<https://www.codeleaks.io/firebase-vs-netlify/>
 
 ## Sidenote
 
