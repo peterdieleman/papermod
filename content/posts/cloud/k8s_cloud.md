@@ -74,6 +74,10 @@ k3s vs minikube?
 
 https://k3d.io/v5.4.4/
 
+k3s vs minikube vs microk8s
+
+<https://www.reddit.com/r/kubernetes/comments/be0415/k3s_minikube_or_microk8s/>
+
 ## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
