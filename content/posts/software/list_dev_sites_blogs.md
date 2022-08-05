@@ -18,6 +18,7 @@ draft: false
 
 - <https://dzone.com>
 - <https://zetcode.com/>
+- <https://dev.to/>
 
 ## Specifics
 
