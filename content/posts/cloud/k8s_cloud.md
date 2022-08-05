@@ -30,13 +30,19 @@ draft: false
 
 <https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects/>
 
-## AWS
+## AWS / EKS
 
 <https://3h4x.github.io/tech/2019/08/30/how-to-run-cheap-kubernetes-cluster-on-aws>
+
+<https://aws.amazon.com/getting-started/hands-on/run-kops-kubernetes-clusters-for-less-with-amazon-ec2-spot-instances/>
 
 ### EKSCTL
 
 <https://eksctl.io/>
+
+### EKS anywhere
+
+<https://blog.sivamuthukumar.com/eks-anywhere-running-eks-cluster-on-your-own-infrastructure>
 
 ## Firebase vs Netlify
 
