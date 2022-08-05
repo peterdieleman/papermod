@@ -30,6 +30,10 @@ draft: false
 
 <https://3h4x.github.io/tech/2019/08/30/how-to-run-cheap-kubernetes-cluster-on-aws>
 
+### EKSCTL
+
+<https://eksctl.io/>
+
 ## Firebase vs Netlify
 
 <https://www.codeleaks.io/firebase-vs-netlify/>
