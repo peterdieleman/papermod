@@ -60,6 +60,10 @@ draft: false
 
 <https://news.ycombinator.com/item?id=20916106>
 
+<https://www.upnxtblog.com/index.php/2019/05/13/kubesail-get-your-free-kubernetes-cluster/>
+
+<https://www.youtube.com/watch?v=FGCbZjTf7uo>
+
 ## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
