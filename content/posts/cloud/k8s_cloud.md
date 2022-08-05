@@ -18,7 +18,9 @@ draft: false
 
 <https://redmaple.tech/blogs/affordable-kubernetes-for-personal-projects/>
 
-> The difficulty of managing ingress yourself, e.g. using nginx, is that the Kubernetes node (VM) you run it on will have an ephemeral IP address. 
+> The difficulty of managing ingress yourself, e.g. using nginx, is that the Kubernetes node (VM) you run it on will have an ephemeral IP address.
+
+<https://georgepaw.medium.com/how-to-run-the-cheapest-kubernetes-cluster-at-1-per-day-9287abb90cee>
 
 ## GKE guide
 
@@ -51,6 +53,12 @@ draft: false
 ## Raspberry Pi
 
 <https://medium.com/swlh/yet-another-raspberry-pi-k8s-cluster-ea05fb48e9a8>
+
+## Alternatives
+
+<https://kubesail.com/pricing>
+
+<https://news.ycombinator.com/item?id=20916106>
 
 ## Sidenotes
 
