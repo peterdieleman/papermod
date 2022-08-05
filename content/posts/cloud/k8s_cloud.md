@@ -64,6 +64,8 @@ draft: false
 
 <https://www.youtube.com/watch?v=FGCbZjTf7uo>
 
+<https://www.shiphp.com/blog/dan-seandon-kubesail>
+
 ## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
