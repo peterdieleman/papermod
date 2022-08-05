@@ -16,6 +16,9 @@ draft: false
 
 <https://thechief.io/c/cloudplex/digital-ocean-kubernetes-doks-vs-google-kubernetes-engine-gke/>
 
+<https://redmaple.tech/blogs/affordable-kubernetes-for-personal-projects/>
+
+> The difficulty of managing ingress yourself, e.g. using nginx, is that the Kubernetes node (VM) you run it on will have an ephemeral IP address. 
 
 ## GKE guide
 
@@ -25,6 +28,7 @@ draft: false
 
 <https://thenewstack.io/run-a-google-kubernetes-engine-cluster-for-under-25-month/>
 
+<https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects/>
 
 ## AWS
 
@@ -38,6 +42,11 @@ draft: false
 
 <https://www.codeleaks.io/firebase-vs-netlify/>
 
-## Sidenote
+## Raspberry Pi
+
+<https://medium.com/swlh/yet-another-raspberry-pi-k8s-cluster-ea05fb48e9a8>
+
+## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
+
