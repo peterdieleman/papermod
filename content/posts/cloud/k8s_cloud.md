@@ -23,6 +23,8 @@ draft: true
 
 <https://www.cyberithub.com/guide-to-deploy-a-website-on-gke-google-kubernetes-engine/>
 
+<https://thenewstack.io/run-a-google-kubernetes-engine-cluster-for-under-25-month/>
+
 ## Firebase vs Netlify
 
 <https://www.codeleaks.io/firebase-vs-netlify/>
