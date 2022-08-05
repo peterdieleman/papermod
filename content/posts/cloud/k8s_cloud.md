@@ -25,6 +25,11 @@ draft: false
 
 <https://thenewstack.io/run-a-google-kubernetes-engine-cluster-for-under-25-month/>
 
+
+## AWS
+
+<https://3h4x.github.io/tech/2019/08/30/how-to-run-cheap-kubernetes-cluster-on-aws>
+
 ## Firebase vs Netlify
 
 <https://www.codeleaks.io/firebase-vs-netlify/>
