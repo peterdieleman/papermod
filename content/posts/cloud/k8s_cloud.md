@@ -70,8 +70,8 @@ draft: false
 
 ## Low cost kubernetes
 
-<https://staffordwilliams.com/blog/2021/01/30/low-cost-kubernetes-on-digitalocean/>
-
+- <https://staffordwilliams.com/blog/2021/01/30/low-cost-kubernetes-on-digitalocean/>
+- <https://mike.sg/2021/08/29/budget-kubernetes-hosting-for-personal-use/>
 ## Local Testing
 
 k3s vs minikube?
@@ -81,6 +81,7 @@ https://k3d.io/v5.4.4/
 k3s vs minikube vs microk8s
 
 <https://www.reddit.com/r/kubernetes/comments/be0415/k3s_minikube_or_microk8s/>
+
 
 ## Sidenotes
 
