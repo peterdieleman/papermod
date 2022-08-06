@@ -68,7 +68,11 @@ draft: false
 
 <https://github.com/hobby-kube/guide>
 
-## Testing
+## Low cost kubernetes
+
+<https://staffordwilliams.com/blog/2021/01/30/low-cost-kubernetes-on-digitalocean/>
+
+## Local Testing
 
 k3s vs minikube?
 
