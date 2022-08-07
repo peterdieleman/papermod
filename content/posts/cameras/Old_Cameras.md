@@ -22,3 +22,6 @@ draft: true
 
 <https://mattsclassiccameras.com/how-to/light-seal-replacement/>
 
+## Classic Camera Stores
+
+<https://www.classic-camera-store.de/>
