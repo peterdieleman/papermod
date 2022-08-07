@@ -34,5 +34,6 @@ draft: false
 - <https://piotrminkowski.com/>
 - <https://www.baeldung.com/>
     
+## Blogs
 
-
+- <https://milanwittpohl.com/>
