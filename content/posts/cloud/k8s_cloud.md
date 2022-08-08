@@ -82,6 +82,9 @@ k3s vs minikube vs microk8s
 
 <https://www.reddit.com/r/kubernetes/comments/be0415/k3s_minikube_or_microk8s/>
 
+## Hetzner
+
+<https://community.hetzner.com/tutorials/install-kubernetes-cluster>
 
 ## Sidenotes
 
