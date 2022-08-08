@@ -86,6 +86,8 @@ k3s vs minikube vs microk8s
 
 <https://community.hetzner.com/tutorials/install-kubernetes-cluster>
 
+<https://www.tonoid.com/kubernetes-on-hetzner-in-5min-monitoring>
+
 ## Sidenotes
 
 [Day 0/1/2?](https://codilime.com/blog/day-0-day-1-day-2-the-software-lifecycle-in-the-cloud-age/)
