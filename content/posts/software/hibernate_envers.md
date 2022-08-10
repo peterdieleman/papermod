@@ -25,7 +25,7 @@ draft: false
 - <https://developer.jboss.org/thread/166705>
 - <https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.4/html/developing_hibernate_applications/hibernate_envers>
 
-## Further Issues Regarding 
+## Further Issues @CreatedDate, @CreatedBy, etc. Annotations
 
 - <https://www.baeldung.com/database-auditing-jpa>
 - <https://rashidi.github.io/spring-boot-data-audit/>
@@ -50,9 +50,10 @@ Which finally contains this amazing quote:
 
 <https://stackoverflow.com/questions/37748142/how-to-save-utc-instead-of-local-timestamps-for-hibernate-envers-revision-info>
 
-## Annotating Base Class
+## Behaviour on Inheritance & MappedSuperClass
 
 - <https://stackoverflow.com/questions/41298391/base-model-with-audited>
+- <https://developer.jboss.org/thread/171717>
 
 ## Native queries bypassing hibernate envers
 
@@ -65,11 +66,9 @@ Need to trigger lifecycle events. This does not happen when we use:
 - Native queries
 - Bulk actions (get translated to SQL directly)
 
-What is safe?
+## Can we use Native Queries?
 
-- 
-
-## Native query?
+No, not be default, need to hook into lifecycle events.
 
 - <https://stackoverflow.com/questions/14139856/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
 - <https://localcoder.org/hibernate-envers-doesnt-write-audit-records-for-createquery-executeupdat>
