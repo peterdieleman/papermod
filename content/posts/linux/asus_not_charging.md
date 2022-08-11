@@ -25,9 +25,12 @@ For me, this was resolved by adding
  to the kernel command line.
 This can be done by going to
 `sudo nano /etc/default/grub`
-and change this line
+and change the line:
+
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"`
+
 to
+
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash mem_sleep_default=deep"`.
 
 Not only does this enable charging while your laptop is suspended,
