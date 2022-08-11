@@ -24,7 +24,7 @@ draft: false
 - <https://twitter.com/odrotbohm/status/603247455094841344>
 - <https://stackoverflow.com/questions/48754783/do-i-have-to-set-both-sides-for-a-bidirectional-relationship>
 
-## Do we have to manually update both sides?
+## If Yes - Do we have to manually update both sides?
 
 - <https://stackoverflow.com/questions/7546161/update-bidirectional-manytomany-from-both-sides>
 - <https://stackoverflow.com/questions/20068742/jpa-updating-bidirectional-association>
