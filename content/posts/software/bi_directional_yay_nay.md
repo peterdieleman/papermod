@@ -17,6 +17,9 @@ draft: false
 ## Should we map both sides?
 
 - <https://stackoverflow.com/questions/30464782/how-to-maintain-bi-directional-relationships-with-spring-data-rest-and-jpa/30474303#30474303>
+
+> It usually simplifies the matter if you try not to use bi-directional relationship whenever possible and rather fall back to a repository to obtain all the entities that make up the backside of the association.
+
 - <https://thorben-janssen.com/best-practices-many-one-one-many-associations-mappings/>
 - <https://twitter.com/odrotbohm/status/603247455094841344>
 - <https://stackoverflow.com/questions/48754783/do-i-have-to-set-both-sides-for-a-bidirectional-relationship>
@@ -37,3 +40,8 @@ draft: false
 ## Common (recursion) problems
 
 - <https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion>
+
+
+## Spring Data Jpa Repository
+
+<https://www.baeldung.com/spring-data-crud-repository-save>
