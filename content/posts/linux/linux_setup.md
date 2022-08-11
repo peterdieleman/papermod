@@ -23,7 +23,7 @@ draft: true
 - [ ] Fix meta+up + meta+down key bindings to mirror windows behaviour
 - [ ] Set up ssh agent
 - [ ] Ensure sleep is energy efficient
-- [ ]
+- [ ] Set up task manager, turn off grouping
 
 ## Troubleshooting
 
