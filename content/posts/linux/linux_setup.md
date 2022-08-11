@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Linux Setup"
 tags: ["template"]
 date: 1970-01-01
 # weight: 1
@@ -24,7 +24,7 @@ draft: true
 - [ ] Set up ssh agent
 - [ ] Ensure sleep is energy efficient
 - [ ] Set up task manager, turn off grouping
-- [ ] Set up (3rd level?) modifier key for easy typing of German characters
+- [ ] Set up keyboard to English US (German, Swedish, Finnish)
 
 ## Troubleshooting
 
@@ -41,3 +41,5 @@ Install `gnome-keyring`
 ## Firefox titlebar
 
 <https://linuxconfig.org/how-to-remove-firefox-title-bar-on-linux>
+
+
