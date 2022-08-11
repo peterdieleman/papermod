@@ -19,10 +19,10 @@ draft: true
 - [ ] Install Git
 - [ ] Change top bar
 - [ ] Install fish
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Set up hotkeys
+- [ ] Fix meta+up + meta+down key bindings to mirror windows behaviour
+- [ ] Set up ssh agent
+- [ ] Ensure sleep is energy efficient
 - [ ]
 
 ## Troubleshooting
@@ -31,6 +31,12 @@ draft: true
 
 `Writing login information to the keychain failed with error 'GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files'.`
 
+Install `gnome-keyring`
+
 ## Installing Brew
 
 <https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-linux>
+
+## Firefox titlebar
+
+<https://linuxconfig.org/how-to-remove-firefox-title-bar-on-linux>
