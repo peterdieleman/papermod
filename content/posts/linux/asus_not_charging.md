@@ -24,7 +24,7 @@ For me, this was resolved by adding
  `mem_sleep_default=deep`
  to the kernel command line.
 This can be done by going to
-`sudo nano etc/default/grub`
+`sudo nano /etc/default/grub`
 and change this line
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"`
 to
