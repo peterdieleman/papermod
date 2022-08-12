@@ -30,6 +30,7 @@ draft: true
 - [ ] Install netlify cli
 - [ ] Install
 - [ ] Set up keyboard to English US (German, Swedish, Finnish)
+- [ ] Undervolt
 
 ## Troubleshooting
 
