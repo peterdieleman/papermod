@@ -1,25 +1,26 @@
 ---
 title: "Linux Setup"
 tags: ["template"]
-date: 1970-01-01
+date: 2022-08-12
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: true
-# hidemeta: false
+draft: false
+hidemeta: false   
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
 # disableShare: false
 # searchHidden: false
----
+--- 
 
-- [ ] Install firefox
+## Linux/KDE fresh install checklist
+
 - [ ] Install homebrew
 - [ ] Install Git
 - [ ] Change top bar
 - [ ] Install fish
-- [ ] Set up hotkeys
+- [ ] Set up hotkeys    
 - [ ] Fix meta+up + meta+down key bindings to mirror windows behaviour
 - [ ] Set up ssh agent
 - [ ] Ensure sleep is energy efficient
@@ -28,9 +29,7 @@ draft: true
 - [ ] Install git lfs
 - [ ] Install github cli
 - [ ] Install netlify cli
-- [ ] Install
 - [ ] Set up keyboard to English US (German, Swedish, Finnish)
-- [ ] Undervolt
 
 ## Troubleshooting
 
@@ -44,6 +43,6 @@ Install `gnome-keyring`
 
 <https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-linux>
 
-## Firefox titlebar
+## Firefox Titlebar
 
 <https://linuxconfig.org/how-to-remove-firefox-title-bar-on-linux>
