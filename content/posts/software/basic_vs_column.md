@@ -1,7 +1,7 @@
 ---
 title: "Basic vs. Column Annotation"
-tags: ["template"]
-date: 1970-01-01
+tags: ["java","spring"]
+date: 2022-08-10
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
