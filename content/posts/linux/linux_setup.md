@@ -20,7 +20,7 @@ hidemeta: false
 - [ ] Install Git
 - [ ] Change top bar
 - [ ] Install fish
-- [ ] Set up hotkeys    
+- [ ] Set up hotkeys
 - [ ] Fix meta+up + meta+down key bindings to mirror windows behaviour
 - [ ] Set up ssh agent
 - [ ] Ensure sleep is energy efficient
@@ -46,3 +46,7 @@ Install `gnome-keyring`
 ## Firefox Titlebar
 
 <https://linuxconfig.org/how-to-remove-firefox-title-bar-on-linux>
+
+## Latex
+
+<https://tex.stackexchange.com/questions/1092/how-to-install-vanilla-texlive-on-debian-or-ubuntu>
