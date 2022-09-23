@@ -16,11 +16,12 @@ draft: false
 
 # Info
 
-<https://stackoverflow.com/questions/43850101/rest-assured-json-body-assertion-for-set-of-values-in-list-regardless-of-posit>
-
-<https://stackoverflow.com/questions/68794097/how-to-get-list-of-objects-with-restassured-instead-of-array-of-objects>
-
-<https://stackoverflow.com/questions/15531767/rest-assured-generic-list-deserialization>
+- <https://stackoverflow.com/questions/43850101/rest-assured-json-body-assertion-for-set-of-values-in-list-regardless-of-posit>
+- <https://stackoverflow.com/questions/68794097/how-to-get-list-of-objects-with-restassured-instead-of-array-of-objects>
+- <https://stackoverflow.com/questions/15531767/rest-assured-generic-list-deserialization>
+- <https://stackoverflow.com/questions/49324680/how-to-verify-that-array-contains-object-with-rest-assured>
+- <https://www.james-willett.com/rest-assured-extract-json-response/>
+- <https://devqa.io/parse-json-response-rest-assured/>
 
 ```
 List<Person> persons = given()
@@ -32,7 +33,3 @@ List<Person> persons = given()
         // here's the magic
         .jsonPath().getList(".", Person.class);
 ```
-
-<https://stackoverflow.com/questions/49324680/how-to-verify-that-array-contains-object-with-rest-assured>
-
-<https://www.james-willett.com/rest-assured-extract-json-response/>
