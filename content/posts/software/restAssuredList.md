@@ -34,3 +34,5 @@ List<Person> persons = given()
 ```
 
 <https://stackoverflow.com/questions/49324680/how-to-verify-that-array-contains-object-with-rest-assured>
+
+<https://www.james-willett.com/rest-assured-extract-json-response/>
