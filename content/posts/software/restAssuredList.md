@@ -32,3 +32,5 @@ List<Person> persons = given()
         // here's the magic
         .jsonPath().getList(".", Person.class);
 ```
+
+<https://stackoverflow.com/questions/49324680/how-to-verify-that-array-contains-object-with-rest-assured>
