@@ -41,3 +41,5 @@ How to output of Asserts (expected, actual) to console, for failing _as well as_
 - <https://stackoverflow.com/questions/3963708/gradle-how-to-display-test-results-in-the-console-in-real-time>
 - <https://github.com/radarsh/gradle-test-logger-plugin>
 - <https://mkyong.com/gradle/gradle-display-test-results-in-console/>
+- <https://stackoverflow.com/questions/56436541/assertj-log-all-passing-and-failing-assertions>
+- <https://stackoverflow.com/questions/56436541/assertj-log-all-passing-and-failing-assertions>
