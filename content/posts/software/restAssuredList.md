@@ -46,3 +46,4 @@ How to output of Asserts (expected, actual) to console, for failing _as well as_
 - <https://github.com/assertj/assertj/issues/1518>
 - <https://assertj.github.io/doc/#assertj-core-assertion-description-consumer>
 - <https://stackoverflow.com/questions/65113051/junit5-assertj-create-log-entry-on-assertion>
+- <https://stackoverflow.com/questions/28994316/can-you-add-a-custom-message-to-assertj-assertthat>
