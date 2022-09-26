@@ -17,4 +17,3 @@ draft: false
 - <https://www.howderfamily.com/blog/>
 - <https://www.atlasobscura.com/categories/geographic-oddities>
 - <http://ontology.buffalo.edu/smith/baarle/bizarre_shapes.htm>
-- <https://stackoverflow.com/questions/65113051/junit5-assertj-create-log-entry-on-assertion>
