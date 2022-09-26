@@ -34,7 +34,7 @@ List<Person> persons = given()
         .jsonPath().getList(".", Person.class);
 ```
 
-## Further Notes on Logging
+## Further Notes on Logging ALL asserts (even passing ones)
 
 How to output of Asserts (expected, actual) to console, for failing _as well as_ succesfull tests?
 
@@ -48,3 +48,12 @@ How to output of Asserts (expected, actual) to console, for failing _as well as_
 - <https://stackoverflow.com/questions/65113051/junit5-assertj-create-log-entry-on-assertion>
 - <https://stackoverflow.com/questions/28994316/can-you-add-a-custom-message-to-assertj-assertthat>
 - <https://stackoverflow.com/questions/57334283/is-it-possible-to-log-the-name-and-values-of-fields-being-asserted-along-with-co>
+- <https://stackoverflow.com/questions/15926005/how-make-junit-print-assertion-results>
+
+## AssertJ Alternatives (maybe these support it?)
+
+- <https://blog.frankel.ch/comparison-assertion-libraries/>
+
+### Hamcrest
+
+Does not change the story. All Assert frameworks are written with the assumption only failing asserts/unit tests need to be logged.
