@@ -1,5 +1,5 @@
 ---
-title: "Rest Assured List of Items"
+title: "Notes on Unit testing using Rest Assured & Junit"
 tags: ["Java"]
 date: 2022-09-22
 # weight: 1
@@ -14,7 +14,7 @@ draft: false
 # searchHidden: false
 ---
 
-# Info
+# Unpacking a List of results
 
 - <https://stackoverflow.com/questions/43850101/rest-assured-json-body-assertion-for-set-of-values-in-list-regardless-of-posit>
 - <https://stackoverflow.com/questions/68794097/how-to-get-list-of-objects-with-restassured-instead-of-array-of-objects>
@@ -33,3 +33,9 @@ List<Person> persons = given()
         // here's the magic
         .jsonPath().getList(".", Person.class);
 ```
+
+## Further Notes on Logging
+
+How to output of Asserts (expected, actual) to console, for failing _as well as_ succesfull tests?
+
+- <https://stackoverflow.com/questions/3963708/gradle-how-to-display-test-results-in-the-console-in-real-time>
