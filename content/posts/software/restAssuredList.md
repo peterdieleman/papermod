@@ -39,5 +39,5 @@ List<Person> persons = given()
 How to output of Asserts (expected, actual) to console, for failing _as well as_ succesfull tests?
 
 - <https://stackoverflow.com/questions/3963708/gradle-how-to-display-test-results-in-the-console-in-real-time>
-- <https://stackoverflow.com/questions/3963708/gradle-how-to-display-test-results-in-the-console-in-real-time>
 - <https://github.com/radarsh/gradle-test-logger-plugin>
+- <https://mkyong.com/gradle/gradle-display-test-results-in-console/>
