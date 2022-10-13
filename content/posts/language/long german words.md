@@ -2,7 +2,7 @@
 title: "(Too) Long German Words"
 tags: ["german"]
 date: 2022-01-29
-# weight: 1
+weight: 2
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
@@ -21,7 +21,7 @@ draft: false
 - **Krankenschwester**: nurse
 - **Überschallgeschwindigkeit**: supersonic speed
 - **Leistengegend**: groin
-
+- 
 ## Too Long Words
 
 ### Buchstabenkurzwörter(Acronyms)
