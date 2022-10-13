@@ -380,6 +380,7 @@ and the infinitive form for verbs.
 - fragen
 - Fragen
 - geben
+- gegen
 - Gebiet, das
 - Gefahr, die
 - Gefecht, das
