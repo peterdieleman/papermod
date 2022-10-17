@@ -1048,6 +1048,9 @@ or at least off by more than two characters.
 
 [^1]: In popular meaning.
 
+## Honorable Mentions
+
+- ohrfeig (oorvijg)
 
 ## New
 
@@ -1061,6 +1064,7 @@ or at least off by more than two characters.
 - Pech, das
 - stellen
 - Blondine, die
+- stinken
 
 ### 1
 
@@ -1075,17 +1079,6 @@ or at least off by more than two characters.
 ### 2
 
 - Neid, der
-
-### To DO
-
-nachdenken,
-fictiv
-Bandbreite, die, 2
-orteil, ?, 2
-wirkzam?
-blondine
-stinken
-
-### Honorable Mentions
-
-- ohrfeig/oorvijg
+- fictief
+- nachdenken
+- Bandbreite, die,
