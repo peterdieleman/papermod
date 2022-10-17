@@ -1020,17 +1020,19 @@ or at least off by more than two characters.
 - Aserbaidschan
 - attraktiv
 - bauen
-- Bewusstsein
 - Bewusstsein, das
 - Blut, das
+- bröckeln
 - Eisbär, der
 - gedeihen
 - Haut, die
 - Känguru, das
 - Katastrophe, die
+- Klischee, das (compare: cliché)
 - kreativ
 - massiv
 - Mikroskop, das
+- Reederei, die
 - schick
 - schlapp
 - seltsam
@@ -1043,21 +1045,47 @@ or at least off by more than two characters.
 - gastfrei
 - Scheck
 
+
 [^1]: In popular meaning.
 
 
-### New ?
+## New
 
-Plastik, das, 1
-branche, die, 0
-heikel, 0, leenwoord
-verraten, verraten, 1
-piraat, pirat, der
-redacteur, redakteur, der, 1
-rederij, Reederei, die, 
-piraterie, die
-motorboot, das, 0
-flip flops
-nijd, der, 2
-Ballett, das, 1
-Limit, das, 1
+### 0
+
+- Branche, die
+- heikel
+- Motorboot, das
+- Flop
+- tragisch
+- Pech, das
+- stellen
+- Blondine, die
+
+### 1
+
+- Plastik, das
+- verraten
+- Pirat, der
+- Redakteur, der
+- Piraterie, die
+- Ballett, das
+- Limit, das
+
+### 2
+
+- Neid, der
+
+### To DO
+
+nachdenken,
+fictiv
+Bandbreite, die, 2
+orteil, ?, 2
+wirkzam?
+blondine
+stinken
+
+### Honorable Mentions
+
+- ohrfeig/oorvijg
