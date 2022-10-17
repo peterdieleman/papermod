@@ -18,3 +18,6 @@ draft: false
 
 - <https://stackoverflow.com/questions/27900041/rest-put-ids-in-body-or-not>
 - <https://restfulapi.net/rest-put-vs-post/>
+- <https://softwareengineering.stackexchange.com/questions/263925/to-include-a-resource-id-in-the-payload-or-to-derive-from-uri>
+
+In general: PUT should be idempotent and mirror behavior of GET 
