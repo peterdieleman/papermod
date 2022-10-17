@@ -322,7 +322,6 @@ Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
 - (in)direkt
-- [felsen](https://nl.wiktionary.org/wiki/felsen) (DE: falzen)
 - abonnieren
 - Adampsapfel, der
 - Alkohol, der
@@ -768,6 +767,7 @@ and the infinitive form for verbs.
 - essen
 - euphorisch
 - explizit
+- falzen (NL: [felsen](https://nl.wiktionary.org/wiki/felsen))
 - Fassade, die
 - feststellen
 - Fett, das
@@ -1082,3 +1082,4 @@ or at least off by more than two characters.
 - fictief
 - nachdenken
 - Bandbreite, die,
+
