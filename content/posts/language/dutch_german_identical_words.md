@@ -1044,3 +1044,17 @@ or at least off by more than two characters.
 - Scheck
 
 [^1]: In popular meaning.
+
+
+### New ?
+
+Plastik, das, 1
+branche, die, 0
+heikel, 0, leenwoord
+verraten, verraten, 1
+piraat, pirat, der
+redacteur, redakteur, der, 1
+rederij, Reederei, die, 
+piraterie, die
+motorboot, das, 0
+flip flops
