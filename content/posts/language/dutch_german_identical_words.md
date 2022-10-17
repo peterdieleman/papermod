@@ -1058,3 +1058,6 @@ rederij, Reederei, die,
 piraterie, die
 motorboot, das, 0
 flip flops
+nijd, der, 2
+Ballett, das, 1
+Limit, das, 1
