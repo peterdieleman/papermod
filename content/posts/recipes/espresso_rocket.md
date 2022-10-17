@@ -8,7 +8,7 @@ author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: false  
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 # description: "Desc Text."
@@ -16,7 +16,6 @@ disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
-
 ---
 
 Assuming you set up your grinder to fill a double basket with:

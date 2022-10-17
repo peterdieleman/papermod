@@ -14,10 +14,6 @@ draft: false
 # searchHidden: false
 ---
 
-[Fool proof pan pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe)
-
-Ingredient List (must haves):
-
 - 400g bread flour
 - 10g kosher salt
 - 4g instant yeast
@@ -26,3 +22,5 @@ Ingredient List (must haves):
 - 350mL pizza sauce
 - 350grams grated full-fat, low moisture (dry) mozzarella cheese (dry, not moist/fresh)
 - Toppings
+
+[Fool proof pan pizza](https://www.seriouseats.com/foolproof-pan-pizza-recipe)

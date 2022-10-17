@@ -23,6 +23,6 @@ Recipe from [Americas Test Kitchen](https://www.epicurious.com/recipes/member/vi
 - 2 tablespoons unsalted butter
 - 4 ounces good-quality Parmesan cheese, grated (about 2 cups) plus extra for serving
 
-## Sources
+## Source
 
 - <https://www.seriouseats.com/smooth-creamy-polenta-recipe>

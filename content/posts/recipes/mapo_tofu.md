@@ -14,9 +14,7 @@ draft: false
 # searchHidden: false
 ---
 
-## Ingredient List
-
-### Perishables 
+## Perishables 
 - 200g fresh shiitake
 - 1 large leek
 - 1.5cm ginger
@@ -24,7 +22,7 @@ draft: false
 - 1 spring onion
 - 3 cloves of garlic
 
-### Other
+## Other
 - 1 - 1 1/2 tsp Sichuan peppercorns
 - 2 tbsp rapeseed oil
 - 2 tbsp toasted sesame oil
