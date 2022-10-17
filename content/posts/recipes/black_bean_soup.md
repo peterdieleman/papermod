@@ -18,7 +18,7 @@ draft: false
 
 - <https://cookieandkate.com/spicy-vegan-black-bean-soup/>
 - <https://www.twopeasandtheirpod.com/easy-black-bean-soup/>
-
+- <https://www.tasteofhome.com/recipes/contest-winning-black-bean-soup/>
 
 ## Essentials
 
@@ -36,7 +36,6 @@ From [https://www.chilipeppermadness.com/recipes/black-bean-soup](chilipeppermad
 - 1 Carrot + 1 Celery
 - Fresh Jalapeno/other peppers
 - 500mL Broth/stock
-
 
 ## Garnish/optional
 
