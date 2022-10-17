@@ -47,3 +47,4 @@ From [https://www.chilipeppermadness.com/recipes/black-bean-soup](chilipeppermad
 - 1 bay leaf
 - hot sauce
 - Tortilla chips
+- 1 Avocado
