@@ -32,8 +32,11 @@ Should be as large as possible and take forever to run.
 
 ## Pull Requests
 
-Should be as large as possible.
+Should be as large as possible and receive constant pressure to merge into master.  These two factors will ensure the details of the implementation will not receive the attention needed. Rather, you will enjoy the fun of asking yourself questions like: "why is this not implemented another way" with respect to your master/main branch.
 
 ## Retrospective
 
 Cost time.  
+
+
+##

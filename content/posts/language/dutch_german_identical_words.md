@@ -35,7 +35,11 @@ This is an attempt at listing some of the more simple ones.
 
 German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles).
-Use singular (masculine) for nouns, and infinitive for verbs.
+The reference point I use for nouns is the singular form. 
+In case this is a noun that relates to professions or people, 
+I will use the default (which in almost all cases is the neutral/masculine) form.
+This is due to the different ways Dutch and German can change such nouns to make them female. For example: "Der Offizier" can be "Die Offizier_in_" in German, but "de officier" in Dutch does have a female form.
+For verbs I use the infinitive.
 
 - Jazz, der
 - Artillerie, die
@@ -361,6 +365,7 @@ and the infinitive form for verbs.
 - brutto
 - Büffel, der
 - bunt
+- Bürger, der
 - Champagner, der
 - Chemikalie, die
 - Creme, die
