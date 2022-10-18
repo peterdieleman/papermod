@@ -23,6 +23,9 @@ draft: true
 - _Cosmic Communist Constructions Photographed_
 - _Soviet Bus Stops Volume II_
 - _Soviet Asia_
+- _The World Atlas of Coffee_ by James Hoffman
+- _The World Atlas of Wine_
+- _Atlas of Brutalist Architecture_
 
 ## Lists
 
