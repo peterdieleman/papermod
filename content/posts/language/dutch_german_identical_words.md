@@ -29,7 +29,7 @@ searchHidden: false
 
 Dutch and German share a common root,
 but it's surprisingly hard to find simple lists of words that are (nearly) identical.
-This is an attempt at listing some of the more simple ones.
+This is an attempt at listing a decent amount of them.
 
 ## Identical Words
 
