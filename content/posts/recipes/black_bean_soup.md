@@ -1,5 +1,5 @@
 ---
-title: "Veggie Mapo Tofu"
+title: "Black Bean Soup"
 tags: ["recipe", "mexican"]
 date: 2022-10-14
 # weight: 1
