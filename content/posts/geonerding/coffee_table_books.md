@@ -26,6 +26,8 @@ draft: true
 - _The World Atlas of Coffee_ by James Hoffman
 - _The World Atlas of Wine_
 - _Atlas of Brutalist Architecture_
+- _Belgian Solutions_
+- _Ugly Belgian Houses_
 
 ## Lists
 
