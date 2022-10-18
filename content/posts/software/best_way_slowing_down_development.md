@@ -18,9 +18,10 @@ draft: true
  
 Assign additional costs/consequences for generating a "bug" type ticket, such users/testers will just have to write them down in the comment section.  This essentially makes them undiscoverable. Having to write them down in a comment also ensures no template (Steps to Reproduce) can be specified. If you happen to remember about this bug, you'll have , and just.  Months later someone will find the comment written on the ticket and spend another 30 minutes to see if it was fixed or not. If 
 
-## Task distribution
 
-Distribute tasks by topic rather than by technology.  Enforce everyone to work a full stack developer rather than pick up tasks that play into their strength.  This has the added benefit of minimizing communication between your team-members, decreasing any chances of them developing a common understanding of the solution and goals.
+## Tasks
+
+Distribute tasks by topic rather than by technology.  Enforce everyone to work a full stack developer rather than pick up tasks that play into their strength.  This has the added benefit of minimizing communication between your team-members, decreasing any chances of them developing a common understanding of the solution and goals.  Make sure to extend task definition whenever it is nearly finished.
 
 ## Microservices
 
