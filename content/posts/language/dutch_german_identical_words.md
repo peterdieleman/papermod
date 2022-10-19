@@ -1029,6 +1029,7 @@ or at least off by more than two characters.
 - Blut, das
 - bröckeln
 - Eisbär, der
+- fiktiv
 - gedeihen
 - Haut, die
 - Känguru, das
@@ -1072,7 +1073,7 @@ or at least off by more than two characters.
 - stinken
 - Horst, der
 - Alarm
-
+- Terminologie, die
 
 ### 1
 
@@ -1085,11 +1086,11 @@ or at least off by more than two characters.
 - Limit, das
 - Stillstand, der
 - absolut
+- heroisch
 
 ### 2
 
 - Neid, der
-- fictief
 - nachdenken
 - Bandbreite, die
 - warten
