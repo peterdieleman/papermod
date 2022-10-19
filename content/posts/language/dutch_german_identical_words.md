@@ -35,71 +35,63 @@ This is an attempt at listing a decent amount of them.
 
 German words that are spelled identical to the Dutch one,
 and also have the same meaning (ignoring the articles).
-The reference point I use for nouns is the singular form. 
-In case this is a noun that relates to professions or people, 
+The reference point I use for nouns is the singular form.
+In case this is a noun that relates to professions or people,
 I will use the default (which in almost all cases is the neutral/masculine) form.
-This is due to the different ways Dutch and German can change such nouns to make them female. For example: "Der Offizier" can be "Die Offizier_in_" in German, but "de officier" in Dutch does have a female form.
+This is due to the different ways Dutch and German can change such nouns to make them female. For example: "Der Offizier" can be "Die Offizierin" in German, but "de officier" in Dutch does have a female form.
 For verbs I use the infinitive.
 
-- Jazz, der
-- Artillerie, die
-- Stress, der
-- offline
-- sparen
-- Melodie, die
-- typisch
-- sensibel
-- online
-- Gouverneur, der
-- Genie, das
-- Sirene, die
-- Drang, der
-- Campus, der
-- Service, der
-- Geologie, die
-- Trommel, die
-- Hand, die
-- dienen
-- Bankier, der
-- Ader, die
-- Rand, der
-- beklagen
-- treffen 
 - Aal, der
 - acht
+- Ader, die
+- Akte, die
+- Alarm
 - Allergie, die
+- Alligator, der
 - ambivalent
+- Amok, der (from Dutch)
 - Analyse, die
 - Angst, die
 - Apotheker, der
 - April, der
+- Argument, das
 - arm
 - Arm, der
 - arrogant
 - Artikel, der
+- Artillerie, die
 - Assistent, der
 - Astronaut, der
 - Auto, das
 - Baby, das
 - Babysitter, der
+- baden
 - Balkon, der
 - Band, die
+- Bankier, der
 - Bar, die
 - Barkeeper, der
+- Basalt, der
 - beginnen
+- beklagen
 - Berg, der
 - betreffen
 - bewegen
 - Bier, das
 - biologisch
+- Blondine, die
 - Bowling, das
+- Branche, die
 - Brief, der
+- Budget, das
 - Bus, der
 - Camping, das
+- Campus, der
 - Chaos, das
 - chaotisch
 - Chemie, die
 - Chip, der
+- clever
 - Cocktail, der
 - Computer, der
 - Credo, das
@@ -110,10 +102,14 @@ For verbs I use the infinitive.
 - Detail, das
 - Diamant, der
 - Dichter, der
+- dienen
 - Diesel
 - Ding, das
+- Drang, der
 - dynamisch
+- Ego, das
 - Ei, das
+- Elektrolyse, die
 - elektronisch
 - Element, das
 - elf
@@ -124,12 +120,14 @@ For verbs I use the infinitive.
 - ethisch
 - Etui, das
 - Europa, das
+- evangelisch
 - Examen, das
 - Familie, die
 - Fan, der
 - Fantasie
 - Feedback, das
 - Film, der
+- Flop
 - Foto, das
 - Galerie, die
 - Gans, die
@@ -139,19 +137,25 @@ For verbs I use the infinitive.
 - Gast, der
 - Gedicht, das
 - geduldig
+- geheim (adj.)
 - Geld, das
 - Gen, das
+- Genie, das
+- Geologie, die
+- gering
 - Geschenk, das
 - Geste
 - Giraffe, die
 - Golf, das
 - Gorilla, der
+- Gouverneur, der
 - Gunst, die
 - hallo
 - Hals, der
 - Hamburger, der
 - Hand, die
 - heftig
+- heikel
 - heilig
 - Heilige, der
 - Held, der
@@ -159,6 +163,7 @@ For verbs I use the infinitive.
 - hier
 - historisch
 - Hobby, das
+- Horst, der
 - Hotel, das
 - Humor, der
 - Hypnose, die
@@ -170,24 +175,30 @@ For verbs I use the infinitive.
 - jagen
 - Japan
 - Japan, das
+- Jazz, der
 - Jeep, der
 - Journalist, der
 - Judo, das
 - Juli, der
 - Juni, der
 - Kabel, das
+- kapitalistisch
+- Kater, der
 - Ketchup, das
 - Kinderwagen, der
 - Kiwi, die
 - klein
+- klonen
 - Knie, das
 - Koffer, der
+- Kolonie, die
 - komisch
 - kosten
 - Kosten, die
 - kritisch
 - Krokodil, das
 - laden
+- Laken, das
 - Land, das
 - lang
 - Laser, der
@@ -202,6 +213,9 @@ For verbs I use the infinitive.
 - Manager, der
 - Marine, die
 - Marketing, das
+- Medaille, die
+- melden
+- Melodie, die
 - merken
 - Methode, der
 - Minister, der
@@ -211,24 +225,29 @@ For verbs I use the infinitive.
 - Morgen, der
 - Motel, das
 - Motor, der
+- Motorboot, das
 - Museum, das
 - Nagel, der
 - Nest, das
 - Niveau, das
 - November, der
 - Nummer, die
+- offline
 - Oktober, der
+- online
 - optimistisch
 - Ordner, der
 - organisch
 - Paar, das
 - Papier, das
+- Paprika, der
 - parallel
 - Park, das
 - Park, der
 - Passagier, der
 - Patient, der
 - Pause, die
+- Pech, das
 - pessimistisch
 - Picknick, das
 - Plan, der
@@ -238,11 +257,15 @@ For verbs I use the infinitive.
 - Priester, der
 - Problem, das
 - Professor, der
+- Psychiater, der
+- Psychiatrie, die
 - Psychologie, die
 - Radar, das
 - Radio, das
 - Radius, der
+- Rand, der
 - Rang, der
+- realistisch
 - Regel, die
 - Regen, der
 - Reis, der
@@ -251,22 +274,33 @@ For verbs I use the infinitive.
 - Reporter, der
 - Restaurant, das
 - Route, die
+- Routine, die
 - Russisch, das
 - Sandwich, das
-- schande
+- Schacht, der
 - Schande, die
+- Schuld, die
 - schuldig
+- sensibel
+- Service, der
+- sexy
+- Shampoo, das
 - Sheriff, der
 - Show, die
+- Sirene, die
 - Situation, die
 - Sofa, das
 - spannend
+- sparen
 - Specht, der
 - Spiegel, der
 - Spotter, der
 - Stadion, das
+- Stalker, der
 - Stand, der
+- stellen
 - stinken
+- Strafrecht, das
 - Strafregister, das
 - Strand, der
 - strategisch
@@ -283,16 +317,24 @@ For verbs I use the infinitive.
 - Technologie
 - Tempel, der
 - Tennis, das
+- Terminologie, die
+- Terrorist, der
 - Thailand
 - Theologie, die
 - Theorie, die
+- Therapeut, der
 - Ticket, das
 - Titel, der
+- tragisch
 - Training, das
+- Trauma, das
 - treffen
+- treffen 
 - Trommel, die
 - Tumor, der
 - Tunnel, der
+- typisch
+- überhaupt
 - Universum, das
 - verachten
 - verdienen
@@ -302,6 +344,7 @@ For verbs I use the infinitive.
 - vier
 - Visum, das
 - Vogel, der
+- wagen
 - Wand, die
 - warm
 - Weg, der
@@ -313,6 +356,7 @@ For verbs I use the infinitive.
 - Wind, der
 - Wolf, der
 - Zebra, das
+- Zigeuner, der
 
 ## Identical apart from one character
 
@@ -320,18 +364,23 @@ German words that can be formed by adding,
 replacing,
 or deleting 1 of the letters in the Dutch word
 (or vice versa,
-ignoring the articles),
+ignoring the articles or differences in case),
 and that also largely have the same meaning.
 Reference point is the singular forms for nouns,
 and the infinitive form for verbs.
 
 - (in)direkt
+- (in)kompetent
+- ab
 - abonnieren
+- absolut
 - Adampsapfel, der
 - Alkohol, der
 - allein
 - Amts
 - Analyst, der
+- anklagen
+- anstellen (to appoint)
 - Apfel, der
 - Apparat, das
 - äquivalent
@@ -340,11 +389,15 @@ and the infinitive form for verbs.
 - Areal, das
 - Atem, der
 - Ball, der
+- Ballett, das
+- banal
 - Bank, die
 - Barmann, der
 - Basketball, der
 - Batterie, die
+- beängstigen
 - befinden
+- begehren
 - behaart
 - Bein, das
 - belohnen
@@ -357,10 +410,13 @@ and the infinitive form for verbs.
 - Bibliothek, die
 - blasen
 - blau
+- Blick, der
 - Blindgänger, der
 - Boden, der
 - bohren
 - braten
+- brillant
+- Brillant, der
 - bringen
 - brutto
 - Büffel, der
@@ -368,7 +424,7 @@ and the infinitive form for verbs.
 - Bürger, der
 - Champagner, der
 - Chemikalie, die
-- Creme, die
+- Creme, die (crème)
 - Dach, das
 - darin
 - dauern
@@ -382,11 +438,12 @@ and the infinitive form for verbs.
 - Donner, der
 - Dorf, das
 - Druck, der
-- Druck, der
 - Dutzend, das
+- egoistisch
 - Eimer, der
 - ein
 - Eingang, der
+- eklatant
 - elfte
 - Ende, das
 - Englisch, das
@@ -395,7 +452,9 @@ and the infinitive form for verbs.
 - Esel, der
 - Ethik, die
 - ethnisch
+- Exemplar, das
 - Fabrik, die
+- Fakkel, die
 - fallen
 - Familie, die
 - Familiendrama, das
@@ -406,7 +465,7 @@ and the infinitive form for verbs.
 - Fest, das
 - finden
 - Finger, der
-- Finnland
+- Finnland, das
 - flammen
 - fliegen
 - folgen
@@ -414,14 +473,18 @@ and the infinitive form for verbs.
 - Form, die
 - Fotograf, der
 - fotografieren
-- Fracht, die
+- Fracht, diet
 - fragen
 - Fragen
 - geben
 - Gebiet, das
+- gebrochen
+- Geest, der
 - Gefahr, die
 - Gefecht, das
 - gegen
+- genial
+- Genitalien, die (mostly plural)
 - gericht (gerecht)
 - Gerücht, das
 - Geschlecht, das
@@ -444,7 +507,9 @@ and the infinitive form for verbs.
 - handeln
 - hart ([fast](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/hart))
 - helfen
+- Helikopter, der
 - Herbst, der
+- heroisch
 - Herzog, der
 - Hitze, die
 - Honig, der
@@ -454,15 +519,16 @@ and the infinitive form for verbs.
 - Hund, der
 - Identität, die
 - Idiot, der
+- Idol, das
 - Igel, der
 - imponieren
 - importieren
 - industriell
 - informieren
-- informieren
 - inkonsequent
 - Insekt, das
 - Instinkt, der
+- intervenieren
 - Irland
 - irritieren
 - Jäger, der
@@ -470,11 +536,13 @@ and the infinitive form for verbs.
 - Januar, der
 - jemand
 - Joghurt, der
+- Jubiläum, das
 - jung
 - Kamel, das
 - Kamera, die
 - kämmen
-- Kanada
+- Kammer, die
+- Kanada, das
 - Kanu, das
 - kaput
 - Kasse, die
@@ -483,6 +551,7 @@ and the infinitive form for verbs.
 - kauen
 - kehren
 - Keller, das
+- Kerl, der
 - Kinn, das
 - Kissen, das
 - Kiwi, die
@@ -500,12 +569,14 @@ and the infinitive form for verbs.
 - Kommandant, der
 - kommen
 - Konstante, die
+- Kontroverse, die
 - Kopf, der
 - Korfu
 - kotzen
 - Kredit
 - Kredit, der
 - Kristall, der
+- Kritik, die
 - Kuba
 - Kugel, die
 - Kurve, die
@@ -538,15 +609,14 @@ and the infinitive form for verbs.
 - Mexiko
 - Milz, die
 - Minderheit, die
+- minimalisieren
 - mit
 - Modell, das
 - Mord, der
 - Mund, der
 - Muslim, der
 - nackt
-- nackt
 - Natur, die
-- Netzwerk, das
 - Netzwerk, das
 - Niere, die
 - Norden, der
@@ -561,6 +631,8 @@ and the infinitive form for verbs.
 - Omelett, das
 - orange
 - Osten, der
+- Ozelot, der
+- Paket, das
 - Panik, die
 - Panther, der
 - Parfüm, das
@@ -570,24 +642,32 @@ and the infinitive form for verbs.
 - Pilot, der
 - Pinguïn, der
 - Pirat, der
+- Piraterie, die
 - Pizza, die
 - planen
 - Planet, der
+- Plastik, das
 - Politik, die
 - Pore, die
 - Porträt, das
 - Post, die
 - Postbote, der
+- Poster, das
 - Präsident, der
+- Premiere, die (première)
 - Prinz, der
 - Produkt, das
+- Produzent, der
 - Programm, das
 - Projekt, das
 - Prozent, das
 - Puls, der
 - Punkt, der
+- pur
 - Rakete, die
+- raten
 - recyceln
+- Redakteur, der
 - regional
 - Regress, der
 - Reiz, der
@@ -598,6 +678,7 @@ and the infinitive form for verbs.
 - romantisch
 - rosa
 - rosten (roesten)
+- ruïneren
 - Russland
 - Saal
 - Sand, der
@@ -612,8 +693,10 @@ and the infinitive form for verbs.
 - Silber, das
 - singen
 - Skelett, das
+- skeptisch
 - Soldat, der
 - sonnig
+- sorgen
 - Spannung, die
 - Spiel, das
 - spielen
@@ -627,16 +710,18 @@ and the infinitive form for verbs.
 - Statistik, die
 - stecken
 - stehlen
-- stehlen
 - Stein, der
 - sterben
 - Stille, die
+- Stillstand, der
 - Stock, der
 - stören
+- Strafe, die
 - streben
 - studieren
 - System, das
 - Tag, der
+- taktisch
 - Tal, das
 - Telefon, das
 - Temperatur, die
@@ -647,11 +732,11 @@ and the infinitive form for verbs.
 - Tochter, die
 - Tourist, der
 - traditionell
+- transparent
 - trinken
 - Tulpe, die
 - Typ, das
 - Uhr, das
-- universell
 - universell
 - uns
 - unschuldig
@@ -670,7 +755,6 @@ and the infinitive form for verbs.
 - Volksrepublik China
 - voll
 - Volumen, das
-- Volumen, das
 - Vorschrift, die
 - Wange, die
 - was
@@ -681,11 +765,14 @@ and the infinitive form for verbs.
 - wirken
 - Wolke, die
 - wollen
+- Wrack, das
 - Wurm, der
 - Wurst, die
 - Yacht, die
 - Zentrum, das
 - Zeremonie, die
+- Zwang, der
+- Zwerg, der
 - zwingen
 
 ## Identical apart from two characters
@@ -693,13 +780,15 @@ and the infinitive form for verbs.
 German words that can be formed by adding,
 replacing,
 or deleting 2 of the letters in the Dutch word
-(or vice versa, ignoring the articles),
+(or vice versa, ignoring the articles or differences in case),
 and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
+- Abdruck, der
+- abnehmen
 - achte
-- achtzig
+- achtzig 
 - Adresse, die
 - Affäre, die
 - Ägypten
@@ -722,6 +811,7 @@ and the infinitive form for verbs.
 - Autorität, die
 - Bäcker, der
 - Balance, die
+- Bandbreite, die
 - Bär, der
 - Bart, der
 - Baum, der
@@ -729,6 +819,8 @@ and the infinitive form for verbs.
 - Befehl, der
 - Begriff, das
 - Behandlung, die
+- Beleidigung, die
+- Belohnung, die
 - besitzen
 - besser
 - Betrug, der
@@ -764,15 +856,21 @@ and the infinitive form for verbs.
 - einmal
 - Eis, das
 - Elefant, das
+- Elektronik, die
 - Emotion, die
 - emotional
 - entdecken
+- entkommen
+- erfahren
+- Erinnerung, die
 - ermorden
 - esse
 - essen
 - euphorisch
+- ewig (eeuwig)
 - explizit
 - falzen (NL: [felsen](https://nl.wiktionary.org/wiki/felsen))
+- Faschist, der
 - Fassade, die
 - feststellen
 - Fett, das
@@ -784,16 +882,18 @@ and the infinitive form for verbs.
 - Gefangene, der
 - gelb
 - Generation, die
-- Generation, die
 - Genetik, die
 - genug
 - Georgien
+- gespreid
 - gestern
 - gesund
 - Gewalt, die
 - gewinnen
 - Gitarre, die
+- Gott, der
 - Grad, der
+- Grenze, die
 - Griechenland
 - Grippe, die
 - groß
@@ -802,7 +902,6 @@ and the infinitive form for verbs.
 - hassen
 - heiß
 - heißen
-- Herz, das
 - Herz, das
 - heulen
 - Hexe, die
@@ -814,6 +913,7 @@ and the infinitive form for verbs.
 - Indien
 - Indonesien
 - Information, die
+- intensiv
 - Italien
 - jahrelang
 - Junge, der
@@ -843,7 +943,6 @@ and the infinitive form for verbs.
 - Krieger, der
 - Kroatien
 - Krone, die
-- Krone, die
 - Kronleuchter, der
 - Kuh, die
 - kühl
@@ -862,6 +961,7 @@ and the infinitive form for verbs.
 - Lunge, die
 - Manipulation, die
 - Marionette, die
+- marschieren
 - mauer
 - Maus, die
 - Mechanismus
@@ -871,6 +971,7 @@ and the infinitive form for verbs.
 - Meinung, die
 - Melone, die
 - Mensch, der
+- merkwürdig
 - messen
 - Militär, der
 - mindestens
@@ -884,11 +985,14 @@ and the infinitive form for verbs.
 - Motivation, die
 - Musik, die
 - Mutter, die
+- nachdenken
 - Name, der
 - nass
 - negativ
 - Negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - nehmen
+- Neid, der
+- nervös
 - neu
 - nicht(s)
 - nicken
@@ -901,21 +1005,27 @@ and the infinitive form for verbs.
 - offen
 - Operation, die
 - original
+- Panzer, der
 - Pfau, der
 - Pferd, das
 - Pfote, die
 - Pille, die
 - Pistole, die
+- Platz, der
 - Pol, der
 - Polizei, der
 - positiv
 - Preis, der
 - Priorität, die
+- privat
 - Protein, das
+- Protokoll, das
 - Prozess, der
 - Pumpe, die
 - Puzzle, das
 - Rabe, der
+- Rassist, der
+- rassistisch 
 - Ratte, die
 - Realität, die
 - rechnen
@@ -964,8 +1074,11 @@ and the infinitive form for verbs.
 - spucken
 - Spur, das
 - Stadion, das
+- steif
+- Stellungnahme, die
 - Stern, der
 - Stimmung, die
+- Störung, die
 - Straße, die
 - Stück, das
 - Stuhl, der
@@ -974,10 +1087,14 @@ and the infinitive form for verbs.
 - stürzen
 - Syrien
 - Szene
+- Tabelle, die
 - Tabu, (das)
+- tagelang
 - Tanz, der
 - tanzen
 - tapfer
+- teilen
+- Terror, der
 - Terrorismus, der
 - Text, der
 - tief
@@ -989,12 +1106,16 @@ and the infinitive form for verbs.
 - Träne, die
 - Tschechien
 - Tunesien
+- umbringen
 - Universität, die
 - verbrennen
+- verlassen
 - versilbern
 - Version, die
 - verteidigen
 - vierzig
+- vorsichtig
+- warten
 - warum
 - waschen
 - Wasser, das*
@@ -1003,6 +1124,7 @@ and the infinitive form for verbs.
 - weißen
 - welche
 - Wiesel, das
+- Wildnis, die
 - windig
 - winzig
 - Wippe, die
@@ -1010,98 +1132,60 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zimmermann, der
-- Zwei
+- Zitat, das
+- zwei
+- Zwiespalt, der
 
 ## (Near) Homophones
 
-These are German and Dutch words with identical meaning and
+These are German and Dutch (in quotes) words with identical meaning and
 with (almost) identical pronunciation.
 However,
 their spelling is quite different,
 or at least off by more than two characters.
 
-- aggressiv
-- akkurat
-- Aserbaidschan
-- attraktiv
-- bauen
-- Bewusstsein, das
-- Blut, das
-- bröckeln
-- Eisbär, der
-- gedeihen
-- Haut, die
-- Känguru, das
-- Katastrophe, die
-- Klischee, das (compare: cliché)
-- kreativ
-- massiv
-- Mikroskop, das
-- Reederei, die
-- schick
-- schlapp
-- seltsam
+- aggressiv (aggresief)
+- akkurat (accuraat)
+- Aserbaidschan (Azerbeidzjan)
+- attraktiv (attractief)
+- bauen (bouwen)
+- berühmt (beroemd)
+- Bewusstsein, das (bewustzijn)
+- Blut, das (bloed)
+- bröckeln (brokkelen)
+- Eisbär, der (ijsbeer)
+- fiktiv (fictief)
+- gastfrei (gastvrij)
+- gedeihen (gedijen)
+- Haut, die (huid)
+- Känguru, das (kangoeroe)
+- Katastrophe, die (catastrofe)
+- Klischee, das (cliché)
+- Koryphäe, die (coryfee)
+- kreativ (creatief)
+- massiv (massief)
+- Mikroskop, das (microscoop)
+- Reederei, die (rederij)
+- Scheck (cheque)
+- schick (chic)
+- schlapp (slap)
+- seltsam (zeldzaam)
 - Ukraine, die (used solely with article)
-- Unsinn
-- vorstellbar
-- Wahnsinn
-- Wahrheit, die
-- Weisheit, die
-- gastfrei
-- Scheck
-
+- Unsinn (onzin)
+- vorstellbar (voorstelbaar)
+- Wahnsinn (waanzin)
+- Wahrheit, die (waarheid)
+- Weisheit, die (wijsheid)
+- Schnur, die (snoer)
 
 [^1]: In popular meaning.
 
 ## Honorable Mentions
 
 - ohrfeig (oorvijg)
-
-## New
-
-### 0
-
-- Branche, die
-- heikel
-- Motorboot, das
-- Flop
-- tragisch
-- Pech, das
-- stellen
-- Blondine, die
-- stinken
-- Horst, der
-- Alarm
-
-
-### 1
-
-- Plastik, das
-- verraten
-- Pirat, der
-- Redakteur, der
-- Piraterie, die
-- Ballett, das
-- Limit, das
-- Stillstand, der
-- absolut
-
-### 2
-
-- Neid, der
-- fictief
-- nachdenken
-- Bandbreite, die
-- warten
-- abnehmen
-- merkwürdig
-- verlassen
-- intensiv
-- Zwiespalt, der
-
-### New
-
-- Jubileum
-- band
-- Platz, der, 2
-- Abdruck, der, 2
+- in der Tat (inderdaad)
+- Stillschweigen, das (stilzwijgen)
+- neugierig (nieuwsgierig)
+- Anschlag (aanslag)
+- zierlich (sierlijk)
+- Quacksalber, der

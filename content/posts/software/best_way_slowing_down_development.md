@@ -1,7 +1,7 @@
 ---
 title: "Effective ways of slowing down development"
-tags: ["java","spring"]
-date: 2022-08-14
+tags: ["antipatterns"]
+date: 2023-01-01
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
@@ -33,11 +33,20 @@ Should be as large as possible and take forever to run.
 
 ## Pull Requests
 
-Should be as large as possible and receive constant pressure to merge into master.  These two factors will ensure the details of the implementation will not receive the attention needed. Rather, you will enjoy the fun of asking yourself questions like: "why is this not implemented another way" with respect to your master/main branch.
+Should be as large as possible and receive constant pressure to merge into master for the mere sake of showing results.  These two factors will ensure the details of the implementation will not receive the attention needed. Rather, you will enjoy the fun of asking yourself questions like: "why is this not implemented another way" with respect to your master/main branch.
 
 ## Retrospective
 
-Cost time.  
+Cost time. Scrap.
 
+## Daly Standup
 
-##
+Vital for pretending you do agile development, but only in name.  Not used for discussing blockers but daily update round for PM/PO as well as 20 minutes technical discussions only relevant to some people.
+
+## Solution Architecture
+
+Choose the one that best satisfies the requirements, where the requirement is: curing corporate FOMO.  Add, even if the application will never scale and microservices will be 
+
+## Databases
+
+Must run within K8s.

@@ -57,3 +57,7 @@ Guides:
 <https://improveandrepeat.com/2021/06/how-to-use-git-filter-repo-to-remove-files-from-your-git-repository/>
 <https://peterbabic.dev/blog/clever-uses-for-git-filter-repo/>
 <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository>
+
+## Automatically Rewriting Git url to use SSH instead of HTTPS
+
+`git config --global --add url."git@github.com:".insteadOf "https://github.com/"`

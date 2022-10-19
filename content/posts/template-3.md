@@ -1,7 +1,8 @@
 ---
 title: "Template"
 tags: ["template"]
-date: 1970-01-01
+date: 2023-01-01
+# aliases: ["/first"]
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false

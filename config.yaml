@@ -1,6 +1,6 @@
 baseURL: "https://thisistheway.wiki"
 title: thisistheway
-paginate: 10
+paginate: 40
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -31,7 +31,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -58,21 +58,27 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Personal Wiki
-    subtitle: "Plus other random observations."
+    title: thisistheway
+    subtitle: 
+      "Hi, I'm Peter Dieleman, a software developer currently living in Dresden, DE.  
+      This page contains notes on software development, cooking recipes and other random observations.
+      In case you want to reach out to me, you can contact me through the links below.  
+      For cat pictures click the Instagram icon."
     # imageUrl: /Boba-Fett-512x512.png
     imageWidth: 100
     imageHeight: 100
     imageTitle: my image
     buttons:
-      - name: Linux
-        url: tags/linux/
       - name: Cooking Recipes
-        url: tags/recipe
+        url: tags/cooking-recipe
       - name: German
         url: tags/german
       - name: Java
         url: tags/java
+      - name: Cat Pics
+        url: tags/catpics
+      - name: Youtube
+        url: tags/youtube
 
   # home-info mode
   homeInfoParams:
@@ -88,8 +94,10 @@ params:
       url: "https://www.linkedin.com/in/ptrdlmn/"
     - name: strava
       url: "https://www.strava.com/athletes/ptrdlmn"
-    # - name: flickr
-    #   url: "https://www.strava.com/athletes/ptrdlmn"
+    - name: instagram
+      url: "https://www.instagram.com/annaelsadresden/"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com/users/3513476/thisistheway"
   # analytics:
   #   google:
   #     SiteVerificationTag: "XYZabc"
@@ -101,7 +109,7 @@ params:
   
   editPost:
     URL: "https://github.dev/peterdieleman/papermod/blob/master/content"
-    Text: "Edit" # edit text
+    Text: "Edit Post" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -117,22 +125,27 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: archive
-      name: archive
-      url: /archives/
+    - identifier: about
+      name: What even is this?
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: archive
+      name: Posts
+      url: /archives/
       weight: 20
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
-    - identifier: edit
-      name: edit
-      url: https://github.dev/peterdieleman/papermod/blob/master/
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 40
+    - identifier: edit
+      name: New Post
+      url: https://github.dev/peterdieleman/papermod/blob/master/content/posts/new.md
+      weight: 50
+
 outputs:
   home:
     - HTML
@@ -148,3 +161,18 @@ markup:
     # guessSyntax: true
     # lineNos: true
     style: monokai
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: false
+    simple: false
+  vimeo:
+    disable: true
+  youtube:
+    disable: false

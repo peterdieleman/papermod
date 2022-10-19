@@ -1,6 +1,6 @@
 ---
 title: "Switching Spring Boot Application.yml properties from IntelliJ"
-tags: ["java", "programming", "spring-boot"]
+tags: ["java", "spring-boot", "intellij"]
 date: 2022-03-28
 # weight: 1
 # author: "Peter Dieleman"
@@ -45,7 +45,7 @@ spring: # default config without profile name
 
 spring:
     config:
-        active:
+        activate:
             on-profile: "profile name"
 ```
 
@@ -55,4 +55,4 @@ Can make this even more complicated when activating multiple profiles at once wi
 
 ## From IntelliJ
 
-Add the following as an environment variable when right clicking on the configuration in the top-left corner: `spring.profiles.active=profile_name` 
+Add the following as an environment variable when right clicking on the configuration in the top-left corner: `spring.profiles.active=profile_name`

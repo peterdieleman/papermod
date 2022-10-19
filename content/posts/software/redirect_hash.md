@@ -1,6 +1,6 @@
 ---
 title: "Empty Hash MSAL React"
-tags: ["software"]
+tags: ["react", "authentication"]
 date: 2022-03-21
 # weight: 1
 # author: "Peter Dieleman"

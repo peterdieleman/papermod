@@ -1,6 +1,6 @@
 ---
 title: "Study Notes Meta Frontend Coursera"
-tags: ["study"]
+tags: ["study notes"]
 date: 2022-07-03
 # weight: 1
 # author: "Peter Dieleman"

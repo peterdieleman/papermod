@@ -55,9 +55,10 @@ but that have a different meaning.
 | vorstellen    | voorstellen   | vooruitzetten         |
 | Wie?          | wie?          | hoe?                  |
 | Winkel, der   | Winkel        | Hoek                  |
-|               |               |                       |
-|               |               |                       |
-|               |               |                       |
+| versprechen   | verspreken    | beloven               |
+| Verlies       | verlies, het  | kerker, de            |
+| morsen        | morsen        | seinen met morsecode  | 
+| beschildern   | beschilderen  | bewegwijzeren         |
 
 ## New
 
@@ -77,6 +78,13 @@ but that have a different meaning.
 - mögen
 - mist
 - haar
+- station
+- Frische
+- Klauen / stelen
+- Frisch
+- Agent (polizist)
+- Kugel (bol)
+- peperoni
 
 ## Sources 
 

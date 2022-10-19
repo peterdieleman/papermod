@@ -1,6 +1,6 @@
 ---
 title: "Design Patterns"
-tags: ["cs101"]
+tags: ["general programming"]
 date: 2022-07-19
 # weight: 1
 # author: "Peter Dieleman"
