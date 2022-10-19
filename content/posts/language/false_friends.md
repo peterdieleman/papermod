@@ -77,6 +77,7 @@ but that have a different meaning.
 - mögen
 - mist
 - haar
+- station
 
 ## Sources 
 

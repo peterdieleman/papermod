@@ -24,6 +24,7 @@ draft: false
 
 From [https://www.chilipeppermadness.com/recipes/black-bean-soup](chilipeppermadness):
 
+- 2 cans of black beans
 - 1 Lime
 - 1 Onion
 - 1/2 Chilli pepper flakes

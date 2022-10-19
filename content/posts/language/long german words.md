@@ -21,7 +21,8 @@ draft: false
 - **Krankenschwester**: nurse
 - **Überschallgeschwindigkeit**: supersonic speed
 - **Leistengegend**: groin
-- 
+- **Wechselbeziehung**: correlation
+
 ## Too Long Words
 
 ### Buchstabenkurzwörter(Acronyms)

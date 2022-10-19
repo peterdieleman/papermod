@@ -38,7 +38,7 @@ and also have the same meaning (ignoring the articles).
 The reference point I use for nouns is the singular form. 
 In case this is a noun that relates to professions or people, 
 I will use the default (which in almost all cases is the neutral/masculine) form.
-This is due to the different ways Dutch and German can change such nouns to make them female. For example: "Der Offizier" can be "Die Offizier_in_" in German, but "de officier" in Dutch does have a female form.
+This is due to the different ways Dutch and German can change such nouns to make them female. For example: "Der Offizier" can be "Die Offizierin" in German, but "de officier" in Dutch does have a female form.
 For verbs I use the infinitive.
 
 - Jazz, der
@@ -1074,6 +1074,9 @@ or at least off by more than two characters.
 - Horst, der
 - Alarm
 - Terminologie, die
+- Strafrecht, das
+- Elektrolyse, die
+
 
 ### 1
 
@@ -1087,6 +1090,9 @@ or at least off by more than two characters.
 - Stillstand, der
 - absolut
 - heroisch
+- anklagen
+- banal
+- (in)kompetent
 
 ### 2
 
@@ -1099,6 +1105,7 @@ or at least off by more than two characters.
 - verlassen
 - intensiv
 - Zwiespalt, der
+- Elektronik, die 
 
 ### New
 
