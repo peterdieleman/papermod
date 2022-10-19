@@ -1070,6 +1070,9 @@ or at least off by more than two characters.
 - stellen
 - Blondine, die
 - stinken
+- Horst, der
+- Alarm
+
 
 ### 1
 
@@ -1080,11 +1083,25 @@ or at least off by more than two characters.
 - Piraterie, die
 - Ballett, das
 - Limit, das
+- Stillstand, der
+- absolut
 
 ### 2
 
 - Neid, der
 - fictief
 - nachdenken
-- Bandbreite, die,
+- Bandbreite, die
+- warten
+- abnehmen
+- merkwürdig
+- verlassen
+- intensiv
+- Zwiespalt, der
 
+### New
+
+- Jubileum
+- band
+- Platz, der, 2
+- Abdruck, der, 2
