@@ -687,6 +687,7 @@ and the infinitive form for verbs.
 - Zentrum, das
 - Zeremonie, die
 - zwingen
+- Zwerg, der
 
 ## Identical apart from two characters
 
@@ -1010,7 +1011,7 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zimmermann, der
-- Zwei
+- zwei
 
 ## (Near) Homophones
 
@@ -1057,6 +1058,7 @@ or at least off by more than two characters.
 ## Honorable Mentions
 
 - ohrfeig (oorvijg)
+- in der Tat (inderdaad)
 
 ## New
 
