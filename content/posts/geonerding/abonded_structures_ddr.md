@@ -1,12 +1,12 @@
 ---
-title: "Template"
-tags: ["template"]
-date: 1970-01-01
+title: "Urbex Links (Eastern Germany)"
+tags: ["germany"]
+date: 2022-10-21
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: true
+draft: false
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
@@ -27,6 +27,6 @@ draft: true
 - <https://www.lostplace.eu/>
 
 
-## Interesting Locations
+## Locations 
 
 - [Die verbotene Stadt Wünsdorf](https://www.eighttwoeightsix.de/die-verbotene-stadt-wuensdorf-lost-places-brandenburg/)
