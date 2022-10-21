@@ -25,3 +25,8 @@ draft: true
 - <https://philippseibt.com/verlassene-orte.html>
 - <https://www.urbexshare.com/>
 - <https://www.lostplace.eu/>
+
+
+## Interesting Locations
+
+- [Die verbotene Stadt Wünsdorf](https://www.eighttwoeightsix.de/die-verbotene-stadt-wuensdorf-lost-places-brandenburg/)
