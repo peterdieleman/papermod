@@ -20,3 +20,4 @@ draft: true
 - <https://www.sightraider.com/>
 - <https://www.urbex-sachsen.de/>
 - <https://marodes.de/urbex-germany/urbex-cross-country/sachsen>
+- <https://urbex.sopy.de/karte-mit-koordinaten/>
