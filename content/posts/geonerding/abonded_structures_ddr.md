@@ -21,3 +21,7 @@ draft: true
 - <https://www.urbex-sachsen.de/>
 - <https://marodes.de/urbex-germany/urbex-cross-country/sachsen>
 - <https://urbex.sopy.de/karte-mit-koordinaten/>
+- <https://www.eighttwoeightsix.de/lost-places-sachsen/>
+- <https://philippseibt.com/verlassene-orte.html>
+- <https://www.urbexshare.com/>
+- <https://www.lostplace.eu/>
