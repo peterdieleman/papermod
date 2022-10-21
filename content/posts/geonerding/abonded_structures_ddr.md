@@ -18,3 +18,5 @@ draft: true
 - <https://www.abandonedberlin.com/map/>
 - <https://digitalcosmonaut.com/map/>
 - <https://www.sightraider.com/>
+- <https://www.urbex-sachsen.de/>
+- <https://marodes.de/urbex-germany/urbex-cross-country/sachsen>
