@@ -1076,6 +1076,7 @@ or at least off by more than two characters.
 - Terminologie, die
 - Strafrecht, das
 - Elektrolyse, die
+- melden
 
 
 ### 1
@@ -1105,7 +1106,8 @@ or at least off by more than two characters.
 - verlassen
 - intensiv
 - Zwiespalt, der
-- Elektronik, die 
+- Elektronik, die
+- ewig (eeuwig)
 
 ### New
 

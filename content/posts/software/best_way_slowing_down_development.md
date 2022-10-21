@@ -37,7 +37,8 @@ Should be as large as possible and receive constant pressure to merge into maste
 
 ## Retrospective
 
-Cost time.  
+Cost time. 
 
+## Daly Standup
 
-##
+Vital for pretending you do agile development, but only in name.  Not used for discussing blockers but daily update round for PM/PO as well as 20 minutes techncial discussions only relevant to some people.
