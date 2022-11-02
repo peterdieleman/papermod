@@ -1012,6 +1012,8 @@ and the infinitive form for verbs.
 - Wurzel, die
 - Zimmermann, der
 - zwei
+- umbrengen
+- entkommen
 
 ## (Near) Homophones
 
@@ -1059,11 +1061,15 @@ or at least off by more than two characters.
 
 - ohrfeig (oorvijg)
 - in der Tat (inderdaad)
+- Stillschweigen, das (stilzwijgen)
+- neugierig (nieuwsgierig)
+- Anschlag (aanslag)
 
 ## New
 
 ### 0
 
+- Amok, der (from Dutch)
 - Branche, die
 - heikel
 - Motorboot, das
@@ -1079,10 +1085,14 @@ or at least off by more than two characters.
 - Strafrecht, das
 - Elektrolyse, die
 - melden
-
+- Psychiatrie, die
+- Psychiater, der
+- evangelisch
+- Medaille, die
 
 ### 1
 
+- Strafe, die
 - Plastik, das
 - verraten
 - Pirat, der
@@ -1096,6 +1106,9 @@ or at least off by more than two characters.
 - anklagen
 - banal
 - (in)kompetent
+- skeptisch
+- transparent
+- 
 
 ### 2
 
@@ -1110,6 +1123,7 @@ or at least off by more than two characters.
 - Zwiespalt, der
 - Elektronik, die
 - ewig (eeuwig)
+- erfahren
 
 ### New
 

@@ -55,7 +55,7 @@ but that have a different meaning.
 | vorstellen    | voorstellen   | vooruitzetten         |
 | Wie?          | wie?          | hoe?                  |
 | Winkel, der   | Winkel        | Hoek                  |
-|               |               |                       |
+| versprechen   | verspreken    | beloven               |
 |               |               |                       |
 |               |               |                       |
 

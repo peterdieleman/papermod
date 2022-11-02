@@ -42,3 +42,11 @@ Cost time.
 ## Daly Standup
 
 Vital for pretending you do agile development, but only in name.  Not used for discussing blockers but daily update round for PM/PO as well as 20 minutes techncial discussions only relevant to some people.
+
+## Solution Architecture
+
+Choose the one that best satisfies the requirements, where the requirement is: curing corporate FOMO.  Add, even if the application will never scale and microservices will be 
+
+## Databases
+
+Must run within K8s.
