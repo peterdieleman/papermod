@@ -79,6 +79,7 @@ but that have a different meaning.
 - haar
 - station
 - Frische
+- Klauen / stelen
 
 ## Sources 
 
