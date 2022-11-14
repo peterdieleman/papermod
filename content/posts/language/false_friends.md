@@ -78,6 +78,7 @@ but that have a different meaning.
 - mist
 - haar
 - station
+- Frische
 
 ## Sources 
 
