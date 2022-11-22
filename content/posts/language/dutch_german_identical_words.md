@@ -698,6 +698,8 @@ and that also largely have the same meaning.
 Reference point is the singular form for nouns,
 and the infinitive form for verbs.
 
+- Abdruck, der
+- abnehmen
 - achte
 - achtzig
 - Adresse, die
@@ -719,9 +721,11 @@ and the infinitive form for verbs.
 - August, der
 - Australien
 - Autor, der
+- Autor, der
 - Autorität, die
 - Bäcker, der
 - Balance, die
+- Bandbreite, die
 - Bär, der
 - Bart, der
 - Baum, der
@@ -764,15 +768,20 @@ and the infinitive form for verbs.
 - einmal
 - Eis, das
 - Elefant, das
+- Elektronik, die
 - Emotion, die
 - emotional
 - entdecken
+- entkommen
+- erfahren
 - ermorden
 - esse
 - essen
 - euphorisch
+- ewig (eeuwig)
 - explizit
 - falzen (NL: [felsen](https://nl.wiktionary.org/wiki/felsen))
+- Faschist, der
 - Fassade, die
 - feststellen
 - Fett, das
@@ -788,12 +797,14 @@ and the infinitive form for verbs.
 - Genetik, die
 - genug
 - Georgien
+- gespreid
 - gestern
 - gesund
 - Gewalt, die
 - gewinnen
 - Gitarre, die
 - Grad, der
+- Grenze, die
 - Griechenland
 - Grippe, die
 - groß
@@ -814,6 +825,7 @@ and the infinitive form for verbs.
 - Indien
 - Indonesien
 - Information, die
+- intensiv
 - Italien
 - jahrelang
 - Junge, der
@@ -862,6 +874,7 @@ and the infinitive form for verbs.
 - Lunge, die
 - Manipulation, die
 - Marionette, die
+- marschieren
 - mauer
 - Maus, die
 - Mechanismus
@@ -871,6 +884,7 @@ and the infinitive form for verbs.
 - Meinung, die
 - Melone, die
 - Mensch, der
+- merkwürdig
 - messen
 - Militär, der
 - mindestens
@@ -884,11 +898,14 @@ and the infinitive form for verbs.
 - Motivation, die
 - Musik, die
 - Mutter, die
+- nachdenken
 - Name, der
 - nass
 - negativ
 - Negativ, das [foto](https://de.pons.com/%C3%BCbersetzung/deutsch-niederl%C3%A4ndisch/negativ)
 - nehmen
+- Neid, der
+- nervös
 - neu
 - nicht(s)
 - nicken
@@ -901,17 +918,20 @@ and the infinitive form for verbs.
 - offen
 - Operation, die
 - original
+- Panzer, der
 - Pfau, der
 - Pferd, das
 - Pfote, die
 - Pille, die
 - Pistole, die
+- Platz, der
 - Pol, der
 - Polizei, der
 - positiv
 - Preis, der
 - Priorität, die
 - Protein, das
+- Protokoll, das
 - Prozess, der
 - Pumpe, die
 - Puzzle, das
@@ -964,20 +984,26 @@ and the infinitive form for verbs.
 - spucken
 - Spur, das
 - Stadion, das
+- steif
+- Stellungnahme, die
 - Stern, der
 - Stimmung, die
+- Störung, die
 - Straße, die
 - Stück, das
 - Stuhl, der
+- stumm
 - stumm
 - stumpf
 - stürzen
 - Syrien
 - Szene
 - Tabu, (das)
+- tagelang
 - Tanz, der
 - tanzen
 - tapfer
+- Terror, der
 - Terrorismus, der
 - Text, der
 - tief
@@ -989,12 +1015,15 @@ and the infinitive form for verbs.
 - Träne, die
 - Tschechien
 - Tunesien
+- umbrengen
 - Universität, die
 - verbrennen
+- verlassen
 - versilbern
 - Version, die
 - verteidigen
 - vierzig
+- warten
 - warum
 - waschen
 - Wasser, das*
@@ -1010,9 +1039,9 @@ and the infinitive form for verbs.
 - Wunde, die
 - Wurzel, die
 - Zimmermann, der
+- Zitat, das
 - zwei
-- umbrengen
-- entkommen
+- Zwiespalt, der
 
 ## (Near) Homophones
 
@@ -1146,34 +1175,3 @@ or at least off by more than two characters.
 - Wrack, das
 - anstellen (to appoint)
 
-### 2
-
-- Neid, der
-- nachdenken
-- Bandbreite, die
-- warten
-- abnehmen
-- merkwürdig
-- verlassen
-- intensiv
-- Zwiespalt, der
-- Elektronik, die
-- ewig (eeuwig)
-- erfahren
-- Grenze, die
-- Störung, die
-- stumm
-- Faschist, der
-- Autor, der
-- Platz, der
-- Abdruck, der
-- Protokoll, das
-- steif
-- gespreid
-- Stellungnahme, die
-- tagelang
-- Zitat, das
-- Terror, der
-- nervös
-- Panzer, der
-- marschieren 
