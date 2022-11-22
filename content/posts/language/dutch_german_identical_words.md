@@ -1102,9 +1102,13 @@ or at least off by more than two characters.
 - Akte, die
 - Video, das
 - Stalker, der
+- Kater, der
+- überhaupt
+
 
 ### 1
 
+- ab
 - Strafe, die
 - Plastik, das
 - verraten
@@ -1139,6 +1143,8 @@ or at least off by more than two characters.
 - nackt
 - Kontroverse, die
 - begehren
+- Wrack, das
+- anstellen (to appoint)
 
 ### 2
 
@@ -1165,3 +1171,9 @@ or at least off by more than two characters.
 - steif
 - gespreid
 - Stellungnahme, die
+- tagelang
+- Zitat, das
+- Terror, der
+- nervös
+- Panzer, der
+- marschieren 
