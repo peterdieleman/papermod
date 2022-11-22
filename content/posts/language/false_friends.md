@@ -80,6 +80,7 @@ but that have a different meaning.
 - station
 - Frische
 - Klauen / stelen
+- Frisch
 
 ## Sources 
 

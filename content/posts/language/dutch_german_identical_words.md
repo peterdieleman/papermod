@@ -1017,43 +1017,43 @@ and the infinitive form for verbs.
 
 ## (Near) Homophones
 
-These are German and Dutch words with identical meaning and
+These are German and Dutch (in quotes) words with identical meaning and
 with (almost) identical pronunciation.
 However,
 their spelling is quite different,
 or at least off by more than two characters.
 
-- aggressiv
-- akkurat
-- Aserbaidschan
-- attraktiv
-- bauen
-- Bewusstsein, das
-- Blut, das
-- bröckeln
-- Eisbär, der
-- fiktiv
-- gedeihen
-- Haut, die
-- Känguru, das
-- Katastrophe, die
-- Klischee, das (compare: cliché)
-- kreativ
-- massiv
-- Mikroskop, das
-- Reederei, die
-- schick
-- schlapp
-- seltsam
+- aggressiv (aggresief)
+- akkurat (accuraat)
+- Aserbaidschan (Azerbeidzjan)
+- attraktiv (attractief)
+- bauen (bouwen)
+- Bewusstsein, das (bewustzijn)
+- Blut, das (bloed)
+- bröckeln (brokkelen)
+- Eisbär, der (ijsbeer)
+- fiktiv (fictief)
+- gedeihen (gedijen)
+- Haut, die (huid)
+- Känguru, das (kangoeroe)
+- Katastrophe, die (catastrofe)
+- Klischee, das (cliché)
+- kreativ (creatief)
+- massiv (massief)
+- Mikroskop, das (microscoop)
+- Reederei, die (rederij)
+- schick (chic)
+- schlapp (slap)
+- seltsam (zeldzaam)
 - Ukraine, die (used solely with article)
-- Unsinn
-- vorstellbar
-- Wahnsinn
-- Wahrheit, die
-- Weisheit, die
-- gastfrei
-- Scheck
-
+- Unsinn (onzin)
+- vorstellbar (voorstelbaar)
+- Wahnsinn (waanzin)
+- Wahrheit, die (waarheid)
+- Weisheit, die (wijsheid)
+- gastfrei (gastvrij)
+- Scheck (cheque)
+- Koryphäe, die (coryfee)
 
 [^1]: In popular meaning.
 
@@ -1089,6 +1089,11 @@ or at least off by more than two characters.
 - Psychiater, der
 - evangelisch
 - Medaille, die
+- geheim (adj.)
+- Therapeut, der
+- Trauma, das
+- Basalt, der
+- Kolonie, die
 
 ### 1
 
@@ -1108,7 +1113,16 @@ or at least off by more than two characters.
 - (in)kompetent
 - skeptisch
 - transparent
-- 
+- Kammer, die
+- Creme, die (crème)
+- Blick, der
+- Zwang, der
+- eklatant
+- Kritik, die
+- banaal
+- intervenieren
+- Paket, das
+- genial
 
 ### 2
 
@@ -1124,6 +1138,11 @@ or at least off by more than two characters.
 - Elektronik, die
 - ewig (eeuwig)
 - erfahren
+- Grenze, die
+- Störung, die
+- stumm
+- Faschist, der
+- Autor, der
 
 ### New
 

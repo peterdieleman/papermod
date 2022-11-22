@@ -116,6 +116,7 @@ These endings are usually das words when referring to things[^5]:
 - Mutter, die
 - Leber, die
 - Schulter, die
+- Kammer, die
 
 ## Sources, Notes
 
