@@ -576,7 +576,6 @@ and the infinitive form for verbs.
 - Politik, die
 - Pore, die
 - Porträt, das
-- Post, die
 - Postbote, der
 - Präsident, der
 - Prinz, der
@@ -1028,20 +1027,24 @@ or at least off by more than two characters.
 - Aserbaidschan (Azerbeidzjan)
 - attraktiv (attractief)
 - bauen (bouwen)
+- berühmt (beroemd)
 - Bewusstsein, das (bewustzijn)
 - Blut, das (bloed)
 - bröckeln (brokkelen)
 - Eisbär, der (ijsbeer)
 - fiktiv (fictief)
+- gastfrei (gastvrij)
 - gedeihen (gedijen)
 - Haut, die (huid)
 - Känguru, das (kangoeroe)
 - Katastrophe, die (catastrofe)
 - Klischee, das (cliché)
+- Koryphäe, die (coryfee)
 - kreativ (creatief)
 - massiv (massief)
 - Mikroskop, das (microscoop)
 - Reederei, die (rederij)
+- Scheck (cheque)
 - schick (chic)
 - schlapp (slap)
 - seltsam (zeldzaam)
@@ -1051,9 +1054,7 @@ or at least off by more than two characters.
 - Wahnsinn (waanzin)
 - Wahrheit, die (waarheid)
 - Weisheit, die (wijsheid)
-- gastfrei (gastvrij)
-- Scheck (cheque)
-- Koryphäe, die (coryfee)
+- Schnur, die (snoer)
 
 [^1]: In popular meaning.
 
@@ -1064,11 +1065,13 @@ or at least off by more than two characters.
 - Stillschweigen, das (stilzwijgen)
 - neugierig (nieuwsgierig)
 - Anschlag (aanslag)
+- zierlich (sierlijk)
 
 ## New
 
 ### 0
 
+- baden
 - Amok, der (from Dutch)
 - Branche, die
 - heikel
@@ -1094,6 +1097,11 @@ or at least off by more than two characters.
 - Trauma, das
 - Basalt, der
 - Kolonie, die
+- kapitalistisch
+- realistisch
+- Akte, die
+- Video, das
+- Stalker, der
 
 ### 1
 
@@ -1123,6 +1131,14 @@ or at least off by more than two characters.
 - intervenieren
 - Paket, das
 - genial
+- Jubiläum, das
+- Post, die
+- Poster, das
+- minimalisieren
+- pur
+- nackt
+- Kontroverse, die
+- begehren
 
 ### 2
 
@@ -1143,10 +1159,9 @@ or at least off by more than two characters.
 - stumm
 - Faschist, der
 - Autor, der
-
-### New
-
-- Jubileum
-- band
-- Platz, der, 2
-- Abdruck, der, 2
+- Platz, der
+- Abdruck, der
+- Protokoll, das
+- steif
+- gespreid
+- Stellungnahme, die
