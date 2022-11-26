@@ -626,7 +626,6 @@ and the infinitive form for verbs.
 - Pilot, der
 - Pinguïn, der
 - Pirat, der
-- Pirat, der
 - Piraterie, die
 - Pizza, die
 - planen
@@ -1165,14 +1164,24 @@ or at least off by more than two characters.
 - neugierig (nieuwsgierig)
 - Anschlag (aanslag)
 - zierlich (sierlijk)
+- Quacksalber, der
 
 ## New
 
 ### 0
 
-
-
+- Shampoo, das
+- Hals, der
+- gering
 
 ### 1
 
+- raten
+- Helikopter, der
+- Exemplar, das
+- Foltern
 
+### 2
+
+- Gott, der
+- Erinnerung, die

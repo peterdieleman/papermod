@@ -56,8 +56,8 @@ but that have a different meaning.
 | Wie?          | wie?          | hoe?                  |
 | Winkel, der   | Winkel        | Hoek                  |
 | versprechen   | verspreken    | beloven               |
-|               |               |                       |
-|               |               |                       |
+| Verlies       | verlies, het  | kerker, de            |
+| morsen        | morsen        | seinen met morsecode  | 
 
 ## New
 
