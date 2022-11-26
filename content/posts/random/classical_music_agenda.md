@@ -22,4 +22,13 @@ draft: false
 ## Agendas
 
 - [Prague](https://www.pragueticketoffice.com/events/classical-music/)
-- [Dresden]()
+- [Dresden](https://www.dresdnerphilharmonie.de/en/concerts-tickets/calendarschedule/)
+- [Leipzig](https://www.gewandhausorchester.de/en/)
+- [Berlin](https://www.berlin.de/en/tickets/classical-music/)
+- [Berlin Philharmoniker](https://www.berliner-philharmoniker.de/konzerte/kalender/)
+
+
+## Artist Agendas
+
+- [Lugansky](https://bachtrack.com/search-events/performer=31)
+- [Argerich](https://bachtrack.com/search-events/performer=1208)
