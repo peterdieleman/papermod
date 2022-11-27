@@ -81,6 +81,9 @@ but that have a different meaning.
 - Frische
 - Klauen / stelen
 - Frisch
+- Agent (polizist)
+- Kugel (bol)
+- peperoni
 
 ## Sources 
 
