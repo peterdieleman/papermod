@@ -1,5 +1,5 @@
 ---
-title: "Searing TOfu"
+title: "Searing Tofu"
 tags: ["recipe"]
 date: 2022-11-28
 # weight: 1
