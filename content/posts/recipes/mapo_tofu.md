@@ -1,6 +1,6 @@
 ---
 title: "Veggie Mapo Tofu"
-tags: ["recipe", "asian"]
+tags: ["cooking recipe", "asian"]
 date: 2022-03-19
 # weight: 1
 # author: "Peter Dieleman"

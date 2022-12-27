@@ -1,6 +1,6 @@
 ---
 title: "Geography blogs"
-tags: ["geography", "geo-odities"]
+tags: ["geography"]
 date: 2022-09-20
 # weight: 1
 # author: "Peter Dieleman"

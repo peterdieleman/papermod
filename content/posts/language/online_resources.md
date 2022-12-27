@@ -1,6 +1,6 @@
 ---
 title: "Online Resources for Learning German"
-tags: ["german", "language"]
+tags: ["german"]
 date: 2022-03-16
 # weight: 1
 # author: "Peter Dieleman"

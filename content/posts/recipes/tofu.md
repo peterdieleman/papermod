@@ -1,6 +1,6 @@
 ---
 title: "Searing Tofu"
-tags: ["recipe"]
+tags: ["cooking recipe"]
 date: 2022-11-28
 # weight: 1
 # author: "Peter Dieleman"

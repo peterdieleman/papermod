@@ -3,7 +3,7 @@ title: "Couscous_ratio"
 date: 2021-03-16T19:13:04+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["recipe"]
+tags: ["cooking recipe"]
 author: "Peter Dieleman"
 # author: ["Me", "You"] # multiple authors
 showToc: true

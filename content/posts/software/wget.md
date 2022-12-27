@@ -1,6 +1,6 @@
 ---
 title: "Wget Single Webpage with Assets"
-tags: ["wget"]
+# tags: ["wget"]
 date: 2022-01-01
 # weight: 1
 # author: "Peter Dieleman"

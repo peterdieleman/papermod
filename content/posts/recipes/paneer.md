@@ -1,6 +1,6 @@
 ---
 title: "Paneer Butter Masala"
-tags: ["recipe", "Indian"]
+tags: ["cooking recipe", "Indian"]
 date: 2022-02-10
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,6 @@
 ---
 title: "Polenta"
-tags: ["recipe", "italian"]
+tags: ["cooking recipe", "italian"]
 date: 2022-02-14
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,6 @@
 ---
 title: "Ugly Belgium / Unfinished Projects"
-tags: ["geography", "geo-odities", "belgium"]
+tags: ["geography", "belgium"]
 date: 2022-10-20
 # weight: 1
 # author: "Peter Dieleman"

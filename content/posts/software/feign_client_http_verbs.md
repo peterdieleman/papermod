@@ -1,6 +1,6 @@
 ---
 title: "Feign Client converting GET to POST"
-tags: ["feign", "spring boot", "java"]
+tags: ["REST", "spring boot", "java"]
 date: 2022-05-12
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,7 +1,7 @@
 ---
-title: "Design Patterns"
-tags: ["general programming"]
-date: 2022-07-19
+title: "Kimchi"
+tags: ["korean"]
+date: 2022-12-24
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
@@ -14,7 +14,4 @@ draft: false
 # searchHidden: false
 ---
 
-## Resources
-
-- <https://www.youtube.com/watch?v=tv-_1er1mWI>
-- <https://refactoring.guru/design-patterns/>
+- 

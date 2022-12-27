@@ -1,6 +1,6 @@
 ---
 title: "Black Bean Soup"
-tags: ["recipe", "mexican"]
+tags: ["cooking recipe", "mexican"]
 date: 2022-10-14
 # weight: 1
 # author: "Peter Dieleman"

@@ -1,6 +1,6 @@
 ---
 title: "Ebi Shrimp"
-tags: ["recipe","asian"]
+tags: ["cooking recipe","asian"]
 date: 2022-02-14
 # weight: 1
 # author: "Peter Dieleman"

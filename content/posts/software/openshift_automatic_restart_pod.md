@@ -1,6 +1,6 @@
 ---
 title: "Automatically restart pods Openshift"
-tags: ["openshift","kubernetes"]
+tags: ["openshift","k8s"]
 date: 2022-07-12
 # weight: 1
 # author: "Peter Dieleman"

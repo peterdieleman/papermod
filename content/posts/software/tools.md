@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-tags: ["programming"]
+tags: ["general programming"]
 date: 2022-02-22
 # weight: 1
 # author: "Peter Dieleman"

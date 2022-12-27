@@ -1,6 +1,6 @@
 ---
 title: "Coffee Table Books"
-tags: ["geography", "coffee-table-book", "bildbände"]
+tags: ["geography", "coffee-table-books"]
 date: 2022-10-20
 # weight: 1
 # author: "Peter Dieleman"

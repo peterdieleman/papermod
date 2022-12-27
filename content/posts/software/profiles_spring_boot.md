@@ -1,6 +1,6 @@
 ---
 title: "Switching Spring Boot Application.yml properties from IntelliJ"
-tags: ["java", "programming", "spring-boot"]
+tags: ["java", "spring-boot", "intellij"]
 date: 2022-03-28
 # weight: 1
 # author: "Peter Dieleman"

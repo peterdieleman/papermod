@@ -1,6 +1,6 @@
 ---
 title: "Flyway test folder"
-tags: ["java", "flyway"]
+tags: ["java", "sql"]
 date: 2022-08-04
 # weight: 1
 # author: "Peter Dieleman"
