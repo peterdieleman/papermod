@@ -65,10 +65,8 @@ params:
     imageHeight: 100
     imageTitle: my image
     buttons:
-      - name: Linux
-        url: tags/linux/
       - name: Cooking Recipes
-        url: tags/recipe
+        url: tags/cooking-recipe
       - name: German
         url: tags/german
       - name: Java
