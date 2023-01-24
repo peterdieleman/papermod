@@ -34,6 +34,14 @@ draft: false
     - Red pepper flakes
     - Garlic
     - Butter
+- Pasta alla Norma [https://scrummylane.com/pasta-alla-norma-eggplant-and-tomato-pasta/](scrummylane)
+    - 1 eggplant
+    - Tomato sauce
+    - Basil
+    - Mozarella
+    - Parmesan
+    - Garlic
+    - Kalamata olives
 
 ## Other Lists
 
