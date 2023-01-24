@@ -22,3 +22,9 @@ draft: false
 - Walnuts & gorgonzola
 - Spinach, tomatoes, spinach
 - Cacio e Pepe
+- Lemon Garlic Pasta: [https://pinchandswirl.com/lemon-garlic-pasta/](pinch and swirl)
+    - 1 lemon
+    - Parsley
+    - Red Pepper Flakes
+    - Garlic
+    - Butter
