@@ -1,6 +1,6 @@
 ---
 title: "Tomato Seafood Risotto"
-tags: ["template"]
+tags: ['italian', 'rissotto']
 date: 2022-03-10
 # weight: 1
 # author: "Peter Dieleman"

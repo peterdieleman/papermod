@@ -1,12 +1,13 @@
 ---
-title: "Sun-Dried Tomato Fettucini Alfredo w/ Spinach"
-tags: ['italian', 'cooking recipe', 'pasta']
-date: 2022-10-17
+title: "Veggie Pasta Recipes"
+tags: ["template"]
+date: 2022-01-24
+# aliases: ["/first"]
 # weight: 1
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: true
+draft: false
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
@@ -14,4 +15,10 @@ draft: true
 # searchHidden: false
 ---
 
-See: Love Real Food, p. 154.
+## Recipe Ideas
+
+- Veggie putenesca
+- Broccolli & Orrichiete 
+- Walnuts & gorgonzola
+- Spinach, tomatoes, spinach
+- Cacio e Pepe
