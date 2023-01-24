@@ -17,24 +17,24 @@ draft: false
 
 ## Recipe Ideas
 
-- Veggie Putenesca: [https://cookieandkate.com/vegan-spaghetti-alla-puttanesca/](Cookie and Kate)
+- **Veggie Putenesca**: [https://cookieandkate.com/vegan-spaghetti-alla-puttanesca/](Cookie and Kate)
     - Chunky tomato sauce
     - Kalamata olives
     - Capers
     - Garlic
     - Red pepper flakes
     - Parsley
-- Broccolli & Orrichiete [https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/](feastingathome)
-- Walnuts & gorgonzola
-- Spinach, tomatoes, spinach
-- Cacio e Pepe
-- Lemon Garlic Pasta: [https://pinchandswirl.com/lemon-garlic-pasta/](pinch and swirl)
+- **Broccolli & Orrichiete** [https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/](feastingathome)
+- **Walnuts & gorgonzola**
+- **Spinach, tomatoes, spinach**
+- **Cacio e Pepe**
+- **Lemon Garlic Pasta**: [https://pinchandswirl.com/lemon-garlic-pasta/](pinch and swirl)
     - 1 lemon
     - Parsley
     - Red pepper flakes
     - Garlic
     - Butter
-- Pasta alla Norma [https://scrummylane.com/pasta-alla-norma-eggplant-and-tomato-pasta/](scrummylane)
+- **Pasta alla Norma** [https://scrummylane.com/pasta-alla-norma-eggplant-and-tomato-pasta/](scrummylane)
     - 1 eggplant
     - Tomato sauce
     - Basil
