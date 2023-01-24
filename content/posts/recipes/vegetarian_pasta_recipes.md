@@ -17,7 +17,13 @@ draft: false
 
 ## Recipe Ideas
 
-- Veggie putenesca
+- Veggie Putenesca: [https://cookieandkate.com/vegan-spaghetti-alla-puttanesca/](Cookie and Kate)
+    - Chunky tomato sauce
+    - Kalamata olives
+    - Capers
+    - Garlic
+    - Red pepper flakes
+    - Parsley
 - Broccolli & Orrichiete 
 - Walnuts & gorgonzola
 - Spinach, tomatoes, spinach
@@ -25,6 +31,6 @@ draft: false
 - Lemon Garlic Pasta: [https://pinchandswirl.com/lemon-garlic-pasta/](pinch and swirl)
     - 1 lemon
     - Parsley
-    - Red Pepper Flakes
+    - Red pepper flakes
     - Garlic
     - Butter
