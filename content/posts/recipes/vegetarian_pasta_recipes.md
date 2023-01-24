@@ -24,7 +24,7 @@ draft: false
     - Garlic
     - Red pepper flakes
     - Parsley
-- Broccolli & Orrichiete 
+- Broccolli & Orrichiete [https://www.feastingathome.com/orecchiette-pasta-with-broccoli-sauce/](feastingathome)
 - Walnuts & gorgonzola
 - Spinach, tomatoes, spinach
 - Cacio e Pepe
@@ -34,3 +34,7 @@ draft: false
     - Red pepper flakes
     - Garlic
     - Butter
+
+## Other Lists
+
+- [https://insanelygoodrecipes.com/vegetarian-pasta-recipes/]
