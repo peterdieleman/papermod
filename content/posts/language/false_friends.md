@@ -58,6 +58,7 @@ but that have a different meaning.
 | versprechen   | verspreken    | beloven               |
 | Verlies       | verlies, het  | kerker, de            |
 | morsen        | morsen        | seinen met morsecode  | 
+| beschildern   | beschilderen  | bewegwijzeren         |
 
 ## New
 
