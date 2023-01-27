@@ -59,7 +59,11 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Personal Wiki
-    subtitle: "Plus other random observations."
+    subtitle: "Hi, I am a software developer with a PhD in Physics, currently living in Dresden (DE).
+    This site started out as an easy way for me to keep curated notes on certain topics I encountered during development work.
+    I now also use it to keep track of (barebones) cooking recipes as well as other random topics.
+    If you want to reach out to me, you can find me through the links below. 
+    Pictures of our cats, Anna and Elsa, can be found by clicking on the instagram icon."
     # imageUrl: /Boba-Fett-512x512.png
     imageWidth: 100
     imageHeight: 100
