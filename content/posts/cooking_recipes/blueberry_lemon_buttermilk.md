@@ -17,7 +17,7 @@ draft: false
 From: (https://alexandracooks.com/2011/06/29/buttermilk-blueberry-breakfast-cake/)[Alexandra Cooks]
 
 -  113g unsalted butter, room temperature
-zest from 1 large lemon
+-  zest from 1 large lemon
 -  1 cup (214 g)  sugar (set aside 1 tablespoon for sprinkling)
 -  1 egg, room temperature
 -  1 tsp. vanilla
