@@ -14,7 +14,7 @@ draft: false
 # searchHidden: false
 ---
 
-From: [https://alexandracooks.com/2011/06/29/buttermilk-blueberry-breakfast-cake/](Alexandra Cooks)
+From: (https://alexandracooks.com/2011/06/29/buttermilk-blueberry-breakfast-cake/)[Alexandra Cooks]
 
 -  113g unsalted butter, room temperature
 zest from 1 large lemon
