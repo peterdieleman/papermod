@@ -86,6 +86,8 @@ params:
       url: "https://www.linkedin.com/in/ptrdlmn/"
     - name: strava
       url: "https://www.strava.com/athletes/ptrdlmn"
+    - name: instagram
+      url: "https://www.instagram.com/annaelsadresden/"
     # - name: flickr
     #   url: "https://www.strava.com/athletes/ptrdlmn"
   # analytics:
