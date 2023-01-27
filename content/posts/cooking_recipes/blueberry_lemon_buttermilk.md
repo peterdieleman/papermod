@@ -26,3 +26,9 @@ From: [Alexandra Cooks](https://alexandracooks.com/2011/06/29/buttermilk-blueber
 -  1 tsp. kosher salt (I like 1.25 tsp)
 -  2 cups fresh blueberries, picked over
 -  1/2 cup buttermilk
+
+# Picked Blueberries
+
+See: 
+- [baconismagic](https://www.baconismagic.ca/loka-snacks/pickled-blueberry-recipes/)
+- [seasonsandsuppers](https://www.seasonsandsuppers.ca/quick-pickled-blueberries/)
