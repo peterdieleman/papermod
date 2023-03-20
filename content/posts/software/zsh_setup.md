@@ -17,23 +17,23 @@ draft: false
 
 Some basic zsh stuff
 
-## Alias
+### Alias
 
 - <https://linuxhint.com/configure-use-aliases-zsh/>
 
-## CLI tools
+### CLI tools
 
 - <https://dev.to/stuartcreed/how-to-add-aliases-to-your-terminal-on-mac-os-53dl>
 
-## zsh color
+### zsh color
 
 - <https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/>
 
-## Simple Cron (type) job
+### Simple Cron (type) job
 
 <https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41>
 
-## Preferred Shebang Line?
+### Preferred Shebang Line?
 
 User preferred shell: `#!/usr/bin/env bash`
 
@@ -41,7 +41,7 @@ Sys-admin stuff:
 
 Source: <https://scriptingosx.com/2017/10/on-the-shebang/>
 
-## zsh vs. bash differences
+### zsh vs. bash differences
 
 Q: is zsh a superset of bash?
 
@@ -55,3 +55,7 @@ Extra info:
 - <https://linuxhint.com/differences_between_bash_zsh/>
 - <https://apple.stackexchange.com/questions/361870/what-are-the-practical-differences-between-bash-and-zsh>
 - <https://www.educative.io/answers/what-is-the-difference-between-zsh-and-bash>
+
+## Themes
+
+[oh-my-zsh](https://ohmyz.sh/#install)
