@@ -33,6 +33,8 @@ Some basic zsh stuff.
 
 `export VISUAL=nano` or `export EDITOR=nano` for noob-mode, and don't forget to `chmod +x` your files.
 
+Example: `43 * * * * ~/scripts/notes.sh >/tmp/stdout.log 2>/tmp/stderr.log`
+
 - <https://www.geekbitzone.com/posts/macos/crontab/macos-schedule-tasks-with-crontab/>
 - <https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41>
 - <https://serverfault.com/questions/332255/how-to-backup-crontab-e-files>
