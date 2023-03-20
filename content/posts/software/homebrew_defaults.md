@@ -23,6 +23,7 @@ brew install xplr
 brew install git
 brew install lazygit
 brew cask install iterm2
+brew install asdf
 brew install helm
 brew install helmfile
 brew install zsh-syntax-highlighting    
