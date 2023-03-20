@@ -31,11 +31,12 @@ Some basic zsh stuff.
 
 ### Simple Cron (type) job
 
-`export VISUAL=nano` or `export EDITOR=nano` for noob-mode.
+`export VISUAL=nano` or `export EDITOR=nano` for noob-mode, and don't forget to `chmod +x` your files.
 
 - <https://www.geekbitzone.com/posts/macos/crontab/macos-schedule-tasks-with-crontab/>
 - <https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41>
 - <https://serverfault.com/questions/332255/how-to-backup-crontab-e-files>
+- <https://apple.stackexchange.com/questions/38861/where-is-the-cron-log-file-in-macosx-lion>
 
 ### Preferred Shebang Line?
 
