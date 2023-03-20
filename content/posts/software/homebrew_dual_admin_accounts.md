@@ -21,3 +21,7 @@ Context: the year is 2023.  You are a developer and you would like to set up a M
 
 - <https://www.codejam.info/2021/11/homebrew-multi-user.html>
 - <https://stackoverflow.com/questions/41840479/how-to-use-homebrew-on-a-multi-user-macos-sierra-setup>
+
+## Solution
+
+[Install using untar anywhere](https://stackoverflow.com/a/55021458)
