@@ -61,11 +61,11 @@ Extra info:
 - <https://apple.stackexchange.com/questions/361870/what-are-the-practical-differences-between-bash-and-zsh>
 - <https://www.educative.io/answers/what-is-the-difference-between-zsh-and-bash>
 
-## Themes
+### Themes
 
 - [oh-my-zsh](https://ohmyz.sh/#install)
 - [smashing magazine post](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
 
-## Videos
+### Videos
 
 - <https://commandlinepoweruser.com/>
