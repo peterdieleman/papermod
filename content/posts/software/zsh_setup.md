@@ -17,17 +17,23 @@ draft: false
 
 Some basic zsh stuff.
 
-### Alias
+### Setting up Aliasses
 
 - <https://linuxhint.com/configure-use-aliases-zsh/>
 
-### CLI tools
+### CLI Tools
 
 - <https://dev.to/stuartcreed/how-to-add-aliases-to-your-terminal-on-mac-os-53dl>
 
-### zsh color
+### Zsh Clor
 
 - <https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/>
+
+### Grepping History
+
+`history | grep echo`
+
+<https://linuxhint.com/search-in-my-zsh-history/>
 
 ### Simple Cron (type) job
 
