@@ -15,7 +15,7 @@ draft: false
 # searchHidden: false
 ---
 
-Some basic zsh stuff
+Some basic zsh stuff.
 
 ### Alias
 
@@ -31,13 +31,15 @@ Some basic zsh stuff
 
 ### Simple Cron (type) job
 
-<https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41>
+`export VISUAL=nano` or `export EDITOR=nano` for noob-mode.
+
+- <https://www.geekbitzone.com/posts/macos/crontab/macos-schedule-tasks-with-crontab/>
+- <https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41>
+- <https://serverfault.com/questions/332255/how-to-backup-crontab-e-files>
 
 ### Preferred Shebang Line?
 
 User preferred shell: `#!/usr/bin/env bash`
-
-Sys-admin stuff:
 
 Source: <https://scriptingosx.com/2017/10/on-the-shebang/>
 
@@ -58,4 +60,9 @@ Extra info:
 
 ## Themes
 
-[oh-my-zsh](https://ohmyz.sh/#install)
+- [oh-my-zsh](https://ohmyz.sh/#install)
+- [smashing magazine post](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
+
+## Videos
+
+- <https://commandlinepoweruser.com/>
