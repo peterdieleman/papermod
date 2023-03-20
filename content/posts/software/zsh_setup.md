@@ -1,7 +1,7 @@
 ---
-title: "Configuring zsh"
-tags: ["zsh"]
-date: 2023-03-05
+title: "Zsh Setup"
+tags: ["template"]
+date: 2023-03-01
 # aliases: ["/first"]
 # weight: 1
 # author: "Peter Dieleman"
