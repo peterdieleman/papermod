@@ -1,6 +1,6 @@
 ---
 title: "Zsh Setup"
-tags: ["template"]
+tags: ["zsh"]
 date: 2023-03-01
 # aliases: ["/first"]
 # weight: 1
@@ -25,7 +25,7 @@ Some basic zsh stuff.
 
 - <https://dev.to/stuartcreed/how-to-add-aliases-to-your-terminal-on-mac-os-53dl>
 
-### Zsh Clor
+### Zsh Color
 
 - <https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/>
 
