@@ -44,8 +44,8 @@ brew install --cask iterm2
 
 ## Post Installation
 
-[For zsh-syntax-highlighting](https://formulae.brew.sh/formula/zsh-syntax-highlighting>)
-[For zsh-autosuggestions](https://formulae.brew.sh/formula/zsh-autosuggestions#default)
+- [For zsh-syntax-highlighting](https://formulae.brew.sh/formula/zsh-syntax-highlighting>)
+- [For zsh-autosuggestions](https://formulae.brew.sh/formula/zsh-autosuggestions#default)
 
 ## Info
 
