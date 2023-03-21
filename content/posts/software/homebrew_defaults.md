@@ -30,6 +30,7 @@ brew install lnav
 brew install ripgrep
 brew install helm
 brew install helmfile
+brew install tmux
 brew install zsh-syntax-highlighting    
 brew install zsh-autosuggestions
 brew install dockerhttps://www.nu.nl/binnenland/6256174/gesleep-met-kinderen-naar-verschillende-creches-kan-hechting-verstoren.html
