@@ -30,3 +30,7 @@ Base64 encoding encodes binary data as values that can only be interpreted as te
 ## Padding
 
 See: [Wikipedia](https://en.wikipedia.org/wiki/Base64#Output_padding).
+
+## Modern Use Cases
+
+[bunny.net](https://bunny.net/blog/why-optimizing-your-images-with-base64-is-almost-always-a-bad-idea/)
