@@ -33,7 +33,7 @@ brew install helmfile
 brew install tmux
 brew install zsh-syntax-highlighting    
 brew install zsh-autosuggestions
-brew install dockerhttps://www.nu.nl/binnenland/6256174/gesleep-met-kinderen-naar-verschillende-creches-kan-hechting-verstoren.html
+brew install --cask docker
 brew install --cask postman
 brew install --cask intellij-idea-ce
 brew install --cask visual-studio-code
