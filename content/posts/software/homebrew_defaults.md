@@ -33,6 +33,7 @@ brew install helmfile
 brew install tmux
 brew install zsh-syntax-highlighting    
 brew install zsh-autosuggestions
+brew install docker-compose
 brew install --cask docker
 brew install --cask postman
 brew install --cask intellij-idea-ce
