@@ -40,7 +40,7 @@ From [the specs](https://www.conventionalcommits.org/en/v1.0.0/#specification):
 ## Examples
 
 ```markdown
-fix:
+feat!: send an email to the customer when a product is shipped
 ```
 
 ## Relation to Semver
