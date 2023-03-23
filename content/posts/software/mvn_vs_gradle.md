@@ -52,7 +52,8 @@ From <https://javarevisited.blogspot.com/2016/08/top-10-maven-plugins-every-java
  <artifactId>thing-stuff</artifactId>
  <version>${revision}</version>
  <packaging>pom</packaging>
-
+ <!-- <packaging>jar</packaging> -->
+ <!-- <packaging>maven-plugin</packaging>  -->
  <modules>
   ...
  </modules>
@@ -79,6 +80,20 @@ From <https://javarevisited.blogspot.com/2016/08/top-10-maven-plugins-every-java
 
 </project>
 ```
+
+### Maven Packaging Types
+
+See [Baeldung](https://www.baeldung.com/maven-packaging-types)
+
+`jar`: Java archive – or jar – is one of the most popular packaging types. Projects with this packaging type produce a compressed zip file with the .jar extension. It may include pure Java classes, interfaces, resources, and metadata files.
+
+`war`: Simply put, a web application archive – or war – contains all files related to a web application. It may include Java servlets, JSPs, HTML pages, a deployment descriptor, and related resources. Overall, war has the same goal bindings as a jar, but with one exception —the package phase of the war has a different goal, which is war.
+
+`ear`: Enterprise application archive – or ear – is a compressed file that contains a J2EE application. It consists of one or more modules that can be either web modules (packaged as a war file) or EJB modules (packaged as a jar file) or both of them.
+
+`pom`: Among all packaging types, pom is the simplest one. It helps to create aggregators and parent projects. [...] An aggregator or multi-module project assembles submodules coming from different sources. These submodules are regular Maven projects and follow their own build lifecycles. The aggregator POM has all the references of submodules under the modules element. [...] Such projects have the simplest lifecycle that consists of only two steps: install and deploy.
+
+`maven-plugin`: Maven offers a variety of useful plugins. However, there might be cases when default plugins are not sufficient enough. In this case, the tool provides the flexibility to create a maven-plugin, according to project needs.
 
 ## Tangents
 
