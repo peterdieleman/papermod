@@ -95,6 +95,8 @@ See [Baeldung](https://www.baeldung.com/maven-packaging-types)
 
 `maven-plugin`: Maven offers a variety of useful plugins. However, there might be cases when default plugins are not sufficient enough. In this case, the tool provides the flexibility to create a maven-plugin, according to project needs.
 
+`bundle`:
+
 ## Tangents
 
 - Dynamic vs. Transitive dependencies: <http://sorcersoft.org/project/site/gradle/userguide/dependency_management.html>
