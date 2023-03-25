@@ -34,4 +34,5 @@ Garnish:
 
 ## Sources
 
-- https://mattzip.de/rezepte/japchae/
+- [Matt Zip](https://mattzip.de/rezepte/japchae/)
+- Alternate recipe: [Maangchi](https://www.maangchi.com/recipe/japchae)
