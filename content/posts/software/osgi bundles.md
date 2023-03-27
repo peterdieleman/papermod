@@ -36,3 +36,7 @@ draft: false
 ## Other Docs
 
 <https://www.ibm.com/docs/en/wasdtfe?topic=overview-osgi-bundles>
+
+## Annotations
+
+- `@GrpcServiceWrapper`
