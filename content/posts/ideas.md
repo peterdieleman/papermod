@@ -29,3 +29,4 @@ draft: true
 ## SE stuff
 
 - Building java app inside container.
+- Identical diff to Gitlab
