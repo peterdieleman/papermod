@@ -1,5 +1,5 @@
 ---
-title: "Java Map"
+title: "Map / Filter / Lambda / Stream snippets"
 tags: ["java"]
 date: 2023-01-01
 # aliases: ["/first"]
@@ -15,6 +15,8 @@ draft: false
 # searchHidden: false
 ---
 
+## Map
+
 ```java
 inputString.map(x -> {
     if (!StringUtils.isBlank(x)) {
@@ -25,8 +27,22 @@ inputString.map(x -> {
 }).orElse(Optional.empty());
 ```
 
+## Filter
+
+Java < 16
+
 ```java
-inputString.map(x -> {
-    return StringUtils.isBlank(x) ? Optional.empty() : x;
-}).orElse(Optional.empty());
+return thing.getAllSubEntities()
+        .stream()
+        .filter(e -> e.isDisabled())
+        .collect(Collectors.toList());
+```
+
+Java >= 16
+
+```java
+return thing.getAllSubEntities()
+        .stream()
+        .filter(e -> e.isDisabled())
+        .tolist();
 ```
