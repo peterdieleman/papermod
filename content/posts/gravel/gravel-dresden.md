@@ -21,8 +21,10 @@ draft: false
 - [carver.de](https://www.carver.de/alle-routen/gravel-tour-dresden-hinterhermsdorf/)
 - [komoot - 40km](https://www.komoot.com/tour/562005819)
 - [komoot - 153km](https://www.komoot.com/tour/397262862)
-- [komoot -](https://www.komoot.com/tour/217441965)
-- [Orbit 360 - 212km](https://www.autobild.de/artikel/erfahrungsbericht-vom-orbit-360-sachsen-21410961.html)
+- Orbit 360:
+  - [Orbit 360 - 212km](https://www.autobild.de/artikel/erfahrungsbericht-vom-orbit-360-sachsen-21410961.html)
+  - [komoot](https://www.komoot.com/tour/217441965)
+- [komoot - 34km](https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com)
 
 ## Sources
 
