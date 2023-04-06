@@ -23,3 +23,8 @@ draft: false
 - [komoot - 153km](https://www.komoot.com/tour/397262862)
 - [komoot -](https://www.komoot.com/tour/217441965)
 - [Orbit 360 - 212km](https://www.autobild.de/artikel/erfahrungsbericht-vom-orbit-360-sachsen-21410961.html)
+
+## Sources
+
+- <https://gravel-collective.com/the-gravel-club/ausfahrten/dresden.html>
+- <https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com>
