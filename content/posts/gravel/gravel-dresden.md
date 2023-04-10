@@ -20,13 +20,16 @@ draft: false
 - [wikiloc](https://www.wikiloc.com/trails/gravel-bike/germany/sachsen/dresden)
 - [carver.de](https://www.carver.de/alle-routen/gravel-tour-dresden-hinterhermsdorf/)
 - [komoot - 40km](https://www.komoot.com/tour/562005819)
-- [komoot - 153km](https://www.komoot.com/tour/397262862)
+- [komoot - grevet - 153km](https://www.komoot.com/tour/397262862)
 - Orbit 360:
   - [Orbit 360 - 212km](https://www.autobild.de/artikel/erfahrungsbericht-vom-orbit-360-sachsen-21410961.html)
   - [komoot](https://www.komoot.com/tour/217441965)
 - [komoot - 34km](https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com)
+- [wikiloc - 95 km](https://www.wikiloc.com/gravel-bike-trails/struppen-berggieshubel-95-km-113161925)
+- [komoot - 191km](https://www.komoot.de/tour/343270489?ref=wtd#previewMap)
 
 ## Sources
 
 - <https://gravel-collective.com/the-gravel-club/ausfahrten/dresden.html>
 - <https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com>
+- <https://www.canyon.com/de-de/blog-content/gravel-bike-news/gravel-touren-sachsen/b23022023.html>
