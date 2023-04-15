@@ -27,6 +27,7 @@ draft: false
 - [komoot - 34km](https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com)
 - [wikiloc - 95 km](https://www.wikiloc.com/gravel-bike-trails/struppen-berggieshubel-95-km-113161925)
 - [komoot - 191km](https://www.komoot.de/tour/343270489?ref=wtd#previewMap)
+- [komoot - heide loop - 52km](https://www.komoot.com/tour/168185250)
 
 ## Sources
 
