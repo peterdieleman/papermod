@@ -20,6 +20,7 @@ draft: false
 - [wikiloc](https://www.wikiloc.com/trails/gravel-bike/germany/sachsen/dresden)
 - [carver.de](https://www.carver.de/alle-routen/gravel-tour-dresden-hinterhermsdorf/)
 - [komoot - 34km](https://www.komoot.com/tour/1054717326)
+- [komoot - gravelclub #4](https://www.komoot.com/tour/1090480834)
 - [komoot - 40km](https://www.komoot.com/tour/562005819)
 - [komoot - heide loop - 52km](https://www.komoot.com/tour/168185250)
 - [komoot - 64km](https://www.komoot.com/tour/1089017274) 
