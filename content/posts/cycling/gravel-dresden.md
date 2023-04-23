@@ -30,6 +30,17 @@ draft: false
   - [komoot](https://www.komoot.com/tour/217441965)
 - [komoot - 191km](https://www.komoot.de/tour/343270489?ref=wtd#previewMap)
 
+## Longer / bike packing
+
+- [bikepacking.com trans germany](https://bikepacking.com/routes/bikepacking-trans-germany/)
+
+## Calendar
+
+- [2023.06.17 Grow Dresden](https://sour.bike/sour-events-2023/)
+- [2023.08.26 RRAD Dresen](https://sour.bike/sour-events-2023/)
+- [2023.09.02.09.2023 - Bohemian Border Bash](https://www.borderbash.cc/RACE2023)
+- [2023.09.13 Bespoked, Dresden, 13-15 October 2023](https://sour.bike/sour-events-2023/)
+
 
 ## Sources
 
