@@ -47,3 +47,4 @@ draft: false
 - <https://gravel-collective.com/the-gravel-club/ausfahrten/dresden.html>
 - <https://www.komoot.com/tour/1054717326?utm_campaign=tour_embed&utm_medium=embed&utm_source=gravel-collective.com>
 - <https://www.canyon.com/de-de/blog-content/gravel-bike-news/gravel-touren-sachsen/b23022023.html>
+- <https://graveldeluxe.com/gravel-routen/dresden-graveltouren-dropbar-crew>
