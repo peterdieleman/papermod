@@ -23,7 +23,7 @@ draft: false
 - [komoot - gravelclub #4](https://www.komoot.com/tour/1090480834)
 - [komoot - 40km](https://www.komoot.com/tour/562005819)
 - [komoot - heide loop - 52km](https://www.komoot.com/tour/168185250)
-- [komoot - 64km](https://www.komoot.com/tour/1089017274) 
+- [komoot - 64km](https://www.komoot.com/tour/1089017274)
 - [komoot - grevet - 153km](https://www.komoot.com/tour/397262862)
 - Orbit 360:
   - [Orbit 360 - 212km](https://www.autobild.de/artikel/erfahrungsbericht-vom-orbit-360-sachsen-21410961.html)
@@ -36,11 +36,10 @@ draft: false
 
 ## Calendar
 
-- [2023.06.17 Grow Dresden](https://sour.bike/sour-events-2023/)
-- [2023.08.26 RRAD Dresen](https://sour.bike/sour-events-2023/)
-- [2023.09.02.09.2023 - Bohemian Border Bash](https://www.borderbash.cc/RACE2023)
-- [2023.09.13 Bespoked, Dresden, 13-15 October 2023](https://sour.bike/sour-events-2023/)
-
+- [**2023.06.17**: Grow Dresden](https://sour.bike/sour-events-2023/)
+- [**2023.08.26**: RRAD Dresen](https://sour.bike/sour-events-2023/)
+- [**2023.09.02.09.2023**: Bohemian Border Bash](https://www.borderbash.cc/RACE2023)
+- [**2023.09.13**: Bespoked, Dresden, 13-15 October 2023](https://sour.bike/sour-events-2023/)
 
 ## Sources
 
