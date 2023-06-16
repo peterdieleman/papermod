@@ -25,4 +25,4 @@ draft: false
 
 ## chmod
 
-- Add all permissions all files: `chmod -R +x ./*`
+- Add all permissions all files: `chmod -R 701 ./*`
