@@ -22,3 +22,7 @@ draft: false
 ## kubectl
 
 `kubectl logs --namespace name_space svc_name -f`
+
+## chmod
+
+- Add all permissions all files: `chmod -R +x ./*`
