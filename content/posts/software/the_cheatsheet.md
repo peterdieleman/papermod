@@ -26,3 +26,7 @@ draft: false
 ## chmod
 
 - Add all permissions all files: `chmod -R 701 ./*`
+
+## Docker
+
+`DOCKER_BUILDKIT=0  docker build .` ([stackoverflow](https://stackoverflow.com/questions/64221861/an-error-failed-to-solve-with-frontend-dockerfile-v0))
