@@ -1,6 +1,6 @@
 ---
-title: "Best Practices on Dockerizing Python Apps"
-tags: ["python"]
+title: "Template"
+tags: ["template"]
 date: 2023-06-27
 # aliases: ["/first"]
 # weight: 1
@@ -14,7 +14,8 @@ draft: false
 # disableShare: false
 # searchHidden: false
 ---
-    
 
-- [SO](https://stackoverflow.com/questions/74895750/should-i-use-poetry-in-production-dockerfile)
-- [whut are wheels](<https://realpython.com/python-wheels/)>
+Ways of debugging a failing Docker container:
+
+- [content/posts/new.md]()
+- []()
