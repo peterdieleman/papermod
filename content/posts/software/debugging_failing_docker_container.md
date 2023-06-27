@@ -17,5 +17,5 @@ draft: false
 
 Ways of debugging a failing Docker container:
 
-- [content/posts/new.md]()
-- []()
+- [debugging failing docker container](https://www.docker.com/blog/how-to-fix-and-debug-docker-containers-like-a-superhero/)
+- [debug exploding docker container](https://medium.com/@pimterry/5-ways-to-debug-an-exploding-docker-container-4f729e2c0aa8)
