@@ -17,16 +17,17 @@ draft: false
 
 ## macOS, ip-address
 
-`ipconfig getifaddr en0`
+- `ipconfig getifaddr en0`
 
 ## kubectl
 
-`kubectl logs --namespace name_space svc_name -f`
+- `kubectl logs --namespace name_space svc_name -f`
 
 ## chmod
 
-- Add all permissions all files: `chmod -R 701 ./*`
+- `chmod -R 701 ./*` (add all permissions to all files)
 
 ## Docker
 
-`DOCKER_BUILDKIT=0  docker build .` ([stackoverflow](https://stackoverflow.com/questions/64221861/an-error-failed-to-solve-with-frontend-dockerfile-v0))
+- `DOCKER_BUILDKIT=0  docker build .` ([stackoverflow](https://stackoverflow.com/questions/64221861/an-error-failed-to-solve-with-frontend-dockerfile-v0))
+- `docker run -it --entrypoint /bin/bash [docker_image]` (overwrite entrypoint of the docker file, rn container interactively)
