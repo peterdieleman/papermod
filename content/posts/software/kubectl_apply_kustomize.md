@@ -15,4 +15,4 @@ draft: false
 # searchHidden: false
 ---
 
-- []()
+- [blogpost](https://www.mirantis.com/blog/introduction-to-kustomize-part-2-overriding-values-with-overlays/)
