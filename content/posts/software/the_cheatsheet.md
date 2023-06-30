@@ -22,6 +22,7 @@ draft: false
 ## kubectl
 
 - `kubectl logs --namespace name_space svc_name -f`
+- `kubectl set env deployment/name_of_service ENV_VAR="value" --namespace=the_best`
 
 ## chmod
 
