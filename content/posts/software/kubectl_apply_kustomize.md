@@ -7,7 +7,7 @@ date: 2023-06-30
 # author: "Peter Dieleman"
 # showToc: false
 # TocOpen: false
-draft: false
+draft: true
 # hidemeta: false
 # comments: false
 # description: "A guide on extending the battery life of your linux laptop"
@@ -16,3 +16,5 @@ draft: false
 ---
 
 - [blogpost](https://www.mirantis.com/blog/introduction-to-kustomize-part-2-overriding-values-with-overlays/)
+- [blogpost 2](https://venafi.com/blog/kustomize-cert-manager/)
+- [blogpost 3](https://blog.stack-labs.com/code/kustomize-101/)
