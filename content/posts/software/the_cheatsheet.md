@@ -1,5 +1,5 @@
 ---
-title: "Cheatsheet"
+title: "The Cheatsheet"
 # tags: ["software"]
 date: 2023-03-06
 # aliases: ["/first"]
@@ -23,6 +23,7 @@ draft: false
 
 - `kubectl logs --namespace name_space svc_name -f`
 - `kubectl set env deployment/name_of_service ENV_VAR="value" --namespace=the_best`
+- `delete --all deployments --namespace=defaul`
 
 ## chmod
 

@@ -4,7 +4,7 @@ tags: ["template"]
 date: 2023-07-01
 # aliases: ["/first"]
 # weight: 1
-# author: "Peter Dieleman"
+# author: "Peter Di eleman"
 # showToc: false
 # TocOpen: false
 draft: false
@@ -18,4 +18,5 @@ draft: false
 ## Sources
 
 - <https://opensource.com/article/20/5/helm-charts>
+- <https://levelup.gitconnected.com/helm-dependencies-1907facbe410>
 -
