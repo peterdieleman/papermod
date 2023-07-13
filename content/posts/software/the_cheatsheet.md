@@ -37,3 +37,4 @@ draft: false
 
 - `DOCKER_BUILDKIT=0  docker build .` ([stackoverflow](https://stackoverflow.com/questions/64221861/an-error-failed-to-solve-with-frontend-dockerfile-v0))
 - `docker run -it --entrypoint /bin/bash [docker_image]` (overwrite entrypoint of the docker file, rn container interactively)
+- `docker build -f sub/directory/Dockerfile . -t "image_name"`
