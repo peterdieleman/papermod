@@ -43,3 +43,7 @@ draft: false
 
 - `cat .bash_history`
 - `ctrl + r`
+
+## Helm
+
+- `helm upgrade chart_name chart_dir/ --install`
