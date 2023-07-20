@@ -47,3 +47,7 @@ draft: false
 ## Helm
 
 - `helm upgrade chart_name chart_dir/ --install`
+
+## pip
+
+- `pip show <package_name>` to let pip show you where a package is installed
