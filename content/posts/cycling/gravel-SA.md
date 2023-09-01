@@ -18,4 +18,4 @@ draft: false
 ## December 2023
 
 - Western Cape, 02-12-2023: <https://pedalpower.org.za/events/jarfromdirt/>
-- 
+- Stanford 100, 09-12-2023 <https://forum.bikehub.co.za/topic/193283-event-the-stanford-100/>
