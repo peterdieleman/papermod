@@ -30,3 +30,21 @@ draft: false
 ## Tokyo Area
 
 - thing
+
+## Japan Rail
+
+- <https://japanrailpass.net/en/>
+
+- JR
+- JR Kyushu,
+- JR Shikoku,
+- JR West,
+- JR Center, 
+- JR East and
+- JR Hokkaido.
+
+see <https://www.klook.com/blog/jr-pass/>
+
+- <https://world.jorudan.co.jp/>
+- <https://www.hyperdia.com/>
+- <https://www.jrailpass.com/blog/hyperdia>
