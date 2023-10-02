@@ -51,3 +51,7 @@ draft: false
 ## pip
 
 - `pip show <package_name>` to let pip show you where a package is installed
+
+## brew
+
+- `brew list --formula | xargs brew info | egrep --color '\d*\.\d*(KB|MB|GB)'` ([stackoverflow](https://stackoverflow.com/questions/40065188/get-size-of-each-installed-formula-in-homebrew))
