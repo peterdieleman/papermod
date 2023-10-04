@@ -23,7 +23,8 @@ draft: false
 
 - `kubectl logs --namespace name_space svc_name -f`
 - `kubectl set env deployment/name_of_service ENV_VAR="value" --namespace=the_best`
-- `delete --all deployments --namespace=defaul`
+- `delete --all deployments --namespace=default`
+- `kubectl describe service --all-namespaces | grep -i nodeport`
 
 ## minikube
 
